@@ -15,6 +15,5 @@ include:
 theme: jekyll-theme-minimal
 title: Mystique
 google_analytics: [G-D6WFHVW3QB]
-cover-img: "Images/image_test.jpg"
-thumbnail-img: "Images/autre_image.jpg"
 full-width: true
+logo: [Images/image_test.jpg]
