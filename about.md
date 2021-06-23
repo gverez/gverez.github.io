@@ -1,9 +1,7 @@
 ---
 title: About
-
 permalink: /about/
-
-description: About_dscr
+description: bla
 ---
 
 

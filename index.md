@@ -1,7 +1,7 @@
 ---
 title: Accueil
 description: test
-
+full_width: true
 ---
 
 
@@ -10,6 +10,7 @@ description: test
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
+## heading<a name="headin"></a>
 
 Sometimes you want numbered lists:
 
@@ -35,12 +36,18 @@ If you want to embed images, this is how you do it:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png">](http://google.com/)
 
-
-![Image of Yaktocat](https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png) ![Image of Yaktocat](https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png)
+[<img src="Images/image_test.jpg">](http://google.com/)
 
 
 ![](Images/image_test.jpg)
-![](Images/autre_image.jpg)
+
+
+[This is the link text](#headin)
+
+
+
+
+
 
 
 # Structured documents
