@@ -31,7 +31,10 @@ Alternatively,
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+![Image of Yaktocat](https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png) ![Image of Yaktocat](https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png)
 
 
 
