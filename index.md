@@ -2,10 +2,6 @@
 title: Accueil
 subtitle: test
 classes: wide
-toc: true
-toc_label: "gug"
-toc_icon: "cog"
-toc_sticky; true
 ---
 
 
