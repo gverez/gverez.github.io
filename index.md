@@ -1,7 +1,7 @@
 ---
 title: Accueil
 description: test
-full_width: true
+classes: wide 
 ---
 
 
