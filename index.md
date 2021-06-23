@@ -5,6 +5,8 @@ title: Blogging Like a Hacker
 
 [About](https://gverez.github.io/about)
 
+[Whatever](https://gverez.github.io/random)
+
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
