@@ -12,7 +12,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Mystique
 google_analytics: [G-D6WFHVW3QB]
 cover-img: "Images/image_test.jpg"
