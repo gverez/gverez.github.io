@@ -1,5 +1,7 @@
 ---
 title: Accueil
+description: test
+
 ---
 
 
@@ -37,7 +39,8 @@ If you want to embed images, this is how you do it:
 ![Image of Yaktocat](https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png) ![Image of Yaktocat](https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png)
 
 
-![](image_test.jpg)
+![](Images/image_test.jpg)
+![](Images/autre_image.jpg)
 
 
 # Structured documents
