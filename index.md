@@ -1,7 +1,6 @@
 ---
 title: Accueil
 description: test
-classes: wide 
 ---
 
 
