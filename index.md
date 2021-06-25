@@ -2,6 +2,7 @@
 title: Accueil
 subtitle: test
 layout: splash
+classes: wide
 ---
 
 
