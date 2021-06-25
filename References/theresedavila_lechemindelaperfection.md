@@ -1,4 +1,4 @@
-# Saint Thérèse d'Avila
+# Sainte Thérèse d'Avila
 1515-1582, religieuse espagnole.
 
 [Biographie](https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_d'Avila)
