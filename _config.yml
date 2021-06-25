@@ -14,6 +14,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 title: Titre du site
 google_analytics: G-D6WFHVW3QB
-github:
-  is_project_page: false
 theme: jekyll-theme-minimal
