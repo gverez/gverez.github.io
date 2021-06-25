@@ -1,6 +1,5 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
@@ -13,13 +12,8 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-markdown: kramdown
-remote_theme: minimal-mistakes-jekyll
 title: Titre du site
 google_analytics: G-D6WFHVW3QB
 github:
   is_project_page: false
-#header_pages:
-#  - about.md
-
 theme: jekyll-theme-minimal
