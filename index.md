@@ -92,7 +92,7 @@ if (isAwesome){
 
 
 
-GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
+GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater! Please Note: Paths for image headers, overlays, teasers, galleries, and feature rows have changed and require a full path. Instead of just image: filename.jpg you’ll need to use the full path eg: image: /assets/images/filename.jpg. The preferred location is now /assets/images/, but can be placed elsewhere or external hosted. This all applies for image references in _config.yml and author.yml as well. Please Note: Paths for image headers, overlays, teasers, galleries, and feature rows have changed and require a full path. Instead of just image: filename.jpg you’ll need to use the full path eg: image: /assets/images/filename.jpg. The preferred location is now /assets/images/, but can be placed elsewhere or external hosted. This all applies for image references in _config.yml and author.yml as well. Please Note: Paths for image headers, overlays, teasers, galleries, and feature rows have changed and require a full path. Instead of just image: filename.jpg you’ll need to use the full path eg: image: /assets/images/filename.jpg. The preferred location is now /assets/images/, but can be placed elsewhere or external hosted. This all applies for image references in _config.yml and author.yml as well.
 
 But I have to admit, tasks lists are my favorite:
 
