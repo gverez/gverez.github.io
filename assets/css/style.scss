@@ -105,6 +105,12 @@ th {
 
 img {
   max-width:100%;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
 }
 
 kbd {
@@ -201,7 +207,7 @@ section {
   //padding-bottom:50px;
   text-align: justify;
   text-justify: inter-word;
-  
+  position: absolute;
   margin: auto;
   left: 0;
   right: 0;
