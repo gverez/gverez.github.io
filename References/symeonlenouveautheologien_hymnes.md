@@ -4,6 +4,7 @@
 [Biographie](https://fr.wikipedia.org/wiki/Sym%C3%A9on_le_Nouveau_Th%C3%A9ologien)
 
 ## Commentaire sur Jean 6, 52-59 <a name="jean-6-52-59"></a>
+*Hymnes 51, SC 196 (Hymnes III ; trad. J. Paramelle et L. Neyrand, éd du Cerf, 2003 ; p. 193-197 ; rev.)*
 
 De même que jadis la mer fendue par la baguette de Moïse et la manne descendue du ciel étaient seulement la figure et les symboles de la vérité, et rien d’autre, la mer, du baptême et la manne, du Sauveur , de même les choses dont nous parlons sont les symboles et la figure de ces réalités douées d’une transcendance et d’une gloire incomparables, dans la mesure où l’incréé transcende par nature ce qui est créé. Cette manne, en effet, qui est appelée « pain et nourriture des anges », qu’en ce temps-là les hommes mangèrent dans le désert, a cessé, a disparu et tous sont morts, oui, tous ceux qui en avaient mangé : car elle ne participait pas de la vraie vie tandis que la chair de mon Maître, étant divinisée et emplie de la vie, fais participer à la vie tous ceux qui la mangent, et les rend immortels. (…)
 
