@@ -8,7 +8,7 @@ body {
   background-color: #fff;
   padding:50px;
   //font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font: 10px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 12px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -123,7 +123,8 @@ kbd {
 }
 
 header {
-  width:270px;
+  //width:270px;
+  width:100px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
