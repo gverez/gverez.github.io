@@ -13,7 +13,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-#markdown: kramdown
+markdown: kramdown
 remote_theme: minimal-mistakes-jekyll
 title: Titre du site
 google_analytics: G-D6WFHVW3QB
