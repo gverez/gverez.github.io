@@ -11,7 +11,7 @@ classes: wide
 
 
 Commentaire de Therese d'Avila :
-[Header link](/References/theresedavila_lechemindelaperfection.mde#jean-6-44-51).
+[Header link](/References/theresedavila_lechemindelaperfection.md#jean-6-44-51).
 
 
 
