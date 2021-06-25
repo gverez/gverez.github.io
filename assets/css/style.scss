@@ -122,9 +122,12 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
+  //width:270px;
+  width:auto;
+  //float:left;
+  float:none;
+  //position:fixed;
+  position:static;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
