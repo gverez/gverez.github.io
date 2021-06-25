@@ -6,7 +6,20 @@ classes: wide
 ---
 
 
-[About](https://gverez.github.io/about) [Whatever](https://gverez.github.io/random) [About](https://gverez.github.io/about) [Whatever](https://gverez.github.io/random)
+[About](https://gverez.github.io/about)
+
+
+
+Commentaire de Therese d'Avila :
+[Header link](/References/theresedavila_lechemindelaperfection.mde#jean-6-44-51).
+
+
+
+
+
+
+
+
 
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
