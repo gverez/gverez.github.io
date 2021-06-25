@@ -15,3 +15,4 @@ include:
 title: Titre du site
 google_analytics: G-D6WFHVW3QB
 theme: jekyll-theme-minimal
+logo: "/Images/Logo.png"
