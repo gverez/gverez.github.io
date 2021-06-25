@@ -10,8 +10,7 @@ classes: wide
 
 
 
-Commentaire de Therese d'Avila :
-[Header link](/References/theresedavila_lechemindelaperfection.md#jean-6-44-51).
+[Commentaires de la Bible](/bible/nouveautestament.md)
 
 
 
