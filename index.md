@@ -1,7 +1,7 @@
 ---
 title: Accueil
 subtitle: test
-classes: wide
+layout: splash
 ---
 
 
