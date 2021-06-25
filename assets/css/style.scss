@@ -7,7 +7,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  //font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  // Change here the fontsize of the main content, originally 14px/1.5
   font: 12px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -123,8 +123,7 @@ kbd {
 }
 
 header {
-  //width:270px;
-  width:100px;
+  width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -191,7 +190,8 @@ strong {
 }
 
 section {
-  width:500px;
+  //width:500px;
+  width:1000px;
   float:right;
   padding-bottom:50px;
 }
