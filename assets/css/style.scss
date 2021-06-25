@@ -8,7 +8,7 @@ body {
   background-color: #fff;
   padding:50px;
   // Change here the fontsize of the main content, originally 14px/1.5
-  font: 12px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 13px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -68,7 +68,7 @@ blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
-  font-style:italic;
+  //font-style:italic;
 }
 
 code, pre {
@@ -124,7 +124,7 @@ kbd {
 
 header {
   width:270px;
-  float:left;
+  //float:left;
   //position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -231,8 +231,7 @@ footer {
   }
 
   header {
-    //padding-right:320px;
-    padding-right:20px;
+    padding-right:320px;
   }
 
   section {
