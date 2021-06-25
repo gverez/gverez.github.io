@@ -12,7 +12,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-title: Titre du site
+title: Etude
 google_analytics: G-D6WFHVW3QB
 theme: jekyll-theme-minimal
 logo: /Images/Logo_small.png
