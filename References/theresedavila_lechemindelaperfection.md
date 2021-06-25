@@ -4,6 +4,8 @@
 [Biographie](https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_d'Avila)
 
 ## Commentaire sur Jean 6, 44-51 <a name="jean-6-44-51"></a>
+*Le Chemin de la perfection, ch. 33-34 (trad. G. de Saint-Joseph; Éd. du Seuil 1961; p. 194s)*
+
 
 Le bon Jésus, voyant combien son secours nous était nécessaire, a cherché un moyen admirable où paraît bien l'excès de son amour pour nous. Voilà pourquoi il a fait en son nom et au nom de tous ses frères cette prière : « Donne-nous aujourd'hui, Seigneur, notre pain de ce jour » (Mt 6,11). (...) Il a senti qu'il devait réveiller notre amour en nous mettant le sien sous les yeux, et non pas un jour seulement, mais tous les jours. Voilà pourquoi il a dû prendre le parti de demeurer au milieu de nous. (...)
 
