@@ -194,6 +194,8 @@ section {
   width:1000px;
   float:right;
   padding-bottom:50px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 small {
@@ -229,7 +231,8 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    //padding-right:320px;
+    padding-right:20px;
   }
 
   section {
