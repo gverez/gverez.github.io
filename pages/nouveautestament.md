@@ -9,6 +9,11 @@
 
 ## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
 
+### Matthieu 5, 3-12 <a name="matthieu-5-3-12"></a>
+>Heureux les pauvres de cœur : le Royaume des cieux est à eux. Heureux les doux : ils auront la terre en partage. Heureux ceux qui pleurent : ils seront consolés. Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés. Heureux les miséricordieux : il leur sera fait miséricorde. Heureux les cœurs purs : ils verront Dieu. Heureux ceux qui font œuvre de paix : ils seront appelés fils de Dieu. Heureux ceux qui sont persécutés pour la justice : le Royaume des cieux est à eux. Heureux êtes-vous lorsque l’on vous insulte, que l’on vous persécute et que l’on dit faussement contre vous toute sorte de mal à cause de moi. Soyez dans la joie et l’allégresse, car votre récompense est grande dans les cieux ; c’est ainsi en effet qu’on a persécuté les prophètes qui vous ont précédés.
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
 ### Matthieu 11, 25-30  <a name="matthieu-11-25-30"></a>
 >Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a1-matthieu-11-25-30">[1](#f1-matthieu-11-25-30)</sup> [[Catherine de Sienne](/references/catherinedesienne.html#matthieu-11-25-30)]. Oui, Père, tu l’as voulu ainsi dans ta bienveillance<sup id="a2-matthieu-11-25-30">[2](#f2-matthieu-11-25-30)</sup>. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler<sup id="a3-matthieu-11-25-30">[3](#f3-matthieu-11-25-30)</sup>. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger<sup id="a4-matthieu-11-25-30">[4](#f4-matthieu-11-25-30)</sup>. » (TLB)
 
