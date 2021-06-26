@@ -4,7 +4,7 @@
 
 # Nouveau Testament <a name="nouveautestament"></a>
 
-[Evangile de Matthieu](#matthieu) — [Evangile de Jean](#jean)
+[Matthieu](#matthieu) - [Marc](#marc) - [Luc](#luc) - [Jean](#jean) - [Actes](#actes)
 
 
 ## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
@@ -89,24 +89,55 @@
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 6, 25-34 <a name="matthieu-6-25-34"></a>
+>« Voilà pourquoi je vous dis : Ne vous inquiétez pas pour votre vie de ce que vous mangerez, ni pour votre corps de quoi vous le vêtirez. La vie n’est-elle pas plus que la nourriture, et le corps plus que le vêtement ? Regardez les oiseaux du ciel : ils ne sèment ni ne moissonnent, ils n’amassent point dans des greniers ; et votre Père céleste les nourrit ! Ne valez-vous pas beaucoup plus qu’eux ? Et qui d’entre vous peut, par son inquiétude, prolonger tant soit peu son existence ? Et du vêtement, pourquoi vous inquiéter ? Observez les lis des champs, comme ils croissent : ils ne peinent ni ne filent, et je vous le dis, Salomon lui-même, dans toute sa gloire, n’a jamais été vêtu comme l’un d’eux ! Si Dieu habille ainsi l’herbe des champs, qui est là aujourd’hui et qui demain sera jetée au feu, ne fera-t-il pas bien plus pour vous, gens de peu de foi ! Ne vous inquiétez donc pas, en disant : “Qu’allons-nous manger ? qu’allons-nous boire ? de quoi allons-nous nous vêtir ?” – tout cela, les païens le recherchent sans répit –, il sait bien, votre Père céleste, que vous avez besoin de toutes ces choses. Cherchez d’abord le Royaume et la justice de Dieu, et tout cela vous sera donné par surcroît. Ne vous inquiétez donc pas pour le lendemain : le lendemain s’inquiétera de lui-même. A chaque jour suffit sa peine. (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 1-5 <a name="matthieu-7-1-5"></a>
+>« Voilà pourquoi je vous dis : Ne vous inquiétez pas pour votre vie de ce que vous mangerez, ni pour votre corps de quoi vous le vêtirez. La vie n’est-elle pas plus que la nourriture, et le corps plus que le vêtement ? Regardez les oiseaux du ciel : ils ne sèment ni ne moissonnent, ils n’amassent point dans des greniers ; et votre Père céleste les nourrit ! Ne valez-vous pas beaucoup plus qu’eux ? Et qui d’entre vous peut, par son inquiétude, prolonger tant soit peu son existence ? Et du vêtement, pourquoi vous inquiéter ? Observez les lis des champs, comme ils croissent : ils ne peinent ni ne filent, et je vous le dis, Salomon lui-même, dans toute sa gloire, n’a jamais été vêtu comme l’un d’eux ! Si Dieu habille ainsi l’herbe des champs, qui est là aujourd’hui et qui demain sera jetée au feu, ne fera-t-il pas bien plus pour vous, gens de peu de foi ! Ne vous inquiétez donc pas, en disant : “Qu’allons-nous manger ? qu’allons-nous boire ? de quoi allons-nous nous vêtir ?” – tout cela, les païens le recherchent sans répit –, il sait bien, votre Père céleste, que vous avez besoin de toutes ces choses. Cherchez d’abord le Royaume et la justice de Dieu, et tout cela vous sera donné par surcroît. Ne vous inquiétez donc pas pour le lendemain : le lendemain s’inquiétera de lui-même. A chaque jour suffit sa peine. (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 6 <a name="matthieu-7-6"></a>
+>« Ne donnez pas aux chiens ce qui est sacré, ne jetez pas vos perles aux porcs, de peur qu’ils ne les piétinent et que, se retournant, ils ne vous déchirent. (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 7-11 <a name="matthieu-7-7-11"></a>
+>« Demandez, on vous donnera ; cherchez, vous trouverez ; frappez, on vous ouvrira. En effet, quiconque demande reçoit, qui cherche trouve, à qui frappe on ouvrira. Ou encore, qui d’entre vous, si son fils lui demande du pain, lui donnera une pierre ? Ou s’il demande un poisson, lui donnera-t-il un serpent ? Si donc vous, qui êtes mauvais, savez donner de bonnes choses à vos enfants, combien plus votre Père qui est aux cieux donnera-t-il de bonnes choses à ceux qui le lui demandent. (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 12 <a name="matthieu-7-12"></a>
+>« Ainsi, tout ce que vous voulez que les hommes fassent pour vous, faites-le vous-mêmes pour eux : c’est la Loi et les Prophètes. (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 13-14 <a name="matthieu-7-13-14"></a>
+>« Entrez par la porte étroite. Large est la porte et spacieux le chemin qui mène à la perdition, et nombreux ceux qui s’y engagent ; combien étroite est la porte et resserré le chemin qui mène à la vie, et peu nombreux ceux qui le trouvent. (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 15-20 <a name="matthieu-7-15-20"></a>
+>« Gardez-vous des faux prophètes, qui viennent à vous vêtus en brebis, mais qui au-dedans sont des loups rapaces. C’est à leurs fruits que vous les reconnaîtrez. Cueille-t-on des raisins sur un buisson d’épines, ou des figues sur des chardons ? Ainsi tout bon arbre produit de bons fruits, mais l’arbre malade produit de mauvais fruits. Un bon arbre ne peut pas porter de mauvais fruits, ni un arbre malade porter de bons fruits. Tout arbre qui ne produit pas un bon fruit, on le coupe et on le jette au feu. Ainsi donc, c’est à leurs fruits que vous les reconnaîtrez. (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 21-23 <a name="matthieu-7-21-23"></a>
+>« Il ne suffit pas de me dire : “Seigneur, Seigneur !” pour entrer dans le Royaume des cieux ; il faut faire la volonté de mon Père qui est aux cieux. Beaucoup me diront en ce jour-là : “Seigneur, Seigneur ! n’est-ce pas en ton nom que nous avons prophétisé ? en ton nom que nous avons chassé les démons ? en ton nom que nous avons fait de nombreux miracles ?” Alors je leur déclarerai : “Je ne vous ai jamais connus ; écartez-vous de moi, vous qui commettez l’iniquité !” (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 7, 24-27 <a name="matthieu-7-24-27"></a>
+>« Ainsi tout homme qui entend les paroles que je viens de dire et les met en pratique peut être comparé à un homme avisé qui a bâti sa maison sur le roc. La pluie est tombée, les torrents sont venus, les vents ont soufflé ; ils se sont précipités contre cette maison et elle ne s’est pas écroulée, car ses fondations étaient sur le roc. Et tout homme qui entend les paroles que je viens de dire et ne les met pas en pratique peut être comparé à un homme insensé qui a bâti sa maison sur le sable. La pluie est tombée, les torrents sont venus, les vents ont soufflé ; ils sont venus battre cette maison, elle s’est écroulée, et grande fut sa ruine. » (TOB)
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
+### Matthieu 10, 37-39 <a name="matthieu-10-37-39"></a>
+>« Qui aime son père ou sa mère plus que moi n’est pas digne de moi ; qui aime son fils ou sa fille plus que moi n’est pas digne de moi. Quiconque ne prend pas sa croix et vient à ma suite n’est pas digne de moi. Qui aura assuré sa vie la perdra et qui perdra sa vie à cause de moi l’assurera. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
 ### Matthieu 11, 25-30  <a name="matthieu-11-25-30"></a>
 >Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a1-matthieu-11-25-30">[1](#f1-matthieu-11-25-30)</sup> [[Catherine de Sienne](/references/catherinedesienne.html#matthieu-11-25-30)]. Oui, Père, tu l’as voulu ainsi dans ta bienveillance<sup id="a2-matthieu-11-25-30">[2](#f2-matthieu-11-25-30)</sup>. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler<sup id="a3-matthieu-11-25-30">[3](#f3-matthieu-11-25-30)</sup>. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger<sup id="a4-matthieu-11-25-30">[4](#f4-matthieu-11-25-30)</sup>. » (TLB)
@@ -120,6 +151,317 @@
 <sub><b id="f4-matthieu-11-25-30">4</b>[TOB 11, 30↵](#a4-matthieu-11-25-30) L'image du *joug*, déjà connue de l'A.T. (Jr 2, 20 ; 5, 5 ; Os 10, 11), désignait couramment dans le judaïsme la Loi de Dieu, écrite et orale (Si 6, 24-30 ; 51, 26-27) ; ce joug nétait pas toujours ressenti comme pesant ou blessant ; la "joie du joug" était connue du judaïsme (Si 51, 26-27). Ici, dans la même perspective que dans le sermon sur la montagne (ch. 5-7), ouvert par l'annonce du bonheur du Règne de Dieu, Jésus oppose son interprétation libératrice de la loi au légalisme juif car, en même temps qu'une loi renouvelée, Jésus communique aux hommes la joie du Royaume.</sub>
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 12, 1-8 <a name="matthieu-12-1-8"></a>
+>En ce temps-là, un jour de sabbat, Jésus vint à passer à travers des champs de blé. Ses disciples eurent faim et se mirent à arracher des épis et à les manger. Voyant cela, les Pharisiens lui dirent : « Vois tes disciples qui font ce qu’il n’est pas permis de faire pendant le sabbat. » Il leur répondit : « N’avez-vous pas lu ce que fit David, lorsqu’il eut faim, lui et ses compagnons, comment il est entré dans la maison de Dieu et comment ils ont mangé les pains de l’offrande, que ni lui, ni ses compagnons n’avaient le droit de manger, mais seulement les prêtres ? Ou n’avez-vous pas lu dans la Loi que, le jour du sabbat, dans le temple, les prêtres profanent le sabbat sans être en faute ? Or, je vous le déclare, il y a ici plus grand que le temple. Si vous aviez compris ce que signifie : C’est la miséricorde que je veux, non le sacrifice, vous n’auriez pas condamné ces hommes qui ne sont pas en faute. Car il est maître du sabbat, le Fils de l’homme. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 18, 1-5 <a name="matthieu-18-1-5"></a>
+>A cette heure-là, les disciples s’approchèrent de Jésus et lui dirent : « Qui donc est le plus grand dans le Royaume des cieux ? » Appelant un enfant, il le plaça au milieu d’eux et dit : « En vérité, je vous le déclare, si vous ne changez et ne devenez comme les enfants, non, vous n’entrerez pas dans le Royaume des cieux. Celui-là donc qui se fera petit comme cet enfant, voilà le plus grand dans le Royaume des cieux. Qui accueille en mon nom un enfant comme celui-là, m’accueille moi-même. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 18, 21-22 <a name="matthieu-18-21-22"></a>
+>Alors Pierre s’approcha et lui dit : « Seigneur, quand mon frère commettra une faute à mon égard, combien de fois lui pardonnerai-je ? Jusqu’à sept fois ? » Jésus lui dit : « Je ne te dis pas jusqu’à sept fois, mais jusqu’à soixante-dix fois sept fois. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 19, 16-30 <a name="matthieu-19-16-30"></a>
+>Et voici qu’un homme s’approcha de lui et lui dit : « Maître, que dois-je faire de bon pour avoir la vie éternelle ? » Jésus lui dit : « Pourquoi m’interroges-tu sur le bon ? Unique est celui qui est bon. Si tu veux entrer dans la vie, garde les commandements. » – « Lesquels ? » lui dit-il. Jésus répondit : « Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne voleras pas. Tu ne porteras pas de faux témoignage. Honore ton père et ta mère. Enfin : Tu aimeras ton prochain comme toi-même. » Le jeune homme lui dit : « Tout cela, je l’ai observé. Que me manque-t-il encore ? » Jésus lui dit : « Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi ! » A cette parole, le jeune homme s’en alla tout triste, car il avait de grands biens. Et Jésus dit à ses disciples : « En vérité, je vous le déclare, un riche entrera difficilement dans le Royaume des cieux. Je vous le répète, il est plus facile à un chameau de passer par un trou d’aiguille qu’à un riche d’entrer dans le Royaume de Dieu. » A ces mots, les disciples étaient très impressionnés et ils disaient : « Qui donc peut être sauvé ? » Fixant sur eux son regard, Jésus leur dit : « Aux hommes c’est impossible, mais à Dieu tout est possible. » Alors, prenant la parole, Pierre lui dit : « Eh bien ! nous, nous avons tout laissé et nous t’avons suivi. Qu’en sera-t-il donc pour nous ? » Jésus leur dit : « En vérité, je vous le déclare : lors du renouvellement de toutes choses, quand le Fils de l’homme siégera sur son trône de gloire, vous qui m’avez suivi, vous siégerez vous aussi sur douze trônes pour juger les douze tribus d’Israël. Et quiconque aura laissé maisons, frères, sœurs, père, mère, enfants ou champs, à cause de mon nom, recevra beaucoup plus et, en partage, la vie éternelle. Beaucoup de premiers seront derniers et beaucoup de derniers, premiers. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 20, 20-28 <a name="matthieu-20-20-28"></a>
+>Alors la mère des fils de Zébédée s’approcha de lui, avec ses fils, et elle se prosterna pour lui faire une demande. Il lui dit : « Que veux-tu ? » – « Ordonne, lui dit-elle, que dans ton Royaume mes deux fils que voici siègent l’un à ta droite et l’autre à ta gauche. » Jésus répondit : « Vous ne savez pas ce que vous demandez. Pouvez-vous boire la coupe que je vais boire ? » Ils lui disent : « Nous le pouvons. » Il leur dit : « Ma coupe, vous la boirez ; quant à siéger à ma droite et à ma gauche, il ne m’appartient pas de l’accorder : ce sera donné à ceux pour qui mon Père l’a préparé. » Les dix, qui avaient entendu, s’indignèrent contre les deux frères. Mais Jésus les appela et leur dit : « Vous le savez, les chefs des nations les tiennent sous leur pouvoir et les grands sous leur domination. Il ne doit pas en être ainsi parmi vous. Au contraire, si quelqu’un veut être grand parmi vous, qu’il soit votre serviteur, et si quelqu’un veut être le premier parmi vous, qu’il soit votre esclave. C’est ainsi que le Fils de l’homme est venu non pour être servi, mais pour servir et donner sa vie en rançon pour la multitude. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 22, 23-33 <a name="matthieu-22-23-33"></a>
+>Ce jour-là, des Sadducéens s’approchèrent de lui. Les Sadducéens disent qu’il n’y a pas de résurrection. Ils lui posèrent cette question : « Maître, Moïse a dit : Si quelqu’un meurt sans avoir d’enfants, son frère épousera la veuve, pour donner une descendance à son frère. Or il y avait chez nous sept frères. Le premier, qui était marié, mourut ; et comme il n’avait pas de descendance, il laissa sa femme à son frère ; de même le deuxième, le troisième, et ainsi jusqu’au septième. Finalement, après eux tous, la femme mourut. Eh bien ! A la résurrection, duquel des sept sera-t-elle la femme, puisque tous l’ont eue pour femme ? » Jésus leur répondit : « Vous êtes dans l’erreur, parce que vous ne connaissez ni les Ecritures ni la puissance de Dieu. A la résurrection, en effet, on ne prend ni femme ni mari ; mais on est comme des anges dans le ciel. Et pour ce qui est de la résurrection des morts, n’avez-vous pas lu la parole que Dieu vous a dite : Je suis le Dieu d’Abraham, le Dieu d’Isaac et le Dieu de Jacob ? Il n’est pas le Dieu des morts, mais des vivants. » En entendant cela, les foules étaient frappées de son enseignement. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 22, 34-40 <a name="matthieu-22-34-40"></a>
+>Apprenant qu’il avait fermé la bouche aux Sadducéens, les Pharisiens se réunirent. Et l’un d’eux, un légiste, lui demanda pour lui tendre un piège : « Maître, quel est le grand commandement dans la Loi ? » Jésus lui déclara : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toute ta pensée. C’est là le grand, le premier commandement. Un second est aussi important : Tu aimeras ton prochain comme toi-même. De ces deux commandements dépendent toute la Loi et les Prophètes. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 23, 1-35 <a name="matthieu-23-1-35"></a>
+>Alors Jésus s’adressa aux foules et à ses disciples : « Les scribes et les Pharisiens siègent dans la chaire de Moïse : faites donc et observez tout ce qu’ils peuvent vous dire, mais ne vous réglez pas sur leurs actes, car ils disent et ne font pas. Ils lient de pesants fardeaux et les mettent sur les épaules des hommes, alors qu’eux-mêmes se refusent à les remuer du doigt. Toutes leurs actions, ils les font pour se faire remarquer des hommes. Ils élargissent leurs phylactères et allongent leurs franges. Ils aiment à occuper les premières places dans les dîners et les premiers sièges dans les synagogues, à être salués sur les places publiques et à s’entendre appeler “Maître” par les hommes. Pour vous, ne vous faites pas appeler “Maître”, car vous n’avez qu’un seul Maître et vous êtes tous frères. N’appelez personne sur la terre votre “Père”, car vous n’en avez qu’un seul, le Père céleste. Ne vous faites pas non plus appeler “Docteurs”, car vous n’avez qu’un seul Docteur, le Christ. Le plus grand parmi vous sera votre serviteur. Quiconque s’élèvera sera abaissé, et quiconque s’abaissera sera élevé. Malheureux êtes-vous, scribes et Pharisiens hypocrites, vous qui fermez devant les hommes l’entrée du Royaume des cieux ! Vous-mêmes en effet n’y entrez pas, et vous ne laissez pas entrer ceux qui le voudraient ! Malheureux êtes-vous, scribes et Pharisiens hypocrites, vous qui parcourez mers et continents pour gagner un seul prosélyte, et, quand il l’est devenu, vous le rendez digne de la géhenne, deux fois plus que vous ! Malheureux êtes-vous, guides aveugles, vous qui dites : “Si l’on jure par le sanctuaire, cela ne compte pas ; mais si l’on jure par l’or du sanctuaire, on est tenu.” Insensés et aveugles ! Qu’est-ce donc qui l’emporte, l’or, ou le sanctuaire qui a rendu sacré cet or ? Vous dites encore : “Si l’on jure par l’autel, cela ne compte pas, mais si l’on jure par l’offrande placée dessus, on est tenu.” Aveugles ! Qu’est-ce donc qui l’emporte, l’offrande, ou l’autel qui rend sacrée cette offrande ? Aussi bien, celui qui jure par l’autel jure-t-il par lui et par tout ce qui est dessus ; celui qui jure par le sanctuaire jure par lui et par celui qui l’habite ; celui qui jure par le ciel jure par le trône de Dieu et par celui qui y siège. Malheureux êtes-vous, scribes et Pharisiens hypocrites, vous qui versez la dîme de la menthe, du fenouil et du cumin, alors que vous négligez ce qu’il y a de plus grave dans la Loi : la justice, la miséricorde et la fidélité ; c’est ceci qu’il fallait faire, sans négliger cela. Guides aveugles, qui arrêtez au filtre le moucheron et avalez le chameau ! Malheureux êtes-vous, scribes et Pharisiens hypocrites, vous qui purifiez l’extérieur de la coupe et du plat, alors que l’intérieur est rempli des produits de la rapine et de l’intempérance. Pharisien aveugle ! purifie d’abord le dedans de la coupe, pour que le dehors aussi devienne pur. Malheureux êtes-vous, scribes et Pharisiens hypocrites, vous qui ressemblez à des sépulcres blanchis : au-dehors ils ont belle apparence, mais au-dedans ils sont pleins d’ossements de morts et d’impuretés de toutes sortes. Ainsi de vous : au-dehors vous offrez aux hommes l’apparence de justes, alors qu’au-dedans vous êtes remplis d’hypocrisie et d’iniquité. Malheureux, scribes et Pharisiens hypocrites, vous qui bâtissez les sépulcres des prophètes et décorez les tombeaux des justes, et vous dites : “Si nous avions vécu du temps de nos pères, nous n’aurions pas été leurs complices pour verser le sang des prophètes.” Ainsi vous témoignez contre vous-mêmes : vous êtes les fils de ceux qui ont assassiné les prophètes ! Eh bien ! vous, comblez la mesure de vos pères ! Serpents, engeance de vipères, comment pourriez-vous échapper au châtiment de la géhenne ? C’est pourquoi, voici que moi, j’envoie vers vous des prophètes, des sages et des scribes. Vous en tuerez et mettrez en croix, vous en flagellerez dans vos synagogues et vous les pourchasserez de ville en ville, pour que retombe sur vous tout le sang des justes répandu sur la terre, depuis le sang d’Abel le juste jusqu’au sang de Zacharie, fils de Barachie, que vous avez assassiné entre le sanctuaire et l’autel. En vérité, je vous le déclare, tout cela va retomber sur cette génération. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 25, 31-46 <a name="matthieu-25-31-46"></a>
+>« Quand le Fils de l’homme viendra dans sa gloire, accompagné de tous les anges, alors il siégera sur son trône de gloire. Devant lui seront rassemblées toutes les nations, et il séparera les hommes les uns des autres, comme le berger sépare les brebis des chèvres. Il placera les brebis à sa droite et les chèvres à sa gauche. Alors le roi dira à ceux qui seront à sa droite : “Venez, les bénis de mon Père, recevez en partage le Royaume qui a été préparé pour vous depuis la fondation du monde. Car j’ai eu faim et vous m’avez donné à manger ; j’ai eu soif et vous m’avez donné à boire ; j’étais un étranger et vous m’avez recueilli ; nu, et vous m’avez vêtu ; malade, et vous m’avez visité ; en prison, et vous êtes venus à moi.” Alors les justes lui répondront : “Seigneur, quand nous est-il arrivé de te voir affamé et de te nourrir, assoiffé et de te donner à boire ? Quand nous est-il arrivé de te voir étranger et de te recueillir, nu et de te vêtir ? Quand nous est-il arrivé de te voir malade ou en prison, et de venir à toi ?” Et le roi leur répondra : “En vérité, je vous le déclare, chaque fois que vous l’avez fait à l’un de ces plus petits, qui sont mes frères, c’est à moi que vous l’avez fait !” Alors il dira à ceux qui seront à sa gauche : “Allez-vous-en loin de moi, maudits, au feu éternel qui a été préparé pour le diable et pour ses anges. Car j’ai eu faim et vous ne m’avez pas donné à manger ; j’ai eu soif et vous ne m’avez pas donné à boire ; j’étais un étranger et vous ne m’avez pas recueilli ; nu, et vous ne m’avez pas vêtu ; malade et en prison, et vous ne m’avez pas visité.” Alors eux aussi répondront : “Seigneur, quand nous est-il arrivé de te voir affamé ou assoiffé, étranger ou nu, malade ou en prison, sans venir t’assister ?” Alors il leur répondra : “En vérité, je vous le déclare, chaque fois que vous ne l’avez pas fait à l’un de ces plus petits, à moi non plus vous ne l’avez pas fait.” Et ils s’en iront, ceux-ci au châtiment éternel, et les justes à la vie éternelle. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+## Evangile de Jésus-Christ selon saint Marc <a name="marc"></a>
+
+### Marc 7, 1-23 <a name="marc-7-1-23"></a>
+>Les Pharisiens et quelques scribes venus de Jérusalem se rassemblent auprès de Jésus. Ils voient que certains de ses disciples prennent leurs repas avec des mains impures, c’est-à-dire sans les avoir lavées. En effet, les Pharisiens, comme tous les Juifs, ne mangent pas sans s’être lavé soigneusement les mains, par attachement à la tradition des anciens ; en revenant du marché, ils ne mangent pas sans avoir fait des ablutions ; et il y a beaucoup d’autres pratiques traditionnelles auxquelles ils sont attachés : lavages rituels des coupes, des cruches et des plats. Les Pharisiens et les scribes demandent donc à Jésus : « Pourquoi tes disciples ne se conduisent-ils pas conformément à la tradition des anciens, mais prennent-ils leur repas avec des mains impures ? » Il leur dit : « Esaïe a bien prophétisé à votre sujet, hypocrites, car il est écrit : Ce peuple m’honore des lèvres, mais son cœur est loin de moi ; c’est en vain qu’ils me rendent un culte car les doctrines qu’ils enseignent ne sont que préceptes d’hommes. Vous laissez de côté le commandement de Dieu et vous vous attachez à la tradition des hommes. » Il leur disait : « Vous repoussez bel et bien le commandement de Dieu pour garder votre tradition. Car Moïse a dit : “Honore ton père et ta mère”, et encore : “Celui qui insulte père ou mère, qu’il soit puni de mort.” Mais vous, vous dites : “Si quelqu’un dit à son père ou à sa mère : le secours que tu devais recevoir de moi est qorbân, c’est-à-dire offrande sacrée…” vous lui permettez de ne plus rien faire pour son père ou pour sa mère : vous annulez ainsi la parole de Dieu par la tradition que vous transmettez. Et vous faites beaucoup de choses du même genre. » Puis, appelant de nouveau la foule, il leur disait : « Ecoutez-moi tous et comprenez. Il n’y a rien d’extérieur à l’homme qui puisse le rendre impur en pénétrant en lui, mais ce qui sort de l’homme, voilà ce qui rend l’homme impur. » Lorsqu’il fut entré dans la maison, loin de la foule, ses disciples l’interrogeaient sur cette parole énigmatique. Il leur dit : « Vous aussi, êtes-vous donc sans intelligence ? Ne savez-vous pas que rien de ce qui pénètre de l’extérieur dans l’homme ne peut le rendre impur, puisque cela ne pénètre pas dans son cœur, mais dans son ventre, puis s’en va dans la fosse ? » Il déclarait ainsi que tous les aliments sont purs. Il disait : « Ce qui sort de l’homme, c’est cela qui rend l’homme impur. En effet, c’est de l’intérieur, c’est du cœur des hommes que sortent les intentions mauvaises, inconduite, vols, meurtres, adultères, cupidité, perversités, ruse, débauche, envie, injures, vanité, déraison. Tout ce mal sort de l’intérieur et rend l’homme impur. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Marc](#marc)</sub>
+
+### Marc 8, 34-38 <a name="marc-8-34-38"></a>
+>Puis il fit venir la foule avec ses disciples et il leur dit : « Si quelqu’un veut venir à ma suite, qu’il se renie lui-même et prenne sa croix, et qu’il me suive. En effet, qui veut sauver sa vie, la perdra ; mais qui perdra sa vie à cause de moi et de l’Evangile, la sauvera. Et quel avantage l’homme a-t-il à gagner le monde entier, s’il le paie de sa vie ? Que pourrait donner l’homme qui ait la valeur de sa vie ? Car si quelqu’un a honte de moi et de mes paroles au milieu de cette génération adultère et pécheresse, le Fils de l’homme aussi aura honte de lui, quand il viendra dans la gloire de son Père avec les saints anges. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Marc](#marc)</sub>
+
+### Marc 10, 13-15 <a name="marc-10-13-15"></a>
+>Des gens lui amenaient des enfants pour qu’il les touche, mais les disciples les rabrouèrent. En voyant cela, Jésus s’indigna et leur dit : « Laissez les enfants venir à moi, ne les empêchez pas, car le Royaume de Dieu est à ceux qui sont comme eux. En vérité, je vous le déclare, qui n’accueille pas le Royaume de Dieu comme un enfant n’y entrera pas. » Et il les embrassait et les bénissait en leur imposant les mains. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Marc](#marc)</sub>
+
+### Marc 10, 17-31 <a name="marc-10-17-31"></a>
+>Comme il se mettait en route, quelqu’un vint en courant et se jeta à genoux devant lui ; il lui demandait : « Bon Maître, que dois-je faire pour recevoir la vie éternelle en partage ? » Jésus lui dit : « Pourquoi m’appelles-tu bon ? Nul n’est bon que Dieu seul. Tu connais les commandements : Tu ne commettras pas de meurtre, tu ne commettras pas d’adultère, tu ne voleras pas, tu ne porteras pas de faux témoignage, tu ne feras de tort à personne, honore ton père et ta mère. » L’homme lui dit : « Maître, tout cela, je l’ai observé dès ma jeunesse. » Jésus le regarda et se prit à l’aimer ; il lui dit : « Une seule chose te manque ; va, ce que tu as, vends-le, donne-le aux pauvres et tu auras un trésor dans le ciel ; puis viens, suis-moi. » Mais à cette parole, il s’assombrit et il s’en alla tout triste, car il avait de grands biens. Regardant autour de lui, Jésus dit à ses disciples : « Qu’il est difficile à ceux qui ont les richesses d’entrer dans le Royaume de Dieu ! » Les disciples étaient déconcertés par ses paroles. Mais Jésus leur répète : « Mes enfants, qu’il est difficile d’entrer dans le Royaume de Dieu ! Il est plus facile à un chameau de passer par le trou d’une aiguille qu’à un riche d’entrer dans le Royaume de Dieu. » Ils étaient de plus en plus impressionnés ; ils se disaient entre eux : « Alors qui peut être sauvé ? » Fixant sur eux son regard, Jésus dit : « Aux hommes, c’est impossible, mais pas à Dieu, car tout est possible à Dieu. » Pierre se mit à lui dire : « Eh bien ! nous, nous avons tout laissé pour te suivre. » Jésus lui dit : « En vérité, je vous le déclare, personne n’aura laissé maison, frères, sœurs, mère, père, enfants ou champs à cause de moi et à cause de l’Evangile, sans recevoir au centuple maintenant, en ce temps-ci, maisons, frères, sœurs, mères, enfants et champs, avec des persécutions, et dans le monde à venir la vie éternelle. Beaucoup de premiers seront derniers et les derniers seront premiers. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Marc](#marc)</sub>
+
+### Marc 12, 41-44 <a name="marc-12-41-44"></a>
+>Assis en face du tronc, Jésus regardait comment la foule mettait de l’argent dans le tronc. De nombreux riches mettaient beaucoup. Vint une veuve pauvre qui mit deux petites pièces, quelques centimes. Appelant ses disciples, Jésus leur dit : « En vérité, je vous le déclare, cette veuve pauvre a mis plus que tous ceux qui mettent dans le tronc. Car tous ont mis en prenant sur leur superflu ; mais elle, elle a pris sur sa misère pour mettre tout ce qu’elle possédait, tout ce qu’elle avait pour vivre. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Marc](#marc)</sub>
+
+## Evangile de Jésus-Christ selon saint Luc <a name="luc"></a>
+
+### Luc 3, 10-14 <a name="luc-3-10-14"></a>
+>Les foules demandaient à Jean : « Que nous faut-il donc faire ? » Il leur répondait : « Si quelqu’un a deux tuniques, qu’il partage avec celui qui n’en a pas ; si quelqu’un a de quoi manger, qu’il fasse de même. » Des collecteurs d’impôts aussi vinrent se faire baptiser et lui dirent : « Maître, que nous faut-il faire ? » Il leur dit : « N’exigez rien de plus que ce qui vous a été fixé. » Des militaires lui demandaient : « Et nous, que nous faut-il faire ? » Il leur dit : « Ne faites ni violence ni tort à personne, et contentez-vous de votre solde. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 6, 20-26 <a name="luc-6-20-26"></a>
+>Alors, levant les yeux sur ses disciples, Jésus dit : « Heureux, vous les pauvres : le Royaume de Dieu est à vous. Heureux, vous qui avez faim maintenant : vous serez rassasiés. Heureux, vous qui pleurez maintenant : vous rirez. Heureux êtes-vous lorsque les hommes vous haïssent, lorsqu’ils vous rejettent et qu’ils insultent et proscrivent votre nom comme infâme, à cause du Fils de l’homme. Réjouissez-vous ce jour-là et bondissez de joie, car voici, votre récompense est grande dans le ciel ; c’est en effet de la même manière que leurs pères traitaient les prophètes. Mais malheureux, vous les riches : vous tenez votre consolation. Malheureux, vous qui êtes repus maintenant : vous aurez faim. Malheureux, vous qui riez maintenant : vous serez dans le deuil et vous pleurerez. Malheureux êtes-vous lorsque tous les hommes disent du bien de vous : c’est en effet de la même manière que leurs pères traitaient les faux prophètes. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 6, 27-35 <a name="luc-6-27-35"></a>
+>« Mais je vous dis, à vous qui m’écoutez : Aimez vos ennemis, faites du bien à ceux qui vous haïssent, bénissez ceux qui vous maudissent, priez pour ceux qui vous calomnient. A qui te frappe sur une joue, présente encore l’autre. A qui te prend ton manteau, ne refuse pas non plus ta tunique. A quiconque te demande, donne, et à qui te prend ton bien, ne le réclame pas. Et comme vous voulez que les hommes agissent envers vous, agissez de même envers eux. Si vous aimez ceux qui vous aiment, quelle reconnaissance vous en a-t-on ? Car les pécheurs aussi aiment ceux qui les aiment. Et si vous faites du bien à ceux qui vous en font, quelle reconnaissance vous en a-t-on ? Les pécheurs eux-mêmes en font autant. Et si vous prêtez à ceux dont vous espérez qu’ils vous rendent, quelle reconnaissance vous en a-t-on ? Même des pécheurs prêtent aux pécheurs pour qu’on leur rende l’équivalent. Mais aimez vos ennemis, faites du bien et prêtez sans rien espérer en retour. Alors votre récompense sera grande, et vous serez les fils du Très-Haut, car il est bon, lui, pour les ingrats et les méchants. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 6, 36-42 <a name="luc-6-36-42"></a>
+>« Soyez généreux comme votre Père est généreux. Ne vous posez pas en juges et vous ne serez pas jugés, ne condamnez pas et vous ne serez pas condamnés, acquittez et vous serez acquittés. Donnez et on vous donnera ; c’est une bonne mesure, tassée, secouée, débordante qu’on vous versera dans le pan de votre vêtement, car c’est la mesure dont vous vous servez qui servira aussi de mesure pour vous. » Il leur dit aussi une parabole : « Un aveugle peut-il guider un aveugle ? Ne tomberont-ils pas tous les deux dans un trou ? Le disciple n’est pas au-dessus de son maître, mais tout disciple bien formé sera comme son maître. Qu’as-tu à regarder la paille qui est dans l’œil de ton frère ? Et la poutre qui est dans ton œil à toi, tu ne la remarques pas ? Comment peux-tu dire à ton frère : “Frère, attends. Que j’ôte la paille qui est dans ton œil”, toi qui ne vois pas la poutre qui est dans le tien ? Homme au jugement perverti, ôte d’abord la poutre de ton œil ! et alors tu verras clair pour ôter la paille qui est dans l’œil de ton frère. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 6, 43-49 <a name="luc-6-43-49"></a>
+>« Il n’y a pas de bon arbre qui produise un fruit malade, et pas davantage d’arbre malade qui produise un bon fruit. Chaque arbre en effet se reconnaît au fruit qui lui est propre : ce n’est pas sur un buisson d’épines que l’on cueille des figues, ni sur des ronces que l’on récolte du raisin. L’homme bon, du bon trésor de son cœur, tire le bien, et le mauvais, de son mauvais trésor, tire le mal ; car ce que dit la bouche, c’est ce qui déborde du cœur. Et pourquoi m’appelez-vous “Seigneur, Seigneur” et ne faites-vous pas ce que je dis ? Tout homme qui vient à moi, qui entend mes paroles et qui les met en pratique, je vais vous montrer à qui il est comparable. Il est comparable à un homme qui bâtit une maison : il a creusé, il est allé profond et a posé les fondations sur le roc. Une crue survenant, le torrent s’est jeté contre cette maison mais n’a pu l’ébranler, parce qu’elle était bien bâtie. Mais celui qui entend et ne met pas en pratique est comparable à un homme qui a bâti une maison sur le sol, sans fondations : le torrent s’est jeté contre elle, et aussitôt elle s’est effondrée, et la destruction de cette maison a été totale. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 7, 36-50 <a name="luc-7-36-50"></a>
+>Un Pharisien l’invita à manger avec lui ; il entra dans la maison du Pharisien et se mit à table. Survint une femme de la ville qui était pécheresse ; elle avait appris qu’il était à table dans la maison du Pharisien. Apportant un flacon de parfum en albâtre et se plaçant par-derrière, tout en pleurs, aux pieds de Jésus, elle se mit à baigner ses pieds de larmes ; elle les essuyait avec ses cheveux, les couvrait de baisers et répandait sur eux du parfum. Voyant cela, le Pharisien qui l’avait invité se dit en lui-même : « Si cet homme était un prophète, il saurait qui est cette femme qui le touche, et ce qu’elle est : une pécheresse. » Jésus prit la parole et lui dit : « Simon, j’ai quelque chose à te dire. » – « Parle, Maître », dit-il. – « Un créancier avait deux débiteurs ; l’un lui devait cinq cents pièces d’argent, l’autre cinquante. Comme ils n’avaient pas de quoi rembourser, il fit grâce de leur dette à tous les deux. Lequel des deux l’aimera le plus ? » Simon répondit : « Je pense que c’est celui auquel il a fait grâce de la plus grande dette. » Jésus lui dit : « Tu as bien jugé. » Et se tournant vers la femme, il dit à Simon : « Tu vois cette femme ? Je suis entré dans ta maison : tu ne m’as pas versé d’eau sur les pieds, mais elle, elle a baigné mes pieds de ses larmes et les a essuyés avec ses cheveux. Tu ne m’as pas donné de baiser, mais elle, depuis qu’elle est entrée, elle n’a pas cessé de me couvrir les pieds de baisers. Tu n’as pas répandu d’huile odorante sur ma tête, mais elle, elle a répandu du parfum sur mes pieds. Si je te déclare que ses péchés si nombreux ont été pardonnés, c’est parce qu’elle a montré beaucoup d’amour. Mais celui à qui on pardonne peu montre peu d’amour. » Il dit à la femme : « Tes péchés ont été pardonnés. » Les convives se mirent à dire en eux-mêmes : « Qui est cet homme qui va jusqu’à pardonner les péchés ? » Jésus dit à la femme : « Ta foi t’a sauvée. Va en paix. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 9, 23-27 <a name="luc-9-23-27"></a>
+>Puis il dit à tous : « Si quelqu’un veut venir à ma suite, qu’il se renie lui-même et prenne sa croix chaque jour, et qu’il me suive. En effet, qui veut sauver sa vie, la perdra ; mais qui perd sa vie à cause de moi, la sauvera. Et quel avantage l’homme a-t-il à gagner le monde entier, s’il se perd ou se ruine lui-même ? Car si quelqu’un a honte de moi et de mes paroles, le Fils de l’homme aura honte de lui quand il viendra dans sa gloire, et dans celle du Père et des saints anges. Vraiment, je vous le déclare, parmi ceux qui sont ici, certains ne mourront pas avant de voir le Règne de Dieu. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 9, 46-48 <a name="luc-9-46-48"></a>
+>Une question leur vint à l’esprit : lequel d’entre eux pouvait bien être le plus grand ? Jésus, sachant la question qu’ils se posaient, prit un enfant, le plaça près de lui, et leur dit : « Qui accueille en mon nom cet enfant, m’accueille moi-même ; et qui m’accueille, accueille celui qui m’a envoyé ; car celui qui est le plus petit d’entre vous tous, voilà le plus grand. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 9, 57-62 <a name="luc-9-57-62"></a>
+>Comme ils étaient en route, quelqu’un dit à Jésus en chemin : « Je te suivrai partout où tu iras. » Jésus lui dit : « Les renards ont des terriers et les oiseaux du ciel des nids ; le Fils de l’homme, lui, n’a pas où poser la tête. » Il dit à un autre : « Suis-moi. » Celui-ci répondit : « Permets-moi d’aller d’abord enterrer mon père. » Mais Jésus lui dit : « Laisse les morts enterrer leurs morts, mais toi, va annoncer le Règne de Dieu. » Un autre encore lui dit : « Je vais te suivre, Seigneur ; mais d’abord permets-moi de faire mes adieux à ceux de ma maison. » Jésus lui dit : « Quiconque met la main à la charrue, puis regarde en arrière, n’est pas fait pour le Royaume de Dieu. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 10, 21-24 <a name="luc-10-21-24"></a>
+>A l’instant même, il exulta sous l’action de l’Esprit Saint et dit : « Je te loue, Père, Seigneur du ciel et de la terre, d’avoir caché cela aux sages et aux intelligents et de l’avoir révélé aux tout-petits. Oui, Père, c’est ainsi que tu en as disposé dans ta bienveillance. Tout m’a été remis par mon Père, et nul ne connaît qui est le Fils, si ce n’est le Père, ni qui est le Père, si ce n’est le Fils et celui à qui le Fils veut bien le révéler. » Puis il se tourna vers les disciples et leur dit en particulier : « Heureux les yeux qui voient ce que vous voyez ! Car je vous le déclare, beaucoup de prophètes, beaucoup de rois ont voulu voir ce que vous voyez et ne l’ont pas vu, entendre ce que vous entendez et ne l’ont pas entendu. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 10, 25-28 <a name="luc-10-25-28"></a>
+>Et voici qu’un légiste se leva et lui dit, pour le mettre à l’épreuve : « Maître, que dois-je faire pour recevoir en partage la vie éternelle ? » Jésus lui dit : « Dans la Loi qu’est-il écrit ? Comment lis-tu ? » Il lui répondit : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de toute ta force et de toute ta pensée, et ton prochain comme toi-même. » Jésus lui dit : « Tu as bien répondu. Fais cela et tu auras la vie. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 10, 29-37 <a name="luc-10-29-37"></a>
+>Mais lui, voulant montrer sa justice, dit à Jésus : « Et qui est mon prochain ? » Jésus reprit : « Un homme descendait de Jérusalem à Jéricho, il tomba sur des bandits qui, l’ayant dépouillé et roué de coups, s’en allèrent, le laissant à moitié mort. Il se trouva qu’un prêtre descendait par ce chemin ; il vit l’homme et passa à bonne distance. Un lévite de même arriva en ce lieu ; il vit l’homme et passa à bonne distance. Mais un Samaritain qui était en voyage arriva près de l’homme : il le vit et fut pris de pitié. Il s’approcha, banda ses plaies en y versant de l’huile et du vin, le chargea sur sa propre monture, le conduisit à une auberge et prit soin de lui. Le lendemain, tirant deux pièces d’argent, il les donna à l’aubergiste et lui dit : “Prends soin de lui, et si tu dépenses quelque chose de plus, c’est moi qui te le rembourserai quand je repasserai.” Lequel des trois, à ton avis, s’est montré le prochain de l’homme qui était tombé sur les bandits ? » Le légiste répondit : « C’est celui qui a fait preuve de bonté envers lui. » Jésus lui dit : « Va et, toi aussi, fais de même. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 11, 9-13 <a name="luc-11-9-13"></a>
+>« Eh bien, moi je vous dis : Demandez, on vous donnera ; cherchez, vous trouverez ; frappez, on vous ouvrira. En effet, quiconque demande reçoit, qui cherche trouve, et à qui frappe on ouvrira. Quel père parmi vous, si son fils lui demande un poisson, lui donnera un serpent au lieu de poisson ? Ou encore s’il demande un œuf, lui donnera-t-il un scorpion ? Si donc vous, qui êtes mauvais, savez donner de bonnes choses à vos enfants, combien plus le Père céleste donnera-t-il l’Esprit Saint à ceux qui le lui demandent. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 11, 33-36 <a name="luc-11-33-36"></a>
+>« Personne n’allume une lampe pour la mettre dans une cachette, mais on la met sur son support, pour que ceux qui entrent voient la clarté. La lampe de ton corps, c’est l’œil. Quand ton œil est sain, ton corps tout entier est aussi dans la lumière ; mais si ton œil est malade, ton corps aussi est dans les ténèbres. Examine donc si la lumière qui est en toi n’est pas ténèbres. Si donc ton corps est tout entier dans la lumière, sans aucune part de ténèbres, il sera dans la lumière tout entier comme lorsque la lampe t’illumine de son éclat. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 11, 37-54 <a name="luc-11-37-54"></a>
+>Comme il parlait, un Pharisien l’invita à déjeuner chez lui. Il entra et se mit à table. Le Pharisien fut étonné en voyant qu’il n’avait pas d’abord fait une ablution avant le déjeuner. Le Seigneur lui dit : « Maintenant vous, les Pharisiens, c’est l’extérieur de la coupe et du plat que vous purifiez, mais votre intérieur est rempli de rapacité et de méchanceté. Insensés ! Est-ce que celui qui a fait l’extérieur n’a pas fait aussi l’intérieur ? Donnez plutôt en aumône ce qui est dedans, et alors tout sera pur pour vous. Mais malheureux êtes-vous, Pharisiens, vous qui versez la dîme de la menthe, de la rue et de tout ce qui pousse dans le jardin, et qui laissez de côté la justice et l’amour de Dieu. C’est ceci qu’il fallait faire, sans négliger cela. Malheureux êtes-vous, Pharisiens, vous qui aimez le premier siège dans les synagogues et les salutations sur les places publiques. Malheureux, vous qui êtes comme ces tombes que rien ne signale et sur lesquelles on marche sans le savoir. » Alors un des légistes dit à Jésus : « Maître, en parlant de la sorte, c’est nous aussi que tu insultes. » Il répondit : « Vous aussi, légistes, vous êtes malheureux, vous qui chargez les hommes de fardeaux accablants, et qui ne touchez pas vous-mêmes d’un seul de vos doigts à ces fardeaux. Malheureux, vous qui bâtissez les tombeaux des prophètes, alors que ce sont vos pères qui les ont tués. Ainsi vous témoignez que vous êtes d’accord avec les actes de vos pères, puisque, eux, ils ont tué les prophètes, et vous, vous bâtissez leurs tombeaux. C’est pourquoi la Sagesse de Dieu elle-même a dit : je leur enverrai des prophètes et des apôtres ; ils en tueront et persécuteront, et on demandera compte à cette génération du sang de tous les prophètes qui a été versé depuis la fondation du monde, depuis le sang d’Abel jusqu’au sang de Zacharie qui a péri entre l’autel et le sanctuaire. Oui, je vous le déclare, il en sera demandé compte à cette génération. Malheureux êtes-vous, légistes, vous qui avez pris la clé de la connaissance : vous n’êtes pas entrés vous-mêmes, et ceux qui voulaient entrer, vous les en avez empêchés. » Quand il fut sorti de là, les scribes et les Pharisiens se mirent à s’acharner contre lui et à lui arracher des réponses sur quantité de sujets, lui tendant des pièges pour s’emparer d’un de ses propos. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 12, 1-12 <a name="luc-12-1-12"></a>
+>Là-dessus, comme la foule était assemblée par milliers, au point qu’on s’écrasait, il commença par dire à ses disciples : « Avant tout, gardez-vous du levain des Pharisiens, la fausseté. Rien n’est voilé qui ne sera dévoilé, rien n’est secret qui ne sera connu. Parce que tout ce que vous avez dit dans l’ombre sera entendu au grand jour ; et ce que vous avez dit à l’oreille dans la cave sera proclamé sur les terrasses. Je vous le dis à vous, mes amis : Ne craignez pas ceux qui tuent le corps et qui, après cela, ne peuvent rien faire de plus. Je vais vous montrer qui vous devez craindre : craignez celui qui, après avoir tué, a le pouvoir de jeter dans la géhenne. Oui, je vous le déclare, c’est celui-là que vous devez craindre. Est-ce que l’on ne vend pas cinq moineaux pour deux sous ? Pourtant pas un d’entre eux n’est oublié de Dieu. Bien plus, même vos cheveux sont tous comptés. Soyez sans crainte, vous valez mieux que tous les moineaux. Je vous le dis : quiconque se déclarera pour moi devant les hommes, le Fils de l’homme aussi se déclarera pour lui devant les anges de Dieu ; mais celui qui m’aura renié par devant les hommes sera renié par devant les anges de Dieu. Et quiconque dira une parole contre le Fils de l’homme, cela lui sera pardonné ; mais qui aura blasphémé contre le Saint Esprit, cela ne lui sera pas pardonné. Lorsqu’on vous amènera devant les synagogues, les chefs et les autorités, ne vous inquiétez pas de savoir comment vous défendre et que dire. Car le Saint Esprit vous enseignera à l’heure même ce qu’il faut dire. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 12, 13-15 <a name="luc-12-13-15"></a>
+>Du milieu de la foule, quelqu’un dit à Jésus : « Maître, dis à mon frère de partager avec moi notre héritage. » Jésus lui dit : « Qui m’a établi pour être votre juge ou pour faire vos partages ? » Et il leur dit : « Attention ! Gardez-vous de toute avidité ; ce n’est pas du fait qu’un homme est riche qu’il a sa vie garantie par ses biens. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 12, 16-21 <a name="luc-12-16-21"></a>
+>Et il leur dit une parabole : « Il y avait un homme riche dont la terre avait bien rapporté. Et il se demandait : “Que vais-je faire ? car je n’ai pas où rassembler ma récolte.” Puis il se dit : “Voici ce que je vais faire : je vais démolir mes greniers, j’en bâtirai de plus grands et j’y rassemblerai tout mon blé et mes biens.” Et je me dirai à moi-même : “Te voilà avec quantité de biens en réserve pour de longues années ; repose-toi, mange, bois, fais bombance.” Mais Dieu lui dit : “Insensé, cette nuit même on te redemande ta vie, et ce que tu as préparé, qui donc l’aura ?” Voilà ce qui arrive à celui qui amasse un trésor pour lui-même au lieu de s’enrichir auprès de Dieu. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 12, 22-32 <a name="luc-12-22-32"></a>
+>Jésus dit à ses disciples : « Voilà pourquoi je vous dis : ne vous inquiétez pas pour votre vie de ce que vous mangerez, ni pour votre corps de quoi vous le vêtirez. Car la vie est plus que la nourriture, et le corps plus que le vêtement. Observez les corbeaux : ils ne sèment ni ne moissonnent, ils n’ont ni cellier ni grenier ; et Dieu les nourrit. Combien plus valez-vous que les oiseaux ! Et qui d’entre vous peut par son inquiétude prolonger tant soit peu son existence ? Si donc vous êtes sans pouvoir même pour si peu, pourquoi vous inquiéter pour tout le reste ? Observez les lis : ils ne filent ni ne tissent, et je vous le dis : Salomon lui-même, dans toute sa gloire, n’a jamais été vêtu comme l’un d’eux. Si Dieu habille ainsi en pleins champs l’herbe qui est là aujourd’hui et qui demain sera jetée au feu, combien plus le fera-t-il pour vous, gens de peu de foi. Et vous, ne cherchez pas ce que vous mangerez ni ce que vous boirez, et ne vous tourmentez pas. Tout cela, les païens de ce monde le recherchent sans répit, mais vous, votre Père sait que vous en avez besoin. Cherchez plutôt son Royaume, et cela vous sera donné par surcroît. Sois sans crainte, petit troupeau, car votre Père a trouvé bon de vous donner le Royaume. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 12, 33-34 <a name="luc-12-33-34"></a>
+>« Vendez ce que vous possédez et donnez-le en aumône. Faites-vous des bourses inusables, un trésor inaltérable dans les cieux ; là ni voleur n’approche, ni mite ne détruit. Car, où est votre trésor, là aussi sera votre cœur. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 12, 35-48 <a name="luc-12-35-48"></a>
+>« Restez en tenue de travail et gardez vos lampes allumées. Et soyez comme des gens qui attendent leur maître à son retour des noces, afin de lui ouvrir dès qu’il arrivera et frappera. Heureux ces serviteurs que le maître à son arrivée trouvera en train de veiller. En vérité, je vous le déclare, il prendra la tenue de travail, les fera mettre à table et passera pour les servir. Et si c’est à la deuxième veille qu’il arrive, ou à la troisième, et qu’il trouve cet accueil, heureux sont-ils ! Vous le savez : si le maître de maison connaissait l’heure à laquelle le voleur va venir, il ne laisserait pas percer le mur de sa maison. Vous aussi, tenez-vous prêts, car c’est à l’heure que vous ignorez que le Fils de l’homme va venir. » Pierre dit alors : « Seigneur, est-ce pour nous que tu dis cette parabole ou bien pour tout le monde ? » Le Seigneur lui dit : « Quel est donc l’intendant fidèle, avisé, que le maître établira sur sa domesticité pour distribuer en temps voulu les rations de blé ? Heureux ce serviteur, que son maître en arrivant trouvera en train de faire ce travail ! Vraiment, je vous le déclare, il l’établira sur tous ses biens. Mais si ce serviteur se dit en son cœur : “Mon maître tarde à venir” et qu’il se mette à battre les garçons et les filles de service, à manger, à boire et à s’enivrer, le maître de ce serviteur arrivera au jour qu’il n’attend pas et à l’heure qu’il ne sait pas : il le chassera et lui fera partager le sort des infidèles. Ce serviteur qui connaissait la volonté de son maître et qui pourtant n’a rien préparé ni fait selon cette volonté recevra bien des coups ; celui qui ne la connaissait pas et qui a fait de quoi mériter des coups en recevra peu. A qui l’on a beaucoup donné, on redemandera beaucoup ; à qui l’on a beaucoup confié, on réclamera davantage. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 13, 22-30 <a name="luc-13-22-30"></a>
+>Il passait par villes et villages, enseignant et faisant route vers Jérusalem. Quelqu’un lui dit : « Seigneur, n’y aura-t-il que peu de gens qui seront sauvés ? » Il leur dit alors : « Efforcez-vous d’entrer par la porte étroite, car beaucoup, je vous le dis, chercheront à entrer et ne le pourront pas. « Après que le maître de maison se sera levé et aura fermé la porte, quand, restés dehors, vous commencerez à frapper à la porte en disant : “Seigneur, ouvre-nous”, et qu’il vous répondra : “Vous, je ne sais d’où vous êtes”, alors vous vous mettrez à dire : “Nous avons mangé et bu devant toi, et c’est sur nos places que tu as enseigné” ; et il vous dira : “Je ne sais d’où vous êtes. Eloignez-vous de moi, vous tous qui faites le mal.” Il y aura les pleurs et les grincements de dents, quand vous verrez Abraham, Isaac et Jacob, ainsi que tous les prophètes dans le Royaume de Dieu, et vous jetés dehors. Alors il en viendra du levant et du couchant, du nord et du midi, pour prendre place au festin dans le Royaume de Dieu. Et ainsi, il y a des derniers qui seront premiers et il y a des premiers qui seront derniers. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 14, 7-11 <a name="luc-14-7-11"></a>
+>Jésus dit aux invités une parabole, parce qu’il remarquait qu’ils choisissaient les premières places ; il leur dit : « Quand tu es invité à des noces, ne va pas te mettre à la première place, de peur qu’on ait invité quelqu’un de plus important que toi, et que celui qui vous a invités, toi et lui, ne vienne te dire : “Cède-lui la place” ; alors tu irais tout confus prendre la dernière place. Au contraire, quand tu es invité, va te mettre à la dernière place, afin qu’à son arrivée celui qui t’a invité te dise : “Mon ami, avance plus haut.” Alors ce sera pour toi un honneur devant tous ceux qui seront à table avec toi. Car tout homme qui s’élève sera abaissé et celui qui s’abaisse sera élevé. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 14, 12-14 <a name="luc-14-12-14"></a>
+>Il dit aussi à celui qui l’avait invité : « Quand tu donnes un déjeuner ou un dîner, n’invite pas tes amis, ni tes frères, ni tes parents, ni de riches voisins, sinon eux aussi t’inviteront en retour, et cela te sera rendu. Au contraire, quand tu donnes un festin, invite des pauvres, des estropiés, des boiteux, des aveugles, et tu seras heureux parce qu’ils n’ont pas de quoi te rendre : en effet, cela te sera rendu à la résurrection des justes. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 14, 25-33 <a name="luc-14-25-33"></a>
+>De grandes foules faisaient route avec Jésus ; il se retourna et leur dit : « Si quelqu’un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères, ses sœurs, et même à sa propre vie, il ne peut être mon disciple. Celui qui ne porte pas sa croix et ne marche pas à ma suite ne peut pas être mon disciple. En effet, lequel d’entre vous, quand il veut bâtir une tour, ne commence par s’asseoir pour calculer la dépense et juger s’il a de quoi aller jusqu’au bout ? Autrement, s’il pose les fondations sans pouvoir terminer, tous ceux qui le verront se mettront à se moquer de lui et diront : “Voilà un homme qui a commencé à bâtir et qui n’a pas pu terminer !” Ou quel roi, quand il part faire la guerre à un autre roi, ne commence par s’asseoir pour considérer s’il est capable, avec dix mille hommes, d’affronter celui qui marche contre lui avec vingt mille ? Sinon, pendant que l’autre est encore loin, il envoie une ambassade et demande à faire la paix. De la même façon, quiconque parmi vous ne renonce pas à tout ce qui lui appartient ne peut être mon disciple. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 14, 34-35 <a name="luc-14-34-35"></a>
+>« Oui, c’est une bonne chose que le sel. Mais si le sel lui-même perd sa saveur, avec quoi la lui rendra-t-on ? Il n’est bon ni pour la terre, ni pour le fumier ; on le jette dehors. Celui qui a des oreilles pour entendre, qu’il entende. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 16, 9-13 <a name="luc-16-9-13"></a>
+>« Eh bien ! moi, je vous dis : faites-vous des amis avec l’Argent trompeur pour qu’une fois celui-ci disparu, ces amis vous accueillent dans les demeures éternelles. Celui qui est digne de confiance pour une toute petite affaire est digne de confiance aussi pour une grande ; et celui qui est trompeur pour une toute petite affaire est trompeur aussi pour une grande. Si donc vous n’avez pas été dignes de confiance pour l’Argent trompeur, qui vous confiera le bien véritable ? Et si vous n’avez pas été dignes de confiance pour ce qui vous est étranger, qui vous donnera ce qui est à vous ? Aucun domestique ne peut servir deux maîtres : ou bien il haïra l’un et aimera l’autre, ou bien il s’attachera à l’un et méprisera l’autre. Vous ne pouvez servir Dieu et l’Argent. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 16, 14-18 <a name="luc-16-14-18"></a>
+>Les Pharisiens, qui aimaient l’argent, écoutaient tout cela, et ils ricanaient à son sujet. Jésus leur dit : « Vous, vous montrez votre justice aux yeux des hommes, mais Dieu connaît vos cœurs : ce qui pour les hommes est supérieur est une horreur aux yeux de Dieu. La Loi et les Prophètes vont jusqu’à Jean ; depuis lors, la bonne nouvelle du Royaume de Dieu est annoncée, et tout homme déploie sa force pour y entrer. Le ciel et la terre passeront plus facilement que ne tombera de la Loi une seule virgule. Tout homme qui répudie sa femme et en épouse une autre est adultère ; et celui qui épouse une femme répudiée par son mari est adultère. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 16, 19-31 <a name="luc-16-19-31"></a>
+>« Il y avait un homme riche qui s’habillait de pourpre et de linge fin et qui faisait chaque jour de brillants festins. Un pauvre du nom de Lazare gisait couvert d’ulcères au porche de sa demeure. Il aurait bien voulu se rassasier de ce qui tombait de la table du riche ; mais c’étaient plutôt les chiens qui venaient lécher ses ulcères. Or le pauvre mourut et fut emporté par les anges au côté d’Abraham ; le riche mourut aussi et fut enterré. Au séjour des morts, comme il était à la torture, il leva les yeux et vit de loin Abraham avec Lazare à ses côtés. Alors il s’écria : “Abraham, mon père, aie pitié de moi et envoie Lazare tremper le bout de son doigt dans l’eau pour me rafraîchir la langue, car je souffre le supplice dans ces flammes.” Abraham lui dit : “Mon enfant, souviens-toi que tu as reçu ton bonheur durant ta vie, comme Lazare le malheur ; et maintenant il trouve ici la consolation, et toi la souffrance. De plus, entre vous et nous, il a été disposé un grand abîme pour que ceux qui voudraient passer d’ici vers vous ne le puissent pas et que, de là non plus, on ne traverse pas vers nous.” Le riche dit : “Je te prie alors, père, d’envoyer Lazare dans la maison de mon père, car j’ai cinq frères. Qu’il les avertisse pour qu’ils ne viennent pas, eux aussi, dans ce lieu de torture.” Abraham lui dit : “Ils ont Moïse et les prophètes, qu’ils les écoutent.” L’autre reprit : “Non, Abraham, mon père, mais si quelqu’un vient à eux de chez les morts, ils se convertiront.” Abraham lui dit : “S’ils n’écoutent pas Moïse, ni les prophètes, même si quelqu’un ressuscite des morts, ils ne seront pas convaincus.” » (TOB)
+
+Reprendre le texte des apocryphes également !
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 17, 1-6 <a name="luc-17-1-6"></a>
+>Jésus dit à ses disciples : « Il est inévitable qu’il y ait des causes de chute. Mais malheureux celui par qui la chute arrive. Mieux vaut pour lui qu’on lui attache au cou une meule de moulin et qu’on le jette à la mer et qu’il ne fasse pas tomber un seul de ces petits. Tenez-vous sur vos gardes. Si ton frère vient à t’offenser, reprends-le ; et s’il se repent, pardonne-lui. Et si sept fois le jour il t’offense et que sept fois il revienne à toi en disant : “Je me repens”, tu lui pardonneras. » Les apôtres dirent au Seigneur : « Augmente en nous la foi. » Le Seigneur dit : « Si vraiment vous aviez de la foi gros comme une graine de moutarde, vous diriez à ce sycomore : “Déracine-toi et va te planter dans la mer”, et il vous obéirait. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 17, 7-10 <a name="luc-17-7-10"></a>
+>« Lequel d’entre vous, s’il a un serviteur qui laboure ou qui garde les bêtes, lui dira à son retour des champs : “Va vite te mettre à table” ? Est-ce qu’il ne lui dira pas plutôt : “Prépare-moi de quoi dîner, mets-toi en tenue pour me servir, le temps que je mange et boive ; et après tu mangeras et tu boiras à ton tour” ? A-t-il de la reconnaissance envers ce serviteur parce qu’il a fait ce qui lui était ordonné ? De même, vous aussi, quand vous avez fait tout ce qui vous était ordonné, dites : “Nous sommes des serviteurs quelconques. Nous avons fait seulement ce que nous devions faire.” » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 17, 20-21 <a name="luc-17-20-21"></a>
+>Les Pharisiens lui demandèrent : « Quand donc vient le Règne de Dieu ? » Il leur répondit : « Le Règne de Dieu ne vient pas comme un fait observable. On ne dira pas : “Le voici” ou “Le voilà”. En effet, le Règne de Dieu est parmi vous. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 17, 22-37 <a name="luc-17-22-37"></a>
+>Alors il dit aux disciples : « Des jours vont venir où vous désirerez voir ne fût-ce qu’un seul des jours du Fils de l’homme, et vous ne le verrez pas. On vous dira : “Le voilà, le voici.” Ne partez pas, ne vous précipitez pas. En effet, comme l’éclair en jaillissant brille d’un bout à l’autre de l’horizon, ainsi sera le Fils de l’homme lors de son Jour. Mais auparavant il faut qu’il souffre beaucoup et qu’il soit rejeté par cette génération. Et comme il en fut aux jours de Noé, ainsi en sera-t-il aux jours du Fils de l’homme : on mangeait, on buvait, on prenait femme, on prenait mari, jusqu’au jour où Noé entra dans l’arche ; alors le déluge vint et les fit tous périr. Ou aussi, comme il en fut aux jours de Loth : on mangeait, on buvait, on achetait, on vendait, on plantait, on bâtissait ; mais, le jour où Loth sortit de Sodome, Dieu fit tomber du ciel une pluie de feu et de soufre et les fit tous périr. Il en ira de la même manière le Jour où le Fils de l’homme se révélera. Ce Jour-là, celui qui sera sur la terrasse et qui aura ses affaires dans la maison, qu’il ne descende pas les prendre ; et de même celui qui sera au champ, qu’il ne revienne pas en arrière. Rappelez-vous la femme de Loth. Qui cherchera à conserver sa vie la perdra et qui la perdra la sauvegardera. Je vous le dis, cette nuit-là, deux hommes seront sur le même lit : l’un sera pris, et l’autre laissé. Deux femmes seront en train de moudre ensemble : l’une sera prise, et l’autre laissée. » Prenant la parole, les disciples lui demandèrent : « Où donc, Seigneur ? » Il leur dit : « Où sera le corps, c’est là que se rassembleront les vautours. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 18, 1-8 <a name="luc-18-1-8"></a>
+>Jésus leur dit une parabole sur la nécessité pour eux de prier constamment et de ne pas se décourager. Il leur dit : « Il y avait dans une ville un juge qui n’avait ni crainte de Dieu ni respect des hommes. Et il y avait dans cette ville une veuve qui venait lui dire : “Rends-moi justice contre mon adversaire.” Il s’y refusa longtemps. Et puis il se dit : “Même si je ne crains pas Dieu ni ne respecte les hommes, eh bien ! parce que cette veuve m’ennuie, je vais lui rendre justice, pour qu’elle ne vienne pas sans fin me casser la tête.” » Le Seigneur ajouta : « Ecoutez bien ce que dit ce juge sans justice. Et Dieu ne ferait pas justice à ses élus qui crient vers lui jour et nuit ? Et il les fait attendre ! Je vous le déclare : il leur fera justice bien vite. Mais le Fils de l’homme, quand il viendra, trouvera-t-il la foi sur la terre ? » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 18, 9-14 <a name="luc-18-9-14"></a>
+>Il dit encore la parabole que voici à certains qui étaient convaincus d’être justes et qui méprisaient tous les autres : « Deux hommes montèrent au temple pour prier ; l’un était Pharisien et l’autre collecteur d’impôts. Le Pharisien, debout, priait ainsi en lui-même : “O Dieu, je te rends grâce de ce que je ne suis pas comme les autres hommes, qui sont voleurs, malfaisants, adultères, ou encore comme ce collecteur d’impôts. Je jeûne deux fois par semaine, je paie la dîme de tout ce que je me procure.” Le collecteur d’impôts, se tenant à distance, ne voulait même pas lever les yeux au ciel, mais il se frappait la poitrine en disant : “O Dieu, prends pitié du pécheur que je suis.” Je vous le déclare : celui-ci redescendit chez lui justifié, et non l’autre, car tout homme qui s’élève sera abaissé, mais celui qui s’abaisse sera élevé. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 18, 15-17 <a name="luc-18-15-17"></a>
+>Des gens lui amenaient même les bébés pour qu’il les touche. Voyant cela, les disciples les rabrouaient. Mais Jésus fit venir à lui les bébés en disant : « Laissez les enfants venir à moi ; ne les empêchez pas, car le Royaume de Dieu est à ceux qui sont comme eux. En vérité, je vous le déclare, qui n’accueille pas le Royaume de Dieu comme un enfant n’y entrera pas. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 18, 18-30 <a name="luc-18-18-30"></a>
+>Un notable interrogea Jésus : « Bon maître, que dois-je faire pour recevoir la vie éternelle en partage ? » Jésus lui dit : « Pourquoi m’appelles-tu bon ? Nul n’est bon que Dieu seul. Tu connais les commandements : tu ne commettras pas d’adultère, tu ne commettras pas de meurtre, tu ne voleras pas, tu ne porteras pas de faux témoignage, honore ton père et ta mère. » Le notable répondit : « Tout cela, je l’ai observé dès ma jeunesse. » L’ayant entendu, Jésus lui dit : « Une seule chose encore te manque : tout ce que tu as, vends-le, distribue-le aux pauvres et tu auras un trésor dans les cieux ; puis viens, suis-moi. » Quand il entendit cela, l’homme devint tout triste, car il était très riche. Le voyant, Jésus dit : « Qu’il est difficile à ceux qui ont les richesses de parvenir dans le Royaume de Dieu ! Oui, il est plus facile à un chameau d’entrer par un trou d’aiguille qu’à un riche d’entrer dans le Royaume de Dieu. » Les auditeurs dirent : « Alors, qui peut être sauvé ? » Et lui répondit : « Ce qui est impossible aux hommes est possible à Dieu. » Pierre dit : « Pour nous, laissant nos propres biens, nous t’avons suivi. » Il leur répondit : « En vérité, je vous le déclare, personne n’aura laissé maison, femme, frères, parents ou enfants, à cause du Royaume de Dieu, qui ne reçoive beaucoup plus en ce temps-ci et, dans le monde à venir, la vie éternelle. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 19, 1-10 <a name="luc-19-1-10"></a>
+>Entré dans Jéricho, Jésus traversait la ville. Survint un homme appelé Zachée ; c’était un chef des collecteurs d’impôts et il était riche. Il cherchait à voir qui était Jésus, et il ne pouvait y parvenir à cause de la foule, parce qu’il était de petite taille. Il courut en avant et monta sur un sycomore afin de voir Jésus qui allait passer par là. Quand Jésus arriva à cet endroit, levant les yeux, il lui dit : « Zachée, descends vite : il me faut aujourd’hui demeurer dans ta maison. » Vite Zachée descendit et l’accueillit tout joyeux. Voyant cela, tous murmuraient ; ils disaient : « C’est chez un pécheur qu’il est allé loger. » Mais Zachée, s’avançant, dit au Seigneur : « Eh bien ! Seigneur, je fais don aux pauvres de la moitié de mes biens et, si j’ai fait tort à quelqu’un, je lui rends le quadruple. » Alors Jésus dit à son propos : « Aujourd’hui, le salut est venu pour cette maison, car lui aussi est un fils d’Abraham. En effet, le Fils de l’homme est venu chercher et sauver ce qui était perdu. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 19, 11-28 <a name="luc-19-11-28"></a>
+>Comme les gens écoutaient ces mots, Jésus ajouta une parabole parce qu’il était près de Jérusalem, et qu’eux se figuraient que le Règne de Dieu allait se manifester sur-le-champ. Il dit donc : « Un homme de haute naissance se rendit dans un pays lointain pour se faire investir de la royauté et revenir ensuite. Il appela dix de ses serviteurs, leur distribua dix mines et leur dit : “Faites des affaires jusqu’à mon retour.” Mais ses concitoyens le haïssaient et ils envoyèrent derrière lui une délégation pour dire : “Nous ne voulons pas qu’il règne sur nous.” Or, quand il revint après s’être fait investir de la royauté, il fit appeler devant lui ces serviteurs à qui il avait distribué l’argent, pour savoir quelles affaires chacun avait faites. Le premier se présenta et dit : “Seigneur, ta mine a rapporté dix mines.” Il lui dit : “C’est bien, bon serviteur, puisque tu as été fidèle dans une toute petite affaire, reçois autorité sur dix villes.” Le second vint et dit : “Ta mine, Seigneur, a produit cinq mines.” Il dit de même à celui-là : “Toi, sois à la tête de cinq villes.” Un autre vint et dit : “Seigneur, voici ta mine, je l’avais mise de côté dans un linge. Car j’avais peur de toi parce que tu es un homme sévère : tu retires ce que tu n’as pas déposé et tu moissonnes ce que tu n’as pas semé.” Il lui dit : “C’est d’après tes propres paroles que je vais te juger, mauvais serviteur. Tu savais que je suis un homme sévère, que je retire ce que je n’ai pas déposé et que je moissonne ce que je n’ai pas semé. Alors, pourquoi n’as-tu pas mis mon argent à la banque ? A mon retour, je l’aurais repris avec un intérêt.” Puis il dit à ceux qui étaient là : “Retirez-lui sa mine, et donnez-la à celui qui en a dix.” Ils lui dirent : “Seigneur, il a déjà dix mines !” – “Je vous le dis : à tout homme qui a, l’on donnera, mais à celui qui n’a pas, même ce qu’il a lui sera retiré. Quant à mes ennemis, ces gens qui ne voulaient pas que je règne sur eux, amenez-les ici et égorgez-les devant moi.” » Sur ces mots, Jésus partit en avant pour monter à Jérusalem. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 20, 20-26 <a name="luc-20-20-26"></a>
+>S’étant postés en observation, ils envoyèrent à Jésus des indicateurs jouant les justes ; ils voulaient le prendre en défaut dans ce qu’il dirait, pour le livrer à l’autorité et au pouvoir du gouverneur. Ils lui posèrent cette question : « Maître, nous savons que tu parles et enseignes de façon correcte, que tu es impartial et que tu enseignes les chemins de Dieu selon la vérité. Nous est-il permis, oui ou non, de payer l’impôt à César ? » Pénétrant leur fourberie, Jésus leur dit : « Faites-moi voir une pièce d’argent. De qui porte-t-elle l’effigie et l’inscription ? » Ils répondirent : « De César. » Il leur dit : « Eh bien ! rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. » Et ils ne purent le prendre en défaut devant le peuple dans ses propos et, étonnés de sa réponse, ils gardèrent le silence. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 20, 27-40 <a name="luc-20-27-40"></a>
+>Alors s’approchèrent quelques Sadducéens. Les Sadducéens contestent qu’il y ait une résurrection. Ils lui posèrent cette question : « Maître, Moïse a écrit pour nous : Si un homme a un frère marié qui meurt sans enfants, qu’il épouse la veuve et donne une descendance à son frère. Or il y avait sept frères. Le premier prit femme et mourut sans enfant. Le second, puis le troisième épousèrent la femme, et ainsi tous les sept : ils moururent sans laisser d’enfant. Finalement la femme mourut aussi. Eh bien ! cette femme, à la résurrection, duquel d’entre eux sera-t-elle la femme, puisque les sept l’ont eue pour femme ? » Jésus leur dit : « Ceux qui appartiennent à ce monde-ci prennent femme ou mari. Mais ceux qui ont été jugés dignes d’avoir part au monde à venir et à la résurrection des morts ne prennent ni femme ni mari. C’est qu’ils ne peuvent plus mourir, car ils sont pareils aux anges : ils sont fils de Dieu puisqu’ils sont fils de la résurrection. Et que les morts doivent ressusciter, Moïse lui-même l’a indiqué dans le récit du buisson ardent, quand il appelle le Seigneur le Dieu d’Abraham, le Dieu d’Isaac et le Dieu de Jacob. Dieu n’est pas le Dieu des morts, mais des vivants, car tous sont vivants pour lui. » Quelques scribes, prenant la parole, dirent : « Maître, tu as bien parlé. » Car ils n’osaient plus l’interroger sur rien. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 21, 1-4 <a name="luc-21-1-4"></a>
+>Levant les yeux, Jésus vit ceux qui mettaient leurs offrandes dans le tronc. C’étaient des riches. Il vit aussi une veuve misérable qui y mettait deux petites pièces, et il dit : « Vraiment, je vous le déclare, cette veuve pauvre a mis plus que tous les autres. Car tous ceux-là ont pris sur leur superflu pour mettre dans les offrandes ; mais elle, elle a pris sur sa misère pour mettre tout ce qu’elle avait pour vivre. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 21, 12-19 <a name="luc-21-12-19"></a>
+>« Mais avant tout cela, on portera la main sur vous et on vous persécutera ; on vous livrera aux synagogues, on vous mettra en prison ; on vous traînera devant des rois et des gouverneurs à cause de mon nom. Cela vous donnera une occasion de témoignage. Mettez-vous en tête que vous n’avez pas à préparer votre défense. Car, moi, je vous donnerai un langage et une sagesse que ne pourra contrarier ni contredire aucun de ceux qui seront contre vous. Vous serez livrés même par vos pères et mères, par vos frères, vos parents et vos amis, et ils feront condamner à mort plusieurs d’entre vous. Vous serez haïs de tous à cause de mon nom ; mais pas un cheveu de votre tête ne sera perdu. C’est par votre persévérance que vous gagnerez la vie. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 21, 34-36 <a name="luc-21-34-36"></a>
+>« Tenez-vous sur vos gardes, de crainte que vos cœurs ne s’alourdissent dans l’ivresse, les beuveries et les soucis de la vie, et que ce jour-là ne tombe sur vous à l’improviste, comme un filet ; car il s’abattra sur tous ceux qui se trouvent sur la face de la terre entière. Mais restez éveillés dans une prière de tous les instants pour être jugés dignes d’échapper à tous ces événements à venir et de vous tenir debout devant le Fils de l’homme. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+### Luc 22, 39-46 <a name="luc-22-39-46"></a>
+>Il sortit et se rendit comme d’habitude au mont des Oliviers, et les disciples le suivirent. Arrivé sur place, il leur dit : « Priez pour ne pas tomber au pouvoir de la tentation. » Et lui s’éloigna d’eux à peu près à la distance d’un jet de pierre ; s’étant mis à genoux, il priait, disant : « Père, si tu veux écarter de moi cette coupe… Pourtant, que ce ne soit pas ma volonté mais la tienne qui se réalise ! » Alors lui apparut du ciel un ange qui le fortifiait. Pris d’angoisse, il priait plus instamment, et sa sueur devint comme des caillots de sang qui tombaient à terre. Quand, après cette prière, il se releva et vint vers les disciples, il les trouva endormis de tristesse. Il leur dit : « Quoi ! Vous dormez ! Levez-vous et priez afin de ne pas tomber au pouvoir de la tentation ! » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Luc](#luc)</sub>
+
+
+
+
+
+
+
+
+
+
 
 
 ## Evangile de Jésus-Christ selon saint Jean <a name="jean"></a>
@@ -244,6 +586,44 @@ la restauration et la nouelle dédicace du Temple qui suivirent la victoire de J
 <sub><b id="f4-jean-12-44-50">4</b>[TOB 10, 48↵](#a4-jean-12-44-50) Jn transpose sur la parole de Jésus ce que le judaïsme disait de la Loi qui devient, au jugement, la norme de la condamnation (voir Mc 8, 38).</sub>
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Jean](#jean)</sub>
+
+
+## Actes des Apôtres <a name="actes"></a>
+
+### Actes 2, 42-47 <a name="actes-2-42-47"></a>
+>Ils étaient assidus à l’enseignement des apôtres et à la communion fraternelle, à la fraction du pain et aux prières. La crainte gagnait tout le monde : beaucoup de prodiges et de signes s’accomplissaient par les apôtres. Tous ceux qui étaient devenus croyants étaient unis et mettaient tout en commun. Ils vendaient leurs propriétés et leurs biens, pour en partager le prix entre tous, selon les besoins de chacun. Unanimes, ils se rendaient chaque jour assidûment au temple ; ils rompaient le pain à domicile, prenant leur nourriture dans l’allégresse et la simplicité de cœur. Ils louaient Dieu et trouvaient un accueil favorable auprès du peuple tout entier. Et le Seigneur adjoignait chaque jour à la communauté ceux qui trouvaient le salut. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour aux Actes](#actes)</sub>
+
+### Actes 4, 32-37 <a name="actes-4-32-37"></a>
+>La multitude de ceux qui étaient devenus croyants n’avait qu’un cœur et qu’une âme, et nul ne considérait comme sa propriété l’un quelconque de ses biens ; au contraire, ils mettaient tout en commun. Une grande puissance marquait le témoignage rendu par les apôtres à la résurrection du Seigneur Jésus, et une grande grâce était à l’œuvre chez eux tous. Nul parmi eux n’était indigent : en effet, ceux qui se trouvaient possesseurs de terrains ou de maisons les vendaient, apportaient le prix des biens qu’ils avaient cédés et le déposaient aux pieds des apôtres. Chacun en recevait une part selon ses besoins. Ainsi Joseph, surnommé Barnabas par les apôtres – ce qui signifie l’homme du réconfort – possédait un champ. C’était un lévite, originaire de Chypre. Il vendit son champ, en apporta le montant et le déposa aux pieds des apôtres. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour aux Actes](#actes)</sub>
+
+### Actes 15, 5-21 <a name="actes-15-5-21"></a>
+>Des fidèles issus du pharisaïsme intervinrent alors pour soutenir qu’il fallait circoncire les païens et leur prescrire d’observer la loi de Moïse. Les apôtres et les anciens se réunirent pour examiner cette affaire. Comme la discussion était devenue vive, Pierre intervint pour déclarer : « Vous le savez, frères, c’est par un choix de Dieu que, dès les premiers jours et chez vous, les nations païennes ont entendu de ma bouche la parole de l’Evangile et sont devenues croyantes. Dieu, qui connaît les cœurs, leur a rendu témoignage, quand il leur a donné, comme à nous, l’Esprit Saint. Sans faire la moindre différence entre elles et nous, c’est par la foi qu’il a purifié leurs cœurs. Dès lors, pourquoi provoquer Dieu en imposant à la nuque des disciples un joug que ni nos pères ni nous-mêmes n’avons été capables de porter ? Encore une fois, c’est par la grâce du Seigneur Jésus, nous le croyons, que nous avons été sauvés, exactement comme eux ! » Il y eut alors un silence dans toute l’assemblée, puis l’on écouta Barnabas et Paul raconter tous les signes et les prodiges que Dieu, par leur intermédiaire, avait accomplis chez les païens. Quand ils eurent achevé, Jacques à son tour prit la parole : « Frères, écoutez-moi. Syméon vient de nous rappeler comment Dieu, dès le début, a pris soin de choisir parmi les nations païennes un peuple à son nom. Cet événement s’accorde d’ailleurs avec les paroles des prophètes puisqu’il est écrit : Après cela, je viendrai reconstruire la hutte écroulée de David. Les ruines qui en restent, je les reconstruirai, et je la remettrai debout. Dès lors le reste des hommes cherchera le Seigneur, avec toutes les nations qui portent mon nom. Voilà ce que dit le Seigneur, il réalise ainsi ses projets connus depuis toujours. « Je suis donc d’avis de ne pas accumuler les obstacles devant ceux des païens qui se tournent vers Dieu. Ecrivons-leur simplement de s’abstenir des souillures de l’idolâtrie, de l’immoralité, de la viande étouffée et du sang. Depuis des générations, en effet, Moïse dispose de prédicateurs dans chaque ville, puisqu’on le lit tous les sabbats dans les synagogues. » (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour aux Actes](#actes)</sub>
+
+### Actes 20, 17-38 <a name="actes-20-17-38"></a>
+>De Milet, Paul fit convoquer les anciens de l’Eglise d’Ephèse. Quand ils l’eurent rejoint, il leur déclara : « Vous savez quelle a toujours été ma conduite à votre égard depuis le jour de mon arrivée en Asie. J’ai servi le Seigneur en toute humilité, dans les larmes et au milieu des épreuves que m’ont values les complots des Juifs. Je n’ai rien négligé de ce qui pouvait vous être utile ; au contraire, j’ai prêché, je vous ai instruits, en public comme en privé ; mon témoignage appelait et les Juifs et les Grecs à se convertir à Dieu et à croire en notre Seigneur Jésus. Maintenant, prisonnier de l’Esprit, me voici en route pour Jérusalem ; je ne sais pas quel y sera mon sort, mais en tout cas, l’Esprit Saint me l’atteste de ville en ville, chaînes et détresses m’y attendent. Je n’attache d’ailleurs vraiment aucun prix à ma propre vie ; mon but, c’est de mener à bien ma course et le service que le Seigneur Jésus m’a confié : rendre témoignage à l’Evangile de la grâce de Dieu. Désormais, je le sais bien, voici que vous ne reverrez plus mon visage, vous tous parmi lesquels j’ai passé en proclamant le Règne. Je peux donc l’attester aujourd’hui devant vous : je suis pur du sang de tous. Je n’ai vraiment rien négligé : au contraire, c’est le plan de Dieu tout entier que je vous ai annoncé. Prenez soin de vous-mêmes et de tout le troupeau dont l’Esprit Saint vous a établis les gardiens, soyez les bergers de l’Eglise de Dieu, qu’il s’est acquise par son propre sang. Je sais bien qu’après mon départ s’introduiront parmi vous des loups féroces qui n’épargneront pas le troupeau ; de vos propres rangs surgiront des hommes aux paroles perverses qui entraîneront les disciples à leur suite. Soyez donc vigilants, vous rappelant que, nuit et jour pendant trois ans, je n’ai pas cessé, dans les larmes, de reprendre chacun d’entre vous. Et maintenant, je vous remets à Dieu et à sa parole de grâce, qui a la puissance de bâtir l’édifice et d’assurer l’héritage à tous les sanctifiés. Je n’ai convoité l’argent, l’or ou le vêtement de personne. Les mains que voici, vous le savez vous-mêmes, ont pourvu à mes besoins et à ceux de mes compagnons. Je vous l’ai toujours montré, c’est en peinant de la sorte qu’il faut venir en aide aux faibles et se souvenir de ces mots que le Seigneur Jésus lui-même a prononcés : Il y a plus de bonheur à donner qu’à recevoir. Après ces paroles, il se mit à genoux avec eux tous et pria. Tout le monde alors éclata en sanglots et se jetait au cou de Paul pour l’embrasser – leur tristesse venait surtout de la phrase où il avait dit qu’ils ne devaient plus revoir son visage –, puis on l’accompagna jusqu’au bateau. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour aux Actes](#actes)</sub>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
