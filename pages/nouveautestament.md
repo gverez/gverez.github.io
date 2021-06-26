@@ -59,7 +59,7 @@ Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurect
 
 <sub><b id="f1-jean-6-52-59">1</b>[TOB 6, 52↵](#a1-jean-6-52-59) Voir 6, 41 et note.</sub>
 
-<sub><b id="f2-jean-6-52-59">2</b>[TOB 6, 53↵](#a2-jean-6-52-59) On eretrouve ici la plupart des thèmes exposés dans les sections précédentes et, rétrospectivement, c'est l'ensemble des développements antérieurs qui prennent une coloration eucharistique.</sub>
+<sub><b id="f2-jean-6-52-59">2</b>[TOB 6, 53↵](#a2-jean-6-52-59) On retrouve ici la plupart des thèmes exposés dans les sections précédentes et, rétrospectivement, c'est l'ensemble des développements antérieurs qui prennent une coloration eucharistique.</sub>
 
 <sub><b id="f3-jean-6-52-59">3</b>[TOB 6, 54↵](#a3-jean-6-52-59) *Celui qui mange* : litt. *mâcher, croquer* : Jn utilise un vocabulaire particulièrement réaliste pour caractériser la participation à l'Eucharistie. Il met ainsi en garde ses lecteurs contre une interprétation docète du ministère de Jésus. Selon la coutume juive, les aliments du repas pascal devaient être soigneusement mâchés. — Le Fils de l'homme vient du ciel et remonte au ciel ; et ceux qui croient en lui et participent au sacrement, partageront cette vie céleste qui est en lui. L'Ecuharistie est le ferment de la résurrection pour ceux qui croient (voir 6, 39.40-44 ; 5, 21-29).</sub>
 
@@ -71,14 +71,20 @@ Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurect
 
 
 
-### Jean 6, 52-59 <a name="jean-6-60-69"></a>
->En ce temps-là, Jésus avait donné un enseignement dans la synagogue de Capharnaüm. Beaucoup de ses disciples, qui avaient entendu, déclarèrent : « Cette parole est rude ! Qui peut l’entendre ? » Jésus savait en lui-même que ses disciples récriminaient à son sujet. Il leur dit : « Cela vous scandalise ? Et quand vous verrez le Fils de l’homme monter là où il était auparavant !... C’est l’esprit qui fait vivre, la chair n’est capable de rien. **Les paroles que je vous ai dites sont esprit et elles sont vie** [[Jean Chrysostome](/references/jeanchrysostome.html#jean-6-60-69)]. Mais il y en a parmi vous qui ne croient pas. » Jésus savait en effet depuis le commencement quels étaient ceux qui ne croyaient pas, et qui était celui qui le livrerait. Il ajouta : « Voilà pourquoi je vous ai dit que personne ne peut venir à moi si cela ne lui est pas donné par le Père. » À partir de ce moment, beaucoup de ses disciples s’en retournèrent et cessèrent de l’accompagner. Alors Jésus dit aux Douze : « Voulez-vous partir, vous aussi ? » Simon-Pierre lui répondit : « Seigneur, à qui irions-nous ? Tu as les paroles de la vie éternelle. Quant à nous, nous croyons, et nous savons que tu es le Saint de Dieu. »
+### Jean 6, 60-69 <a name="jean-6-60-69"></a>
+>En ce temps-là, Jésus avait donné un enseignement dans la synagogue de Capharnaüm. Beaucoup de ses disciples, qui avaient entendu, déclarèrent : « Cette parole est rude ! Qui peut l’entendre ? » Jésus savait en lui-même que ses disciples récriminaient à son sujet. Il leur dit : « Cela vous scandalise ? Et quand vous verrez le Fils de l’homme monter là où il était auparavant !...<sup id="a1-jean-6-60-69">[1](#f1-jean-6-60-69)</sup> C’est l’esprit qui fait vivre, la chair n’est capable de rien. **Les paroles que je vous ai dites sont esprit et elles sont vie**<sup id="a2-jean-6-60-69">[2](#f2-jean-6-60-69)</sup> [[Jean Chrysostome](/references/jeanchrysostome.html#jean-6-60-69)]. Mais il y en a parmi vous qui ne croient pas. » Jésus savait en effet depuis le commencement quels étaient ceux qui ne croyaient pas, et qui était celui qui le livrerait<sup id="a3-jean-6-60-69">[3](#f3-jean-6-60-69)</sup>. Il ajouta : « Voilà pourquoi je vous ai dit que personne ne peut venir à moi si cela ne lui est pas donné par le Père. » À partir de ce moment, beaucoup de ses disciples s’en retournèrent et cessèrent de l’accompagner. Alors Jésus dit aux Douze : « Voulez-vous partir, vous aussi ? » Simon-Pierre lui répondit : « Seigneur, à qui irions-nous ? Tu as les paroles de la vie éternelle. Quant à nous, nous croyons, et nous savons que tu es le Saint de Dieu<sup id="a4-jean-6-60-69">[4](#f4-jean-6-60-69)</sup>. »
 
 — Traduction Liturgique de la Bible.
 
-Sujets : *Esprit, vie, chair*
+Sujets : *Esprit, vie, chair, crucifixion, foi*
 
-<sub>/!\ manque notes de la TOB </sub>
+<sub><b id="f1-jean-6-60-69">1</b>[TOB 6, 62↵](#a1-jean-6-60-69) La phrase reste inachevée. En même temps qu'elle constitue le scandale suprême, la croix apparaît, aux yeux de la foi, comme le retour du Fils dans la gloire qui était la sienne dès avant la création (1, 15 ; 17, 5.24). Ainsi les paroles prononcées précédemment prendront tout leur sens à la lumière de la glorification de Jésus et du don de l'Esprit qui en découle (7, 39). Il faut, à travers la condition terrestre de Jésus et sa croix (voir 13, 7), discerner sa gloire et reconnaître la vérité et la puissance de ses paroles et de ses gestes. Si les v. 51-58 font partie intégrante du discours (voir 6, 51 n.), on comprendra qu'il faut avoir découvert la gloire de Jésus pour reconnaître la puissance de vie de l'eucharistie.</sub>
+
+<sub><b id="f2-jean-6-60-69">2</b>[TOB 6, 63↵](#a2-jean-6-60-69) En opposant la *chair* à l'*esprit*, Jn ne distingue pas deux parties de l'homme ; il décrit deux manières de vivre. La *chair* c'est l'homme livré à lui-même et aux limites de ses possibilités : il ne peut, de lui-même, percevoir le sens profond des paroles et des signes de Jésus, ni croire (voir 6, 37 n.). L'*esprit* c'est la puissance de vie qui éclaire l'homme, lui ouvre les yeux, lui permet de discerner la Parole qui s'exprime en Jésus.</sub>
+
+<sub><b id="f3-jean-6-60-69">3</b>[TOB 6, 64↵](#a3-jean-6-60-69) Voir 1, 42 n. La foi qui ne résiste pas au scandale suscité par les affirmations de Jésus est vaine. *Il savait qui était celui qui allait le livrer* : Jn annonce ici la trahison de Judas (13, 11.18.21-30). Dans Jn, Jésus préside lui-même à sa Passion, en connaît l'Heure (11, 4 ; 13, 1 ; 18, 4) et va au-devant d'elle (voir 2, 4 n. ; 12, 27 n.).(</sub>
+
+<sub><b id="f4-jean-6-60-69">4</b>[TOB 6, 69↵](#a4-jean-6-60-69) La foi véritable, par contraste, est l'adhésion sans réserve à celui dont les paroles promettent et communiquent la vie éternelle : il est effectivement l'envoyé que Dieu a consacré (voir 10, 36 ; 17, 17-19). Cette scène rappelle la confession de Césarée (Mt 16, 16-23 ; Mc 8, 27-33 ; surtout Lc 9, 18-22).</sub>
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Jean](#jean)</sub>
 
