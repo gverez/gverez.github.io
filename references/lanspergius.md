@@ -14,4 +14,4 @@
 >
 >Dès lors, frères très chers, réfléchissez à toutes les vertus que le Christ nous a enseignées par sa vie exemplaire, qu'il nous recommande par ses exhortations et qu'il nous donne la force d'imiter avec l'aide de sa grâce.
 
-
+[[Retour au texte](/pages/nouveautestament.html#jean-12-44-50)]
