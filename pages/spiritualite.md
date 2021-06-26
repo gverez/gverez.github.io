@@ -12,6 +12,10 @@
 
 [Jn 10, 11-18, Comme le Père me connaît, et que je connais le Père](/pages/nouveautestament.html#jean-10-11-18)
 
+[Jn 10, 22-30, Le Père et moi, nous sommes UN](/pages/nouveautestament.html#jean-10-22-30)
+
+[Jn 12, 44-50, Le Père lui-même, qui m’a envoyé](/pages/nouveautestament.html#jean-12-44-50)
+
 ## Eucharistie
 [Jn 6, 44-51, Le pain qui descend du ciel est tel que celui qui en mange ne mourra pas](/pages/nouveautestament.html#jean-6-44-51)
 
@@ -29,12 +33,18 @@
 ## Foi
 [Jn 6, 60-69, Quant à nous, nous croyons, et nous savons que tu es le Saint de Dieu](/pages/nouveautestament.html#jean-6-60-69)
 
+[Jn 10, 22-30, Je vous l'ai dit, et vous ne croyez pas](/pages/nouveautestament.html#jean-10-22-30)
+
+[Jn 12, 44-50, Celui qui croit en moi, ce n’est pas en moi qu’il croit, mais en Celui qui m’a envoyé](/pages/nouveautestament.html#jean-12-44-50)
+
 ## Je suis
 [Jn 6, 44-51, Je suis le pain de la vie](/pages/nouveautestament.html#jean-6-44-51)
 
 [Jn 10, 1-10, Je suis la porte](/pages/nouveautestament.html#jean-10-1-10)
 
 [Jn 10, 11-18, Je suis le bon pasteur, le vrai berger](/pages/nouveautestament.html#jean-10-11-18)
+
+[Jn 12, 44-50, Moi qui suis la lumière](/pages/nouveautestament.html#jean-12-44-50)
 
 ## Universalité
 [Jn 10, 11-18, Il y aura un seul troupeau et un seul pasteur](/pages/nouveautestament.html#jean-10-11-18)
