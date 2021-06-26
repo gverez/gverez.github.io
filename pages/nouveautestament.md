@@ -10,9 +10,103 @@
 ## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
 
 ### Matthieu 5, 3-12 <a name="matthieu-5-3-12"></a>
->Heureux les pauvres de cœur : le Royaume des cieux est à eux. Heureux les doux : ils auront la terre en partage. Heureux ceux qui pleurent : ils seront consolés. Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés. Heureux les miséricordieux : il leur sera fait miséricorde. Heureux les cœurs purs : ils verront Dieu. Heureux ceux qui font œuvre de paix : ils seront appelés fils de Dieu. Heureux ceux qui sont persécutés pour la justice : le Royaume des cieux est à eux. Heureux êtes-vous lorsque l’on vous insulte, que l’on vous persécute et que l’on dit faussement contre vous toute sorte de mal à cause de moi. Soyez dans la joie et l’allégresse, car votre récompense est grande dans les cieux ; c’est ainsi en effet qu’on a persécuté les prophètes qui vous ont précédés.
+>Heureux les pauvres de cœur : le Royaume des cieux est à eux. Heureux les doux : ils auront la terre en partage. Heureux ceux qui pleurent : ils seront consolés. Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés. Heureux les miséricordieux : il leur sera fait miséricorde. Heureux les cœurs purs : ils verront Dieu. Heureux ceux qui font œuvre de paix : ils seront appelés fils de Dieu. Heureux ceux qui sont persécutés pour la justice : le Royaume des cieux est à eux. Heureux êtes-vous lorsque l’on vous insulte, que l’on vous persécute et que l’on dit faussement contre vous toute sorte de mal à cause de moi. Soyez dans la joie et l’allégresse, car votre récompense est grande dans les cieux ; c’est ainsi en effet qu’on a persécuté les prophètes qui vous ont précédés. (TOB)
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 13-16 <a name="matthieu-5-13-16"></a>
+>« Vous êtes le sel de la terre. Si le sel perd sa saveur, comment redeviendra-t-il du sel ? Il ne vaut plus rien ; on le jette dehors et il est foulé aux pieds par les hommes. Vous êtes la lumière du monde. Une ville située sur une hauteur ne peut être cachée. Quand on allume une lampe, ce n’est pas pour la mettre sous le boisseau, mais sur son support, et elle brille pour tous ceux qui sont dans la maison. De même, que votre lumière brille aux yeux des hommes, pour qu’en voyant vos bonnes actions ils rendent gloire à votre Père qui est aux cieux. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 17-20 <a name="matthieu-5-17-20"></a>
+>« N’allez pas croire que je sois venu abroger la Loi ou les Prophètes : je ne suis pas venu abroger, mais accomplir. Car, en vérité je vous le déclare, avant que ne passent le ciel et la terre, pas un i, pas un point sur l’i ne passera de la loi, que tout ne soit arrivé. Dès lors celui qui transgressera un seul de ces plus petits commandements et enseignera aux hommes à faire de même sera déclaré le plus petit dans le Royaume des cieux ; au contraire, celui qui les mettra en pratique et les enseignera, celui-là sera déclaré grand dans le Royaume des cieux. Car je vous le dis : si votre justice ne surpasse pas celle des scribes et des Pharisiens, non, vous n’entrerez pas dans le Royaume des cieux. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 21-26 <a name="matthieu-5-21-26"></a>
+>« Vous avez appris qu’il a été dit aux anciens : Tu ne commettras pas de meurtre ; celui qui commettra un meurtre en répondra au tribunal. Et moi, je vous le dis : quiconque se met en colère contre son frère en répondra au tribunal ; celui qui dira à son frère : “Imbécile” sera justiciable du Sanhédrin ; celui qui dira : “Fou” sera passible de la géhenne de feu. Quand donc tu vas présenter ton offrande à l’autel, si là tu te souviens que ton frère a quelque chose contre toi, laisse là ton offrande, devant l’autel, et va d’abord te réconcilier avec ton frère ; viens alors présenter ton offrande. Mets-toi vite d’accord avec ton adversaire, tant que tu es encore en chemin avec lui, de peur que cet adversaire ne te livre au juge, le juge au gendarme, et que tu ne sois jeté en prison. En vérité, je te le déclare : tu n’en sortiras pas tant que tu n’auras pas payé jusqu’au dernier centime. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 27-30 <a name="matthieu-5-27-30"></a>
+>« Vous avez appris qu’il a été dit : Tu ne commettras pas d’adultère. Et moi, je vous dis : quiconque regarde une femme avec convoitise a déjà, dans son cœur, commis l’adultère avec elle. Si ton œil droit entraîne ta chute, arrache-le et jette-le loin de toi : car il est préférable pour toi que périsse un seul de tes membres et que ton corps tout entier ne soit pas jeté dans la géhenne. Et si ta main droite entraîne ta chute, coupe-la et jette-la loin de toi : car il est préférable pour toi que périsse un seul de tes membres et que ton corps tout entier ne s’en aille pas dans la géhenne. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 31-32 <a name="matthieu-5-31-32"></a>
+>« D’autre part il a été dit : Si quelqu’un répudie sa femme, qu’il lui remette un certificat de répudiation. Et moi, je vous dis : quiconque répudie sa femme – sauf en cas d’union illégale – la pousse à l’adultère ; et si quelqu’un épouse une répudiée, il est adultère. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 33-37 <a name="matthieu-5-33-37"></a>
+>« Vous avez encore appris qu’il a été dit aux anciens : Tu ne te parjureras pas, mais tu t’acquitteras envers le Seigneur de tes serments. Et moi, je vous dis de ne pas jurer du tout : ni par le ciel car c’est le trône de Dieu, ni par la terre car c’est l’escabeau de ses pieds, ni par Jérusalem car c’est la Ville du grand Roi. Ne jure pas non plus par ta tête, car tu ne peux en rendre un seul cheveu blanc ou noir. Quand vous parlez, dites “Oui” ou “Non” : tout le reste vient du Malin. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 38-42 <a name="matthieu-5-38-42"></a>
+>« Vous avez appris qu’il a été dit : Œil pour œil et dent pour dent. Et moi, je vous dis de ne pas résister au méchant. Au contraire, si quelqu’un te gifle sur la joue droite, tends-lui aussi l’autre. A qui veut te mener devant le juge pour prendre ta tunique, laisse aussi ton manteau. Si quelqu’un te force à faire mille pas, fais-en deux mille avec lui. A qui te demande, donne ; à qui veut t’emprunter, ne tourne pas le dos. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 5, 43-48 <a name="matthieu-5-43-48"></a>
+>« Vous avez appris qu’il a été dit : Tu aimeras ton prochain et tu haïras ton ennemi. Et moi, je vous dis : Aimez vos ennemis et priez pour ceux qui vous persécutent, afin d’être vraiment les fils de votre Père qui est aux cieux, car il fait lever son soleil sur les méchants et sur les bons, et tomber la pluie sur les justes et les injustes. Car si vous aimez ceux qui vous aiment, quelle récompense allez-vous en avoir ? Les collecteurs d’impôts eux-mêmes n’en font-ils pas autant ? Et si vous saluez seulement vos frères, que faites-vous d’extraordinaire ? Les païens n’en font-ils pas autant ? Vous donc, vous serez parfaits comme votre Père céleste est parfait. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 6, 1-4 <a name="matthieu-6-1-4"></a>
+>« Gardez-vous de pratiquer votre religion devant les hommes pour attirer leurs regards ; sinon, pas de récompense pour vous auprès de votre Père qui est aux cieux. Quand donc tu fais l’aumône, ne le fais pas claironner devant toi, comme font les hypocrites dans les synagogues et dans les rues, en vue de la gloire qui vient des hommes. En vérité, je vous le déclare : ils ont reçu leur récompense. Pour toi, quand tu fais l’aumône, que ta main gauche ignore ce que fait ta main droite, afin que ton aumône reste dans le secret ; et ton Père, qui voit dans le secret, te le rendra. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 6, 5-8 <a name="matthieu-6-5-8"></a>
+>« Et quand vous priez, ne soyez pas comme les hypocrites qui aiment faire leurs prières debout dans les synagogues et les carrefours, afin d’être vus des hommes. En vérité, je vous le déclare : ils ont reçu leur récompense. Pour toi, quand tu veux prier, entre dans ta chambre la plus retirée, verrouille ta porte et adresse ta prière à ton Père qui est là dans le secret. Et ton Père, qui voit dans le secret, te le rendra. Quand vous priez, ne rabâchez pas comme les païens ; ils s’imaginent que c’est à force de paroles qu’ils se feront exaucer. Ne leur ressemblez donc pas, car votre Père sait ce dont vous avez besoin, avant que vous le lui demandiez. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 6, 9-14 <a name="matthieu-6-9-14"></a>
+>« Vous donc, priez ainsi : Notre Père qui es aux cieux, fais connaître à tous qui tu es, fais venir ton Règne, fais se réaliser ta volonté sur la terre à l’image du ciel. Donne-nous aujourd’hui le pain dont nous avons besoin, pardonne-nous nos torts envers toi, comme nous-mêmes nous avons pardonné à ceux qui avaient des torts envers nous, et ne nous conduis pas dans la tentation, mais délivre-nous du Tentateur. En effet, si vous pardonnez aux hommes leurs fautes, votre Père céleste vous pardonnera à vous aussi ; mais si vous ne pardonnez pas aux hommes, votre Père non plus ne vous pardonnera pas vos fautes. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 6, 16-18 <a name="matthieu-6-16-18"></a>
+>« Quand vous jeûnez, ne prenez pas un air sombre, comme font les hypocrites : ils prennent une mine défaite pour bien montrer aux hommes qu’ils jeûnent. En vérité, je vous le déclare : ils ont reçu leur récompense. Pour toi, quand tu jeûnes, parfume-toi la tête et lave-toi le visage, pour ne pas montrer aux hommes que tu jeûnes, mais seulement à ton Père qui est là dans le secret ; et ton Père, qui voit dans le secret, te le rendra. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 6, 19-21 <a name="matthieu-6-19-21"></a>
+>« Ne vous amassez pas de trésors sur la terre, où les mites et les vers font tout disparaître, où les voleurs percent les murs et dérobent. Mais amassez-vous des trésors dans le ciel, où ni les mites ni les vers ne font de ravages, où les voleurs ne percent ni ne dérobent. Car où est ton trésor, là aussi sera ton cœur. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 6, 22-23 <a name="matthieu-6-22-23"></a>
+>« La lampe du corps, c’est l’œil. Si donc ton œil est sain, ton corps tout entier sera dans la lumière. Mais si ton œil est malade, ton corps tout entier sera dans les ténèbres. Si donc la lumière qui est en toi est ténèbres, quelles ténèbres ! (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+### Matthieu 6, 24 <a name="matthieu-6-24"></a>
+>« Nul ne peut servir deux maîtres : ou bien il haïra l’un et aimera l’autre, ou bien il s’attachera à l’un et méprisera l’autre. Vous ne pouvez servir Dieu et l’Argent. (TOB)
+
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Matthieu 11, 25-30  <a name="matthieu-11-25-30"></a>
 >Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a1-matthieu-11-25-30">[1](#f1-matthieu-11-25-30)</sup> [[Catherine de Sienne](/references/catherinedesienne.html#matthieu-11-25-30)]. Oui, Père, tu l’as voulu ainsi dans ta bienveillance<sup id="a2-matthieu-11-25-30">[2](#f2-matthieu-11-25-30)</sup>. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler<sup id="a3-matthieu-11-25-30">[3](#f3-matthieu-11-25-30)</sup>. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger<sup id="a4-matthieu-11-25-30">[4](#f4-matthieu-11-25-30)</sup>. » (TLB)

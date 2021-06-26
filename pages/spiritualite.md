@@ -209,8 +209,102 @@ Chaque personnage biblique peut être considéré comme un archétype. Il repré
 
 **Le Paraclet** peut être considéré comme l’archétype du « Consolateur » ; *con-solans*, il est avec celui qui est seul et le met en relation, en résonance, avec tel ou tel archétype, qui donnera sens et vigue
 
+## Justice sociale
 
+### Justice sociale dans l’Ancien Testament (extraits)
 
+Protestation d’innocence, Job 31, 13-22
+>Celui qui m’a fait dans le ventre, ne les a-t-il pas faits aussi ? C’est le même Dieu qui nous a formés dans le sein. Est-ce que je repoussais la demande des pauvres, laissais-je languir les yeux de la veuve ? Ma ration, l’ai-je mangée seul, sans que l’orphelin en ait eu sa part, [...] ? Voyais-je un miséreux privé de vêtement, un indigent n’ayant pas de quoi se couvrir, sans que ses reins m’aient béni et qu’il fût réchauffé par la toison de mes brebis ?
+
+La septième année, Deutéronome 15, 7-11
+>Puisqu’il ne cessera pas d’y avoir des pauvres au milieu du pays, je te donne ce commandement : tu ouvriras ta main toute grande à ton frère, au malheureux et au pauvre que tu as dans ton pays.
+
+Mesures en faveur des pauvres, Deutéronome 24, 17-22
+>Tu ne biaiseras pas avec le droit d’un émigré ou d’un orphelin. Tu ne prendras pas en gage le vêtement d’une veuve. Tu te souviendras qu’en Egypte tu étais esclave, et que le Seigneur ton Dieu t’a racheté de là.
+
+Le Seigneur bénit qui aime son prochain, Proverbes 3, 27-35
+>Ne refuse pas de faire du bien à qui en a besoin quand tu peux le faire.
+
+L’humilité, Siracide 3, 17-24
+>Mon fils, agis avec douceur en tout ce que tu fais et tu seras aimé de l’homme agréable à Dieu. Plus tu es grand, plus il faut t’humilier.
+
+L’aumône, Siracide 3, 30-4, 10
+>Mon fils, ne prive pas le pauvre de sa subsistance, ne fais pas languir les yeux de l’indigent. Ne fais pas souffrir une âme affamée, n’irrite pas un homme dans le dénuement. N’ajoute pas au tourment d’un cœur irrité, ne fais pas attendre tes dons à qui en a besoin. Ne repousse pas le suppliant dans la détresse, ne détourne pas ton visage du pauvre.
+
+La manière de donner, Siracide 18, 15-18
+>Mon fils, fais le bien sans y joindre le blâme, ni mêler à tes dons des paroles chagrines. La rosée ne repose-t-elle pas de la chaleur ? Ainsi une parole peut faire mieux qu’un cadeau. Une parole ne vaut-elle pas mieux qu’un riche présent ? L’homme charitable joint l’une à l’autre.
+​
+### Justice sociale dans les Evangiles (extraits)
+
+#### L’amour entre les Hommes
+Meurtre et réconciliation, Matthieu 5, 21-26
+
+Le talion, Matthieu 5, 38-42
+
+L’amour des ennemis, Matthieu 5, 43-48
+
+Le « Notre Père », Matthieu 6, 9-14
+
+La paille et la poutre, Matthieu 7, 1-5
+
+Autrui, Matthieu 7, 12
+
+Le pardon entre frères, Matthieu 18, 21-22
+
+Le plus grand commandement, Matthieu 22, 34-40
+
+L’amour des ennemis, Luc 6, 27-35
+
+L’amour, voie de la vie éternelle, Luc 10, 25-28
+
+Qui est mon prochain ? Parabole du bon Samaritain, Luc 10, 29-37
+
+La femme adultère, Jean 7, 53 – 8, 11
+
+Jésus, la vraie vigne, Jean 15, 1-17
+
+#### Le don, sans contrepartie ni jugement
+L’aumône, Matthieu 6, 1-4
+
+Le trésor dans le ciel, Matthieu 6, 19-21
+
+Ou Dieu ou l’argent, Matthieu 6, 24
+
+Les soucis, Matthieu 6, 25-34
+
+Le jeune homme riche, Matthieu 19, 16-30
+
+Le jugement, Matthieu 25, 31-46
+
+L’appel du riche, Marc 10, 17-31
+
+L’offrande de la veuve pauvre, Marc 12, 41-44
+
+Les heureux et les malheureux, Luc 6, 20-26
+
+La générosité envers le prochain, Luc 6, 36-42
+
+Les biens de ce monde, Luc 12, 13-15
+
+Parabole du riche insensé, Luc 12, 16-21
+
+Le trésor inaltérable, Luc 12, 33-34
+
+Inviter les pauvres, Luc 14, 12-14
+
+Réflexions sur l’Argent trompeur et le bien véritable, Luc 16, 9-13
+
+Parabole du riche et de Lazare, Luc 16, 19-31
+
+Renoncer aux richesses pour entrer dans le Royaume, Luc 18, 18-30
+
+Zachée. Le salut d’un riche, Luc 19, 1-10
+
+L’offrande de la veuve pauvre, Luc 21, 1-4
+
+La première communauté, Actes des Apôtres 2, 42-47
+
+Le partage des biens, Actes des Apôtres 4, 32-37
 
 
 # A classer
