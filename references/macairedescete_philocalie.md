@@ -1,5 +1,5 @@
 # Saint Macaire de Scété
-?-v. 391, moine égyptien, dit aussi Macaire le Grand ou l'Egyptien
+?-v. 391, moine égyptien, dit aussi Macaire le Grand ou l'Egyptien.
 
 [Biographie](https://fr.wikipedia.org/wiki/Macaire_de_Sc%C3%A9t%C3%A9)
 
