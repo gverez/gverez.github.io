@@ -1,8 +1,6 @@
 # Nouveau Testament <a name="nouveautestament"></a>
 
-[Evangile de Matthieu](#matthieu)
-
-[Evangile de Jean](#jean)
+[Evangile de Matthieu](#matthieu) — [Evangile de Jean](#jean)
 
 
 ## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
