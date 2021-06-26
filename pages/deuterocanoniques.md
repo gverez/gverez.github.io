@@ -2,7 +2,7 @@
 [<img src="/images/spiritualite.png">](/pages/spiritualite.html)
 [<img src="/images/ontologie.png">](/pages/ontologie.html)
 
-# Ancien Testament <a name="ancientestament"></a>
+# Livres Deutérocanoniques <a name="deuterocanoniques"></a>
 
 [Evangile de Matthieu](#matthieu) — [Evangile de Jean](#jean)
 
