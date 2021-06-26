@@ -4,12 +4,12 @@
 
 # Ancien Testament <a name="ancientestament"></a>
 
-[Genèse](#genese) — [Exode](#exode)
+[Evangile de Matthieu](#matthieu) — [Evangile de Jean](#jean)
 
 
+<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Matthieu](#matthieu)</sub>
 
-
-## Genèse <a name="genese"></a>
+## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
 
 ### Genèse 4, 9  <a name="genese-4-9"></a>
 
@@ -17,25 +17,17 @@ Genèse 4, 9
 >Le Seigneur dit à Caïn : « Où est ton frère Abel ? » – « Je ne sais, répondit-il. Suis-je le gardien de mon frère ? »
 
 Commentaire du Pape François ?
+ 
 
-<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
+LES TERMES DE L’ALLIANCE : LE DÉCALOGUE, EXODE 20, 1-17
+Et Dieu prononça toutes ces paroles : « C’est moi le Seigneur, ton Dieu, qui t’ai fait sortir du pays d’Egypte, de la maison de servitude : Tu n’auras pas d’autres dieux face à moi. Tu ne te feras pas d’idole, ni rien qui ait la forme de ce qui se trouve au ciel là-haut, sur terre ici-bas ou dans les eaux sous la terre. Tu ne te prosterneras pas devant ces dieux et tu ne les serviras pas, car c’est moi le Seigneur, ton Dieu, un Dieu exigeant, poursuivant la faute des pères chez les fils sur trois et quatre générations – s’ils me haïssent – mais prouvant sa fidélité à des milliers de générations – si elles m’aiment et gardent mes commandements. Tu ne prononceras pas à tort le nom du Seigneur, ton Dieu, car le Seigneur n’acquitte pas celui qui prononce son nom à tort. Que du jour du sabbat on fasse un mémorial en le tenant pour sacré. Tu travailleras six jours, faisant tout ton ouvrage, mais le septième jour, c’est le sabbat du Seigneur, ton Dieu. Tu ne feras aucun ouvrage, ni toi, ni ton fils, ni ta fille, pas plus que ton serviteur, ta servante, tes bêtes ou l’émigré que tu as dans tes villes. Car en six jours, le Seigneur a fait le ciel et la terre, la mer et tout ce qu’ils contiennent, mais il s’est reposé le septième jour. C’est pourquoi le Seigneur a béni le jour du sabbat et l’a consacré. Honore ton père et ta mère, afin que tes jours se prolongent sur la terre que te donne le Seigneur, ton Dieu. Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de rapt. Tu ne témoigneras pas faussement contre ton prochain. Tu n’auras pas de visées sur la maison de ton prochain. Tu n’auras de visées ni sur la femme de ton prochain, ni sur son serviteur, sa servante, son bœuf ou son âne, ni sur rien qui appartienne à ton prochain. »
 
-## Exode <a name="exode"></a>
+ 
 
-### Exode 20, 1-17 <a name="exode-20-1-17"></a>
->Et Dieu prononça toutes ces paroles : « C’est moi le Seigneur, ton Dieu, qui t’ai fait sortir du pays d’Egypte, de la maison de servitude : Tu n’auras pas d’autres dieux face à moi. Tu ne te feras pas d’idole, ni rien qui ait la forme de ce qui se trouve au ciel là-haut, sur terre ici-bas ou dans les eaux sous la terre. Tu ne te prosterneras pas devant ces dieux et tu ne les serviras pas, car c’est moi le Seigneur, ton Dieu, un Dieu exigeant, poursuivant la faute des pères chez les fils sur trois et quatre générations – s’ils me haïssent – mais prouvant sa fidélité à des milliers de générations – si elles m’aiment et gardent mes commandements. Tu ne prononceras pas à tort le nom du Seigneur, ton Dieu, car le Seigneur n’acquitte pas celui qui prononce son nom à tort. Que du jour du sabbat on fasse un mémorial en le tenant pour sacré. Tu travailleras six jours, faisant tout ton ouvrage, mais le septième jour, c’est le sabbat du Seigneur, ton Dieu. Tu ne feras aucun ouvrage, ni toi, ni ton fils, ni ta fille, pas plus que ton serviteur, ta servante, tes bêtes ou l’émigré que tu as dans tes villes. Car en six jours, le Seigneur a fait le ciel et la terre, la mer et tout ce qu’ils contiennent, mais il s’est reposé le septième jour. C’est pourquoi le Seigneur a béni le jour du sabbat et l’a consacré. Honore ton père et ta mère, afin que tes jours se prolongent sur la terre que te donne le Seigneur, ton Dieu. Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de rapt. Tu ne témoigneras pas faussement contre ton prochain. Tu n’auras pas de visées sur la maison de ton prochain. Tu n’auras de visées ni sur la femme de ton prochain, ni sur son serviteur, sa servante, son bœuf ou son âne, ni sur rien qui appartienne à ton prochain. »
+LES TERMES DE L’ALLIANCE (DÉVELOPPEMENTS) : LE « CODE DE L’ALLIANCE », EXODE 22, 20 ET 23, 9
+Tu n’exploiteras ni n’opprimeras l’émigré, car vous avez été des émigrés au pays d’Egypte. […] Tu n’opprimeras pas l’émigré ; vous connaissez vous-mêmes la vie de l’émigré, car vous avez été émigrés au pays d’Egypte.
 
-<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Exode](#exode)</sub>
-
-###  Exode 22, 20 <a name="exode-22-20"></a>
->Tu n’exploiteras ni n’opprimeras l’émigré, car vous avez été des émigrés au pays d’Egypte.
-
-<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Exode](#exode)</sub>
-
-### Exode 23, 9 <a name="exode-23-9"></a>
->Tu n’opprimeras pas l’émigré ; vous connaissez vous-mêmes la vie de l’émigré, car vous avez été émigrés au pays d’Egypte.
-
-<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Exode](#exode)</sub>
+ 
 
 PROTESTATION D’INNOCENCE, JOB 31, 13-22
 Si j’ai méconnu le droit de mon serviteur ou de ma servante dans leurs litiges avec moi, que faire quand Dieu se lèvera ? Quand il enquêtera, que lui répondre ? Celui qui m’a fait dans le ventre, ne les a-t-il pas faits aussi ? C’est le même Dieu qui nous a formés dans le sein. Est-ce que je repoussais la demande des pauvres, laissais-je languir les yeux de la veuve ? Ma ration, l’ai-je mangée seul, sans que l’orphelin en ait eu sa part, alors que dès mon enfance il a grandi avec moi comme avec un père, et qu’à peine sorti du ventre de ma mère je fus le guide de la veuve ? Voyais-je un miséreux privé de vêtement, un indigent n’ayant pas de quoi se couvrir, sans que ses reins m’aient béni et qu’il fût réchauffé par la toison de mes brebis ? Si j’ai brandi le poing contre un orphelin, me sachant soutenu au tribunal, que mon épaule se détache de mon dos et que mon bras se rompe au coude.
