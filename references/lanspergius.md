@@ -1,7 +1,9 @@
 # Lanspergius
-1489-1539, moine chartreux allemand, dit aussi Lansperge le Chartreux.
 
-[Biographie](https://fr.wikipedia.org/wiki/Lanspergius)
+[<img src="/images/jeanchrysostome.png">](https://fr.wikipedia.org/wiki/Lanspergius)
+
+**1489\-1539**, moine chartreux allemand, dit aussi Lansperge le Chartreux.
+
 
 ## Commentaire sur Jean 12, 44-50 <a name="jean-12-44-50"></a>
 *Sermon 5 ; Opera omnia 3, 315-317 (in Les Pères commentent l'Évangile; Collection liturgique Mysteria sous la direction de Henri Delougne; trad. R. Pirlot; Éd. Brepols 1991, p. 88 rev.)*
