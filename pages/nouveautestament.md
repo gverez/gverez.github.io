@@ -51,13 +51,21 @@ Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
 
 ### Jean 6, 52-59 <a name="jean-6-52-59"></a>
->En ce temps-là, les Juifs se querellaient entre eux : « Comment celui-là peut-il nous donner sa chair à manger ? » Jésus leur dit alors : « Amen, amen, je vous le dis : si vous ne mangez pas la chair du Fils de l’homme, et si vous ne buvez pas son sang, vous n’avez pas la vie en vous. Celui qui mange ma chair et boit mon sang a la vie éternelle ; et moi, je le ressusciterai au dernier jour. En effet, ma chair est la vraie nourriture, et mon sang est la vraie boisson. Celui qui mange ma chair et boit mon sang demeure en moi, et moi, je demeure en lui. De même que le Père, qui est vivant, m’a envoyé, et que moi je vis par le Père, de même celui qui me mange, lui aussi vivra par moi. Tel est le pain qui est descendu du ciel : il n’est pas comme celui que les pères ont mangé. Eux, ils sont morts ; **celui qui mange ce pain vivra éternellement** [[Syméon le Nouveau Théologien](/references/symeonlenouveautheologien.html#jean-6-52-59)]. » Voilà ce que Jésus a dit, alors qu’il enseignait à la synagogue de Capharnaüm.
+>En ce temps-là, les Juifs<sup id="a1-jean-6-52-59">[1](#f1-jean-6-52-59)</sup> se querellaient entre eux : « Comment celui-là peut-il nous donner sa chair à manger ? » Jésus leur dit alors : « Amen, amen, je vous le dis : si vous ne mangez pas la chair du Fils de l’homme<sup id="a2-jean-6-52-59">[2](#f2-jean-6-52-59)</sup>, et si vous ne buvez pas son sang, vous n’avez pas la vie en vous. Celui qui mange ma chair et boit mon sang a la vie éternelle ; et moi, je le ressusciterai au dernier jour<sup id="a3-jean-6-52-59">[3](#f3-jean-6-52-59)</sup>. En effet, ma chair est la vraie nourriture, et mon sang est la vraie boisson<sup id="a4-jean-6-52-59">[4](#f4-jean-6-52-59)</sup> . Celui qui mange ma chair et boit mon sang demeure en moi, et moi, je demeure en lui. De même que le Père, qui est vivant, m’a envoyé, et que moi je vis par le Père, de même celui qui me mange, lui aussi vivra par moi <sup id="a5-jean-6-52-59">[5](#f5-jean-6-52-59)</sup> . Tel est le pain qui est descendu du ciel : il n’est pas comme celui que les pères ont mangé. Eux, ils sont morts ; **celui qui mange ce pain vivra éternellement** [[Syméon le Nouveau Théologien](/references/symeonlenouveautheologien.html#jean-6-52-59)]. » Voilà ce que Jésus a dit, alors qu’il enseignait à la synagogue de Capharnaüm.
 
 — Traduction Liturgique de la Bible.
 
 Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurection*
 
-<sub>/!\ manque notes de la TOB </sub>
+<sub><b id="f1-jean-6-52-59">1</b>[TOB 6, 52↵](#a1-jean-6-52-59) Voir 6, 41 et note.</sub>
+
+<sub><b id="f2-jean-6-52-59">2</b>[TOB 6, 53↵](#a2-jean-6-52-59) On eretrouve ici la plupart des thèmes exposés dans les sections précédentes et, rétrospectivement, c'est l'ensemble des développements antérieurs qui prennent une coloration eucharistique.</sub>
+
+<sub><b id="f3-jean-6-52-59">3</b>[TOB 6, 54↵](#a3-jean-6-52-59) *Celui qui mange* : litt. *mâcher, croquer* : Jn utilise un vocabulaire particulièrement réaliste pour caractériser la participation à l'Eucharistie. Il met ainsi en garde ses lecteurs contre une interprétation docète du ministère de Jésus. Selon la coutume juive, les aliments du repas pascal devaient être soigneusement mâchés. — Le Fils de l'homme vient du ciel et remonte au ciel ; et ceux qui croient en lui et participent au sacrement, partageront cette vie céleste qui est en lui. L'Ecuharistie est le ferment de la résurrection pour ceux qui croient (voir 6, 39.40-44 ; 5, 21-29).</sub>
+
+<sub><b id="f4-jean-6-52-59">4</b>[TOB 6, 55↵](#a4-jean-6-52-59) Lors du repas de la Cène, le pain et le vin, corps et sang du Christ, réalisent de façon éminente le but de la nourriture et de la boisson qui est d'assurer la vie.</sub>
+
+<sub><b id="f5-jean-6-52-59">5</b>[TOB 6, 57↵](#a5-jean-6-52-59) Vivre c'est entrer en communion avec le Fils et, dès lors, avec le Père ; cet échange fait de connaissance et d'amour mutuels est promis de manière certaine et définitive. Le repas eucharistique est, dans le temps présent, un signe privilégié de cette communion.</sub>
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Jean](#jean)</sub>
 
