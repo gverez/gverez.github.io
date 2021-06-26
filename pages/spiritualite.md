@@ -3,4 +3,4 @@
 [<img src="/images/ontologie.png">](/pages/ontologie.md)
 
 
-[<img src="/images/nouveautestament.png">](/pages/nouveautestament.md)
+[<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
