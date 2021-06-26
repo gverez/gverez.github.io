@@ -1,7 +1,9 @@
 # Saint Jean Chrysostome
-v.345-407, prêtre à Antioche puis évêque de Constantinople, docteur de l'Église.
 
-[Biographie](https://fr.wikipedia.org/wiki/Jean_Chrysostome)
+[<img src="/images/catherinedesienne.png">](https://fr.wikipedia.org/wiki/Jean_Chrysostome)
+
+**v.345-407**, prêtre à Antioche puis évêque de Constantinople, docteur de l'Église.
+
 
 ## Commentaire sur Jean 6, 60-69 <a name="jean-6-60-69"></a>
 *Homélies sur l'évangile de Matthieu, n°82 ; PG 58, 743 (trad. Orval rev.)*

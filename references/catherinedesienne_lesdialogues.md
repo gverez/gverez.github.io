@@ -2,7 +2,7 @@
 
 [<img src="/images/catherinedesienne.png">](https://fr.wikipedia.org/wiki/Catherine_de_Sienne)
 
-**1347\-1380**, Tertiaire dominicaine italienne, Docteur de l'Église, copatronne de l'Europe.
+**1347\-1380**, tertiaire dominicaine italienne, Docteur de l'Église, copatronne de l'Europe.
 
 
 ## Commentaire sur Matthieu 11, 25-30 <a name="matthieu-11-25-30"></a>
