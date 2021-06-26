@@ -1,4 +1,5 @@
-![](images/images/catherinedesienne.png)# Sainte Catherine de Sienne
+![](/images/catherinedesienne.png)
+# Sainte Catherine de Sienne
 1347-1380, tertiaire dominicaine italienne, docteur de l'Église, copatronne de l'Europe.
 
 [Biographie](https://fr.wikipedia.org/wiki/Catherine_de_Sienne)
