@@ -15,6 +15,7 @@
 | 89-90    | Evangiles de Matthieu et Luc, Actes des Apôtres, épitres                                   |
 | 90       | Evangile de Jean                                                                           |
 | 95       | Apocalypse, 2 Pierre                                                                       |
+|          |                                                                                            |
 | **IIe**      | **Identité, de la seconde génération à la Grande Eglise**                                      |
 | 110      | Basilide d’Alexandrie, premier gnostique, recherche origine du mal                         |
 | 130      | Papias d’Hiérapolis Exégèses des paroles du Seigneur, oral et écrit, agrapha et logia      |
@@ -24,6 +25,7 @@
 | 175      | Tatien le Syrien Diatessaron, concordance des évangiles                                    |
 | 180      | Irénée de Lyon Dénonciation et réfutation de la gnose au nom menteur = Contre les hérésies |
 | 195      | Clément d’Alexandrie Exhortation aux Grecs = Protreptique                                  |
+|          |                                                                                            |
 | **IIIe**     | **La Grande Eglise face aux défis d’un siècle**                                                |
 | 200      | Sabellius, modalisme, monarchianisme, débats sur essences et modes de Dieu                 |
 | 217      | Calixte pape, introduction de nouvelles coutumes, critiqué par Hyppolite                   |
@@ -33,6 +35,7 @@
 | 249-251  | Persécution de Dèce (sacrifice dieux païens), problème de réintégration des lapsi          |
 | 251      | Novatien pape par intérim évincé, critique contre lapsi, antipape, schisme                 |
 | 270      | Mort de Plotin, néoplatonisme et aristotélisme, trois hypostases                           |
+|          |                                                                                            |
 | **IVe**      | **L’Empire romain, un empire chrétien ?**                                                         |
 | 303-305  | Grande persécution par Dioclétien                                                          |
 | 304      | Melitios provoque un schisme interne à l’Eglise d’Egypte pour l’autonomie                  |
@@ -51,6 +54,7 @@
 | 395      | Mort de Théodose, séparation définitive entre les deux empires romains                     |
 | 397      | Mort d’Ambroise de Milan, un des quatre Pères de l’Eglise d’Occident                       |
 | Fin      | Christianisme plus grand groupe religieux Empire romain, 10% de la population              |
+|          |                                                                                            |
 | **Ve-VIe**   | **Le défi barbare, Rome et Constantinople**                                                    |
 | 410      | Sac de Rome par les Wisigoths d’Alaric Ier                                                 |
 | 412      | Cyrille d’Alexandrie nommé évêque, « Une est la nature incarnée de Dieu le Verbe »         |
@@ -68,6 +72,7 @@
 | 535      | Papyrus d’Oxyrhynque, 47 églises, 21 monastères                                            |
 | 553      | Deuxième concile de Constantinople, affaire des Trois Chapitres                            |
 | 590      | Grégoire le Grand devient pape, un des quatre Pères de l’Eglise d’Occident                 |
+|          |                                                                                            |
 | **VIIe-...** | **La dynamique de l’éclatement du monde christianisé**                                         |
 | 610      | Invasions perses suivies par invasions arabe, liberté de culte                             |
 | 638      | Héraclius et le monothélisme : Christ a deux natures mais une seule volonté                |
