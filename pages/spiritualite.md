@@ -23,3 +23,7 @@
 
 ## Foi
 [Jn 6, 60-69, Quant à nous, nous croyons, et nous savons que tu es le Saint de Dieu](/pages/nouveautestament.html#jean-6-60-69)
+
+## Je suis
+[Jn 6, 44-51, Je suis le pain de la vie](/pages/nouveautestament.html#jean-6-44-51)
+[Jn 10, 1-10, Je suis la porte](/pages/nouveautestament.html#jean-10-1-10)
