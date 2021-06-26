@@ -1,4 +1,4 @@
-# Commentaires du Nouveau Testament
+# Commentaires du Nouveau Testament <a name="nouveautestament"></a>
 
 [Evangile de Matthieu](#matthieu)
 
@@ -8,7 +8,8 @@
 ## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
 
 ### Matthieu 11, 25-30  <a name="matthieu-11-25-30"></a>
->En ce temps-là, Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a1-matthieu-11-25-30">[1](#f1-matthieu-11-25-30)</sup>. Oui, Père, tu l’as voulu ainsi dans ta bienveillance<sup id="a2-matthieu-11-25-30">[2](#f2-matthieu-11-25-30)</sup>. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler<sup id="a3-matthieu-11-25-30">[3](#f3-matthieu-11-25-30)</sup>. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger. »
+<sub>[Retour au N.T.](#nouveautestament), [Retour à Matthieu](#matthieu)</sub>
+>Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a1-matthieu-11-25-30">[1](#f1-matthieu-11-25-30)</sup>. Oui, Père, tu l’as voulu ainsi dans ta bienveillance<sup id="a2-matthieu-11-25-30">[2](#f2-matthieu-11-25-30)</sup>. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler<sup id="a3-matthieu-11-25-30">[3](#f3-matthieu-11-25-30)</sup>. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger<sup id="a4-matthieu-11-25-30">[4](#f4-matthieu-11-25-30)</sup>. »
 
 — Traduction Liturgique de la Bible.
 
@@ -16,12 +17,13 @@ Sujets : *Père, Fils, petit, joug, fardeau*
 
 [Commentaire de Catherine de Sienne](/references/catherinedesienne_lesdialogues.html#matthieu-11-25-30)
 
+<sub><b id="f1-matthieu-11-25-30">1</b>[TOB 11, 25↵](#a1-matthieu-11-25-30) Plutôt que de voir là un langage sapientiel se rattachant à Si 51, ou à Pr 8; Si 24 ; Sg 6-8, il semble préférable d'y reconnaître un langage apocalytpique, comme celui du livre de Daniel. Alors que les *sages* n'ont pas su interpréter le rêve de Nabuchodonosor (Dn 2, 3-13), le *mystère* est *révélé* à Daniel qui a imploré le *Dieu du ciel* (2, 18-19.28) et qui *loue* Dieu de lui avoir accordé la *sagesse* (2, 23) : il s'agit du *Royaume* suscité par Dieu même (2, 44). Chez Mt, les *tout-petits* sont les disciples (Mt 10, 42) auxquels sont révélées ces choses (Dn 2, 29), c.-à-d. le mystère du Ryaume des cieux (voir Mt 13, 11).</sub>
 
-<sub><b id="f1-matthieu-11-25-30">1</b> TOB [↵](#a1-matthieu-11-25-30) Plutôt que de voir là un langage sapientiel se rattachant à Si 51, ou à Pr 8; Si 24 ; Sg 6-8, il semble préférable d'y reconnaître un langage apocalytpique, comme celui du livre de Daniel. Alors que les *sages* n'ont pas su interpréter le rêve de Nabuchodonosor (Dn 2, 3-13), le *mystère* est *révélé* à Daniel qui a imploré le *Dieu du ciel* (2, 18-19.28) et qui *loue* Dieu de lui avoir accordé la *sagesse* (2, 23) : il s'agit du *Royaume* suscité par Dieu même (2, 44). Chez Mt, les *tout-petits* sont les disciples (Mt 10, 42) auxquels sont révélées ces choses (Dn 2, 29), c.-à-d. le mystère du Ryaume des cieux (voir Mt 13, 11).</sub>
+<sub><b id="f2-matthieu-11-25-30">2</b>[TOB 11, 26↵](#a2-matthieu-11-25-30) Litt. *il y a bienveillance devant toi*. L'expression évoque la voix du Père au baptême (3, 17) et à la citation d'Es 42, 1 en Mt 12, 18.</sub>
 
-<sub><b id="f2-matthieu-11-25-30">2</b> TOB [↵](#a2-matthieu-11-25-30) Litt. *il y a bienveillance devant toi*. L'expression évoque la voix du Père au baptême (3, 17) et à la citation d'Es 42, 1 en Mt 12, 18.</sub>
+<sub><b id="f3-matthieu-11-25-30">3</b>[TOB 11, 27↵](#a3-matthieu-11-25-30) En continuité avec le verset précédent, *tout* désigne le Royaume et ses secrets. La parole se situe mieux dans la tradition apocalyptique (Dn 2, 22.28-29 ; 7, 10-27) que dans la tradition sapientiale (Si 24 ; 51) ou hellénistique. C'est l'un des trois passages, avec 21, 37 ; 24, 36, où Jésus exprime de façon indirecte qu'il a une relation unique avec Dieu son Père (voir Mc 14, 36 ; Lc 2, 49 ; 24, 46 ; Jn 20, 17).</sub>
 
-<sub><b id="f3-matthieu-11-25-30">3</b> TOB [↵](#a3-matthieu-11-25-30) Litt. </sub>
+<sub><b id="f4-matthieu-11-25-30">4</b>[TOB 11, 30↵](#a4-matthieu-11-25-30) L'image du *joug*, déjà connue de l'A.T. (Jr 2, 20 ; 5, 5 ; Os 10, 11), désignait couramment dans le judaïsme la Loi de Dieu, écrite et orale (Si 6, 24-30 ; 51, 26-27) ; ce joug nétait pas toujours ressenti comme pesant ou blessant ; la "joie du joug" était connue du judaïsme (Si 51, 26-27). Ici, dans la même perspective que dans le sermon sur la montagne (ch. 5-7), ouvert par l'annonce du bonheur du Règne de Dieu, Jésus oppose son interprétation libératrice de la loi au légalisme juif car, en même temps qu'une loi renouvelée, Jésus communique aux hommes la joie du Royaume.</sub>
 
 
 
@@ -36,6 +38,8 @@ Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
 [Commentaire de Thérèse d'Avila](/references/theresedavila_lechemindelaperfection.html#jean-6-44-51)
 
+<sub>/!\ manque notes de la TOB </sub>
+
 
 
 ### Jean 6, 52-59 <a name="jean-6-52-59"></a>
@@ -46,6 +50,8 @@ Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurection*
 
 [Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-6-52-59)
+
+<sub>/!\ manque notes de la TOB </sub>
 
 
 
@@ -58,6 +64,8 @@ Sujets : *Esprit, vie, chair*
 
 [Commentaire de Jean Chrysostome](/references/jeanchrysostome_homelies.html#jean-6-60-69)
 
+<sub>/!\ manque notes de la TOB </sub>
+
 
 
 ### Jean 10, 1-10 <a name="jean-10-1-10"></a>
@@ -68,6 +76,8 @@ Sujets : *Esprit, vie, chair*
 Sujets : *Porte, brebis, vie*
 
 [Commentaire de Macaire de Scété](/references/macairedescete_philocalie.html#jean-10-1-10)
+
+<sub>/!\ manque notes de la TOB </sub>
 
 
 
@@ -80,6 +90,8 @@ Sujets : *Pasteur, berger, brebis, vie*
 
 [Commentaire de Basile de Séleucie](/references/basiledeseleucie_homelies.html#jean-10-11-18)
 
+<sub>/!\ manque notes de la TOB </sub>
+
 
 
 ### Jean 10, 22-30 <a name="jean-10-22-30"></a>
@@ -91,6 +103,8 @@ Sujets : *Christ, brebis, vie éternelle, Père*
 
 [Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-10-22-30)
 
+<sub>/!\ manque notes de la TOB </sub>
+
 
 
 ### Jean 12, 44-50 <a name="jean-12-44-50"></a>
@@ -101,6 +115,9 @@ Sujets : *Christ, brebis, vie éternelle, Père*
 Sujets : *Foi, lumière, juge, sauveur, Père*
 
 [Commentaire de Lanspergius](/references/lanspergius_sermons.html#jean-12-44-50)
+
+<sub>/!\ manque notes de la TOB </sub>
+
 
 
 
