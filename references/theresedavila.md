@@ -1,7 +1,9 @@
-# Sainte Thérèse d'Avila
-1515-1582, religieuse espagnole.
+# Thérèse d'Avila
 
-[Biographie](https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_d'Avila)
+[<img src="/images/theresedavila.png">](https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_d'Avila)
+
+**1515\-1582**, religieuse espagnole.
+
 
 ## Commentaire sur Jean 6, 44-51 <a name="jean-6-44-51"></a>
 *Le Chemin de la perfection, ch. 33-34 (trad. G. de Saint-Joseph; Éd. du Seuil 1961; p. 194s)*

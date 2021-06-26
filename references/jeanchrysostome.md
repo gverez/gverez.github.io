@@ -1,4 +1,4 @@
-# Saint Jean Chrysostome
+# Jean Chrysostome
 
 [<img src="/images/jeanchrysostome.png">](https://fr.wikipedia.org/wiki/Jean_Chrysostome)
 

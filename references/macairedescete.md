@@ -1,6 +1,6 @@
-# Saint Macaire de Scété
+# Macaire de Scété
 
-[<img src="/images/catherinedesienne.png">](https://fr.wikipedia.org/wiki/Macaire_de_Sc%C3%A9t%C3%A9)
+[<img src="/images/macairedescete.png">](https://fr.wikipedia.org/wiki/Macaire_de_Sc%C3%A9t%C3%A9)
 
 **?-v. 391**, moine égyptien, dit aussi Macaire le Grand ou l'Egyptien.
 

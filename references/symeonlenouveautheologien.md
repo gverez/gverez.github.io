@@ -1,7 +1,9 @@
-# Saint Syméon le Nouveau Théologien
-949-1022, spirituel byzantin.
+# Syméon le Nouveau Théologien
 
-[Biographie](https://fr.wikipedia.org/wiki/Sym%C3%A9on_le_Nouveau_Th%C3%A9ologien)
+[<img src="/images/symeonlenouveautheologien.png">](https://fr.wikipedia.org/wiki/Sym%C3%A9on_le_Nouveau_Th%C3%A9ologien)
+
+**949\-1022**, spirituel byzantin.
+
 
 ## Commentaire sur Jean 6, 52-59 <a name="jean-6-52-59"></a>
 *Hymnes 51, SC 196 (Hymnes III ; trad. J. Paramelle et L. Neyrand, éd du Cerf, 2003 ; p. 193-197 ; rev.)*
