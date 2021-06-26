@@ -233,7 +233,8 @@ L’aumône, Siracide 3, 30-4, 10
 
 La manière de donner, Siracide 18, 15-18
 >Mon fils, fais le bien sans y joindre le blâme, ni mêler à tes dons des paroles chagrines. La rosée ne repose-t-elle pas de la chaleur ? Ainsi une parole peut faire mieux qu’un cadeau. Une parole ne vaut-elle pas mieux qu’un riche présent ? L’homme charitable joint l’une à l’autre.
-​
+
+
 ### Justice sociale dans les Evangiles (extraits)
 
 #### L’amour entre les Hommes
