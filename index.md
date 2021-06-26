@@ -3,7 +3,9 @@ title: Accueil
 classes: wide
 ---
 
-[About](about.md)
+[<img src="/images/accueil.png">](index.md)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.md)
+[<img src="/images/ontologie.png">](/pages/ontologie.md)
 
 
 [<img src="/images/logo_spiritualite.png">](/pages/nouveautestament.md)
