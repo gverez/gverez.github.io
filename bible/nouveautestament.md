@@ -8,7 +8,7 @@
 ## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
 
 ### Matthieu 11, 25-30  <a name="matthieu-11-25-30"></a>
->En ce temps-là, Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a11">[1](#f11)</sup>. Oui, Père, tu l’as voulu ainsi dans ta bienveillance. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger. »
+>En ce temps-là, Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a1-matthieu-11-25-30">[1](#f1-matthieu-11-25-30)</sup>. Oui, Père, tu l’as voulu ainsi dans ta bienveillance<sup id="a2-matthieu-11-25-30">[2](#f2-matthieu-11-25-30)</sup>. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger. »
 
 — Traduction Liturgique de la Bible.
 
@@ -18,8 +18,8 @@ Sujets : *Père, Fils, petit, joug, fardeau*
 
 [TOB](/references/tob.md#matthieu-11-25-30)
 
-<sub><b id="f11">1</b> TOB [↵](#a11) Plutôt que de voir là un langage sapientiel se rattachant à Si 51, ou à Pr 8; Si 24 ; Sg 6-8, il semble préférable d'y reconnaître un langage apocalytpique, comme celui du livre de Daniel. Alors que les *sages* n'ont pas su interpréter le rêve de Nabuchodonosor (Dn 2, 3-13), le *mystère* est *révélé* à Daniel qui a imploré le *Dieu du ciel* (2, 18-19.28) et qui *loue* Dieu de lui avoir accordé la *sagesse* (2, 23) : il s'agit du *Royaume* suscité par Dieu même (2, 44). Chez Mt, les *tout-petits* sont les disciples (Mt 10, 42) auxquels sont révélées ces choses (Dn 2, 29), c.-à-d. le mystère du Ryaume des cieux (voir Mt 13, 11).</sub>
-
+<sub><b id="f1-matthieu-11-25-30">1</b> TOB [↵](#a1-matthieu-11-25-30) Plutôt que de voir là un langage sapientiel se rattachant à Si 51, ou à Pr 8; Si 24 ; Sg 6-8, il semble préférable d'y reconnaître un langage apocalytpique, comme celui du livre de Daniel. Alors que les *sages* n'ont pas su interpréter le rêve de Nabuchodonosor (Dn 2, 3-13), le *mystère* est *révélé* à Daniel qui a imploré le *Dieu du ciel* (2, 18-19.28) et qui *loue* Dieu de lui avoir accordé la *sagesse* (2, 23) : il s'agit du *Royaume* suscité par Dieu même (2, 44). Chez Mt, les *tout-petits* sont les disciples (Mt 10, 42) auxquels sont révélées ces choses (Dn 2, 29), c.-à-d. le mystère du Ryaume des cieux (voir Mt 13, 11).</sub>
+<sub><b id="f2-matthieu-11-25-30">2</b> TOB [↵](#a2-matthieu-11-25-30) Litt. *il y a bienveillance devant toi*. L'expression évoque la voix du Père au baptême (3, 17) et à la citation d'Es 42, 1 en Mt 12, 18.
 
 
 
