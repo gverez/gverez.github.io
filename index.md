@@ -8,10 +8,6 @@ classes: wide
 [<img src="/images/ontologie.png">](/pages/ontologie.md)
 
 
-[<img src="/images/logo_spiritualite.png">](/pages/nouveautestament.md)
-[<img src="/images/logo_ontologie.png">](/pages/nouveautestament.md)
-
-
 # Auteurs
 
 [<img src="/images/catherinedesienne.png">](/references/catherinedesienne.md)

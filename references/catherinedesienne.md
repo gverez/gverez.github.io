@@ -12,4 +12,4 @@
 >
 >J'ai goûté et j'ai vu avec la lumière de mon intelligence et dans ta lumière, éternelle Trinité, à la fois l'immensité de ton abîme et la beauté de ta créature. Alors, j'ai vu qu'en me revêtant de toi, je deviendrais ton image (Gn 1,27), parce que tu me donnes, Père éternel, quelque chose de ta puissance et de ta sagesse. Cette sagesse est l'attribut de ton Fils unique. Quant au Saint-Esprit, qui procède de toi, Père, et de ton Fils, il m'a donné la volonté qui me rend capable d'aimer. Car toi, éternelle Trinité, tu es le Créateur, et moi la créature ; aussi ai-je connu, éclairée par toi, dans la nouvelle création que tu as faite de moi par le sang de ton Fils unique, que tu as été saisie d'amour pour la beauté de ta créature.
 
-
+[[Retour au texte](/references/nouveautestament.html#matthieu-11-25-30)]

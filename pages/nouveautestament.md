@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](index.md)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.md)
+[<img src="/images/ontologie.png">](/pages/ontologie.md)
+
 # Nouveau Testament <a name="nouveautestament"></a>
 
 [Evangile de Matthieu](#matthieu) — [Evangile de Jean](#jean)
