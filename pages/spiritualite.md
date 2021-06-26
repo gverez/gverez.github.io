@@ -14,36 +14,32 @@
 
 https://www.vatican.va/archive/FRA0013/_INDEX.HTM
 
-# La profession de la foi
 
-## "Je crois" - "Nous croyons"
 
-### L'homme est "capable" de Dieu
-Le désir de Dieu, Les voies d'accès à la connaissance de Dieu, La connaissance de Dieu selon l'Eglise, Comment parler de Dieu ?
 
-### Dieu à la rencontre de l'homme
-La Révélation de Dieu, la transmission de la Révélation divine, la Sainte Ecriture
 
-### La réponse de l'homme à Dieu
-Je crois, Nous croyons
 
-## La profession de la foi chrétienne
+# Foi
 
-### Dieu le Père
-Croire en Dieu, le Père, tout-puissant, créateur, le ciel et la terre, l'homme, la chute
+## Foi et raison
+La foi se définit comme un acte de la volonté par lequel quelqu’un adopte comme vraie une vision du monde qu’on ne peut démontrer par la raison. La réalité que la foi fait croire est surnaturelle, elle dépasse les lois naturelles connues. Et parce que l’homme a cette possibilité de croire, il pourrait être doté d’un sens du surnaturel, une intuition, une conviction intime, un pressentiment qui éclaire la volonté, une intelligence presque inconsciente qui n’est pas un acte de la raison naturelle (Pascal), qui permet d’admettre possible certaines choses en dehors de notre expérience ordinaire (Borella).
 
-### Jésus-Christ, le fils unique de Dieu
-Conçu du Saint-Esprit, né de la Vierge Marie, les mystères de sa vie, crucifixion, ensevelissement, descendu aux enfers, ressuscité des morts, monte aux cieux, juger les vivants et les morts
+Une manière de comprendre cet éventuel conflit entre foi et raison est de constater que la raison pure est limitée, puisque l’homme est limité spatialement et temporellement (Kant, Chomsky, Heisenberg, Dyson). Qui plus est, l’état de nos connaissances, combinaison de l’expérience sensible et de la rationalité, ne permet pas d’expliquer notre conscience (Chalmers, Penrose) ou pourquoi l’Univers est tel qu’il est (Wheeler, Bohm). Certains argumentent que ce n’est pas la tâche de la physique de découvrir comment la nature *est* mais simplement ce qu’on peut dire d’elle (Bohr, Wigner). Cela n’empêche pas certains grands scientifiques d’avoir l’intuition qu’un ordre supérieur est possible (Einstein, Bohm, Pauli, Jung, James), toutefois inconnu voir inconnaissable. Notamment, à travers les mathématiques, la beauté et la simplicité d’une théorie est parfois associée à sa véracité (Einstein, Feynman, Dirac, Gell-Mann, Riemann, Mach, Bohr). D’un point de vue moral, certains s’interrogent sur un principe de bonté, ou d’amour, qui dépasserait l’humain (Freud, Guillemin), d’autres, l’idée que nous serions d’une certaine manière contraints, voir mandatés (Sartre).
 
-### L'Esprit Saint
 
-### La sainte Eglise Catholique
+**Niels Bohr**
 
-### Le pardon des péchés
+>Le fait que les religions à travers les âges se soient exprimées en images, en paraboles et en paradoxes signifie simplement qu’il n’y a pas d’autre moyen de saisir la réalité à laquelle elles se réfèrent. Mais cela ne veut pas dire que ce n’est pas une réalité authentique.
 
-### La résurrection de la chair
 
-### La vie éternelle
+## Ame et connaissance de Dieu
+La théologie chrétienne enseigne que l’homme possède une âme, et que cette âme possède le moyen d’avoir la *contuition* de Dieu. L’intuition de Dieu serait sa vue à découvert tandis que la contuition est sa visée au sein et par l’intermédiaire de ses expressions. L’âme est là où brille l’image de Dieu et elle reçoit ce qui n’entre pas par le monde sensible (Bonaventure). Elle est toutefois la « forme » du corps, elle a pour organe le corps qu’elle anime mais n’est pas au-dedans de nous comme elle serait dans un vase – puisqu’elle est incorporelle – pas plus qu’au-dehors – puisqu’elle est unie au corps – mais elle « est dans le cœur comme dans son organe » (Grégoire Palamas). Elle est créée par Dieu et immortelle (Catéchisme). Notre âme exerce trois principaux regards : le premier sur les corps extérieurs, d’où son nom de principe de vie ou *sensibilité* ; le deuxième en elle-même et sur elle-même, ce qui la fait nommer *conscience* ; le troisième sur le transcendant, d’où l’appellation d’*esprit* (Bonaventure). En effet, l’âme est parfois distinguée de l’esprit, mais ce n’est pas une dualité. Il faut entendre par esprit la fonction spirituelle, celle qui se réfère aux objets supérieurs et donc le sens du surnaturel. « Esprit » signifie que l’homme est ordonné dès sa création à sa fin surnaturelle (Catéchisme), et c’est Dieu qui élève l’âme à l’état surnaturel au moyen de la grâce. Pour saint Thomas d’Aquin, l’Intellect divin « aide l’âme à *comprendre* », pour saint Bonaventure, il s’agit de contuition.
+
+L’âme possède trois parties, classées par degré d’élévation : la raison, l’intellect et l’esprit. La raison est le reflet passif de l’intelligence et siège dans le cerveau (Chenique). L’intelligence siège dans le cœur, c’est pourquoi on l’appelle « l’œil du cœur ». Toutefois, certains mystiques expliquent qu’il faut apprendre à renvoyer l’esprit en lui-même et que son essence et son énergie sont différentes : « l’esprit n’est pas comme l’œil qui voit les autres objets sans se voir lui-même » (Grégoire Palamas). C’est par cet acte qu’à de certains moments, il se transcende pour s’unir à Dieu. Le ravissement de l’âme ou extase, est quand l’âme semble se détache du corps pour être pur esprit, « morte au monde » (Thérèse d’Avila). L’intellect est une puissance qui n’est touchée ni par le temps, ni par la chair, qui émane de l’esprit et reste dans l’esprit et est absolument spirituelle (Eckhart). La syndérèse est la *cime* ou *étincelle de l’âme*, la faculté non touchée par le péché originel, lieu de l’union avec Dieu, donnée par Dieu.
+
+**Théolepte de Philadelphie**
+
+>L’esprit d’abord cherche et trouve, puis il s’unit à ce qu’il a trouvé. Il mène sa recherche au moyen de la raison, il opère par l’amour. La recherche de la raison s’opère dans l’ordre de la vérité, l’union de l’amour dans celui de la bonté.
 
 
 
