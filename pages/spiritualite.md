@@ -11,6 +11,45 @@
 [<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html)
 
 
+
+https://www.vatican.va/archive/FRA0013/_INDEX.HTM
+
+# La profession de la foi
+
+## "Je crois" - "Nous croyons"
+
+### L'homme est "capable" de Dieu
+Le désir de Dieu, Les voies d'accès à la connaissance de Dieu, La connaissance de Dieu selon l'Eglise, Comment parler de Dieu ?
+
+### Dieu à la rencontre de l'homme
+La Révélation de Dieu, la transmission de la Révélation divine, la Sainte Ecriture
+
+### La réponse de l'homme à Dieu
+Je crois, Nous croyons
+
+## La profession de la foi chrétienne
+
+### Dieu le Père
+Croire en Dieu, le Père, tout-puissant, créateur, le ciel et la terre, l'homme, la chute
+
+### Jésus-Christ, le fils unique de Dieu
+Conçu du Saint-Esprit, né de la Vierge Marie, les mystères de sa vie, crucifixion, ensevelissement, descendu aux enfers, ressuscité des morts, monte aux cieux, juger les vivants et les morts
+
+### L'Esprit Saint
+
+### La sainte Eglise Catholique
+
+### Le pardon des péchés
+
+### La résurrection de la chair
+
+### La vie éternelle
+
+
+
+
+
+
 ## Relation filiale
 [Mt 11, 25-30, Personne ne connaît le Fils, sinon le Père](/pages/nouveautestament.html#matthieu-11-25-30)
 
