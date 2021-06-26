@@ -30,13 +30,21 @@ Sujets : *Père, Fils, petit, joug, fardeau*
 ## Evangile de Jésus-Christ selon saint Jean <a name="jean"></a>
 
 ### Jean 6, 44-51  <a name="jean-6-44-51"></a>
->En ce temps-là, Jésus disait aux foules : « Personne ne peut venir à moi, si le Père qui m’a envoyé ne l’attire, et moi, je le ressusciterai au dernier jour. Il est écrit dans les prophètes : ‘Ils seront tous instruits par Dieu lui-même.’ Quiconque a entendu le Père et reçu son enseignement vient à moi. Certes, personne n’a jamais vu le Père, sinon celui qui vient de Dieu : celui-là seul a vu le Père. Amen, amen, je vous le dis : il a la vie éternelle, celui qui croit. Moi, je suis le pain de la vie. Au désert, vos pères ont mangé la manne, et ils sont morts ; mais **le pain qui descend du ciel est tel que celui qui en mange ne mourra pas** [[Thérèse d'Avila](/references/theresedavila.html#jean-6-44-51)]. Moi, je suis le pain vivant, qui est descendu du ciel : si quelqu’un mange de ce pain, il vivra éternellement. Le pain que je donnerai, c’est ma chair, donnée pour la vie du monde. »
+>En ce temps-là, Jésus disait aux foules : « Personne ne peut venir à moi, si le Père qui m’a envoyé ne l’attire<sup id="a1-jean-6-44-51">[1](#f1-jean-6-44-51), et moi, je le ressusciterai au dernier jour. Il est écrit dans les prophètes : ‘Ils seront tous instruits par Dieu lui-même.’<sup id="a2-jean-6-44-51">[2](#f2-jean-6-44-51) Quiconque a entendu le Père et reçu son enseignement vient à moi. Certes, personne n’a jamais vu le Père, sinon celui qui vient de Dieu : celui-là seul a vu le Père<sup id="a3-jean-6-44-51">[3](#f3-jean-6-44-51). Amen, amen, je vous le dis : il a la vie éternelle, celui qui croit<sup id="a4-jean-6-44-51">[4](#f4-jean-6-44-51). Moi, je suis le pain de la vie. Au désert, vos pères ont mangé la manne, et ils sont morts ; mais **le pain qui descend du ciel est tel que celui qui en mange ne mourra pas** [[Thérèse d'Avila](/references/theresedavila.html#jean-6-44-51)]. Moi, je suis le pain vivant, qui est descendu du ciel : si quelqu’un mange de ce pain, il vivra éternellement. Le pain que je donnerai, c’est ma chair, donnée pour la vie du monde<sup id="a5-jean-6-44-51">[5](#f5-jean-6-44-51). »
 
 — Traduction Liturgique de la Bible.
 
 Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
-<sub>/!\ manque notes de la TOB </sub>
+<sub><b id="f1-jean-6-44-51">1</b>[TOB 6, 44↵](#a1-jean-6-44-51) Les discussions sont stériles : c'est l'action du Père qui oriente les siens vers celui en qui s'offre la plénitude de la révélation (3, 21). Voir 6, 37 n.</sub>
+
+<sub><b id="f2-jean-6-44-51">2</b>[TOB 6, 45↵](#a2-jean-6-44-51) Paraphrase de Es 54, 13 (voir Jr 31, 33-34 ; 1 Th 4, 9)</sub>
+
+<sub><b id="f3-jean-6-44-51">3</b>[TOB 6, 46↵](#a3-jean-6-44-51) Voir 1, 18. Jn écarte une fausse interprétation possible de la citation : c'est en fonction de Jésus, qui seul connaît le Père de façon immédiate et plénière, que se réalise la promesse.</sub>
+
+<sub><b id="f4-jean-6-44-51">4</b>[TOB 6, 47↵](#a4-jean-6-44-51) Plusieurs mss importants lisent : *celui qui croit en moi*. - Voir 5, 25 n. et 11, 26 n.</sub>
+
+<sub><b id="f5-jean-6-44-51">5</b>[TOB 6, 51↵](#a5-jean-6-44-51) La dernière section du discours est consacrée explicitement au sacrement de l'eucharistie. Bien qu'on s'accorde généralement à reconnaître la tournure johannique du passage, il n'est pas impossible que ces v. soient une adjonction ultérieure à la rédaction du reste de ce ch., ou, au contraire, que Jn ait repris ici une tradition plus ancienne. — Le mot *chair* désigne tout ce qui fait la réalité de l'homme, avec ses possibilités et ses faiblesses (voir 1, 14 ; 3, 6 ; 8, 15 ; 1 Jn 4, 2). Jn a peut-être conservé une tradition liturgique indépendante qui traduisait litt. le mot aram. *bisra* que Jésus avait dû employer à la Cène. Jn insiste sur la valeur salvifique de l'Incarnation. — *Donnée pour que le monde ait la vie* : Jn conserve à sa façon la formule traditionnelle qui exprime la dimension rédemptrice de la mort de Jésus. Il y a un lien entre le fait que Jésus est la source de la vie éternelle et le fait de sa mort, c'est pourquoi il est question du pain qu'il donnera (voir 10, 11.15 ; 11, 50-52 ; 15, 13 ; 17, 19 ; 18, 14 ; 1 Jn 3, 16).</sub>
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Jean](#jean)</sub>
 
