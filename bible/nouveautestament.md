@@ -8,7 +8,6 @@
 ## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
 
 ### Matthieu 11, 25-30  <a name="matthieu-11-25-30"></a>
-<sub>[Retour au N.T.](#nouveautestament), [Retour à Matthieu](#matthieu)</sub>
 >Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**<sup id="a1-matthieu-11-25-30">[1](#f1-matthieu-11-25-30)</sup>. Oui, Père, tu l’as voulu ainsi dans ta bienveillance<sup id="a2-matthieu-11-25-30">[2](#f2-matthieu-11-25-30)</sup>. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler<sup id="a3-matthieu-11-25-30">[3](#f3-matthieu-11-25-30)</sup>. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger<sup id="a4-matthieu-11-25-30">[4](#f4-matthieu-11-25-30)</sup>. »
 
 — Traduction Liturgique de la Bible.
@@ -25,6 +24,7 @@ Sujets : *Père, Fils, petit, joug, fardeau*
 
 <sub><b id="f4-matthieu-11-25-30">4</b>[TOB 11, 30↵](#a4-matthieu-11-25-30) L'image du *joug*, déjà connue de l'A.T. (Jr 2, 20 ; 5, 5 ; Os 10, 11), désignait couramment dans le judaïsme la Loi de Dieu, écrite et orale (Si 6, 24-30 ; 51, 26-27) ; ce joug nétait pas toujours ressenti comme pesant ou blessant ; la "joie du joug" était connue du judaïsme (Si 51, 26-27). Ici, dans la même perspective que dans le sermon sur la montagne (ch. 5-7), ouvert par l'annonce du bonheur du Règne de Dieu, Jésus oppose son interprétation libératrice de la loi au légalisme juif car, en même temps qu'une loi renouvelée, Jésus communique aux hommes la joie du Royaume.</sub>
 
+<sub>[Retour au N.T.](#nouveautestament) — [Retour à Matthieu](#matthieu)</sub>
 
 
 ## Evangile de Jésus-Christ selon saint Jean <a name="jean"></a>
