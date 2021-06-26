@@ -42,32 +42,24 @@ L’âme possède trois parties, classées par degré d’élévation : la raiso
 
 ## Moyens de connaissance de Dieu
 Le problème de la foi et de la raison, à savoir leur compatibilité et leur moyen d’agir ensemble, a opposé deux ordres et deux Docteurs de l’Eglise. Saint Bonaventure, le *Docteur séraphique*, était franciscain (ordre mendiant) et poussa la raison humaine à l’humilité, d’où la simple contuition de Dieu, par un itinéraire :
+-**Théologie symbolique**, contemplation de Dieu à l’extérieur de nous, à travers la sensibilité (*sensualitas*). Méditation sur le monde sensible.
+	- *Par* le monde sensible : les sens. Par ses vestiges dans l’Univers.
+	- *Dans* le monde sensible : l’imagination. Dans ses vestiges, via le sensible.
 
-**Théologie symbolique**, contemplation de Dieu à l’extérieur de nous, à travers la sensibilité (*sensualitas*). Méditation sur le monde sensible.
-- *Par* le monde sensible : les sens. Par ses vestiges dans l’Univers.
-- *Dans* le monde sensible : l’imagination. Dans ses vestiges, via le sensible.
+-**Théologie spéculative**, contemplation de Dieu à l’intérieur de nous, à travers la conscience (*spiritus*). Réflexion de l’âme sur elle-même.
+	- *Par* notre âme : la raison. Par son image gravée dans nos facultés naturelles.
+	- *Dans* notre âme : l’intellect. Dans son image réformée par les dons de grâce.
 
-**Théologie spéculative**, contemplation de Dieu à l’intérieur de nous, à travers la conscience (*spiritus*). Réflexion de l’âme sur elle-même.
-- *Par* notre âme : la raison. Par son image gravée dans nos facultés naturelles.
-- *Dans* notre âme : l’intellect. Dans son image réformée par les dons de grâce.
+-**Théologie mystique**, contemplation de Dieu au-dessus de nous, à travers l’esprit (*mens*). Contemplation du Transcendant.
+	- *Par* l’idée de l’Etre : l’intelligence. Par son premier nom : l’Etre.
+	- *Dans* la syndérèse (cime de l’âme et sens du Bien). Dans son nom : le Bien.
 
-**Théologie mystique**, contemplation de Dieu au-dessus de nous, à travers l’esprit (*mens*). Contemplation du Transcendant.
-- *Par* l’idée de l’Etre : l’intelligence. Par son premier nom : l’Etre.
-- *Dans* la syndérèse (cime de l’âme et sens du Bien). Dans son nom : le Bien.
-
- 
-
-Saint Thomas d’Aquin, le Docteur angélique, était dominicain (ordre enseignant) et posa la lumière naturelle de la raison comme moyen potentiel d’atteindre Dieu sans la Révélation, au moyen de cinq voies :
-
-Par le mouvement. L’origine de cette preuve remonte à Aristote. Les choses sont constamment en mouvement, or il est nécessaire qu’il y ait une cause motrice à tout mouvement. Afin de ne pas remonter d’une cause motrice à une autre, il faut reconnaître l’existence d’un Premier moteur non mû.
-
-Par la causalité efficiente. Nous observons un enchaînement de causes à effet dans la nature, or il est impossible de remonter de causes en causes à l’infini ; il faut nécessairement une Cause Première.
-
-Par la contingence. Il y a dans l’Univers des choses nécessaires qui n’ont pas en elles-mêmes le fondement de leur nécessité. Il faut un Être par Lui-même nécessaire.
-
-Par les degrés des êtres. C’est une preuve reprise de Platon, qui a remarqué qu’il y a des perfections dans les choses (bien, beau, amour, etc.) mais à des degrés différents. Or il faut nécessairement qu’il y ait un Être qui possède ces perfections à un degré maximum, car dans la nature les perfections sont limitées.
-
-Par l’ordre du monde. On observe un ordre dans la nature : l’œil est ordonné à la vue, le poumon à la respiration, etc. Or à tout ordre il faut une intelligence qui le commande, une Intelligence ordinatrice.
+Saint Thomas d’Aquin, le *Docteur angélique*, était dominicain (ordre enseignant) et posa la lumière naturelle de la raison comme moyen potentiel d’atteindre Dieu sans la Révélation, au moyen de *cinq voies* :
+- **Par le mouvement**. L’origine de cette preuve remonte à Aristote. Les choses sont constamment en mouvement, or il est nécessaire qu’il y ait une cause motrice à tout mouvement. Afin de ne pas remonter d’une cause motrice à une autre, il faut reconnaître l’existence d’un *Premier moteur non mû*.
+- **Par la causalité efficiente**. Nous observons un enchaînement de causes à effet dans la nature, or il est impossible de remonter de causes en causes à l’infini ; il faut nécessairement une *Cause Première*.
+- **Par la contingence**. Il y a dans l’Univers des choses nécessaires qui n’ont pas en elles-mêmes le fondement de leur nécessité. Il faut un *Être par Lui-même nécessaire*.
+- **Par les degrés des êtres**. C’est une preuve reprise de Platon, qui a remarqué qu’il y a des perfections dans les choses (bien, beau, amour, etc.) mais à des degrés différents. Or il faut nécessairement qu’il y ait un *Être qui possède ces perfections à un degré maximum*, car dans la nature les perfections sont limitées.
+- **Par l’ordre du monde**. On observe un ordre dans la nature : l’œil est ordonné à la vue, le poumon à la respiration, etc. Or à tout ordre il faut une intelligence qui le commande, une *Intelligence ordinatrice*.
 
 
 
