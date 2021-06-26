@@ -99,7 +99,7 @@ Sujets : *Porte, brebis, vie*
 
 <sub><b id="f1-jean-10-1-10">1</b>[TOB 10, 1↵](#a1-jean-10-1-10) La nuit, les brebis étaient habituellement parquées dans un enclos entouré d'un muret, et placées sous la protection d'un gardien. — La première parabole (10, 1-5) oppose le berger, qui entre normalement parce qu'il en a reçu la mission, à ceux qui procèdent irrégulièrement et veulent dominer à leur seul profit, c.-à-d. les docteurs pharisiens dont il est question depuis 9, 13 ; elle introduit 10, 11-18 : "Je suis le bon berger". La seconde parabole (10, 7-10) commente l'affirmation de Jésus : "Je suis la porte" ; voir 10, 9 n.</sub>
 
-<sub><b id="f2-jean-10-1-10">2</b>[TOB 10, 3↵](#a2-jean-10-1-10)Au sein d'Israël, il y a donc deux catégories d'hommes : ceux qui appartiennent effectivement au berger et qui répondent à son appel et à lui seul, et ceux qui n'y répondent pas parce qu'ils ne lui ont jamais appartenu. Voir 1, 47 ou 20, 16.</sub>
+<sub><b id="f2-jean-10-1-10">2</b>[TOB 10, 3↵](#a2-jean-10-1-10) Au sein d'Israël, il y a donc deux catégories d'hommes : ceux qui appartiennent effectivement au berger et qui répondent à son appel et à lui seul, et ceux qui n'y répondent pas parce qu'ils ne lui ont jamais appartenu. Voir 1, 47 ou 20, 16.</sub>
 
 <sub><b id="f3-jean-10-1-10">3</b>[TOB 10, 6↵](#a3-jean-10-1-10) Parole mystérieuse ou symbole obscur, la parabole est, aux yeux de Jn, le mode de révélation propre à la mission temporelle de Jésus ; elle ne pourra être vraiment comprise que dans la foi, à la lumière de la révélation finale, lors de l'élévation de Jésus et du don de l'Esprit.</sub>
 
@@ -113,14 +113,26 @@ Sujets : *Porte, brebis, vie*
 
 
 
+
+
+
+
 ### Jean 10, 11-18 <a name="jean-10-11-18"></a>
->En ce temps-là, Jésus déclara : « Moi, je suis le bon pasteur, le vrai berger, qui donne sa vie pour ses brebis. Le berger mercenaire n’est pas le pasteur, les brebis ne sont pas à lui : s’il voit venir le loup, il abandonne les brebis et s’enfuit ; le loup s’en empare et les disperse. Ce berger n’est qu’un mercenaire, et les brebis ne comptent pas vraiment pour lui. Moi, **je suis le bon pasteur ; je connais mes brebis, et mes brebis me connaissent** [[Basile de Séleucie](/references/basiledeseleucie.html#jean-10-11-18)], comme le Père me connaît, et que je connais le Père ; et je donne ma vie pour mes brebis. J’ai encore d’autres brebis, qui ne sont pas de cet enclos : celles-là aussi, il faut que je les conduise. Elles écouteront ma voix : il y aura un seul troupeau et un seul pasteur. Voici pourquoi le Père m’aime : parce que je donne ma vie, pour la recevoir de nouveau. Nul ne peut me l’enlever : je la donne de moi-même. J’ai le pouvoir de la donner, j’ai aussi le pouvoir de la recevoir de nouveau : voilà le commandement que j’ai reçu de mon Père. »
+>En ce temps-là, Jésus déclara : « Moi, je suis le bon pasteur<sup id="a1-jean-10-11-18">[1](#f1-jean-10-11-18)</sup>, le vrai berger, qui donne sa vie pour ses brebis. Le berger mercenaire n’est pas le pasteur, les brebis ne sont pas à lui : s’il voit venir le loup, il abandonne les brebis et s’enfuit ; le loup s’en empare et les disperse. Ce berger n’est qu’un mercenaire, et les brebis ne comptent pas vraiment pour lui. Moi, **je suis le bon pasteur ; je connais mes brebis, et mes brebis me connaissent** [[Basile de Séleucie](/references/basiledeseleucie.html#jean-10-11-18)], comme le Père me connaît, et que je connais le Père<sup id="a2-jean-10-11-18">[2](#f2-jean-10-11-18)</sup> ; et je donne ma vie pour mes brebis. J’ai encore d’autres brebis, qui ne sont pas de cet enclos : celles-là aussi, il faut que je les conduise. Elles écouteront ma voix : il y aura un seul troupeau et un seul pasteur<sup id="a3-jean-10-11-18">[3](#f3-jean-10-11-18)</sup>. Voici pourquoi le Père m’aime : parce que je donne ma vie, pour la recevoir de nouveau<sup id="a4-jean-10-11-18">[4](#f4-jean-10-11-18)</sup>. Nul ne peut me l’enlever : je la donne de moi-même<sup id="a5-jean-10-11-18">[5](#f5-jean-10-11-18)</sup>. J’ai le pouvoir de la donner, j’ai aussi le pouvoir de la recevoir de nouveau : voilà le commandement que j’ai reçu de mon Père. »
 
 — Traduction Liturgique de la Bible.
 
 Sujets : *Pasteur, berger, brebis, vie*
 
-<sub>/!\ manque notes de la TOB </sub>
+<sub><b id="f1-jean-10-11-18">1</b>[TOB 10, 11↵](#a1-jean-10-11-18) L'image du *berger* qui conduit et protège le troupeau avait été appliquée dans l'A.T. tantôt à Dieu (Ps 23, 1 ; Es 40, 11 ; Jr 31, 9), tantôt au roi messianique (Ps 78, 70-72 ; Ez 37, 24), tantôt aux responsables d'Israël (Jr 2, 8 ; 10, 21 ; 23, 1-8 ; Ez 34). Elle est utilisée souvent dans les évangiles synoptiques (Mc 6, 34 ; 14, 27 ; Mt 9, 36 ; 18, 12-13 ; 25, 32 ; 26, 31 ; Lc 15, 3-7). Jésus réalise parfaitement la fonction pastorale dans la mesure où il est le Fils de l'homme participant à la condition des hommes pour les mener à la vie éternelle. — *Se dessaisit de sa vie* : litt. *poser son âme pour* ; l'expression doit être rapprochée de la formule *donner son âme* de Mc 10, 45 qui semble dériver d'Es 53, 12. Alors que le mercenaire sacrifie les brebis à son intérêt, Jésus va livrer sa vie jusqu'à la mort pour que vivent ses disciples (voir 6, 51 ; 10, 15 ; 11, 50-52 ; 18, 14).</sub>
+
+<sub><b id="f2-jean-10-11-18">2</b>[TOB 10, 15↵](#a2-jean-10-11-18) Dans la tradition biblique, la *connaissance* entre personnes implique l'amour : la connaissance qui lie Jésus et les siens trouve sa source et sa plénitude dans l'amour qui lie le Fils et le Père. La mort de la croix est l'expression suprême de cet amour (13, 1 ; 15, 13).</sub>
+
+<sub><b id="f3-jean-10-11-18">3</b>[TOB 10, 16↵](#a3-jean-10-11-18) Allusion à la mission universelle (voir 4, 35-38), oeuvre du Christ tout autant que son activité en Palestine (voir 17, 20) : ceux qui de par le monde sont déjà, mystérieusement, les siens (11, 52), reconnaîtront sa voix dans la parole des envoyés. L'unité des hommes, Juifs et Grecs, sera réalisée par Jésus et en Jésus (voir Ga 3, 28 ; Col 3, 11).</sub>
+
+<sub><b id="f4-jean-10-11-18">4</b>[TOB 10, 17↵](#a4-jean-10-11-18) *Je donne ma vie* : litt. *je dépose*. De même au v. suivant. — Pour Jésus, sa Résurrection est étroitement liée au don de sa vie sur la croix.</sub>
+
+<sub><b id="f5-jean-10-11-18">5</b>[TOB 10, 18↵](#a5-jean-10-11-18) Le récit johannique de la Passion soulignera particulièrement cette souveraine liberté de Jésus.</sub>
 
 <sub>[Retour au N.T.](#nouveautestament) — [Retour à Jean](#jean)</sub>
 
