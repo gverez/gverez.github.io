@@ -58,3 +58,13 @@ Sujets : *Pasteur, berger, brebis, vie*
 [Commentaire de Basile de Séleucie](/references/basiledeseleucie_homelies.html#jean-10-11-18)
 
 
+
+### Jean 10, 22-30 <a name="jean-10-22-30"></a>
+>On célébrait la fête de la dédicace du Temple à Jérusalem. C’était l’hiver. Jésus allait et venait dans le Temple, sous la colonnade de Salomon. Les Juifs firent cercle autour de lui ; ils lui disaient : « Combien de temps vas-tu nous tenir en haleine ? Si c’est toi le Christ, dis-le nous ouvertement ! » Jésus leur répondit : « Je vous l’ai dit, et vous ne croyez pas. Les œuvres que je fais, moi, au nom de mon Père, voilà ce qui me rend témoignage. Mais vous, vous ne croyez pas, parce que vous n’êtes pas de mes brebis. Mes brebis écoutent ma voix ; moi, je les connais, et elles me suivent. Je leur donne la vie éternelle : jamais elles ne périront, et personne ne les arrachera de ma main. Mon Père, qui me les a données, est plus grand que tout, et personne ne peut les arracher de la main du Père. **Le Père et moi, nous sommes UN.** »
+
+— Traduction Liturgique de la Bible.
+
+Sujets : *Christ, brebis, vie éternelle, Père*
+
+[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-10-22-30)
+
