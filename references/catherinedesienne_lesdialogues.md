@@ -1,7 +1,11 @@
 # Sainte Catherine de Sienne
-![](/images/catherinedesienne.png) 1347-1380, tertiaire dominicaine italienne, docteur de l'Église, copatronne de l'Europe.
-
+![](/images/catherinedesienne.png)```
+1347-1380
+tertiaire dominicaine italienne, docteur de l'Église, copatronne de l'Europe.
 [Biographie](https://fr.wikipedia.org/wiki/Catherine_de_Sienne)
+```
+
+
 
 ## Commentaire sur Matthieu 11, 25-30 <a name="matthieu-11-25-30"></a>
 *Les Dialogues 167 (Livre des jours – Office romain des lectures; trad. A-M Roguet; Le Cerf – Desclée de Brouwer – Desclée – Mame; © AELF Paris 1976; 29 avril)*
