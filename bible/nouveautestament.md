@@ -16,6 +16,8 @@ Sujets : *Père, Fils, petit, joug, fardeau*
 
 [Commentaire de Catherine de Sienne](/references/catherinedesienne_lesdialogues.html#matthieu-11-25-30)
 
+[<img src="images/catherinedesienne.png">](/references/catherinedesienne_lesdialogues.html#matthieu-11-25-30)
+
 <sub><b id="f1-matthieu-11-25-30">1</b>[TOB 11, 25↵](#a1-matthieu-11-25-30) Plutôt que de voir là un langage sapientiel se rattachant à Si 51, ou à Pr 8; Si 24 ; Sg 6-8, il semble préférable d'y reconnaître un langage apocalytpique, comme celui du livre de Daniel. Alors que les *sages* n'ont pas su interpréter le rêve de Nabuchodonosor (Dn 2, 3-13), le *mystère* est *révélé* à Daniel qui a imploré le *Dieu du ciel* (2, 18-19.28) et qui *loue* Dieu de lui avoir accordé la *sagesse* (2, 23) : il s'agit du *Royaume* suscité par Dieu même (2, 44). Chez Mt, les *tout-petits* sont les disciples (Mt 10, 42) auxquels sont révélées ces choses (Dn 2, 29), c.-à-d. le mystère du Ryaume des cieux (voir Mt 13, 11).</sub>
 
 <sub><b id="f2-matthieu-11-25-30">2</b>[TOB 11, 26↵](#a2-matthieu-11-25-30) Litt. *il y a bienveillance devant toi*. L'expression évoque la voix du Père au baptême (3, 17) et à la citation d'Es 42, 1 en Mt 12, 18.</sub>
