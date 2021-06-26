@@ -1,6 +1,21 @@
 # Commentaires du Nouveau Testament
 
+[Evangile de Matthieu](#matthieu)
 [Evangile de Jean](#jean)
+
+
+## Evangile de Jésus-Christ selon saint Matthieu <a name="matthieu"></a>
+
+### Matthieu 11, 25-30  <a name="matthieu-11-25-30"></a>
+>En ce temps-là, Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : **ce que tu as caché aux sages et aux savants, tu l’as révélé aux tout-petits**. Oui, Père, tu l’as voulu ainsi dans ta bienveillance. Tout m’a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler. » « Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger. »
+
+— Traduction Liturgique de la Bible.
+
+Sujets : *Père, Fils, petit, joug, fardeau*
+
+[Commentaire de Catherine de Sienne](/references/catherinedesienne_lesdialogues.md#matthieu-11-25-30)
+
+
 
 ## Evangile de Jésus-Christ selon saint Jean <a name="jean"></a>
 
@@ -11,7 +26,7 @@
 
 Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
-[Commentaire de Thérèse d'Avila](/references/theresedavila_lechemindelaperfection.html#jean-6-44-51)
+[Commentaire de Thérèse d'Avila](/references/theresedavila_lechemindelaperfection.md#jean-6-44-51)
 
 
 
@@ -22,7 +37,7 @@ Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
 Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurection*
 
-[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-6-52-59)
+[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.md#jean-6-52-59)
 
 
 
@@ -33,7 +48,7 @@ Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurect
 
 Sujets : *Esprit, vie, chair*
 
-[Commentaire de Jean Chrysostome](/references/jeanchrysostome_homelies.html#jean-6-60-69)
+[Commentaire de Jean Chrysostome](/references/jeanchrysostome_homelies.md#jean-6-60-69)
 
 
 
@@ -44,7 +59,7 @@ Sujets : *Esprit, vie, chair*
 
 Sujets : *Porte, brebis, vie*
 
-[Commentaire de Macaire de Scété](/references/macairedescete_philocalie.html#jean-10-1-10)
+[Commentaire de Macaire de Scété](/references/macairedescete_philocalie.md#jean-10-1-10)
 
 
 
@@ -55,7 +70,7 @@ Sujets : *Porte, brebis, vie*
 
 Sujets : *Pasteur, berger, brebis, vie*
 
-[Commentaire de Basile de Séleucie](/references/basiledeseleucie_homelies.html#jean-10-11-18)
+[Commentaire de Basile de Séleucie](/references/basiledeseleucie_homelies.md#jean-10-11-18)
 
 
 
@@ -66,7 +81,7 @@ Sujets : *Pasteur, berger, brebis, vie*
 
 Sujets : *Christ, brebis, vie éternelle, Père*
 
-[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-10-22-30)
+[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.md#jean-10-22-30)
 
 
 
@@ -77,7 +92,7 @@ Sujets : *Christ, brebis, vie éternelle, Père*
 
 Sujets : *Foi, lumière, juge, sauveur, Père*
 
-[Commentaire de Lanspergius](/references/lanspergius_sermons.html#jean-12-44-50)
+[Commentaire de Lanspergius](/references/lanspergius_sermons.md#jean-12-44-50)
 
 
 
