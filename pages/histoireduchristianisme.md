@@ -2,7 +2,11 @@
 [<img src="/images/spiritualite.png">](/pages/spiritualite.html)
 [<img src="/images/ontologie.png">](/pages/ontologie.html)
 
-
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 Ier - Temps apostoliques
 50 		Premiers épitres
