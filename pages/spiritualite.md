@@ -42,15 +42,15 @@ L’âme possède trois parties, classées par degré d’élévation : la raiso
 
 ## Moyens de connaissance de Dieu
 Le problème de la foi et de la raison, à savoir leur compatibilité et leur moyen d’agir ensemble, a opposé deux ordres et deux Docteurs de l’Eglise. Saint Bonaventure, le *Docteur séraphique*, était franciscain (ordre mendiant) et poussa la raison humaine à l’humilité, d’où la simple contuition de Dieu, par un itinéraire :
--**Théologie symbolique**, contemplation de Dieu à l’extérieur de nous, à travers la sensibilité (*sensualitas*). Méditation sur le monde sensible.
+- **Théologie symbolique**, contemplation de Dieu à l’extérieur de nous, à travers la sensibilité (*sensualitas*). Méditation sur le monde sensible.
 	- *Par* le monde sensible : les sens. Par ses vestiges dans l’Univers.
 	- *Dans* le monde sensible : l’imagination. Dans ses vestiges, via le sensible.
 
--**Théologie spéculative**, contemplation de Dieu à l’intérieur de nous, à travers la conscience (*spiritus*). Réflexion de l’âme sur elle-même.
+- **Théologie spéculative**, contemplation de Dieu à l’intérieur de nous, à travers la conscience (*spiritus*). Réflexion de l’âme sur elle-même.
 	- *Par* notre âme : la raison. Par son image gravée dans nos facultés naturelles.
 	- *Dans* notre âme : l’intellect. Dans son image réformée par les dons de grâce.
 
--**Théologie mystique**, contemplation de Dieu au-dessus de nous, à travers l’esprit (*mens*). Contemplation du Transcendant.
+- **Théologie mystique**, contemplation de Dieu au-dessus de nous, à travers l’esprit (*mens*). Contemplation du Transcendant.
 	- *Par* l’idée de l’Etre : l’intelligence. Par son premier nom : l’Etre.
 	- *Dans* la syndérèse (cime de l’âme et sens du Bien). Dans son nom : le Bien.
 
@@ -62,7 +62,12 @@ Saint Thomas d’Aquin, le *Docteur angélique*, était dominicain (ordre enseig
 - **Par l’ordre du monde**. On observe un ordre dans la nature : l’œil est ordonné à la vue, le poumon à la respiration, etc. Or à tout ordre il faut une intelligence qui le commande, une *Intelligence ordinatrice*.
 
 
+# Trinité
+ 
+## Le Père
+Il existe deux approches pour décrire Dieu : *apopathique* (la négation, ce que Dieu n’est pas), et son contraire *cataphatique* (affirmation de ce que Dieu est). Dans l’approche apopathique, Dieu n’est pas, parce qu’il transcende l’être (Erigène). Or, le concept d’étant a divisé la théologie médiévale. Pour Duns Scot, le Docteur subtil, la différence entre Dieu et les créatures n’est pas une différence d’être comme chez Thomas d'Aquin ou Maître Eckhart, elle tient à ce que Dieu est infini et la créature finie. Sous le rapport de l’essence, le monde est « essentiellement » Dieu, mais sous le rapport de l’existence, il se trouve séparé de Dieu (Chenique). Il y a donc discontinuité entre Dieu et le monde. Dieu, manifeste le monde, mais Dieu n’est pas le monde ; il n’est même pas dans le monde, car l’Infini ne peut être contenu dans le fini.
 
+Du Dieu qualifié d’invisible, d’incompréhensible, d’insaisissable et d’ineffable, on a pu extraire qu’il est la cause première ou le premier principe, éternel, transcendant, immuable et essentiellement simple. De plus, il possède toutes les perfections à un degré maximum et est pur esprit ainsi que pur agir. La raison, et donc la science, ne peut en obtenir la connaissance. Toutefois, voici quelques faits scientifiques troublants. Une particule pourrait être affectée par une onde qui l’accompagne toujours (principalement Bohm et de Broglie). Cette onde est subtile et contient des informations qui guident la particule sous sa propre énergie, et lui donne forme. En effet, la particule n’a pas d’identité permanente, ses éléments de base se forment et se dissolvent constamment. Il y a donc un mouvement permanent. Il n’y a pas de particule continue, pas de continuité de substance, simplement une continuité de forme. Plus la forme est stable, plus elle est persistante. Toutes les particules élémentaires sont faites de la même substance, que nous pouvons appeler énergie ou matière universelle ; ce ne sont que des formes différentes dans lesquelles la matière peut apparaître. La forme du champ, et non sa force, détermine son action, ce qui le rendrait non-local (instantané dans tout l’Univers). Il pourrait y avoir un fond commun interconnecté. L’Univers aurait un commencement, et les interactions élémentaires auraient une seule origine, une force de grande unification.
 
 
 
