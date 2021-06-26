@@ -14,11 +14,12 @@
 
 Sujets : *Père, Fils, petit, joug, fardeau*
 
-[Commentaire de Catherine de Sienne](/references/catherinedesienne_lesdialogues.md#matthieu-11-25-30)
+[Commentaire de Catherine de Sienne](/references/catherinedesienne_lesdialogues.html#matthieu-11-25-30)
 
-<sub><b id="f1-matthieu-11-25-30">1</b> TOB [↵](#a1-matthieu-11-25-30) Plutôt que de voir là un langage sapientiel se rattachant à Si 51, ou à Pr 8; Si 24 ; Sg 6-8, il semble préférable d'y reconnaître un langage apocalytpique, comme celui du livre de Daniel. Alors que les *sages* n'ont pas su interpréter le rêve de Nabuchodonosor (Dn 2, 3-13), le *mystère* est *révélé* à Daniel qui a imploré le *Dieu du ciel* (2, 18-19.28) et qui *loue* Dieu de lui avoir accordé la *sagesse* (2, 23) : il s'agit du *Royaume* suscité par Dieu même (2, 44). Chez Mt, les *tout-petits* sont les disciples (Mt 10, 42) auxquels sont révélées ces choses (Dn 2, 29), c.-à-d. le mystère du Ryaume des cieux (voir Mt 13, 11).</sub>
-
-<sub><b id="f2-matthieu-11-25-30">2</b> TOB [↵](#a2-matthieu-11-25-30) Litt. *il y a bienveillance devant toi*. L'expression évoque la voix du Père au baptême (3, 17) et à la citation d'Es 42, 1 en Mt 12, 18.
+<sub>
+<b id="f1-matthieu-11-25-30">1</b> TOB [↵](#a1-matthieu-11-25-30) Plutôt que de voir là un langage sapientiel se rattachant à Si 51, ou à Pr 8; Si 24 ; Sg 6-8, il semble préférable d'y reconnaître un langage apocalytpique, comme celui du livre de Daniel. Alors que les *sages* n'ont pas su interpréter le rêve de Nabuchodonosor (Dn 2, 3-13), le *mystère* est *révélé* à Daniel qui a imploré le *Dieu du ciel* (2, 18-19.28) et qui *loue* Dieu de lui avoir accordé la *sagesse* (2, 23) : il s'agit du *Royaume* suscité par Dieu même (2, 44). Chez Mt, les *tout-petits* sont les disciples (Mt 10, 42) auxquels sont révélées ces choses (Dn 2, 29), c.-à-d. le mystère du Ryaume des cieux (voir Mt 13, 11).
+<b id="f2-matthieu-11-25-30">2</b> TOB [↵](#a2-matthieu-11-25-30) Litt. *il y a bienveillance devant toi*. L'expression évoque la voix du Père au baptême (3, 17) et à la citation d'Es 42, 1 en Mt 12, 18.
+</sub>
 
 
 
@@ -31,7 +32,7 @@ Sujets : *Père, Fils, petit, joug, fardeau*
 
 Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
-[Commentaire de Thérèse d'Avila](/references/theresedavila_lechemindelaperfection.md#jean-6-44-51)
+[Commentaire de Thérèse d'Avila](/references/theresedavila_lechemindelaperfection.html#jean-6-44-51)
 
 
 
@@ -42,7 +43,7 @@ Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
 Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurection*
 
-[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.md#jean-6-52-59)
+[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-6-52-59)
 
 
 
@@ -53,7 +54,7 @@ Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurect
 
 Sujets : *Esprit, vie, chair*
 
-[Commentaire de Jean Chrysostome](/references/jeanchrysostome_homelies.md#jean-6-60-69)
+[Commentaire de Jean Chrysostome](/references/jeanchrysostome_homelies.html#jean-6-60-69)
 
 
 
@@ -64,7 +65,7 @@ Sujets : *Esprit, vie, chair*
 
 Sujets : *Porte, brebis, vie*
 
-[Commentaire de Macaire de Scété](/references/macairedescete_philocalie.md#jean-10-1-10)
+[Commentaire de Macaire de Scété](/references/macairedescete_philocalie.html#jean-10-1-10)
 
 
 
@@ -75,7 +76,7 @@ Sujets : *Porte, brebis, vie*
 
 Sujets : *Pasteur, berger, brebis, vie*
 
-[Commentaire de Basile de Séleucie](/references/basiledeseleucie_homelies.md#jean-10-11-18)
+[Commentaire de Basile de Séleucie](/references/basiledeseleucie_homelies.html#jean-10-11-18)
 
 
 
@@ -86,7 +87,7 @@ Sujets : *Pasteur, berger, brebis, vie*
 
 Sujets : *Christ, brebis, vie éternelle, Père*
 
-[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.md#jean-10-22-30)
+[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-10-22-30)
 
 
 
@@ -97,7 +98,7 @@ Sujets : *Christ, brebis, vie éternelle, Père*
 
 Sujets : *Foi, lumière, juge, sauveur, Père*
 
-[Commentaire de Lanspergius](/references/lanspergius_sermons.md#jean-12-44-50)
+[Commentaire de Lanspergius](/references/lanspergius_sermons.html#jean-12-44-50)
 
 
 
