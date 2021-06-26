@@ -11,7 +11,7 @@
 
 Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
-[Commentaire de Thérèse d'Avila](/References/theresedavila_lechemindelaperfection.html#jean-6-44-51)
+[Commentaire de Thérèse d'Avila](/references/theresedavila_lechemindelaperfection.html#jean-6-44-51)
 
 
 
@@ -22,7 +22,7 @@ Sujets : *Eucharistie, chair, pain, vie, vie éternelle, manne, voir Dieu*
 
 Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurection*
 
-[Commentaire de Syméon le Nouveau Théologien](/References/symeonlenouveautheologien_hymnes.html#jean-6-52-59)
+[Commentaire de Syméon le Nouveau Théologien](/references/symeonlenouveautheologien_hymnes.html#jean-6-52-59)
 
 
 
@@ -33,7 +33,18 @@ Sujets : *Eucharistie, chair, pain, sang, vie, vie éternelle, manne, réssurect
 
 Sujets : *Esprit, vie, chair*
 
-[Commentaire de Jean Chrysostome](/References/jeanchrysostome_homelies.html#jean-6-60-69)
+[Commentaire de Jean Chrysostome](/references/jeanchrysostome_homelies.html#jean-6-60-69)
+
+
+
+### Jean 10, 1-10 <a name="jean-10-1-10"></a>
+>En ce temps-là, Jésus déclara : « Amen, amen, je vous le dis : celui qui entre dans l’enclos des brebis sans passer par la porte, mais qui escalade par un autre endroit, celui-là est un voleur et un bandit. Celui qui entre par la porte, c’est le pasteur, le berger des brebis. Le portier lui ouvre, et les brebis écoutent sa voix. Ses brebis à lui, il les appelle chacune par son nom, et il les fait sortir. Quand il a poussé dehors toutes les siennes, il marche à leur tête, et les brebis le suivent, car elles connaissent sa voix. Jamais elles ne suivront un étranger, mais elles s’enfuiront loin de lui, car elles ne connaissent pas la voix des étrangers. » Jésus employa cette image pour s’adresser à eux, mais eux ne comprirent pas de quoi il leur parlait. C’est pourquoi Jésus reprit la parole : « Amen, amen, je vous le dis : Moi, je suis la porte des brebis. Tous ceux qui sont venus avant moi sont des voleurs et des bandits ; mais les brebis ne les ont pas écoutés. Moi, je suis la porte. Si quelqu’un entre en passant par moi, il sera sauvé ; il pourra entrer ; il pourra sortir et trouver un pâturage. Le voleur ne vient que pour voler, égorger, faire périr. Moi, **je suis venu pour que les brebis aient la vie, la vie en abondance.** »
+
+— Traduction Liturgique de la Bible.
+
+Sujets : *Porte, brebis, vie*
+
+[Commentaire de Macaire de Scété](/references/macairedescete_philocalie.html#jean-10-1-10)
 
 
 
@@ -44,6 +55,6 @@ Sujets : *Esprit, vie, chair*
 
 Sujets : *Pasteur, berger, brebis, vie*
 
-[Commentaire de Basile de Séleucie](/References/basiledeseleucie_homelies.html#jean-10-11-18)
+[Commentaire de Basile de Séleucie](/references/basiledeseleucie_homelies.html#jean-10-11-18)
 
 

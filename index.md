@@ -49,10 +49,10 @@ If you want to embed images, this is how you do it:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png">](http://google.com/)
 
-[<img src="Images/image_test.jpg">](http://google.com/)
+[<img src="images/image_test.jpg">](http://google.com/)
 
 
-![](Images/image_test.jpg)
+![](images/image_test.jpg)
 
 
 [This is the link text](#headin)
