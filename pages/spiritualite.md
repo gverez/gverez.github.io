@@ -28,7 +28,6 @@ Une manière de comprendre cet éventuel conflit entre foi et raison est de cons
 
 
 **Niels Bohr**
-
 >Le fait que les religions à travers les âges se soient exprimées en images, en paraboles et en paradoxes signifie simplement qu’il n’y a pas d’autre moyen de saisir la réalité à laquelle elles se réfèrent. Mais cela ne veut pas dire que ce n’est pas une réalité authentique.
 
 
@@ -38,8 +37,42 @@ La théologie chrétienne enseigne que l’homme possède une âme, et que cette
 L’âme possède trois parties, classées par degré d’élévation : la raison, l’intellect et l’esprit. La raison est le reflet passif de l’intelligence et siège dans le cerveau (Chenique). L’intelligence siège dans le cœur, c’est pourquoi on l’appelle « l’œil du cœur ». Toutefois, certains mystiques expliquent qu’il faut apprendre à renvoyer l’esprit en lui-même et que son essence et son énergie sont différentes : « l’esprit n’est pas comme l’œil qui voit les autres objets sans se voir lui-même » (Grégoire Palamas). C’est par cet acte qu’à de certains moments, il se transcende pour s’unir à Dieu. Le ravissement de l’âme ou extase, est quand l’âme semble se détache du corps pour être pur esprit, « morte au monde » (Thérèse d’Avila). L’intellect est une puissance qui n’est touchée ni par le temps, ni par la chair, qui émane de l’esprit et reste dans l’esprit et est absolument spirituelle (Eckhart). La syndérèse est la *cime* ou *étincelle de l’âme*, la faculté non touchée par le péché originel, lieu de l’union avec Dieu, donnée par Dieu.
 
 **Théolepte de Philadelphie**
-
 >L’esprit d’abord cherche et trouve, puis il s’unit à ce qu’il a trouvé. Il mène sa recherche au moyen de la raison, il opère par l’amour. La recherche de la raison s’opère dans l’ordre de la vérité, l’union de l’amour dans celui de la bonté.
+
+
+## Moyens de connaissance de Dieu
+Le problème de la foi et de la raison, à savoir leur compatibilité et leur moyen d’agir ensemble, a opposé deux ordres et deux Docteurs de l’Eglise. Saint Bonaventure, le *Docteur séraphique*, était franciscain (ordre mendiant) et poussa la raison humaine à l’humilité, d’où la simple contuition de Dieu, par un itinéraire :
+
+**Théologie symbolique**, contemplation de Dieu à l’extérieur de nous, à travers la sensibilité (*sensualitas*). Méditation sur le monde sensible.
+- *Par* le monde sensible : les sens. Par ses vestiges dans l’Univers.
+- *Dans* le monde sensible : l’imagination. Dans ses vestiges, via le sensible.
+
+**Théologie spéculative**, contemplation de Dieu à l’intérieur de nous, à travers la conscience (*spiritus*). Réflexion de l’âme sur elle-même.
+- *Par* notre âme : la raison. Par son image gravée dans nos facultés naturelles.
+- *Dans* notre âme : l’intellect. Dans son image réformée par les dons de grâce.
+
+**Théologie mystique**, contemplation de Dieu au-dessus de nous, à travers l’esprit (*mens*). Contemplation du Transcendant.
+- *Par* l’idée de l’Etre : l’intelligence. Par son premier nom : l’Etre.
+- *Dans* la syndérèse (cime de l’âme et sens du Bien). Dans son nom : le Bien.
+
+ 
+
+Saint Thomas d’Aquin, le Docteur angélique, était dominicain (ordre enseignant) et posa la lumière naturelle de la raison comme moyen potentiel d’atteindre Dieu sans la Révélation, au moyen de cinq voies :
+
+Par le mouvement. L’origine de cette preuve remonte à Aristote. Les choses sont constamment en mouvement, or il est nécessaire qu’il y ait une cause motrice à tout mouvement. Afin de ne pas remonter d’une cause motrice à une autre, il faut reconnaître l’existence d’un Premier moteur non mû.
+
+Par la causalité efficiente. Nous observons un enchaînement de causes à effet dans la nature, or il est impossible de remonter de causes en causes à l’infini ; il faut nécessairement une Cause Première.
+
+Par la contingence. Il y a dans l’Univers des choses nécessaires qui n’ont pas en elles-mêmes le fondement de leur nécessité. Il faut un Être par Lui-même nécessaire.
+
+Par les degrés des êtres. C’est une preuve reprise de Platon, qui a remarqué qu’il y a des perfections dans les choses (bien, beau, amour, etc.) mais à des degrés différents. Or il faut nécessairement qu’il y ait un Être qui possède ces perfections à un degré maximum, car dans la nature les perfections sont limitées.
+
+Par l’ordre du monde. On observe un ordre dans la nature : l’œil est ordonné à la vue, le poumon à la respiration, etc. Or à tout ordre il faut une intelligence qui le commande, une Intelligence ordinatrice.
+
+
+
+
+
 
 
 
