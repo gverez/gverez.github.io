@@ -18,6 +18,14 @@ title: Accueil
 [<img src="/images/theresedavila.png">](/references/theresedavila.md)
 [<img src="/images/jeanyvesleloup.png">](/references/jeanyvesleloup.md)
 [<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.md)
+[<img src="/images/augustindhippone.png">](/references/augustindhippone.md)
+[<img src="/images/philippesellier.png">](/references/philippesellier.md)
+
+
+
+
+
+
 
 
 
