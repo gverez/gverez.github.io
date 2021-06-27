@@ -4,7 +4,7 @@
 
 # Ancien Testament <a name="ancientestament"></a>
 
-[Genèse](#genese) — [Exode](#exode) - [Job](#job) - [Lévitique](#levitique) - [Deutéronome](#deuteronome) - [Proverbes](#proverbes)
+[Genèse](#genese) - [Exode](#exode) - [Job](#job) - [Lévitique](#levitique) - [Deutéronome](#deuteronome) - [Proverbes](#proverbes)
 
 
 ## Genèse <a name="genese"></a>

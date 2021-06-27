@@ -16,3 +16,9 @@ title: Accueil
 [<img src="/images/macairedescete.png">](/references/macairedescete.md)
 [<img src="/images/symeonlenouveautheologien.png">](/references/symeonlenouveautheologien.md)
 [<img src="/images/theresedavila.png">](/references/theresedavila.md)
+[<img src="/images/jeanyvesleloup.png">](/references/jeanyvesleloup.md)
+
+
+
+
+
