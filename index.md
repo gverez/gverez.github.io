@@ -17,7 +17,7 @@ title: Accueil
 [<img src="/images/symeonlenouveautheologien.png">](/references/symeonlenouveautheologien.md)
 [<img src="/images/theresedavila.png">](/references/theresedavila.md)
 [<img src="/images/jeanyvesleloup.png">](/references/jeanyvesleloup.md)
-
+[<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.md)
 
 
 
