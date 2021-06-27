@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+[<img src="/images/ontologie.png">](/pages/ontologie.html)
+
 # Basile de Séleucie
 
 [<img src="/images/nopicture.png">](https://en.wikipedia.org/wiki/Basil_of_Seleucia)

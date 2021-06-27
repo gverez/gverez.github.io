@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+[<img src="/images/ontologie.png">](/pages/ontologie.html)
+
 # Syméon le Nouveau Théologien
 
 [<img src="/images/symeonlenouveautheologien.png">](https://fr.wikipedia.org/wiki/Sym%C3%A9on_le_Nouveau_Th%C3%A9ologien)

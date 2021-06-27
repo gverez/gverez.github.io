@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+[<img src="/images/ontologie.png">](/pages/ontologie.html)
+
 # Thérèse d'Avila
 
 [<img src="/images/theresedavila.png">](https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_d'Avila)

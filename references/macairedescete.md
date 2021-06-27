@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+[<img src="/images/ontologie.png">](/pages/ontologie.html)
+
 # Macaire de Scété
 
 [<img src="/images/macairedescete.png">](https://fr.wikipedia.org/wiki/Macaire_de_Sc%C3%A9t%C3%A9)

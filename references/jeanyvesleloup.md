@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+[<img src="/images/ontologie.png">](/pages/ontologie.html)
+
 # Jean-Yves Leloup
 
 [<img src="/images/jeanyvesleloup.png">](https://fr.wikipedia.org/wiki/Jean-Yves_Leloup)

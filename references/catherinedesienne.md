@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+[<img src="/images/ontologie.png">](/pages/ontologie.html)
+
 # Catherine de Sienne
 
 [<img src="/images/catherinedesienne.png">](https://fr.wikipedia.org/wiki/Catherine_de_Sienne)

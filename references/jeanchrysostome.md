@@ -1,3 +1,7 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+[<img src="/images/ontologie.png">](/pages/ontologie.html)
+
 # Jean Chrysostome
 
 [<img src="/images/jeanchrysostome.png">](https://fr.wikipedia.org/wiki/Jean_Chrysostome)
