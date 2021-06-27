@@ -8,14 +8,14 @@ title: Accueil
 
 
 
-[<img src="/images/justice_raphael.png">](/)
+[<img src="/images/justice_raphael.png">](/pages/justice.html)
 
-[<img src="/images/force_raphael.png">](/)
-[<img src="/images/charite_raphael.png">](/)
-[<img src="/images/prudence_raphael.png">](/)
-[<img src="/images/esperance_raphael.png">](/)
-[<img src="/images/temperance_raphael.png">](/)
-[<img src="/images/foi_raphael.png">](/)
+[<img src="/images/force_raphael.png">](/pages/force.html)
+[<img src="/images/charite_raphael.png">](/pages/charite.html)
+[<img src="/images/prudence_raphael.png">](/pages/prudence.html)
+[<img src="/images/esperance_raphael.png">](/pages/esperance.html)
+[<img src="/images/temperance_raphael.png">](/pages/temperance.html)
+[<img src="/images/foi_raphael.png">](/pages/foi.html)
 
 # Auteurs
 
