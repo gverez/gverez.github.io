@@ -16,6 +16,7 @@ title: Accueil
 [<img src="/images/nopicture.png">](/references/basiledeseleucie.md)
 [<img src="/images/macairedescete.png">](/references/macairedescete.md)
 [<img src="/images/hildegardedebingen.png">](/references/hildegardedebingen.md)
+[<img src="/images/francoisdassise.png">](/references/francoisdassise.md)
 [<img src="/images/catherinedesienne.png">](/references/catherinedesienne.md)
 [<img src="/images/theresedavila.png">](/references/theresedavila.md)
 [<img src="/images/lanspergius.png">](/references/lanspergius.md)
