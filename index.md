@@ -7,6 +7,16 @@ title: Accueil
 [<img src="/images/ontologie.png">](/pages/ontologie.html)
 
 
+
+[<img src="/images/justice_raphael.png">](/)
+
+[<img src="/images/force_raphael.png">](/)
+[<img src="/images/charite_raphael.png">](/)
+[<img src="/images/prudence_raphael.png">](/)
+[<img src="/images/esperance_raphael.png">](/)
+[<img src="/images/temperance_raphael.png">](/)
+[<img src="/images/foi_raphael.png">](/)
+
 # Auteurs
 
 [<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.md)

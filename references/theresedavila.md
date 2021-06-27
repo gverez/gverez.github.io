@@ -123,7 +123,7 @@
 ### Chapitre XXXVII
 >Considérez que deux choses essentielles, l’abandon de notre volonté et le pardon, sont les mêmes pour tout le monde. Il est vrai qu’on peut faire plus ou moins, comme je l’ai dit : les parfaits abandonnent leur volonté parfaitement, et ils pardonneront avec la perfection déjà dite ; nous autres, mes sœurs, nous ferons ce que nous pourrons, car le Seigneur reçoit ce qu’on lui donne.
 
-## Le château de l’âme ou le Livre des demeure <a name="theresedavila-chateaudelame"></a>
+## Le château de l’âme ou le Livre des demeures <a name="theresedavila-chateaudelame"></a>
 *Editions du Seuil, 1997*
 
 ### Premières demeures
