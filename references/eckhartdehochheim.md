@@ -4,7 +4,7 @@
 
 # Eckhart de Hochheim
 
-[<img src="/images/eckhartdehochheim.png">](https://fr.wikipedia.org/wiki/Henry_Dum%C3%A9ry)
+[<img src="/images/eckhartdehochheim.png">](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_Eckhart)
 
 **v.1260-1328**, dit Maitre Eckhart, théologien et philosophe dominicain, le premier des mystiques rhénans.
 

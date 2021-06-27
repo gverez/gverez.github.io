@@ -19,6 +19,8 @@ title: Accueil
 [<img src="/images/francoisdassise.png">](/references/francoisdassise.md)
 [<img src="/images/bonaventuredebagnoregio.png">](/references/bonaventuredebagnoregio.md)
 [<img src="/images/eckhartdehochheim.png">](/references/eckhartdehochheim.md)
+[<img src="/images/henrisuso.png">](/references/henrisuso.md)
+[<img src="/images/jeantauler.png">](/references/jeantauler.md)
 [<img src="/images/catherinedesienne.png">](/references/catherinedesienne.md)
 [<img src="/images/theresedavila.png">](/references/theresedavila.md)
 [<img src="/images/lanspergius.png">](/references/lanspergius.md)
