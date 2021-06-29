@@ -7,11 +7,13 @@
 
 ## Au commencement
 
+[[Aristote](/references/aristote.html#arkhe)]
+
 [[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)]
 
 [[Origène](/references/origene.html#genese-1-1)]
 
-[[Aristote](/references/aristote.html#arkhe)]
+[[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)]
 
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 
