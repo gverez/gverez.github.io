@@ -27,7 +27,6 @@ La prudence est la sagesse qui dispose la raison pratique à discerner, en toute
 
 
 
-
 [Siracide](#siracide)
 
 

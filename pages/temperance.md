@@ -20,6 +20,11 @@ Il n’est pas possible de trouver un péché qui soit séparé du plaisir, que 
 
 
 
+La sophrosynè (en grec ancien σωφροσύνη / sophrosúnê), est en philosophie, ce qui permet toute maîtrise de soi, toute sagesse, toute modération. Sophrosynè est le mot philosophique qui désigne la tempérance ; Luc Brisson préfère le mot « modération »1. Selon Platon, les biens, soit existent par eux-mêmes, soit sont le résultat d'une perception. Ceux-ci découlent des biens en eux-mêmes : ce sont les vertus : la prudence, la justice, le courage et la continence2. Des quatre vertus, la prudence est la première et la principale. Les vertus sont des attitudes fermes, des dispositions stables, des perfections habituelles de l’intelligence et de la volonté qui règlent les actes, ordonnent les passions et guident la conduite. Elles procurent facilité, maîtrise et joie pour mener une vie moralement bonne. L’homme vertueux est celui qui librement pratique le bien.
+
+L’essence même de la sophrosyne est l’aveu d’ignorance, souvent évoqué pour désigner la question et la philosophie socratique, parce qu’il est le signe de la présence en l’homme de la modestie ; sa recherche et son accomplissement en sont le fondement : elle est cette modestie.
+La sophrosyne prend la forme de présomption évitée et dénoncée de la science et du savoir.
+Le maître n'est considéré comme tel que parce qu'il en fait preuve et y amène ses protagonistes. Loin de se satisfaire de toute certitude, la sagesse du socratique est une inquiétude qui ne laisse jamais le sujet en repos et le pousse à exiger toujours plus des choses et de lui-même, dans un souci d'honnêteté envers les autres protagonistes. La question socratique prend son sens dans les mots réserve, retenue, obéissance, réflexion, prudence, modération. Platon explique dans La République, « que la sophrosynè contrôle le penchant pour la concupiscence » ; comme Aristote l’explicite dans l’Éthique à Nicomaque, la fonction de la sophrosynè consiste à modérer les plaisirs sensuels en accord avec les impératifs de la juste raison. Ariston de Chios, philosophe stoïcien, a défini la sophrosynè comme la « mesure de l’âme à l’égard des désirs et des plaisirs conformes à la nature ».
 
 
 

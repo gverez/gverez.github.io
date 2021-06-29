@@ -17,12 +17,19 @@ title: Accueil
 [<img src="/images/temperance_raphael.png">](/pages/temperance.html)
 [<img src="/images/foi_raphael.png">](/pages/foi.html)
 
-La vertu est une notion à l'intersection des ensembles de la philosophie, de la religion et de la politique. En philosophie grecque classique, reprise par le judaïsme hellénisé et le christianisme, on distingue parmi toutes les vertus quatre vertus cardinales : la **prudence**, la **tempérance**, la **force** d'âme et la **justice**. On parle en outre de trois vertus théologales dans le christianisme : la **foi**, l'**espérance** et la **charité*.
+
+
+**Pseudo-Platon (possiblement Speusippe)**
+
+*Les Définitions*
+>aretê (la vertu) : La disposition la meilleure ; l’état du vivant mortel, digne en soi de recevoir des louanges ; disposition qui permet à l’être qui la possède d’être qualifié de "bon" ; observance des lois qui assurent la justice ; disposition qui permet à l’être qui en est pourvu d’être qualifié de "sage accompli" ; état qui produit le bonheur.
+
+La vertu est une notion à l'intersection des ensembles de la philosophie, de la religion et de la politique. En philosophie grecque classique, reprise par le judaïsme hellénisé et le christianisme, on distingue parmi toutes les vertus quatre vertus cardinales : la **prudence**, la **tempérance**, la **force** d'âme et la **justice**. On parle en outre de trois vertus théologales dans le christianisme : la **foi**, l'**espérance** et la **charité**.
 
 Dans la perspective chrétienne, les vertus humaines acquises par l’éducation, par des actes délibérés et par une persévérance toujours reprise dans l’effort, sont purifiées et élevées par la grâce divine. Avec l’aide de Dieu, elles forgent le caractère et donnent aisance dans la pratique du bien ; l’homme vertueux est heureux de les pratiquer. Les vertus sont les fruits et les germes des actes moralement bons ; elles disposent toutes les puissances de l’être humain à communier à l’amour divin. Vertu cardinale, la justice est appelée "vertu de religion" quand il s'agit de justice envers Dieu.
 
 ## Vertus cardinales
-Une vertu cardinale est une vertu qui joue un rôle charnière (l'adjectif « cardinal » vient du latin *cardo* qui signifie « charnière, pivot ») dans l'action humaine, notamment dans la doctrine morale chrétienne, et détermine les autres vertus.
+Une vertu cardinale est une vertu qui joue un rôle charnière (l'adjectif "cardinal" vient du latin *cardo* qui signifie "charnière, pivot") dans l'action humaine, notamment dans la doctrine morale chrétienne, et détermine les autres vertus.
 
 Selon Platon[2], les biens, soit existent par eux-mêmes, soit sont le résultat d'une perception. La seconde espèce ici décrite découlant de la première : ce sont les vertus. La prudence, la justice, le courage et la continence[3]. Des quatre vertus, la prudence est la première et la principale. Les vertus sont des attitudes fermes, des dispositions stables, des perfections habituelles de l’intelligence et de la volonté qui règlent les actes, ordonnent les passions et guident la conduite. Elles procurent facilité, maîtrise et joie pour mener une vie moralement bonne. L’homme vertueux est celui qui librement pratique le bien. Ce groupe de quatre vertus fut mis en évidence par Platon, suivi par Aristote et les philosophes stoïciens. Pour Aristote, « la vertu est essentiellement ce dans et par quoi l'homme se rend supérieur au destin, grâce à la maîtrise de ses passions et à l'exploitation de ses possibilités d'action »[4].
 
