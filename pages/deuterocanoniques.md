@@ -4,7 +4,7 @@
 
 # Livres Deutérocanoniques <a name="deuterocanoniques"></a>
 
-[Siracide](#siracide)
+[Siracide](#siracide) - [Sagesse](#sagesse)
 
 
 ## Siracide <a name="siracide"></a>
@@ -46,3 +46,10 @@
 
 
 
+
+## Sagesse <a name="sagesse"></a>
+
+### Sagesse 8, 2-16 <a name="sagesse-8-2-16"></a>
+>C’est elle que j’ai aimée et recherchée dès ma jeunesse, j’ai cherché à en faire mon épouse et je suis devenu l’amant de sa beauté. Sa gloire éclipse la noblesse, car elle partage la vie de Dieu et le souverain de l’univers l’a aimée. Initiée à la science même de Dieu, elle décide de ses œuvres. Et si la richesse est un bien désirable dans la vie, quoi de plus riche que la Sagesse, l’auteur de toutes choses ? Si notre intelligence est efficace, l’artisane des êtres ne l’est-elle pas davantage ? Aime-t-on la rectitude ? Les vertus sont le fruit de ses travaux, car elle enseigne modération et prudence, justice et courage, et il n’est rien de plus utile aux hommes dans la vie. Désire-t-on encore profiter d’une longue expérience ? Elle connaît le passé et conjecture l’avenir, elle sait interpréter les sentences et résoudre les énigmes, elle prévoit signes et prodiges, les moments et les temps favorables. Je résolus donc d’en faire la compagne de ma vie, sachant qu’elle serait ma conseillère pour le bien, mon réconfort dans les soucis et le chagrin. Grâce à elle, me disais-je, j’aurai de la gloire auprès des foules et, bien que jeune, je jouirai de la considération des vieillards. On me trouvera pénétrant dans l’exercice de la justice et les princes, devant moi, seront émerveillés. Si je me tais, ils attendront ; si je parle, ils se feront attentifs, et si mon discours se prolonge, ils mettront la main sur leur bouche. J’obtiendrai, grâce à elle, l’immortalité et je laisserai à la postérité un souvenir éternel. Je gouvernerai les peuples, les nations me seront soumises. A mon seul nom, des souverains redoutables prendront peur ; je me montrerai bon parmi la foule et courageux à la guerre. Rentré chez moi, je me reposerai près d’elle, car sa société ne cause point d’amertume, ni son intimité de chagrin ; mais seulement de l’agrément et de la joie. (TOB)
+
+<sub>[Retour à Deutérocanoniques](#deuterocanoniques) — [Retour à Sagesse](#sagesse)</sub>

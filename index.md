@@ -45,15 +45,9 @@ Contrairement à Aristote, Cicéron ne privilégie par une vertu par rapport aux
 A son tour, **Augustin d'Hippone** (354-430) propose une synthèse entre les vertus cardinales et les vertus théologales (*Des Moeurs de l'Église catholique et des Moeurs de Manichéens, I, XV*) :
 >Si la vertu est le chemin du bonheur, que peut être la vertu sinon amour souverain pour Dieu ? Quand donc on dit qu'elle est quadruple, je crois qu'on l'entend des divers états de cet amour. Ces quatre vertus, plaise à Dieu que leur efficacité soit dans tous les Coeurs, comme leurs noms sont dans toutes les bouches ! - Voici comme je les définis sans hésiter : la tempérance, c'est l'amour se donnant tout entier à l'objet aimé ; la force, c'est l'amour supportant tous les maux à cause de l'objet aimé ; la justice, l'amour soumis au seul objet aimé, et par suite régnant sur tout le reste avec droiture ; enfin, la prudence, c'est l'amour faisant un choix judicieux de ce qui peut lui être utile à l'exclusion de ce qui peut lui être nuisible. Et cet amour, nous avons dit que ce n'est pas l'amour de n'importe quel objet, mais uniquement l'amour de Dieu, c'est-à-dire l'amour du souverain bien, de la souveraine sagesse, de la concorde souveraine. Je pourrais donc encore définir ces vertus : la tempérance c'est l'amour de Dieu, se conservant intègre et incorruptible ; la force, c'est l'amour supportant facilement tout à cause de Dieu ; la justice, c'est l'amour ne servant que Dieu seul et par suite régissant avec droiture tout ce qui est soumis à l'homme ; la prudence, c'est l'amour discernant judicieusement ce qui peut nous aider à arriver à Dieu ou ce qui peut nous détourner de lui.
 
+Ces vertus sont directement évoquées dans le livre deutérocanonique de la [Sagesse](/pages/deuterocanoniques.html#sagesse-8-2-16) (8, 7):
 
-
-
-Elles sont directement évoquées dans le Livre de la Sagesse (8,7), livre tardif de rédaction grecque de l'Ancien Testament, non inclus au canon juif ni protestant :
-
->Aime-t-on la rectitude ? Les vertus sont les fruits de ses travaux, car elle enseigne tempérance et prudence, justice et force.
-
-** A INTEGRER Livre de la Sagesse (8,7) deutérocanonique ?**
-
+>Aime-t-on la rectitude ? Les vertus sont le fruit de ses travaux, car elle enseigne modération et prudence, justice et courage, et il n’est rien de plus utile aux hommes dans la vie.
 
 
 ## Vertus théologales
@@ -61,13 +55,7 @@ Une vertu théologale (*ayant Dieu pour objet*) est une vertu qui doit guider le
 
 > Maintenant donc, ces trois-là demeurent, la foi (*pistis*), l’espérance (*helpis*) et l’amour (ou : charité, *agapè*) mais l’amour est le plus grand.
 
-De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes trois destinées à durer éternellement. À la fin des temps selon le christianisme, le retour de Dieu sera une évidence – et la foi n'aura donc plus de raison d'être, aucun doute ne pouvant subsister sur ce dont on est en permanence témoin. L'espérance, ne sera pas davantage de mise puisque, tout étant accompli, il n'y aura plus lieu d'espérer quoi que ce soit de supplémentaire. Seule subsistera donc, dit-il, la charité – ou amour.
-
-Ces vertus sont infusées par Dieu dans l’âme des fidèles pour les rendre capables d’agir comme ses enfants et de mériter la vie éternelle. Elles sont le gage de la présence et de l’action du Saint Esprit dans les facultés de l’être humain.
-
-L'espérance diffère de la foi du fait qu'elle émane "de l'intérieur", de l’âme, quand la foi est inspirée "de l'extérieur", par l'Esprit Saint.
-
-
+De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes trois destinées à durer éternellement. À la fin des temps selon le christianisme, le retour de Dieu sera une évidence – et la foi n'aura donc plus de raison d'être, aucun doute ne pouvant subsister sur ce dont on est en permanence témoin. L'espérance, ne sera pas davantage de mise puisque, tout étant accompli, il n'y aura plus lieu d'espérer quoi que ce soit de supplémentaire. Seule subsistera donc, dit-il, la charité – ou amour. Dans la perspective chrétienne, ces vertus sont infusées par Dieu dans l’âme des fidèles pour les rendre capables d’agir comme ses enfants et de mériter la vie éternelle. Elles sont le gage de la présence et de l’action du Saint Esprit dans les facultés de l’être humain. L'espérance diffère de la foi du fait qu'elle émane "de l'intérieur", de l’âme, quand la foi est inspirée "de l'extérieur", par l'Esprit Saint.
 
 
 
