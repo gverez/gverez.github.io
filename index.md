@@ -19,7 +19,7 @@ title: Accueil
 
 
 
-Pseudo-Platon (possiblement Speusippe, successeur de Platon à l'Académie), *Les Définitions, v.IVe BCE*
+*Les Définitions, v.IVe BCE*, Pseudo-Platon (possiblement Speusippe, successeur de Platon à l'Académie).
 >aretê (la vertu) : La disposition la meilleure ; l’état du vivant mortel, digne en soi de recevoir des louanges ; disposition qui permet à l’être qui la possède d’être qualifié de "bon" ; observance des lois qui assurent la justice ; disposition qui permet à l’être qui en est pourvu d’être qualifié de "sage accompli" ; état qui produit le bonheur.
 
 La vertu est une notion à l'intersection des ensembles de la philosophie, de la religion et de la politique. En philosophie grecque classique, reprise par le judaïsme hellénisé et le christianisme, on distingue parmi toutes les vertus quatre vertus cardinales : la **prudence**, la **tempérance**, la **force** d'âme et la **justice**. On parle en outre de trois vertus théologales dans le christianisme : la **foi**, l'**espérance** et la **charité**.
