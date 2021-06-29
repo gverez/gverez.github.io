@@ -22,8 +22,7 @@
 
 [[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)]
 
-
-Origène     _ pas encore lu et écrit
+[[Origène](/references/origene.html#genese-1-1)]
 
 Basile de Césarée    _ pas encore lu et écrit
 
