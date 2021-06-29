@@ -23,6 +23,8 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 
 [[Ambroise de Milan](/references/ambroisedemilan.html#genese-1-1)]
 
+[Augustin d'Hippone](/references/augustindhippone.html#genese-1-1)
+
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 
 Relire brièvement ces auteurs au-dessus et dire de quoi ils parlent, pour mieux savoir quand aller puiser dedans. Notamment certains parlent presque exclusivement de Arkhé
@@ -75,6 +77,8 @@ Averroès (Ibn Rushd), lorsqu’il défend les idées des philosophes et d’Ari
 ### Un Esprit maternel
 
 [[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)]
+
+[Augustin d'Hippone](/references/augustindhippone.html#genese-1-2)
 
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]
 

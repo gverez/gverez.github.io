@@ -9,6 +9,24 @@
 
 **354\-430**, philosophe et théologien chrétien romain, Père de l'Eglise.
 
+## Commentaire sur Genèse 1, 1 <a name="genese-1-1"></a>
+*De Genesi Ad Litteram Imperfectus Liber sur les quatre façon d’expliquer l’Ecriture, texte latin dans Patrologie Latine, J.-P. Migne, Volume 34, traduction et commentaires : Giovanni Polito*
+
+>Selon cette foi il faut considérer ce qui dans ce livre peut être questionné et discuté. “Dans le “principium” Dieu fit le ciel et la terre” (Genèse 1, 1). Certains commentateurs des Écritures nous transmettent quatre façons d’expliquer la Loi, dont les vocables peuvent être énoncés en grec, mais doivent être définis et expliqués en latin: selon l’histoire, selon l’allégorie, selon l’analogie, selon l’étiologie. L’histoire, c’est lorsqu’on commémore des faits qui ont été accomplis par ce qui est humain ou ce qui est divin; l’allégorie, lorsque ce qui est dit est compris au sens figuré; l’analogie, lorsqu’on montre la correspondance entre le Vieux et le Nouveau Testament; l’étiologie, lorsqu’on restitue les causes de ce qui est dit et de ce qui est fait.
+
+
+[[Retour à Genèse 1, 1](/pages/ancientestament.html#genese-1-1)]
+
+
+
+
+
+
+
+
+
+
+
 
 ## Confessions <a name="augustindhippone-confessions"></a>
 *Gallimard, 1993*
