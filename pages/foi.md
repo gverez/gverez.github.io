@@ -62,9 +62,19 @@ Averroès (Ibn Rushd), lorsqu’il défend les idées des philosophes et d’Ari
 ## L'Amour
 
 ### Un Esprit maternel
-A côté de l’autorité paternelle, la Bible introduit tout de suite en Dieu son affection maternelle. Dieu est au-delà de nos distinctions de genre et cependant, la multiplicité de nos mots et de nos réalités nous permet de nous approcher un peu plus de lui. Si nous considérons que Dieu est Père, c’est que nous voulons affirmer qu’il a eu l’initiative de l’acte créateur ; mais si nous parlons de son Esprit, de la façon qu’il a de nous aimer, nous sommes obligés de prendre l’image de l’amour maternel, un amour qui ne peut se séparer du fruit de ses entrailles. Il s’agit d’un attachement et d’une communion profonde entre la mère et l’enfant qu’elle porte. (polito genese-1-2)
+
+[[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)]
+
+[[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]
+
+A côté de l’autorité paternelle, la Bible introduit tout de suite en Dieu son affection maternelle à travers le mot Esprit et le verbe planer dans [Genèse 1, 2](/pages/ancientestament.html#genese-2-1):
+
+>La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit (רוּחַ ruaḥ) de Dieu planant (מְרַחֶפֶת meraḥefet) au-dessus des eaux. (Trad. : Polito de l'hébreu)
+
+Dieu est au-delà de nos distinctions de genre et cependant, la multiplicité de nos mots et de nos réalités nous permet de nous approcher un peu plus de lui. Si nous considérons que Dieu est Père, c’est que nous voulons affirmer qu’il a eu l’initiative de l’acte créateur ; mais si nous parlons de son Esprit, de la façon qu’il a de nous aimer, nous sommes obligés de prendre l’image de l’amour maternel, un amour qui ne peut se séparer du fruit de ses entrailles. Il s’agit d’un attachement et d’une communion profonde entre la mère et l’enfant qu’elle porte. (polito genese-1-2)
 
 Dieu se compare à un aigle qui porte ses petits sur ses ailes :
+
 >Exode 19, 4 : Vous avez vu ce que j’ai fait à l’Égypte, comment je vous ai portés sur les ailes des aigles et vous ai conduit jusqu’à moi
 >
 >Deutéronome 32, 11 : Tel un aigle qui éveille son nid et plane au-dessus de ses petits, il déploie ses ailes, il le prend, il le porte sur ses ailes robustes
@@ -78,7 +88,7 @@ Jésus s'adresse à Jérusalem :
 >Luc 13, 34 : Combien de fois ai-je voulu rassembler tes enfants comme la poule rassemble ses poussins sous ses ailes 
 Cette affection véritable – qui ne voit que la beauté de ses petits – est bien féminine, comme celle de la mère qui ne se séparera jamais de son propre enfant, même si aux yeux de la société c’est un criminel. Pour elle, même adulte et coupable, il reste le fruit des ses entrailles, l’enfant bien-aimé (polito genese-1-2)
 
-Basile de Césarée et Augustin **AJOUTER CITATIONS*** sont aussi attentif à la traduction du mot (meraḥefet) qui se rapporte à l’Esprit de Dieu (ruaḥ : souffle, esprit de genre féminin en hébreu) et rappellent la tradition syriaque, langue proche de l’hébreu, qui traduit ce mot par réchauffer, couver, évoquant justement le geste de l’oiseau qui se tient au-dessus de ses petits, qui infuse sa chaleur et son énergie vitale aux oeufs (polito).
+Basile de Césarée et Augustin **AJOUTER CITATIONS** sont aussi attentif à la traduction du mot (meraḥefet) qui se rapporte à l’Esprit de Dieu (ruaḥ : souffle, esprit de genre féminin en hébreu) et rappellent la tradition syriaque, langue proche de l’hébreu, qui traduit ce mot par réchauffer, couver, évoquant justement le geste de l’oiseau qui se tient au-dessus de ses petits, qui infuse sa chaleur et son énergie vitale aux oeufs (polito).
 
 Aussi bien la Bible ("reḥem") que le Qur’an ("raḥmān", "raḥīm") nous parlent de l’amour de Dieu pour nous, sa miséricorde en utilisant le même mot qui évoque la mère qui porte son enfant en elle, dans son utérus. En latin on a traduit cette racine par "miséricorde" et "miséricordieux" qui évoquent le mot coeur (cor, cordis), mais dans les langues sémitiques l’idée de l’attachement et de la compassion est liée au mot reḥem : utérus. Le savant juif André Chouraqui nous a proposé de traduire l’omniprésent "Dieu, le miséricordieux", par "Dieu, le matriciel".
 

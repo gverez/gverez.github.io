@@ -39,3 +39,25 @@ Basile nous dit que les interprètes (ἑρμηνευταί herméneutes) qui ve
 >[...] Afin donc qu’il apparaisse que le monde est un dessin exécuté avec art, conduisant tous à la contemplation, de façon à ce que, à travers lui, soit reconnu le savoir de son créateur, le savant Moïse n’a pas utilisé à son sujet d’autre mot, mais il a dit:”Dans arkhế il a créé [ou: il a fait]”. Non pas il a oeuvré à, ni il a posé les bases de, mais il a créé [ou: il a fait]. Et puisque nombreux sont ceux qui s’imaginent que le cosmos coexiste avec Dieu depuis l’éternité, ils ne concèdent pas non plus qu’il a été généré par lui, mais [pour eux c’est] comme s’il était une ombre projetée qui surgirait à côté de sa puissance immédiatement et automatiquement; ils reconnaissent d’un côté que sa cause est Dieu, mais une cause involontaire, comme le corps [est cause] de l’ombre et ce qui illumine [est cause] de l’illumination; le prophète, donc, voulant corriger un telle erreur, était obligé de parler avec précision de termes: “Dans arkhé Dieu a créé [ou: il a fait]”. Non pas qu’il a fourni la cause de l’être (τοῦ εἶναι), mais il a créé ce qui est utile comme quelqu’un qui est bon, ce qui est le plus beau comme quelqu’un qui  sait, ce qui est le plus grand comme quelqu’un qui est puissant.
 
 [[Retour à Genèse 1, 1](/pages/ancientestament.html#genese-1-1)]
+
+
+## Commentaire sur Genèse 1, 2 <a name="genese-1-2"></a>
+*Homélies sur l’Hexaéméron 2, 6 (18 B-D, Migne 41C-44C), traduction et commentaires : Giovanni Polito*
+
+>Et le souffle de Dieu, dit [Moïse], se déplaçait [ἐπεφέρετο avançait au-dessus] au-dessus de l’eau. Soit il dit que l’esprit est ceci: le flux d’air, comprends [alors] que l’écrivain énumère pour toi les parties du monde, que Dieu a fait, le ciel, la terre, l’eau, l’air, et que celui-ci [le souffle] est déjà répandu et s’écoule.
+
+Le verbe ἐπιφέρω (epiphérô) indique un déplacement au-dessus de quelque chose, il est ici à la forme medio-passive, indiquant que le souffle se déplace, se transporte. Vu le préfixe verbal epi qui signifie “dessus” on pourrait presque, en pensant au souffle et au vent et plaçant l’action dans les airs, traduire par survolait. Le mot πνεῦμα (pneûma) peut indiquer aussi bien le souffle, le vent, que l’esprit. Basile donne ici les deux acceptions possibles du mots, tout en montrant sa préférence pour la deuxième, l’esprit.
+
+>Soit, ce qui est aussi préférable, plus vrai et aussi adopté par ceux avant nous, ce dont il est fait mention [ici] c’est l’Esprit de Dieu, le Saint: parce qu’il a été observé que, en le réservant d’une façon particulière et éminente, ce mot est jugé digne par l’Ecriture d’une telle appellation que rien d’autre n’est appelé Esprit de Dieu, sauf le saint qui parfait la bienheureuse et divine Trinité.
+
+>En acceptant cette pensée, tu trouveras un grand avantage. Comment donc celui-ci [l’Esprit] se tient-il au-dessus de l’eau? Je ne te donnerai pas mon discours, mais celui d’un homme syrien qui s’est autant éloigné de la sagesse du monde, qu’il était proche de la science des choses qui sont vraies. Il disait, donc, que le langage des Syriens a une plus grande capacité expressive et aussi que grâce à la parenté avec le langage hébraïque, il est d’une certaine façon plus proche de la façon de penser des Ecritures. Celle-ci est donc la façon de comprendre ce qui est dit: ceci, dit-il, est interprété comme “se tenait au-dessus”, à la place de “réchauffait”, et rendait la nature des eaux “productrice d’êtres vivants” (ἐζωογόνει), selon la ressemblance avec l’oiseau qui est au-dessus des oeufs et qui infuse une certaine puissance vitale à ceux qui sont réchauffés.
+
+Le saint père syrien dont il est question ici, réagit donc à la traduction grecque qui traduit le participe présent féminin meraḥefet présent dans l’original hébreu par le mot grec ἐπεφέρετο qui signifie se déplacer au-dessus. Il signale donc que d’après les syriens ce mot signifierait plutôt l’action d’un oiseau qui réchauffe ses oeufs en les couvant et infusant par là une énergie vitale à ceux-ci.
+
+>Telle que celle-ci est la pensée à laquelle est faite allusion par cette expression: “l’Esprit se tenait”, c’est-à-dire, en préparant la nature de l’eau à produire des êtres vivants. De cette façon à partir de cela est suffisamment montré ce qui est recherché par certains, que le Saint Esprit n’est pas laissé en dehors de l’action créatrice.
+
+
+
+
+
+[[Retour à Genèse 1, 2](/pages/ancientestament.html#genese-1-2)]

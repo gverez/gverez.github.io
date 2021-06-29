@@ -24,7 +24,7 @@
 
 [[Origène](/references/origene.html#genese-1-1)]
 
-Basile de Césarée    _ pas encore lu et écrit
+[[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)]
 
 Grégoire de Nysse      _ pas encore lu et écrit
 
@@ -48,7 +48,7 @@ Itshaq Abravanel   _ pas encore lu et écrit
 
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]
 
-Basile de Césarée        _ pas encore lu et écrit
+[[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)]
 
 Augustin d'Hippone        _ pas encore lu et écrit
 
