@@ -29,6 +29,7 @@ Relire brièvement ces auteurs au-dessus et dire de quoi ils parlent, pour mieux
 
 Prendre toutes les références bibliques, toutes les mettres à la fin de ce chapitre, ou trouver un moyen de les intégrer intelligemment, pour ne casser la lecture.
 
+Tout ceci parait extrême pour un seul mot, mais en vérité, c'est une manière de décrire Dieu.
 
 Arkhế: Ce mot est aussi le premier mot du livre de la Genèse dans la traduction grecque de la Septante. Comme nous le verrons, la signification du mot arkhế est complexe et beaucoup d’auteurs nous fournissent des exemples de son utilisation dans plusieurs domaines. Arkhế, selon le contexte, peut donc assumer différentes significations: commencement (dans le temps), début (du chemin), origine (de ce qui est engendré), fondement (de ce qui est construit), modèle (de ce qui est formé), principe, élément, point de départ (de ce qui est appris), etc. Nous retrouvons, donc, dans le Commentaire à l’évangile selon Jean, une des premières identifications de arkhế avec la Sagesse divine exprimée par le lógos créateur.
 
