@@ -119,7 +119,7 @@ Détails
 >Toute l’œuvre de Dieu est de nous conduire à goûter la joie du ciel, c’est à dire la joie qui provient du parfait échange d’amour. L’image que les apôtres donnent de cette harmonie est celle du corps humain et de ses membres qui collaborent tous au bien commun. Et saint Augustin aussi nous dit que l’oeuvre de Dieu est de nous conduire à la pleine ressemblance avec lui, c’est-à-dire à cette unité parfaite dans l’amour dont nous parle Jésus: « Soyez un, comme moi et mon père nous sommes un. »
 
 
-
+<sub>[Retour à l'A.T.](/pages/ancientestament.html#genese-4-1-15) — [Retour au début de page](#genese-1-1)</sub>
 
 
 
