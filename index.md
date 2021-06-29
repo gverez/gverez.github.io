@@ -6,38 +6,6 @@ title: Accueil
 [<img src="/images/spiritualite.png">](/pages/spiritualite.html)
 [<img src="/images/ontologie.png">](/pages/ontologie.html)
 
-
-
-
-# Lexique à consituer :
-- Caïn signifie acquisition, parce qu’il acquiert tout pour lui-même.
-- Abel signifie vanité. La racine du nom signifie souffle d'air, vacuité d'où la traduction de vanité au sens de quelque chose qui n'a pas de consistance et cela décrit le regard d’Abel sur les bien terrestres que le vent et le temps emportent, sans y attacher son coeur car il met son espérance dans la vie éternelle.
-- Adam signifie "le terreux", "le glaiseux"
-- Eve ???
-- Bible
-- Evangile
-- Apocalypse
-
-# A faire :
-- J'ai lu les commentaires de Giovanni sur la Genèse mais pas ajouté ses références des Pères dans "Commentaires"
-- Ensuite faire le même travail sur les evangiles et l'apocalypse
-- Enfin seulement terminer par les thèmes, de manière à tout relier
-
-- Finir d'importer mes propres références théologiques
-- Reprendre les textes un par un pour remplir dans les Vertus
-- Commencer le travail sur la justice et la charité:
-	- D'abord reprendre le plan ET reparcourir le texte de la doctrine sociale
-	- Reparcourir Fratteli Tutti pour ajouter les références bibliques et les commentaires associés
-	- Riches et Pauvres
-	- Ajouter finalement mes citations bibliques qui n'ont pas encore été utilisées
-
-- Importer mes références ontologiques
-- Importer tout le texte ontologique dans Ontologie
-- Le retravailler pour le résumer en français
-
-
-
-
 # Les vertus
 
 [<img src="/images/justice_raphael.png">](/pages/justice.html)
@@ -122,6 +90,7 @@ L'espérance diffère de la foi du fait qu'elle émane "de l'intérieur", de l�
 [<img src="/images/nopicture.png">](/references/henrydumery.md)
 [<img src="/images/danielmaurin.png">](/references/danielmaurin.md)
 [<img src="/images/jeanyvesleloup.png">](/references/jeanyvesleloup.md)
+[<img src="/images/giovannipolito.png">](/references/giovannipolito.md)
 
 
 
@@ -130,4 +99,28 @@ L'espérance diffère de la foi du fait qu'elle émane "de l'intérieur", de l�
 
 
 
+# Lexique à constituer :
+- Caïn signifie acquisition, parce qu’il acquiert tout pour lui-même.
+- Abel signifie vanité. La racine du nom signifie souffle d'air, vacuité d'où la traduction de vanité au sens de quelque chose qui n'a pas de consistance et cela décrit le regard d’Abel sur les bien terrestres que le vent et le temps emportent, sans y attacher son coeur car il met son espérance dans la vie éternelle.
+- Adam signifie "le terreux", "le glaiseux"
+- Eve ???
+- Bible
+- Evangile
+- Apocalypse
 
+# A faire :
+- J'ai lu les commentaires de Giovanni sur la Genèse mais pas ajouté ses références des Pères dans "Commentaires"
+- Ensuite faire le même travail sur les evangiles et l'apocalypse
+- Enfin seulement terminer par les thèmes, de manière à tout relier
+
+- Finir d'importer mes propres références théologiques
+- Reprendre les textes un par un pour remplir dans les Vertus
+- Commencer le travail sur la justice et la charité:
+	- D'abord reprendre le plan ET reparcourir le texte de la doctrine sociale
+	- Reparcourir Fratteli Tutti pour ajouter les références bibliques et les commentaires associés
+	- Riches et Pauvres
+	- Ajouter finalement mes citations bibliques qui n'ont pas encore été utilisées
+
+- Importer mes références ontologiques
+- Importer tout le texte ontologique dans Ontologie
+- Le retravailler pour le résumer en français
