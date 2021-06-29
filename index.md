@@ -18,9 +18,8 @@ title: Accueil
 [<img src="/images/foi_raphael.png">](/pages/foi.html)
 
 
-
-*Les Définitions, Ve-IVe BCE*, Pseudo-Platon (possiblement Speusippe, successeur de Platon à l'Académie).
->aretê (la vertu) : La disposition la meilleure ; l’état du vivant mortel, digne en soi de recevoir des louanges ; disposition qui permet à l’être qui la possède d’être qualifié de "bon" ; observance des lois qui assurent la justice ; disposition qui permet à l’être qui en est pourvu d’être qualifié de "sage accompli" ; état qui produit le bonheur.
+## Définition
+>ἀρετή (*aretê*, la vertu) : La disposition la meilleure ; l’état du vivant mortel, digne en soi de recevoir des louanges ; disposition qui permet à l’être qui la possède d’être qualifié de "bon" ; observance des lois qui assurent la justice ; disposition qui permet à l’être qui en est pourvu d’être qualifié de "sage accompli" ; état qui produit le bonheur. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
 La vertu est une notion à l'intersection des ensembles de la philosophie, de la religion et de la politique. En philosophie grecque classique, reprise par le judaïsme hellénisé et le christianisme, on distingue parmi toutes les vertus quatre vertus cardinales : la **prudence**, la **tempérance**, la **force** d'âme et la **justice**. On parle en outre de trois vertus théologales dans le christianisme : la **foi**, l'**espérance** et la **charité**.
 
@@ -28,9 +27,13 @@ Dans la perspective chrétienne, les vertus humaines acquises par l’éducation
 
 ## Vertus cardinales
 Une vertu cardinale est une vertu qui joue un rôle charnière (l'adjectif "cardinal" vient du latin *cardo* qui signifie "charnière, pivot") dans l'action humaine et détermine les autres vertus. **Platon** (V-IVe BCE) distingue quatre vertus principales : la sagesse (*La République, IV, 428b-429a*), le courage (*La République, IV, 429a-430c*), la tempérance (*La République, IV, 430d-432b*) et la justice (*La République, IV, 432b-444a*). Il rapproche la sagesse de la connaissance car être sage c’est être de bon conseil, ce qui s'acquiert par la connaissance. Si le courage n’est nécessaire qu’aux auxiliaires des chefs d’état, qui sont les gardiens et les défenseurs de la cité, la tempérance est partagée par tous les citoyens. Grâce à cette vertu l’homme maîtrise ses passions. L’harmonie entre les citoyens est ainsi favorisée. Platon met au dessus des autres la quatrième vertu : la justice. Elle est en même temps la condition des trois autres mais aussi la plus difficile à trouver. **Aristote** (IVe BCE) utilise une distinction différente (*Ethique à Nicomaque, I, 13*):
+
 >Nous distinguons, en effet, les vertus intellectuelles et les vertus morales : la sagesse, l’intelligence, la prudence sont des vertus intellectuelles ; la libéralité et la modération sont des vertus morales.
+
 Il met à part la justice qu’il considère comme la plus haute des vertus. Un peu plus loin, il précise la signification de la vertu (*Ethique à Nicomaque, II, 6*):
+
 >Ainsi donc, la vertu est une disposition à agir d’une façon délibérée consistant en un juste milieu relative à nous, laquelle est rationnellement déterminée et comme la déterminerait l’homme prudent.
+
 Il passe ainsi en revue une dizaine de vertus dont : le courage (juste milieu entre la peur et la témérité), la libéralité (juste milieu entre l’action de donner et celle de recevoir des richesses), la magnanimité (juste milieu entre la pusillanimité et la vanité) et la tempérance (juste milieu par excellence). Ces vertus deviennent ainsi des formes de prudence. Les vertus principales sont alors la justice , la prudence et la sagesse, l’intelligence n’étant qu’une vertu mineure.
 
 Cicéron ( 106-43 avant Jésus-Christ ) dans « De finibus » reprend à son tour la doctrine des quatre vertus principales. « L'autre genre comprend les grandes et véritables vertus, filles de notre liberté, telles que la prudence, la tempérance, la force, la justice, et les autres de même nature. » . Contrairement à Aristote Cicéron ne privilégie par une vertu par rapport aux autres. Elles ont chacune une fonction particulière mais elles sont tellement liées entre elles et elles participent tellement les unes aux autres qu’on ne peut pas les séparer. (Livre V)
