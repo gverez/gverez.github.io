@@ -29,7 +29,7 @@
 
 [[Grégoire de Nysse](/references/gregpiredenysse.html#genese-1-1)]
 
-Ambroise de Milan   _ pas encore lu et écrit
+[Ambroise de Milan](/references/ambroisedemilan.html#genese-1-1)
 
 Augustin d'Hippone   _ pas encore lu et écrit
 
