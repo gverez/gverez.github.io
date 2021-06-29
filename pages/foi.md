@@ -1,9 +1,13 @@
 [<img src="/images/accueil.png">](/)
-[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
-[<img src="/images/ontologie.png">](/pages/ontologie.html)
+[<img src="/images/ancientestament.png">](/pages/ancientestament.html)
+[<img src="/images/deuterocanonique.png">](/pages/deuterocanonique.html)
+[<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
 # Vertu théologal de la foi <a name="foi"></a>
 
+**Table des matières**
+
+TODO, avec numérotation, donc à la fin de la rédaction.
 
 ## Au commencement
 
@@ -15,9 +19,13 @@
 
 [[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)]
 
+[[Grégoire de Nysse](/references/gregpiredenysse.html#genese-1-1)]
+
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 
 Relire brièvement ces auteurs au-dessus et dire de quoi ils parlent, pour mieux savoir quand aller puiser dedans. Notamment certains parlent presque exclusivement de Arkhé
+
+Prendre toutes les références bibliques, toutes les mettres à la fin de ce chapitre, ou trouver un moyen de les intégrer intelligemment, pour ne casser la lecture.
 
 
 Arkhế: Ce mot est aussi le premier mot du livre de la Genèse dans la traduction grecque de la Septante. Comme nous le verrons, la signification du mot arkhế est complexe et beaucoup d’auteurs nous fournissent des exemples de son utilisation dans plusieurs domaines. Arkhế, selon le contexte, peut donc assumer différentes significations: commencement (dans le temps), début (du chemin), origine (de ce qui est engendré), fondement (de ce qui est construit), modèle (de ce qui est formé), principe, élément, point de départ (de ce qui est appris), etc. Nous retrouvons, donc, dans le Commentaire à l’évangile selon Jean, une des premières identifications de arkhế avec la Sagesse divine exprimée par le lógos créateur.
@@ -93,7 +101,7 @@ Basile de Césarée et Augustin **AJOUTER CITATIONS** sont aussi attentif à la 
 Aussi bien la Bible ("reḥem") que le Qur’an ("raḥmān", "raḥīm") nous parlent de l’amour de Dieu pour nous, sa miséricorde en utilisant le même mot qui évoque la mère qui porte son enfant en elle, dans son utérus. En latin on a traduit cette racine par "miséricorde" et "miséricordieux" qui évoquent le mot coeur (cor, cordis), mais dans les langues sémitiques l’idée de l’attachement et de la compassion est liée au mot reḥem : utérus. Le savant juif André Chouraqui nous a proposé de traduire l’omniprésent "Dieu, le miséricordieux", par "Dieu, le matriciel".
 
 
-
+la création est l’oeuvre de la Trinité et Basile, tient à réaffirmer ici qui l’action de l’Esprit est celle d’infuser la vie de Dieu en ses créature, le souffle de Dieu donne et transmet la vie divine à ses créatures.
 
 ### Dessein supposé
 Toute l’œuvre de Dieu est de nous conduire à goûter la joie du ciel, c’est à dire la joie qui provient du parfait échange d’amour. L’image que les apôtres donnent de cette harmonie est celle du corps humain et de ses membres qui collaborent tous au bien commun. Saint Augustin aussi nous dit que l’oeuvre de Dieu est de nous conduire à la pleine ressemblance avec lui, c’est-à-dire à cette unité parfaite dans l’amour dont nous parle Jésus: "Soyez un, comme moi et mon père nous sommes un" [[Giovanni Polito](/references/giovannipolito.html#genese-4-1-15)].

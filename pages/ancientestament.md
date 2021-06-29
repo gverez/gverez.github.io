@@ -1,6 +1,7 @@
 [<img src="/images/accueil.png">](/)
-[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
-[<img src="/images/ontologie.png">](/pages/ontologie.html)
+[<img src="/images/ancientestament.png">](/pages/ancientestament.html)
+[<img src="/images/deuterocanonique.png">](/pages/deuterocanonique.html)
+[<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
 # Ancien Testament <a name="ancientestament"></a>
 
@@ -26,7 +27,7 @@
 
 [[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)]
 
-Grégoire de Nysse      _ pas encore lu et écrit
+[[Grégoire de Nysse](/references/gregpiredenysse.html#genese-1-1)]
 
 Ambroise de Milan   _ pas encore lu et écrit
 

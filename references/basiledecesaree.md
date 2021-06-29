@@ -56,8 +56,6 @@ Le saint père syrien dont il est question ici, réagit donc à la traduction gr
 
 >Telle que celle-ci est la pensée à laquelle est faite allusion par cette expression: “l’Esprit se tenait”, c’est-à-dire, en préparant la nature de l’eau à produire des êtres vivants. De cette façon à partir de cela est suffisamment montré ce qui est recherché par certains, que le Saint Esprit n’est pas laissé en dehors de l’action créatrice.
 
-
-
-
+D’après l’enseignement traditionnel, en effet, la création est l’oeuvre de la Trinité et Basile, tient à réaffirmer ici qui l’action de l’Esprit est celle d’infuser la vie de Dieu en ses créature, le souffle de Dieu donne et transmet la vie divine à ses créatures.
 
 [[Retour à Genèse 1, 2](/pages/ancientestament.html#genese-1-2)]

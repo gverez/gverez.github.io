@@ -1,6 +1,7 @@
 [<img src="/images/accueil.png">](/)
-[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
-[<img src="/images/ontologie.png">](/pages/ontologie.html)
+[<img src="/images/ancientestament.png">](/pages/ancientestament.html)
+[<img src="/images/deuterocanonique.png">](/pages/deuterocanonique.html)
+[<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
 # Vertu théologal de l'espérance <a name="esperance"></a>
 

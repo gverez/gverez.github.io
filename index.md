@@ -58,6 +58,11 @@ Une vertu théologale (*ayant Dieu pour objet*) est une vertu qui doit guider le
 De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes trois destinées à durer éternellement. À la fin des temps selon le christianisme, le retour de Dieu sera une évidence – et la foi n'aura donc plus de raison d'être, aucun doute ne pouvant subsister sur ce dont on est en permanence témoin. L'espérance, ne sera pas davantage de mise puisque, tout étant accompli, il n'y aura plus lieu d'espérer quoi que ce soit de supplémentaire. Seule subsistera donc, dit-il, la charité – ou amour. Dans la perspective chrétienne, ces vertus sont infusées par Dieu dans l’âme des fidèles pour les rendre capables d’agir comme ses enfants et de mériter la vie éternelle. Elles sont le gage de la présence et de l’action du Saint Esprit dans les facultés de l’être humain. L'espérance diffère de la foi du fait qu'elle émane "de l'intérieur", de l’âme, quand la foi est inspirée "de l'extérieur", par l'Esprit Saint.
 
 
+## Thèmes
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
+
+[<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html)
+
 
 # Auteurs
 
