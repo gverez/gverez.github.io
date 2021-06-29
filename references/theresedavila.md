@@ -7,12 +7,12 @@
 
 [<img src="/images/theresedavila.png">](https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_d'Avila)
 
-**1515\-1582**, religieuse espagnole.
+**1515-1582**, religieuse espagnole.
 
-[Le chemin de la perfection](#theresedavila-lechemindelaperfection) - [Le château de l'âme](#chateaudelame)
+[Le chemin de la perfection](#lechemindelaperfection) - [Le château de l'âme](#chateaudelame)
 
 
-## Le chemin de la perfection <a name="theresedavila-lechemindelaperfection"></a>
+## Le chemin de la perfection <a name="lechemindelaperfection"></a>
 *Artège 2018*
 
 ### Chapitre IV
@@ -124,7 +124,7 @@
 ### Chapitre XXXVII
 >Considérez que deux choses essentielles, l’abandon de notre volonté et le pardon, sont les mêmes pour tout le monde. Il est vrai qu’on peut faire plus ou moins, comme je l’ai dit : les parfaits abandonnent leur volonté parfaitement, et ils pardonneront avec la perfection déjà dite ; nous autres, mes sœurs, nous ferons ce que nous pourrons, car le Seigneur reçoit ce qu’on lui donne.
 
-## Le château de l’âme ou le Livre des demeures <a name="theresedavila-chateaudelame"></a>
+## Le château de l’âme ou le Livre des demeures <a name="chateaudelame"></a>
 *Editions du Seuil, 1997*
 
 ### Premières demeures

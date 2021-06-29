@@ -84,6 +84,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/jeantauler.png">](/references/jeantauler.md)
 [<img src="/images/catherinedesienne.png">](/references/catherinedesienne.md)
 [<img src="/images/theresedavila.png">](/references/theresedavila.md)
+[<img src="/images/jeandelacroix.png">](/references/jeandelacroix.md)
 [<img src="/images/lanspergius.png">](/references/lanspergius.md)
 [<img src="/images/philippesellier.png">](/references/philippesellier.md)
 [<img src="/images/nopicture.png">](/references/henrydumery.md)

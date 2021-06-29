@@ -1,0 +1,643 @@
+[<img src="/images/accueil.png">](/)
+[<img src="/images/ancientestament.png">](/pages/ancientestament.html)
+[<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
+[<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
+
+# Jean de la Croix
+
+[<img src="/images/jeandelacroix.png">](https://fr.wikipedia.org/wiki/Jean_de_la_Croix)
+
+**1542-1591**, prêtre carme, saint mystique espagnol, Docteur de l'Eglise.
+
+[Le chemin de la perfection](#theresedavila-lechemindelaperfection) - [Le château de l'âme](#chateaudelame)
+
+
+## La montée du Carmel <a name="monteeducarmel"></a>
+*Seuil, 1947*
+
+### Livre premier
+
+>Par une nuit profonde,
+>
+>Etant pleine d’angoisse et enflammée d’amour,
+>
+>Oh ! l’heureux sort !
+>
+>Je sortis sans être vue,
+>
+>Tandis que ma demeure était déjà en paix.
+>
+>J’étais dans les ténèbres et en sûreté
+>
+>Quand je sortis déguisée par l’escalier secret,
+>
+>Oh ! l’heureux sort !
+>
+>J’étais dans les ténèbres et en cachette,
+>
+>Tandis que ma demeure était déjà en paix.
+>
+>Dans cette heureuse nuit,
+>
+>Je me tenais dans le secret, personne ne me voyait,
+>
+>Et je n’apercevais rien
+>
+>Pour me guider que la lumière
+>
+>Qui brûlait dans mon cœur.
+>
+>Elle me guidait
+>
+>Plus sûrement que la lumière du midi
+>
+>Au but où m’attendait
+>
+>Celui que j’aimais,
+>
+>Là où nul autre ne se voyait.
+>
+>O nuit qui m’avez guidée !
+>
+>O nuit plus aimable que l’aurore !
+>
+>O nuit qui avez uni
+>
+>L’aimé avec sa bien-aimée
+>
+>Qui a été transformée en lui !
+>
+>Sur mon sein orné de fleurs,
+>
+>Que je gardais tout entier pour lui seul,
+>
+>Il reste endormi,
+>
+>Et moi je le caressais
+>
+>Et avec un éventail de cèdre je le rafraîchissais.
+>
+>Quand le souffle provenant du fort
+>
+>Soulevait déjà sa chevelure,
+>
+>De sa douce main
+>
+>Posée sur mon cou il me blessait,
+>
+>Et tous mes sens furent suspendus.
+>
+>Je restai là et m’oubliai,
+>
+>Le visage penché sur le Bien-Aimé.
+>
+>Tout cessa pour moi, et je m’abandonnai à lui,
+>
+>Je lui confiai tous mes soucis
+>
+>Et m’oubliai au milieu des lis.
+>Pour comprendre cette doctrine, il faut savoir que l’âme, avant d’arriver à l’état de perfection, doit ordinairement passer tout d’abord par deux sortes principales de nuit que les auteurs spirituels appellent voies purgatives ou purifications, et que nous appelons ici des nuits, parce que, dans les deux cas, l’âme marche pour ainsi dire de nuit et dans l’obscurité. […] Ce fut une heureuse fortune pour elle que Dieu la plaçât dans cette nuit, d’où lui est venu un si grand bien, et où elle n’aurait jamais pu s’introduire d’elle-même. Il n’y a personne d’ailleurs qui soit capable par ses seules forces de se dégager de toutes ses tendances pour aller à Dieu.
+
+#### Par une nuit profonde
+
+>Nous pouvons pour trois motifs appeler nuit l’état par lequel passe l’âme pour arriver à l’union divine. Le premier vient du point de départ de l’âme, car elle doit priver peu à peu ses tendances du goût qu’elles éprouvaient dans toutes les choses du monde et le leur refuser ; or ce refus, cette absence de toutes jouissances, est comme une nuit pour toutes les tendances et les sens de l’homme. Le second motif vient du moyen que l’on emploie ou du chemin par lequel l’âme doit passer pour arriver à l’union. Ce moyen est la foi, qui, obscure elle aussi, est pour l’entendement comme une nuit. Le troisième vient du terme où l’âme tend, c’est-à-dire de Dieu : comme il est incompréhensible et infiniment parfait, on peut bien l’appeler une nuit obscure pour l’âme en cette vie.[…]
+>
+>Ainsi donc l’âme qui aurait repoussé et rejeté le goût de toutes les choses créées, et mortifié toutes ses tendances, serait, nous pouvons le dire, comme dans la nuit et dans l’obscurité ; ce ne serait en quelque sorte qu’un vide complet par rapport à tous les objets créés. La cause de cela, c’est que l’âme selon les philosophes, est, au moment où Dieu l’unit au corps, comme une table rase ou lisse sur laquelle il n’y a rien de peint ; et, à part les connaissances qu’elle acquiert peu à peu par les sens, il ne lui en vient naturellement aucune autre d’ailleurs. Tant qu’elle est dans le corps, elle ressemble à celui qui se trouve dans une prison obscure et qui ne connaît rien, si ce n’est ce qu’il parvient à voir par les fenêtres de sa prison ; si ce moyen lui manque, il ne verra absoluement rien autrement. Il en est de même de l’âme. Otez-lui ce qu’elle peut apprendre par les sens qui sont comme les fenêtres de sa prison, elle ne peut naturellement rien connaître par un autre moyen.[…]
+>
+>Nous ne nous occupons pas ici de la privation des biens ; cette privation n’en détache pas l’âme qui continue à les désirer ; nous parlons du détachement de l’âme par rapport à ses tendances vers ces biens et les plairs qu’elle y trouve. C’est ce détachement fauit l’âme libre et vide de tous les biens qu’elle pourrait posséder. Or les biens de ce monde n’occupent pas l’âme et ne lui nuisent pas, puisqu’ils ne pénètrent pas en elle ; ce qui lui est nuisible, c’est l’attachement à ces biens et le désir qu’elle en a.[…]
+>
+>Pour donner plus de clarté à cette doctrine, nous devons savoir que l’affection et l’attachement que l’âme porte à la créature la rend semblable à cette créature, et plus est grande l’affection qu’elle lui porte, plus aussi elle lui est égale et semblable, car l’amour établit la ressemblance entre celui qui aime et l’objet aimé.[…]
+>
+>Donc, celui qui aime la créature se place au niveau de cette créature, et même plus bas en quelque sorte, car l’amour non seulement rend semblables mais encore assujettit celui qui aime à l’objet aimé.[…]
+>
+>Toute la sagesse du monde et l’habileté des hommes comparée à la sagesse infinie de Dieu n’est qu’une pure et souveraine ignorance, comme le dit saint Paul en s’adressant aux Corinthien : « La sagesse de ce monde est folie devant Dieu » (I Cor. 3, 18). Aussi toute âme qui s’appuie sur sa science et son habileté pour arriver à s’unir à la sagesse de Dieu est souverainement ignorante devant Dieu et en restera bien loin, car l’ignorance ne connaît pas ce qu’est la sagesse.[…]
+>
+>Oh ! si les âmes adonnées à la spiritualité savaient de quels biens et de quelle abondance de faveurs spirituelles elles se privent et ne voulant pas se détacher entièrement des bagatelles de ce monde ! Comme elles trouveraient dans cette simple nourriture le goût de tous les biens, à la condition de se détacher de toute jouissance sensible ! Mais elles ne le trouvent pas parce qu’elles ne veulent pas ce renoncement.[…]
+>
+>L’expérience nous apprend que la volonté, en s’affectionnant à un objet, le met dans son estime au-dessus de toute autre qui serait même bien plus excellent, mais qui ne lui plaît pas autant. Si elle veut jouir également de l’un et de l’autre, elle fait forcément injure au plus digne, puisqu’elle les met injustement sur le même pied.[…]
+>
+>Ainsi donc, la voie et le moyen nécessaires pour monter consistent dans un soin habituel que l’on porte à mortifier les tendances. On arrivera d’autant plus vite au sommet que l’on s’empressera davantage à ce détachement. Tant qu’on ne l’a pas obtenu, on ne parviendra pas au sommet, quelles que soient d’ailleurs les vertus que l’on pratique ; et on ne les pratique pas parfaitement si l’âme n’est pas dans la nudité, le dépouillement et le détachement de toutes les tendances.[…]
+>
+>Nous en avons dit assez sur le premier dommage principal causé à l’âme par ses tendances, en résistant à l’Esprit de Dieu ; d’ailleurs nous en avions déjà parlé longuement plus haut. Parlons maintenant du second dommage qu’elles produisent. Il se manifeste de beaucoup de manières ; car les tendances de l’âme la fatiguent, la troublent, l’obscurcissent, la souillent et l’affaiblissent.[…]
+>
+>De même que se lasse et se fatigue celui qui creuse la terre avec le désir d’y trouver un trésor, ainsi se lasse et se fatigue l’âme qui veut acquérir ce que réclament ses tendances ; alors même qu’elle réussit enfin à l’obtenir, elle se fatigue toujours, car elle n’est jamais satisfaisante.[…]
+>
+>Il y a un second genre de mal positif que les tendances causent à l’âme : elles la tourmentent et l’affligent ; elles la rendent semblable à celui qui est attaché par des liens à un objet et qui n’a pas de repos tant qu’il n’en est pas délivré.[…]
+>
+>Il y a un troisième mal causé par nos tendances à l’âme. Elles aveuglent l’âme et obscurcissent la raison. De même que les vapeurs obscurcissent l’air et interceptent les rayons du soleil, ou qu’un miroir terni ne peut reproduire nettement l’objet qui lui est présenté, ou qu’une eau bourbeuse ne peut reproduire les traits de celui qui s’y regarde, de même l’âme qui cède à ses tendances a son intelligence obscurcie ; elle ne laisse pas le soleil de la raison naturelle ni le soleil surnaturel de la sagesse de Dieu l’investir et l’éclairer.[…]
+>
+>Toute tendance, si minime que soit l’imperfection vers laquelle elle se porte, est une tache et une souillure pour l’âme.[…]
+>
+>Le cinquième dommage que les tendances causent à l’âme consiste à l’affaiblir et attiédir de telle sorte qu’elle n’a pas la force de suivre le sentir de la vertu et d’y persévérer. Par le fait même que la force de ses tendances se divise vers plusieurs objets, elle devient moins puissante que si elle était concentrée tout entière vers un seul ; plus elle se divise, plus elle s’affaiblit pour chaque objet ; aussi les philosophes disent que la force qui est une à plus de puissance que celle qui est divisée. Voilà pourquoi si la tendance de la volonté se porte vers quelque chose en dehors de la vertu, il est clair qu’elle deviendra plus faible pour pratiquer la vertu elle-même.[…]
+>
+>Il y a longtemps, ce me semble, que le lecteur désire me demander si, pour arriver à ce haut état de perfection, il est absolument nécessaire de commencer tout d’abord par la mortification complète de toutes nos tendances petites et grandes, ou s’il ne suffirait pas d’en mortifier quelques-une et de laisser les autres, celles du moins qui paraîtraient de peu d’importance. Il semble dur, en effet, et très difficile d’arriver à une telle pureté et à un tel dépouillement, que l’on n’ait plus de volonté ni d’affection pour quoi que ce soit. A cette question nous répondons tout d’abord que sans doute nos tendances ne sont pas aussi préjudiciables les unes que les autres, et ne nuisent pas au même degré. Je parle des tendances volontaires, car les tendances naturelles n’empêchent que très peu l’union divine, ou même ne l’empêchent pas quand on n’y consent pas et qu’elles ne sont que des premiers mouvements. J’appelle tendances de la nature et de premiers mouvements toutes celles où la volonté, éclairée par la raison, n’a eu aucune part ni avant ni après les actes. Il est impossible de les faire disparaître et de les mortifier complètement en cette vie. Alors même qu’elles ne seraient pas mortifiées d’une façon absolue, elles ne constituent pas un obstacle à l’union divine. Elles peuvent fort bien exister dans notre nature, tandis que l’âme dans sa partie raisonnable, en sera complètement maîtresse. Il peut même arriver parfois que l’âme soit par sa volonté élevée à une haute union de quiétude, tandis que les tendances se manifestent dans la partie sensitive ; l’âme qui est en oraison n’en est nullement troublée dans sa partie supérieure. Quant aux tendances volontaires, qu’il s’agisse des plus graves qui portent aux péchés mortels, ou des moins graves qui portent aux péchés véniels, ou de celles moindres encore qui portent aux imperfections, si petites qu’elles soient, il faut les faire disparaître complètement ; sans quoi l’âme est incapable d’arriver à l’union parfaite avec Dieu.[…]
+>
+>Ces imperfections habituelles sont, par exemple, la coutume de parler beaucoup, une petite attache, dont on ne veut jamais se défaire, à un objet quelconque, une personne, un vêtement, un livre, une cellule, tel genre de nourriture, certains petits entretiens, certains petits désirs de chercher de la sensualité, de savoir, d’entendre, ou choses semblables.[…]
+>
+>Une seule de ces imperfections, si l’âme y est attachée ou en a l’habitude, lui cause autant de dommage pour son avancement et son progrès dans la vertu que si elle tombait chaque jour dans une foule d’imperfections et de péchés véniels, qui ne procéderaient pas de l’habitude d’une passion vicieuse. Elles lui sont moins nuisibles que ses attaches à un objet quelconque. Tant qu’elles les aura, elle ne pourra, si petite que soit l’imperfection, réaliser de progrès.[…]
+>
+>Dans ce chemin il faut toujours marcher si l’on veut arriver. Cela veut dire qu’il faut toujours mortifier nos désirs, sans jamais les favoriser ; si l’on ne se défait de tous, on n’atteindra jamais le terme.[…]
+>
+>Le dommage privatif, qui consiste dans la privation de Dieu, vient seulement des tendances volontaires qui ont pour objet le péché mortel ; ce sont elles qui le causent et le produisent totalement. Elles privent, en effet, l’âme de la grâce en cette vie, et dans l’autre elles la privent de la gloire céleste ou possession de Dieu.[…]
+>
+>Qu’il s’agisse de péché mortel, ou de péché véniel volontaire, ou d’imperfection, chacune de nos tendances est suffisante pour causer tous les dommages positifs réunis. Bien qu’ils soient privatifs d’une certaine manière, nous les appelons positifs parce qu’ils correspondent à la pente de l’âme vers la créature, tandis que les dommages privatifs correspondent à son éloignement de Dieu. Mais il y a une différence entre les tendances : celles qui ont pour objet le péché mortel causent d’une façon complète l’aveuglement, le tourment, la souillure, la faiblesse… Celles qui ont pour objet les péchés véniels ou l’imperfection évident ne produisent pas ces maux dans ce degré absolu ; elles ne privent pas l’âme de la grâce, ce qui la mettrait sous leur empire, car la mort de l’âme leur donne la vie. Elles produisent néanmoins quelque chose de ces maux, dans un degré moindre, et en proportion de leur lâcheté et de leur tiédeur ; aussi plus une tendance a atténué la ferveur de la grâce, et plus elle lui cause d’aveuglement et d’impureté.[…]
+>
+>Que l’âme donc s’applique sans cesse non à ce qui est plus facile, mais à ce qui est plus difficile ; Non à ce qui est plus savoureux, mais à ce qui est plus insipide ; Non à ce qui plaît, mais à ce qui déplaît ; Non à ce qui console, mais à ce qui est un sujet de désolation ; Non à ce qui est repos, mais à ce qui donne du travail ; Non à ce qui est plus, mais à ce qui est moins ; Non à ce qui est plus élevé et plus précieux, mais à ce qui est plus bas et de moindre prix ; Non à vouloir quelque chose, mais à ne rien vouloir ; Non à rechercher ce qu’il y a de meilleur dans les choses, mais ce qu’il y a de pire, et à désirer entrer pour l’amour du Christ dans un dénuement total, un parfait détachement et une pauvreté absolue par rapport à tout ce qu’il y a en ce monde. Il faut embrasser ces pratiques de tout cœur et s’appliquer à y assujettir la volonté. Celui qui s’y soumet avec amour, intelligence et discrétion, ne tardera pas à trouver beaucoup de délices et de consolations. Il suffit de se conformer fidèlement à ces pratiques pour entrer dans la Nuit des sens. Néanmoins, pour donner de plus amples explications, nous parlerons d’une autre sorte de pratiques qui apprennent à mortifier la concupiscence de la chair, la concupiscence des yeux et la superbe de la vie, trois choses, au dire de saint Jean, qui occupent le monde et d’où procèdent toutes les autres tendances. La première consiste à travailler au mépris de soi et à désirer que les autres nous méprisent ; cette pratique est contre la concupiscence de la chair. La seconde consiste à parler de soi-même avec mépris et à travailler à ce que les autres en parlent de même ; cette pratique est contre la concupiscence des yeux. La troisième consiste à avoir de bas sentiments de soi, à se mépriser et à désirer que les autres fassent de même ; et cette pratique est contre la superbe de la vie.
+
+#### Etant pleine d’angoisse et enflammée d’amour
+
+
+
+	Pour surmonter toutes les tendances et mortifier l’attrait de toutes les créatures vers lesquelles la volonté est ordinairement attirée par son amour et son affection dans le but d’en jouir, il lui faut les ardeurs plus vives d’un amour plus profond : celui de son Epoux. Quand elle met en lui sa joie et sa force, elle trouve assez de courage et de générosité pour rejeter et surmonter aisément tous les autres amours.
+
+
+
+Oh ! l’heureux sort !
+
+Je sortis sans être vue,
+
+Tandis que ma demeure était déjà en paix.
+
+
+
+	L’âme se sert d’une métaphore pour montrer le triste état de captivité où elle était ; aussi elle regarde comme un heureux sort d’en avoir été délivrée sans qu’aucun de ses geôliers l’en empêchât. Par suite en effet du péché originel, l’âme est vraiment captive dans ce corps mortel, et y est assujetties à ses passions et aux tendances de sa nature. Une fois délivrée de leur tyrannie, elle proclame l’heureux sort qu’elle a de sortir sans être vue, c’est-à-dire sans en être empêchée ni retardée. Mais ce qui lui avait servi, c’est de sortir par une Nuit obscure, c’est-à-dire qu’elle avait renoncé à tous ses attraits et mortifié toutes ses tendances, comme nous l’avons dit. Cette réflexion : « tandis que ma demeure était déjà en paix », signifie que la partie sensitive, ou demeure de toutes les tendances, étaient en paix, parce qu’elle les avait déjà domptées et endormies.
+
+
+
+Livre deuxième
+p. 98
+
+	La foi, disent les théologiens, est une habitude de l’âme, certaine et obscure en même temps. Elle est obscure parce qu’elle nous fait croire des vérités révélées par Dieu même, qui sont au-dessus de toute lumière naturelle excèdent incomparablement la portée de toute entendement humain. De là vient que cette lumière de la foi est pour l’âme comme une obscurité profonde, parce que le plus absorbe le moins et lui est supérieur. La lumière du soleil éclipse toutes les autres lumières, celles-ci ne paraissent plus quand celle-là brille et s’impose à notre puissance visuelle ; aussi son éclat, au lieu de favoriser la vue, éblouit plutôt parce qu’il est excessif et trop disproportionné avec la puissance visuelle. Ainsi en est-il de la foi : sa lumière, par son excès, opprime et éblouit la lumière de notre entendement ; de lui même il ne s’étend qu’à la science purement naturelle, bien qu’il ait une aptitude pour l’acte surnaturel quand il plaira à Notre-Seigneur de l’y élever. Il ne peut donc rien savoir de lui-même, si ce n’est par la voie naturelle : c’est là la seule connaissance qu’il obtient par les seuls sens ; mais pour cela il lui faut les images et figures des objets présents par eux-mêmes ou leur ressemblance ; sans cela il n’aurait aucune connaissance, car, disent les philosophes : « De l’objet présent et de la faculté naît la connaissance. » Voilà pourquoi si on racontait à quelqu’un des choses dont il n’aurait jamais entendu parler, et dont il n’aurait jamais vu la ressemblance, il n’en aura pas plus d’idée que si on ne lui avait jamais rien dit. Si par exemple on racontait à quelqu’un qu’il y a, dans une certaine île, un animal qu’il n’a jamais vu, et si on ne lui signale pas quelque trait de ressemblance de cet animal avec d’autres animaux qu’il a vus, il n’en aurait pas plus de connaissance ni d’idée qu’auparavant, malgré tout ce qu’on pourrait lui en dire. Voici encore un autre exemple qui fera mieux comprendre ma pensée. SI vous vous adressez à un aveugle-né, qui par conséquent n’a jamais vu de couleurs, et si vous lui dites comment est la couleur blanche et la couleur jaune, vous aurez beau lui donner des explications, il ne vous comprendra nullement, parce qu’il n’a jamais vu ces couleurs ni quelque chose de semblable qui lui permette d’en juger. Tout ce qu’il retiendra, ce sera le nom de ces couleurs, parce qu’il peut le percevoir par l’ouïe ; quant à leur forme ou leur figure, il lui sera impossible de s’en former une idée, parce qu’il ne l’a jamais vu.
+
+	Ces comparaisons nous représentent, quoique d’une manière imparfaite, ce que la foi est pour l’âme. Elle nous dit des choses que nous n’avons jamais vues ni comprises, soit en elles-mêmes, soit dans des objets qui leur ressembleraient, puisqu’il n’y en a pas. Nous ne pouvons donc en avoir aucune lumière par notre science naturelle, car ce qu’elle nous dit n’a aucun rapport avec nos sens. Nous les connaissons par l’ouïe ; nous croyons ce qu’on nous enseigne et nous y soumettons aveuglément notre lumière naturelle. Car, comme le dit saint Paul, « la foi vient de l’audition, et l’audition de la parole du Christ » (Rom. 10, 17). C’est comme s’il disait : La foi n’est pas une science qui s’acquiert par un sens quelconque ; elle n’est que l’acquiescement de l’âme à ce qui lui vient par l’ouïe.
+
+	Il y a plus : la foi dépasse de beaucoup ce que les exemples précédents nous ont donné à comprendre. Non seulement elle ne produit ni l’évidence ni la science, mais, je le répète, elle excède et dépasse toutes les connaissances et toutes les sciences, afin qu’on puisse bien juger d’elle dans la contemplation parfaite. Les autres sciences s’acquièrent avec la lumière de l’entendement, celle de la foi s’acquiert sans cette lumière ; il faut même faire le sacrifice de cette lumière particulière pour ne point perdre celle de la foi. Isaïe a dit en effet : « Si vous ne croyez pas, vous ne comprendrez pas » (Is. 6, 3).
+
+	Il est donc clair que la foi est une nuit obscure pour l’âme, et c’est ainsi qu’elle l’éclaire, et plus elle la plonge dans les ténèbres, plus elle lui donne sa lumière. C’est en l’aveuglant au point de vue naturel qu’elle lui donne sa lumière, selon la parole d’Isaïe : Si vous ne croyez pas, c’est-à-dire, si vous n’êtes pas dans les ténèbres, vous ne comprendrez pas ; cela veut dire : vous n’aurez pas la lumière ni la connaissance élevée et surnaturelle de la vérité.
+
+	C’est ainsi que nous voyons une figure de la foi dans cette nuée qui séparait les enfants d’Israël des Egyptiens au moment d’entrer dans la mer Rouge et dont la sainte Ecriture nous dit : « C’est une nuée ténébreuse, mais elle éclairait cependant la nuit » (Ex. 14, 20). Phénomène admirable ! tout en étant ténébreuse, elle éclairait la nuit ! cela nous signifie la foi qui est une nuée obscure et ténébreuse pour l’âme (qui est elle-même nuit, puisque en présence de la foi elle est privée de sa lumière naturelle et aveuglée) ; mais la foi éclaire avec ses ténèbres de l’âme ; il convenait que le maître qui est la foi fût en rapport avec le disciple qui est l’âme. Car l’homme qui est dans les ténèbres ne pouvait être convenablement éclairé que par d’autres ténèbres, comme nous l’enseigne le Psalmiste en ces termes : « Le jour annonce la parole au jour, et la nuit transmet la science à la nuit » (Ps. 18, 3). Pour parler plus clairement, cela veut dire que le jour c’est Dieu lui-même dans la bienheureuse patrie où il est comme un jour pour les anges et les saints, qui à leur tour deviennent jours aussi dans le reflet de la divine lumière. Il leur dit et communique la divine parole, qui est son Fils, afin qu’ils le connaissent et en jouissent. La nuit, c’est la foi dans l’Église militante où il fait encore nuit. Elle communique la science à l’Église, et par suite à chaque âme qui est nuit elle aussi, puisqu’elle ne jouit pas de la vision béatifique de l’éternelle sagesse, et qu’en présence de la foi, elle est privée de sa lumière naturelle.
+
+	De là il faut déduire que la foi qui est une nuit obscure éclair l’âme qui est dans l’obscurité, et c’est ainsi que se vérifie ce que David dit à son propos : « La nuit sera ma lumière au milieu de mes délices » (Ps. 138, 11), ce qui équivaut à dire : Dans les délices de ma pure contemplation et de mon union avec Dieu, la nuit de la foi sera mon guide. Cela nous fait comprendre clairement que l’âme doit être dans les ténèbres (au point de vue naturel) pour avoir la lumière qui la guidera dans cette voie de l’union à Dieu.
+
+[…]
+
+	Celui qui n’est pas complètement aveugle ne se laisse pas conduire facilement par son guide. Pour peu qu’il y voie, il s’imagine qu’il vaut mieux prendre le premier chemin qui se présente parce qu’il n’en voit pas de meilleur : aussi il risque d’égarer son guide qui voit mieux que lui ; car enfin il peut commander plus que son guide. Il en est de même de l’âme. Si elle s’appuie sur quelqu’une de ses connaissances ou quelqu’un de ses goûts et de ses sentiments pour Dieu, quelque excellents d’ailleurs qu’ils soient, ce sera toujours peu de chose et bien peu proportionné à ce qu’est Dieu ; on se trompe facilement en suivant un tel chemin et l’on retarde la marche en avant, parce que l’âme ne se conforme pas aveuglément à la foi qui est son vrai guide. C’est là ce que saint Paul veut nous dire par ces termes : « Celui qui veut s’approcher de Dieu doit croire qu’il est » (Heb. 11, 6). C’est comme s’il disait : Que celui qui aspire à s’unir à Dieu ne s’appuie pas sur ses connaissances, qu’il ne s’attache pas à ses goûts, ni à ses sentiments, ni à son imagination, mais qu’il croie que Dieu est, ce qui ne peut être saisi ni par l’entendement, ni par ses tendances, ni par l’imagination, ni par un sens quelconque, ni être connu ici-bas tel qu’il est, car tout ce qu’il peut y avoir de plus élevé sur cette terre dans nos sentiments, dans nos connaissances, dans nos attraits, est à une distance infinie de ce que Dieu est en lui-même, et de ce que sera pour nous la pure possession de Dieu.
+
+[…]
+
+	Il faut savoir que Dieu se trouve dans chaque âme, serait-ce celle du plus grand pécheur du monde, qu’il y demeure, et qu’il l’assiste substantiellement. Cette sorte d’union existe toujours entre Dieu et toutes les créatures, puisqu’il leur conserve l’être qu’elles possèdent ; et s’il ne leur était pas présent de cette manière-là, elles tomberaient dans le néant, et cesseraient d’exister. Quand donc nous parlons de l’union de l’âme avec Dieu, nous n’avons pas en vue cette union qui existe en fait avec toutes les créatures, mais l’union de l’âme avec Dieu et sa transformation en lui par amour, qui n’existe pas toujours, mais seulement quand il y a ressemblance par amour ; voilà pourquoi cette union s’appelle union de ressemblance. Celle-là s’appelle union substantielle, essentielle ou naturelle ; celle-ci au contraire s’appelle surnaturelle ; elle a lieu quand les deux volontés, celle de l’âme et celle de Dieu, sont d’accord entre elles et que l’une n’a rien qui répugne à l’autre. Quand donc l’âme rejette complètement ce qui en elle répugne ou n’est pas conformé à la volonté de Dieu, elle est transformée en Dieu par amour.
+
+[…]
+
+	Sans doute, comme nous l’avons dit, Dieu est toujours présent dans l’âme pour lui donner et lui conserver son être naturel par la vertu de sa puissance, mais il ne lui communique pas toujours l’être surnaturel. Celui-ci ne se donne que par l’amour et la grâce, et toutes les âmes ne sont pas en état de grâce ; celles qui y sont ne la possèdent pas au même degré : les unes ont moins d’amour, les autres en ont plus. Une âme est d’autant plus unie à Dieu qu’elle est plus élevée en amour, ou qu’elle conforme mieux sa volonté avec celle de Dieu. Celle dont la volonté est totalement conforme et semblable à celle de Dieu est aussi celle qui est totalement unie à Dieu et transformée surnaturellement en Lui.
+
+[…]
+
+	Nous allons traiter maintenant du moyen d’introduire les trois puissances de l’âme, l’entendement, la mémoire et la volonté, dans la nuit obscure spirituelle qui mène à l’union divine. Mais il faut tout d’abord montrer, dans ce chapitre, comment les trois vertus théologales, la foi, l’espérance et la charité, qui ont rapport aux trois facultés susdites comme étant leur propre objet surnaturel et par lesquelles l’âme s’unit à Dieu dans ses puissances, font, chacune dans la puissance qui lui correspond, le même vie et la même obscurité : la foi dans l’entendement, l’espérance dans la mémoire, et la charité dans la volonté. Nous verrons ensuite comment l’entendement doit se perfectionner dans les ténèbres de la foi, la mémoire par le vide de l’espérance, et la volonté par la privation et le dénuement de toute affection pour s’unir à Dieu.
+
+[…]
+
+	Ces trois vertus font, nous l’avons dit, le vide dans nos puissances.
+
+[…]
+
+	Si se présente l’occasion d’accomplir un acte de vertu solide et parfait, qui consiste dans le renoncement absolu à toute suavité au service de Dieu, dans la sécheresse, le dégoût, les travaux, en un mot tout ce qui constitue la croix purement spirituelle, le dénuement et la pauvreté d’esprit du Sauveur, ces personnes s’en détournent comme de la mort. Ce qu’elles recherchent uniquement, ce sont les douceurs au service de Dieu, ses communications suaves et pleines d’attraits ; cela n’est pas le renoncement à soi-même, ni la nudité d’esprit, mais plutôt la gourmandise spirituelle.
+
+	Par là, elles se rendent ennemies de la croix du Christ ; car l’âme vraiment spirituelle cherche en Dieu ce qu’il y a d’insipide plutôt que ce qu’il y a de savoureux pour sa nature ; elle se porte vers la souffrance plutôt que vers les consolations, plutôt vers la privation de tout bien par amour pour Dieu, qu’à la possession d’un bien quelconque ; vers les aridités et les afflictions, plutôt que vers les suaves communications. Elle sait que de la sorte elle suit le Christ et renonce à elle-même, tandis que si on agit différemment on se recherche peut-être soi-même en Dieu, ce qui est très contraire à l’amour : car se recherche soi-même en Dieu, c’est rechercher les joies et les délices de Dieu ; au contraire, recherche Dieu pour lui-même, ce n’est pas seulement vouloir manquer de tout par amour pour Dieu, mais c’est, par amour pour le Christ, choisir tout ce qu’il y a de plus insipide soit de la part de Dieu, soit de la part du monde, et c’est en cela que consiste le véritable amour de Dieu.
+
+[…]
+
+	On ne réalise de progrès qu’en imitant le Christ ; il est la voie, la vérité, la vie ; personne ne va au Père si ce n’est par lui, comme il le proclame lui-même. Il dit aussi ailleurs : « Je suis la porte ; si quelqu’un entre par moi, il sera sauvé ». Voilà pourquoi je ne regarde pas comme bon l’esprit qui veut marcher par la voie douce et facile ou refuse d’imiter le Christ.
+
+[…]
+
+	Si nous parlons de notre intelligence surnaturelle, autant qu’on peut l’avoir en cette vie, nous devons savoir que notre entendement, tant qu’il est dans la prison du corps, n’a ni disposition ni capacité pour recevoir la claire connaissance de Dieu, car cette connaissance n’est pas de la condition présente ; il faut mourir ou en être privé. Aussi, quand Moïse demanda à Dieu cette claire connaissance, il lui fut répondu en ces termes qu’il ne pourrait l’avoir : « Aucun homme ne me verra et vivra » (Ex. 33, 20). Voilà pourquoi saint Jean dit : « Personne n’a jamais vu Dieu » (Jean, 1, 18). Saint Paul et Isaïe disent : « L’œil ne l’a point vu, l’oreille ne l’a point entendu, et le cœur de l’homme ne l’a point pressenti » (Act. 7, 32). Tel est le motif pour lequel Moïse n’osait regarder le buisson ardent, où Dieu manifestait sa présence. Il savait que, malgré le profond sentiment de respect qui l’animait pour Dieu, son entendement était incapable de contempler Dieu comme il convenait.
+
+	Il est raconté d’Elie qu’étant au sommet de la montagne, il se couvrit le visage en présence de Dieu ; cela signifie qu’il mettait son entendement dans les ténèbres, parce qu’il n’osait pas employer un moyen si bas pour contempler un objet si élevé. Il comprenait parfaitement que tout ce qu’il pouvait considérer ou comprendre était très éloigné et très différent de Dieu.
+
+[…]
+
+	Dans le présent chapitre, nous parlerons seulement des connaissance et conceptions qui viennent surnaturellement par la voie des sens corporels extérieurs : la vue, l’ouïe, l’odorat, le goût et le tact. Les personnes adonnées à la spiritualité peuvent avoir dans tous leurs sens et ont souvent des représentations qui leur viennent d’une manière surnaturelle. Ainsi la vue perçoit des figures et des personnages de l’autre vie, des saints, et des anges bons ou mauvais, certaines lumières ou splendeurs extraordinaires.
+
+[…]
+
+	Or, il faut savoir que si tous ces effets qui peuvent se produire dans les sens corporels ont Dieu pour auteur, on ne doit jamais les regarder avec sécurité et les accepter ; il faut plutôt les fuir complètement, sans même chercher à examiner s’ils procèdent du bon ou du mauvais principe.
+
+[…]
+
+	Le sens corporel est aussi ignorant des choses raisonnables, je veux dire spirituelles, que la bête de somme l’est des choses raisonnables ; il l’est même davantage. Il se trompe donc beaucoup celui qui estime ces sortes de faveurs, et il se met dans un très grand danger de tomber dans l’illusion ; du moins il mettra en lui un empêchement absolu à devenir vraiment spirituel. Toutes ces faveurs corporelles dont nous avons parlé n’ont aucun rapport avec les choses spirituelles ; voilà pourquoi il faut toujours craindre qu’elles ne viennent du démon plutôt que de Dieu. Le démon, en effet, a plus de prise sur la partie qui est plus extérieure et corporelle, et il lui est plus facile de tromper sur ce point que dans la partie plus intérieure.
+
+[…]
+
+	Quand l’âme se voit l’objet de telles manifestations extraordinaires, elle en conçoit très souvent une certaine satisfaction d’elle-même et s’imagine être quelque chose devant Dieu. Or cela est contre l’humilité.
+
+[…]
+
+	Si l’âme est fidèle et détachée, le Seigneur ne s’arrêtera pas à de pareilles faveurs ; il élèvera l’âme de degré en degré jusqu’à l’union divine, jusqu’à la transformation en lui. Il l’éprouve et l’élève peu à peu. Il lui donne tout d’abord des faveurs très extérieures et d’un ordre infime, sensibles et conformes à son peu de perfection. Si elle se conduit comme elle le doit, si elle prend cette première nourriture avec sobriété, pour en retirer la force et la substance, il lui offrira un aliment plus abondant et plus exquis. Si elle remporte la victoire sur le démon dans ce premier état, elle passera au second ; si elle remporte encore la victoire dans le second, elle montera au troisième, et avançant toujours, elle franchira les sept demeures, qui sont les sept degrés de l’amour, jusqu’à ce que l’Epoux l’introduise dans le cellier où se trouve le vin de la charité parfaite.
+
+[…]
+
+	Cela posé, nous disons que tout ce que les sens peuvent recevoir ou fabriquer s’appelle imagination ou fantaisie ; ce sont des formes qui, sous l’image ou la figure d’un corps, se représentent aux sens. Ces formes peuvent être de deux sortes. Les unes sont surnaturelles ; elles n’ont pas besoin du concours des sens pour être représentées et sont représentées en eux passivement ; nous les appelons visions imaginaires qui viennent par la voie surnaturelle, nous en parlerons plus tard. Les autres sont naturelles ; ce sont celles que les sens peuvent produire à l’aide de leur activité personnelle par des formes, figures ou images. C’est à ces deux puissances que se réfère la méditation, qui est un acte discursif aidé par les images, formes et figures qui sont fabriquées et formées dans les sens. Il en est ainsi quand nous nous représentons Notre-Seigneur Jésus-Christ crucifié, attaché à la colonne ou souffrant dans une autre scène de sa Passion, quand nous considérons Dieu assis sur son trône et environné d’une grande majesté, ou encore quand nous nous imaginons la gloire du ciel comme une lumière incomparable, ou quoi que ce soit d’humain ou de divin.
+
+	Or l’âme doit rejeter toutes ces imaginations ou représentations et demeurer dans l’obscurité par rapport à ce sens intérieur si elle veut parvenir à l’union divine. Elles n’ont en effet aucune proportion, aucun rapport immédiat avec Dieu, et n’ont pas plus de puissance que les représentations corporelles qui proviennent des cinq sens extérieurs.
+
+[…]
+
+	Sans doute les commençants ont besoin de ces considérations, de ces représentations et de ces sortes de méditations pour enflammer peu à peu leur amour et donner à l’âme un aliment par le moyen des sens, comme nous le dirons dans la suite. Elles leur servent donc comme d’un moyen éloigné de s’unir à Dieu ; c’est par là que passent d’ordinaire les âmes pour arriver au terme et à la demeure du repos spirituel. Mais elles doivent se contenter d’y passer et veiller à ne pas s’y fixer, parce qu’alors elles n’arriveraient jamais au terme qui n’a aucun rapport avec ces moyens éloignés et n’a rien à voir avec eux.
+
+[…]
+
+	Pour le moment, ce que nous avons dit suffit pour montrer comment il convient et comment il est nécessaire à ceux qui veulent progresser, de savoir se détacher à temps de toutes ces méthodes, sortes d’oraison ou représentations imaginaires, et lorsque le demande et le requiert le progrès de l’état où ils se trouvent. Afin que l’on comprenne l’époque, le moment opportun, nous donnerons quelques signes ; l’homme adonné à la spiritualité qui les découvrira en soi comprendra que le moment et l’heure ont sonné où il peut librement se servir du moyen indiqué et cesser de marcher par la voie du raisonnement et du travail de l’imagination.
+
+[…]
+
+	Nous donnerons donc ici quelques signes ou marques que l’homme adonné à la spiritualité doit découvrir en soi pour juger s’il convient ou non de laisser ces formes à un moment donné.
+
+	Les signes que l’homme adonné à la spiritualité doit découvrir en soi pour abandonner la méditation discursive sont au nombre de trois.
+
+	Premier signe. L’âme découvre qu’il lui est désormais impossible de méditer et de se servir de l’imagination ; elle n’y puise aucun goût comme précédemment. Elle trouve, au contraire, de la sécheresse dans ce qui auparavant captivait habituellement ses sens et lui procurait de la suavité. Mais tant qu’elle y trouvera du goût et qu’elle pourra se servir de la méditation discursive, elle ne doit pas s’en éloigner, et elle y restera jusqu’à ce que son âme soit placée dans la paix et la quiétude dont nous parlerons quand il sera question du troisième signe.
+
+	Second signe. L’âme n’éprouve aucune envie d’appliquer son imagination et ses sens à d’autres objets particuliers, soit extérieurs, soit intérieurs. Je ne dis pas qu’elle doive constater alors que son imagination ne va plus ici ou là, car cette faculté a coutume d’être vagabonde, même quand l’âme jouit d’un profond recueillement ; mais je dis qu’il s’agit du moment où l’âme n’a plus envie d’appliquer à dessein son imagination sur ces objets.
+
+	Troisième signe. Ce troisième signe est le plus certain. L’âme se plaît à se trouver seule avec Dieu, à le regarder avec amour sans s’occuper d’aucun considération particulière ; elle jouit de la paix intérieure, du calme, et du repos ; elle ne produit aucun acte des puissances ni de la mémoire, ni de l’intelligence, ni de la volonté ; je parle d’actes au moins raisonnés qui passent d’une idée à une autre ; elle a seulement cette connaissance ou attention générale et amoureuse dont nous avons parlé, mais sans avoir l’intelligence particulière d’un autre objet.
+
+[…]
+
+	On ne prétend pas que ceux qui commencent à avoir cette connaissance amoureuse et simple n’aient plus en général à recourir jamais à la méditation ni à la rechercher. Dans les débuts, en effet, ils ne possèdent pas cette connaissance à un degré assez parfait pour pouvoir en user dès qu’ils le veulent ; de même ils ne sont pas encore si éloignés de la voie de la méditation, qu’ils ne puissent pas méditer et discourir quelquefois comme auparavant, en se servant des images et des représentations et y trouver quelque nouveau profit. Au contraire, quand, dans ces débuts, ils verront, d’après les signes dont nous avons parlé, que l’âme n’est pas occupée paisiblement dans cette connaissance, on devra profiter de la méditation discursive, jusqu’à ce que l’on ait acquis l’habitude de contempler d’une façon quelque peu parfaite.
+
+[…]
+
+	L’homme adonné à la vie spirituelle doit donc se tenir dans une attention amoureuse pour Dieu et conserver dans la paix son entendement, lorsqu’il en peut méditer, alors même qu’il lui semblerait ne rien faire. C’est ainsi que peu à peu et promptement il goûtera le repos et la paix de Dieu, recevra des connaissances de Dieu admirables et élevées, qui seront accompagnées d’amour. Mais qu’il veille à ne pas interposer des considérations, des images, des méditations, ou quelques raisonnements, pour ne pas troubler l’âme et la priver du contentement et de la paix dont elle jouit ; ce serait la jeter dans l’agitation et la gêne. Et si, comme nous l’avons dit, il a du scrupule à la pensée qu’il ne fait rien, il doit savoir que ce n’est pas peu de chose que de pacifier son âme, de l’établir dans son repos et dans une paix exempte de tout travail et de toute préoccupation. C’est là ce que le Seigneur nous demande par cette parole de David : « Apprenez à être dégagés de tout (intérieurement et extérieurement), et vous verrez que je suis votre Dieu » (Ps. 45, 11).
+
+[…]
+
+	Il faut savoir que sous ce nom de visions imaginaires nous voulons comprendre toutes les choses qui peuvent se représenter surnaturellement à l’imagination sous le nom d’images, formes, figures ou apparences, et cela d’une manière plus parfaite, plus vive que toutes les conceptions qui viennent par la voie connaturelle des sens. Car toutes les conceptions et formes qui viennent par les cinq sens corporels et se fixent dans l’âme par la voie naturelle peuvent aussi lui venir par la voie surnaturelle et lui être communiquées sans le secours d’aucun sens extérieur.
+
+[…]
+
+	Voilà pourquoi je déclare que toutes ces conceptions et visions imaginaires, ou représentations quelconques, qui se présentent sous une forme, figure ou connaissance particulière, qu’elles soient fausses et viennent du démon, ou qu’elles soient véritables et viennent de Dieu, ne doivent pas être pour l’entendement un embarras ou un appât. L’âme ne doit pas non plus chercher à se les procurer, ou à les retenir afin d’être dégagée, détachée, pure, simple, sans aucune forme ou modalité, comme le requiert l’union divine. La raison, la voici. Toutes les formes dont nous avons parlé sont représentées, comme nous l’avons vu, sous certaines conceptions d’un ordre restreint ; mais la Sagesse divine, à laquelle l’entendement soit s’unir, n’a ni forme, ni mode spécial ; elle est sans limite et n’est pas enfermée dans les bornes d’une connaissance distincte et particulière, parce qu’elle est totalement pure et simple.
+
+[…]
+
+	Quand nous disons qu’il faut suivre la lumière de la foi enseignée par les prophètes comme la flambeau qui brille dans un lieu obscur, nous disons que nous devons nous tenir dans l’obscurité, les yeux fermés à toutes les lumières d’ici-bas, et que, au milieu de cette obscurité, seule la foi, qui elle aussi est obscure, est le flambeau que nous devons suivre. Si nous voulons nous attacher aux autres lumières ou connaissances claires et particulières, par le fait même nous cessons de nous attacher à la lumière obscure de la foi qui ne nous donne plus sa lumière dans ce lieu obscur dont parle saint Pierre ; ce lieu obscur signifie l’entendement qui est le chandelier sur lequel repose le flambeau de la foi ; il doit rester dans l’obscurité jusqu’à ce que lui apparaisse dans l’autre vie le jour de la claire vision de Dieu, ou bien dans cette vie celui de sa transformation et union avec Dieu vers qui l’âme s’achemine.
+
+[…]
+
+	Le mode ou le moyen par lequel l’âme se procure les connaissances, n’est autre que celui des formes ou images des choses créées ; elle connaît et elle apprend par les sens. Voilà pourquoi quand Dieu veut la conduire à la connaissance suprême, il doit, pour agir avec suavité, commencer par la mouvoir dès l’extrême bassesse des sens et l’élever graduellement selon sa nature jusqu’à l’autre extrémité, celle de la sagesse spirituelle, qui ne tombe plus sous les sens.
+
+	Il la soulève donc tout d’abord en l’instruisant par des formes, des images ou des moyens sensibles, et, selon son mode de comprendre, par des voies naturelles ou surnaturelles, par des méditations discursives jusqu’à la souveraine grandeur de son esprit.
+
+	Telle est la cause pour laquelle Dieu lui donne des visions, des représentations, des images et autres connaissances sensible, intelligibles et spirituelles. Cela ne veut pas dire que Dieu ne voudrait pas lui donner immédiatement et dès le premier acte la substance spirituelle elle-même, si les deux extrêmes, l’humain et le divin, le sens et l’esprit, pouvaient par voie ordinaire se joindre et s’unir à la suite d’un seul acte, sans en fait intervenir une foule d’autres qui s’enchaînent avec ordre et suavité et servent de fondements et de disposition pour les autres. C’est ainsi qu’il en est des agents naturels ; les premiers servent aux seconds, les seconds aux troisièmes, et ainsi de suite.
+
+[…]
+
+	Pour deux raisons, avons-nous dit, les visions et les paroles de Dieu, tout en étant véritables et toujours certaines en soi, ne le sont pas toujours par rapport à nous : la première, à cause de notre manière défectueuse de les comprendre ; et la second, à cause de leurs motifs ou fondements qui sont variables. Quant à la première raison, il est clair que ces révélations ne sont pas toujours et n’arrivent pas toujours selon notre manière de les comprendre. La cause, c’est que Dieu, étant un abîme d’immensité et de profondeur, donne ordinairement à ses prophéties, paroles ou révélations d’autres conceptions que les nôtres et un sens bien différent de celui que nous comprenons en général ; ces révélations sont en elles-mêmes d’autant plus vraies et plus certaines qu’elles nous le paraissent moins. C’est là ce que nous voyons à chaque pas dans la sainte Ecriture. Nous y lisons, en effet, que beaucoup de prophéties et de paroles adressées par Dieu à un grand nombre de personnages de l’antiquité ne se réalisaient pas comme ils l’espéraient, parce qu’ils les comprenaient à leur manière et trop littéralement. C’est ce que nous constaterons avec évidence par l’autorité de la sainte Ecriture.
+
+[…]
+
+	Il est donc évident que, même quand les paroles et les révélations viennent de Dieu, nous ne pouvons pas mettre en elles une sécurité absolue, parce que nous pouvons nous tromper souvent et très facilement dans la manière de les comprendre. Toutes, en effet, sont un abîme insondable de profondeur spirituelle. Vouloir les limiter à ce que nous en comprenons et à ce que nos sens peuvent en concevoir, ce n’est pas autre chose que vouloir prendre avec la main l’air et les atomes qui s’y trouvent ; or l’air s’échappe de la main, et nous n’étreignons que le vide.
+
+[…]
+
+	Il nous faut exposer maintenant la seconde cause pour laquelle les visions et les paroles qui nous viennent de Dieu, bien que toujours vraies en elles-mêmes, ne sont pas toujours certaines par rapport à nous. La raison en vient des causes et des motifs sur lesquels elles se fondent. Souvent, en effet, Dieu dit des choses qui fondées sur les créatures ou les effets qu’elles produisent et qui sont variables ou même peuvent faire défaut ; il en résulte que les paroles qui reposent sur ce fondement peuvent aussi être variables et ne point se réaliser ; quand, en effet, une chose dépend d’une autre, si l’une vient à manquer, l’autre manque aussi. Supposez que Dieu dise : D’ici à un an j’enverrai tel fléau à ce royaume. La cause qui sert de fondement à cette menace vient d’une certaine offense qui a été commise contre Dieu dans ce royaume. Or si l’offense vient à cesser ou à se modifier, le châtiment peut lui aussi être suspendu ou se modifier. Cependant la menace était véritable ; elle était fondée sur une faute actuelle ; et, si la faute avait duré, la menace eût été exécutée. Ce sont là des menaces ou des révélations que l’on appelle comminatoires ou conditionnelles.
+
+[…]
+
+	Certaines personnes adonnées à la spiritualité approuvent, nous l’avons dit, la curiosité qui porte des âmes à avoir quelques connaissances par la voie surnaturelle ; elle s’imaginent que si Dieu répond parfois à leurs suppliques, c’est que ce moyen est bon et que Dieu l’a pour agréable. Sans doute Dieu leur répond ; mais ce moyen n’est pas bon et Dieu ne l’a pas pour agréable ; au contraire, il le désapprouve ; bien plus, il en est fâché et irrité très souvent. En voici la raison. Il n’est permis à aucune créature de sortir des bornes naturelles que Dieu lui a fixées pour se diriger. Or il a donné à l’homme des lois naturelles et raisonnables ; l’homme n’a donc pas le droit de vouloir en sortir ; il ne doit pas non plus chercher à vérifier ou connaître certaines choses par une voie surnaturelle. Ce serait sortir des lois naturelles, et par conséquent ce n’est pas licite. Dieu ne peut pas l’approuver ; il en est plutôt offensé, comme il l’est de toute ce qui est illicite.
+
+[…]
+
+	Vous me direz : Mais s’il en est de la sorte, si Dieu ne l’a pas pour agréable, pourquoi répond-il dans certaines circonstances ? A cela je dis tout d’abord que c’est quelquefois le démon qui répond. Mais quand c’est Dieu, il agit ainsi par condescendance pour la faiblesse de l’âme qui veut marcher par cette voie. Il veut l’empêcher de se décourager, de retourner en arrière, de s’imaginer qu’il est mécontent d’elle et de tomber dans une trop grande tentation. Il a encore d’autres fins connues de lui seul, et basées sur la faiblesse de cette âme ; il juge donc convenable de lui répondre et de se montrer condescendant.
+
+[…]
+
+	Nous voyons encore dans la sainte Ecriture que Moïse consultait souvent le Seigneur. Le roi David et tous les rois d’Israël faisaient de même quand une guerre ou quelque difficulté surgissait ; telle était aussi la coutume des prêtres et des prophètes de la Loi ancienne. Dieu leur répondait ; il s’entretenait avec eux ; il ne se fâchait pas ; cette manière d’agir avec lui était agréable à ses yeux ; si on ne l’eût pas suivie, c’eût été une faute, voilà la vérité.
+
+	Pourquoi donc maintenant sous la Loi nouvelle, sous la loi de grâce, ne serait-il plus permis de faire comme alors ? A cette question il faut répondre : La cause principale pour laquelle étaient permises sous la Loi ancienne les demandes que l’on adressait à Dieu et pour laquelle il convenait aux prophètes et aux prêtres de désirer des visions et des révélations divines, c’est que la foi n’était pas encore fondée ni la loi évangélique établie.
+
+[…]
+
+	Mais aujourd’hui que la foi est fondée sur le Christ et que la loi évangélique est manifestée dans cette ère de la grâce qu’il nous a donné, il n’y a plus de motif pour que nous l’interrogions comme avant, ni pour qu’il nous parle ou nous réponde comme alors. Dès lors qu’ils nous a donné son Fils, qui est sa Parole, il n’a pas d’autre parole à nous donner. IL nous a tout dit à la fois et d’un seul coup en cette seule Parole ; il n’a donc plus à nous parler. Tel est le sens de ce texte par lequel saint Paul veut engager les Hébreux à se séparer de ces anciennes pratiques et manières de traiter avec Dieu qui étaient en usage sous la loi de Moïse et à jeter les yeux sur le Christ seulement : « Ce que Dieu, dit-il, a révélé à nos pères en divers temps et de diverses manières par l’intermédiaire des prophètes, il l’a dit maintenant et tout à la fois en ces derniers jours par son Fils » (Heb. 1, 1-2). L’Apôtre nous donne à entendre par là que Dieu s’est fait comme muet ; il n’a plus rien à dire ; car ce qu’il disait par parties aux prophètes, il l’a dit tout entier dans son Fils, en nous donnant ce tout qu’est son Fils. Voilà pourquoi celui qui voudrait maintenant l’interroger, ou désirerait une vision ou une révélation, non seulement ferait une folie, mais ferait injure à Dieu, en ne jetant pas les yeux uniquement sur le Christ, sans chercher autre chose ou quelque nouveauté.
+
+[…]
+
+	A l’heure où le Christ expira sur la Croix, et dit : « Tout est consommé » (Jean 19, 30), non seulement ont pris fin toutes ces communications surnaturelles, mais encore toutes les cérémonies et tous les rites de la Loi ancienne.
+
+[…]
+
+	Nous allons parler maintenant d’une manière spéciale des visions spirituelles qui se forment dans l’entendement sans l’intermédiaire d’un sens corporel quelconque. Ces visions sont de deux sortes : il y a les visions des substances corporelles, et les visions des substances simples et immatérielles. Les premières concernent toutes les choses matérielles qu’il y a au ciel et sur la terre ; l’âme peut les voir, tout en étant dans son corps, par le moyen d’une certaine lumière surnaturelle qui lui vient de Dieu et lui permet de voir les choses absentes du ciel et de la terre. C’est ce que saint Jean a vu, comme nous le lisons dans « l’Apocalypse », où il nous fait la description et nous raconte la beauté de la Jérusalem céleste dont il a eu la vision. On lit également que saint Benoît a été favorisé d’une vision spirituelle où le monde tout entier lui a été dévoilé. Cette vision, dit saint Thomas dans ses Quodlibet, consistait dans une lumière qui, comme nous l’avons dit, lui venait d’en haut.
+
+	Les autres visions des substances immatérielles ne peuvent avoir lieu, même avec le secours de cette lumière dérivée de Dieu, dont nous parlons ; il faut alors une lumière plus élevée que l’on appelle la lumière de gloire. Ces visions des substances immatérielles, comme l’être de Dieu, les anges et les âmes, ne sont pas proprement de cette vie et ne peuvent avoir lieu tant que nous sommes dans un corps mortel. Car si Dieu voulait les communiquer à l’âme selon leur mode d’être essentiel, l’âme quitterait son corps et cesserait sa vie mortelle d’ici-bas. Voilà pourquoi Dieu dit à Moïse qui lui demandait de voir son Essence : « L’homme ne peut pas me voir sans cesser de vivre » (Ex. 33, 20). Aussi les enfants d’Israël, à la pensée qu’ils devaient voir Dieu ou qu’ils l’avaient vu, lui ou un ange, craignaient de mourir, comme on le voit au livre de l’Exode où, remplis de terreur, ils dirent à Moïse : Non loquatur nobis Dominus, ne forte moriamur. C’est comme s’ils avaient dit : Que Dieu ne se communique pas à nous d’une façon manifeste. Nous lisons également au livres des Juges, que Manué, père de Samson, qui avait vu l’essence d’un ange sous la figure d’un jeune homme de la plus grande beauté, dit à sa femme qui avait eu la même vision : « Nous allons mourir, puisque nous avons vu le Seigneur » (Jug. 13, 22).
+
+	Ainsi donc des visions de cette sorte ne sont pas compatibles avec notre existence sur la terre, si ce n’est très rarement et en passant, et encore Dieu doit-il alors veiller à soutenir les conditions de la vie naturelle, puisqu’il en retire totalement l’esprit et que l’âme n’anime plus le corps. C’est pour cela que saint Paul, ayant eu des visions de cette sorte et vu, au troisième ciel, des substances simples, s’écrit : Sive in corpore nescio, sive extra corpus nescio, Deus scit : C’est-à-dire : J’ai été élevé à ces visions, et il ajoute que quand il en fut favorisé, il ne sait pas s’il était dans son corps ou non, mais que Dieu le sait. Cela nous montre clairement que l’Apôtre a subi dans sa vie naturelle une transformation merveilleuse dont le mode a Dieu pour auteur.
+
+[…]
+
+	Mais ces visions si substantielles qui furent accordées à saint Paul, à Moïse et à Elie qui se couvrit le visage au souffle suave de Dieu, bien que ce fût transitoire, sont très rares ; elles n’arrivent presque jamais, et ne sont accordées qu’à un très petit nombre.
+
+[…]
+
+	Aussi allons-nous parler maintenant des visions des substances corporelles qui sont communiquées spirituellement à l’âme et ressemblent aux visions corporelles. De même en effet que les yeux du corps voient les objets corporels à l’aide de la lumière naturelle, de même l’entendement, éclairé de cette lumière surnaturelle dont il a été question, voit intérieurement ces mêmes objets naturels, et d’autres encore s’il plaît à Dieu. Toutefois il y a une différence dans le degré et le mode de vision, car les visions spirituelles et intellectuelles sont plus claires et plus subtiles que les visions corporelles. Lorsque Dieu veut accorder à l’âme une faveur de cette sorte, il lui communique cette lumière surnaturelle dont nous parlons, à l’aide de laquelle elle voit avec la plus grande facilité et clarté ce que Dieu veut lui montrer soit du ciel, soit de la terre ; et alors, que l’objet soit absent ou présent, il n’y a point d’obstacle pour elle. On dirait parfois que c’est comme si, une porte s’ouvrant, une lumière splendide apparaissait, semblable à un éclair qui, au milieu d’une nuit profonde, manifeste subitement les objets d’une manière claire et distincte, pour les laisser tout de suite dans leur obscurité, bien que leurs formes et leurs images restent gravées dans l’imagination. Tel est le phénomène qui se produit dans l’âme d’une manière beaucoup plus parfaite. Car ces visions s’impriment parfois si profondément dans son esprit à l’aide de ce flambeau, que chaque fois qu’elle y revient avec la lumière de Dieu, elle les voit en elles-mêmes, comme la première fois. L’âme est comme un miroir, où, chaque fois qu’elle y regarde, elle voit les images qui y sont représentées. Ces visions sont de telle sorte que les images des choses que l’âme a vues une fois ne s’effacent jamais, bien que parfois elles apparaissent plus éloignées.
+
+[…]
+
+	Sans doute le souvenir de ces visions excite dans l’âme quelque amour de Dieu et la porte à la contemplation ; mais ce qui la stimule surtout et l’élève, c’est que, sans connaître le mode et la source de son avancement, elle marche dans la voie obscure de la foi pure et du détachement de toutes ces visions. Il arrive de la sorte que l’âme est tout embrasée d’un amour très pur pour Dieu et qu’elle en ignore la source et le motif. La raison en est que plus sa foi s’est enracinée et développée par ce dénuement, ces ténèbres et ce détachement de tout, en un mot par cette pauvreté spirituelle, plus aussi s’est enraciné et développé en elle l’amour de Dieu. Ainsi donc, plus l’âme s’applique à demeurer dans la nuit et le néant par rapport à toutes les choses extérieures et intérieures qui peuvent lui être communiquées, plus aussi elle avance dans la foi et par conséquent dans l’espérance et dans la charité, vu que ces trois vertus théologales marchent unies. Parfois cet amour n’est pas compris et l’âme ne le sent pas. D’ailleurs il n’a pas son siège dans les sens et ne produit pas de suavité ; il réside dans l’âme et se manifeste par sa force ; il suscite plus de courage et d’ardeur que précédemment ; parfois cependant il rejaillit sur la partie sensible par des effets pleins de tendresse et de douceur.
+
+[…]
+
+	J’agirai de même en traitant du troisième genre de connaissances que j’ai appelées paroles surnaturelles et qui peuvent se produire dans l’esprit des personnes spirituelles sans le concours des sens corporels. Bien qu’elles soient nombreuses et variées, je trouve qu’elles peuvent se ramener toutes à trois catégories, qu’on appelle paroles successives, paroles formelles et paroles substantielles. Les paroles successives sont certaines paroles ou certains raisonnements que l’esprit a coutume de former et de produire en lui-même lorsqu’il est recueilli. Les paroles formelles sont certaines paroles distinctes et précises que l’esprit ne produit pas par lui-même mais reçoit d’une tierce personne, qu’il soit recueilli ou non. Les paroles substantielles sont d’autres paroles qui se produisent d’une façon précise dans l’esprit, qu’il soit recueilli ou non, et qui produisent et causent dans la substance de l’âme cette substance et vertu qu’elles signifient.
+
+[…]
+
+	Ces paroles successives se produisent toujours lorsque l’esprit est recueilli et profondément plongé dans quelque considération. Lui-même discute sur la matière qui le captive, passe d’une pensée à l’autre, forme des paroles et des raisonnements très justes avec une si grande facilité et précision qu’il y découvre des choses qui lui étaient inconnues ; il lui semble bien qu’il n’en est point l’auteur, mais que c’est une autre personne qui forme ces raisonnements dans son intérieur, qui répond ou qui enseigne. Et, en vérité, il a bien raison de le penser ainsi, car il raisonne avec lui-même et se répond, comme s’il se trouvait avec une autre personne, et il en est bien ainsi d’une certaine manière. Bien que ce soit le même esprit qui agisse comme instrument, l’Esprit-Saint l’aide souvent à produire et à former ces pensées, ces paroles et ces raisonnements pleins de vérités. Il se les dit donc à lui-même, comme s’il se trouvait avec une tierce personne. L’entendement est alors uni à la vérité qu’il considère et profondément recueilli. L’Esprit-Saint lui est uni par cette vérité, comme il l’est d’ailleurs à toute vérité. De là vient que l’entendement, communiquant de cette sorte avec le Saint-Esprit moyennant cette vérité, forme successivement dans son intérieur les autres vérités qui sont en rapport avec celle qu’il considérait ; mais c’est l’Esprit-Saint, son maître, qui lui ouvre la porte et lui communique sa lumière. Telle est l’une des manières dont il se sert pour instruire l’âme. C’est ainsi que l’entendement éclairé et enseigné par ce maître comprend ces vérités et en même temps forme de lui-même ces paroles sur des vérités qui lui viennent d’autre part. […] L’âme qui en est là ne pourra jamais se persuader que ces mots et ces paroles ne lui viennent pas d’une tierce personne, car elle ne sait pas avec quelle facilité l’entendement peut de lui-même former des paroles sur les pensées et vérités qui lui sont communiquées par une tierce personne.
+
+[…]
+
+	L’Esprit-Saint éclaire l’entendement qui est recueilli, et il l’éclaire dans la mesure de ce recueillement, mais comme l’entendement ne peut trouver un autre recueillement plus parfait que celui qu’il puise dans la foi, l’Esprit-Saint ne l’éclairera jamais mieux que dans la voie de la foi. Plus une âme est pure, plus elle est appliquée à vivre de la foi avec perfection, plus aussi elle reçoit la charité infuse de Dieu ; or plus elle possède la charité, plus l’Esprit-Saint l’éclaire et lui communique ses dons : de telle sorte que la charité est la cause de ses dons et le moyen par lequel il les communique.
+
+[…]
+
+	Il y a cependant certains entendements très vifs et très subtils qui, étant recueillis dans la considération de quelque vérité, discourent naturellement avec la plus grande facilité sur des pensées, s’expriment en paroles et en raisonnements pleins de sentiments, et s’imaginent ni plus ni moins que tout cela est de Dieu ; mais il n’en est rien ; c’est leur entendement qui, aidé de sa lumière naturelle, et quelque peu dégagé des opérations des sens, peut, sans un secours surnaturel, produire ce résultats et de plus grands encore. Les faits de ce genre sont nombreux. Beaucoup d’âmes sont dans l’illusion sur ce point. Elles s’imaginent qu’elles sont élevées à une très haute oraison et qu’elles sont favorisées de communications intimes avec Dieu. Elles écrivent même ou font écrire ce qui se passe en elles. Et il arrive que tout cela n’est rien, qu’il n’y a pas la substance de la moindre vertu et ne sert qu’à entretenir la vaine complaisance. Que ces âmes apprennent donc à ne faire aucun cas de ces paroles successives, mais à fixer la volonté dans un amour fort et humble, à agir et à souffrir comme le Fils de Dieu durant sa vie mortelle, à se mortifier en tout. C’est là le chemin qui conduit à tous les biens spirituels. Et non la multiplicité des discours intérieurs.
+
+[…]
+
+	Quant à dire maintenant quels sont les signes et les marques qui nous feront connaître que ces paroles procèdent de cette cause plutôt que de telle autre, il serait assez difficile de le préciser d’une manière complète ; on peut cependant indiquer des signes généraux. Ainsi, par exemple, lorsque l’âme qui reçoit ces paroles et ces pensées est portée en même temps à aimer Dieu et s’embrase pour lui d’un amour plein d’humilité et de respect, c’est un signe que l’Esprit de Dieu passe par là ; car il n’accorde jamais quelques faveurs sans qu’elles soient revêtues de ce caractère.
+
+[…]
+
+	Il faut donc nécessairement se conduire avec prudence à l’égard de toutes ces paroles, pour n’être point trompé et ne pas s’exposer à des inquiétudes multiples. Il faut de plus n’en faire aucun cas, et ne s’appliquer qu’à une seule science, celle qui consiste à se diriger vers Dieu avec toute l’énergie de la volonté et à accomplir avec perfection sa loi et ses saints conseils. Telle est la sagesse des Saints. Contentons-nous de connaître les mystères et les vérités avec simplicité et droiture comme l’Église nous les propose. Cela suffit pour embraser le cœur du plan grand amour, sans que nous allions nous jeter dans des recherches profondes et curieuses où, à moins d’un miracle, on est exposé au danger. Aussi saint Paul nous dit à ce sujet : « Il ne nous convient pas de savoir plus qu’il ne faut » (Rom. 12, 3).
+
+[…]
+
+	La seconde catégorie de paroles intérieures renferme les paroles formelles. Elles se produisent parfois dans l’esprit, recueilli ou non, et par voie surnaturelle sans le concours d’aucun sens. Je les appelle formelles, parce qu’il semble formellement à l’esprit qu’elles lui sont adressées par une tierce personne, et qu’il n’y contribue en rien. Elles sont très différentes de celles dont nous venons de parler. Or cette différence vient non seulement de ce que l’esprit ne fait rien pour les produire, comme cela arrive dans les autres, mais je le répète, de ce qu’elles lui viennent parfois quand il n’est pas recueilli, et même très éloigné d’y songer ; or il en est tout autrement pour les paroles de la première catégorie, ou paroles successives, qui se rapportent toujours à la vérité que l’on considère.
+
+	Ces paroles sont parfois très formelles ; d’autres fois elles le sont moins ; très souvent elles sont comme des pensées qui sont communiquées à l’esprit sous la forme d’une réponse ou autrement, comme si on lui parlait ; quelquefois ce n’est qu’un mot, d’autres fois il y en a deux ou davantage ; ou encore ce sont des paroles successives comme les précédentes, car elles ont coutume de durer, elles instruisent l’âme et discutent avec elle, sans que l’esprit y prenne part, et tout se passe comme si une personne s’entretenait avec une autre.
+
+[…]
+
+	Il arrive parfois, en effet, que l’on a de la peine à découvrir quelles sont les paroles qui viennent du bon Esprit, et quelles sont celles qui viennent de l’esprit mauvais. Comme ces paroles formelles, je le répète, ne produisent pas beaucoup d’effet, on peut à peine les distinguer, d’autant plus que celles du démon sont parfois plus efficaces chez les âmes imparfaites que celles du bon esprit chez les personnes spirituelles. Mais qu’elles soient du bon ou du mauvais esprit, il n’y a pas à se presser d’exécuter ce qu’elles disent, ni à en faire cas. Néanmoins, on doit les exposer à un confesseur expérimenté, ou à une personne prudente et entendue pour qu’elle donne son avis et voie la conduite à tenir ; et l’âme, d’après son conseil, se tiendra dans l’abnégation et le renoncement complet par rapport à ces paroles.
+
+[…]
+
+	Il faut bien remarquer, en outre, que l’âme ne soit d’elle-même rien faire ni accepter de ce que ces paroles lui disent, sans de mûres réflexions et un conseil autorisé. Car on est exposé dans cette matière à des illusions tellement subtiles et étranges que, à mon avis, l’âme qui ne sera pas ennemie de paroles de cette sorte ne pourra manquer de tomber très souvent dans des illusions plus ou moins profondes.
+
+[…]
+
+	La troisième catégorie de paroles intérieures, avons-nous dit, comprend les paroles substantielles ; bien qu’elles soient formelles comme les précédentes, puisqu’elles se gravent dans l’âme d’une manière très distincte, elles en différent parce qu’elles produisent un effet vif et profond, ce qui n’existe pas pour les paroles qui ne sont que formelles. S’il est vrai de dire que toute parole substantielle est formelle, il ne s’ensuit pas que toute parole formelle soit substantielle, mais seulement celle-là qui, comme nous l’avons dit déjà, imprime substantiellement dans l’âme ce qu’elle signifie. Il en serait ainsi, par exemple, si Notre-Seigneur disait formellement à une âme : « Sois bonne », et qu’immédiatement elle fût essentiellement bonne. Ou encore s’il lui disait : « Aime-moi », et qu’aussitôt elle possédât et sentît en elle-même la substance de l’amour, c’est-à-dire le véritable amour de Dieu ; ou encore si, la voyant en proie à une crainte excessive, il lui disait : « Ne crains pas », et qu’elle se sentît tout à coup pleine d’énergie et en paix. Car la parole de Dieu, comme dit le Sage, est pleine de puissance. Elle produit substantiellement dans l’âme ce qu’elle signifie. C’est là ce qu’indique David dans le Psaume : « Le Seigneur donnera à sa voix une vertu pleine de force » (Ps 67, 34). C’est ce qu’il fit pour Abraham quand il lui dit : « Marche en ma présence et sois parfait » (Gen. 17, 1). Et aussitôt Abraham fut parfait, et ne cessa de se tenir plein de respect sous le regard de Dieu. Telle est la puissance que Notre-Seigneur, d’après le saint Evangile, manifesta dans ses paroles ; il ne disait qu’un mot et aussitôt il guérissait les malades et ressuscitait les morts. C’est de cette sorte que sont les paroles substantielles qu’il adresse à certaines âmes. Elles sont d’une telle importance et d’un si haut prix qu’elles communiquent à l’âme la vie, la vertu et un bien incomparable. Parfois même une seule de ces paroles lui procure plus de bien que tout ce qu’elle a pu acquérir de méritoire dans toute sa vie.
+
+	Lorsque l’âme entend une parole de ce genre, elle n’a rien à faire par elle-même, ni à désirer, ni à refuser, ni à rejeter, ni à craindre. Elle n’a pas à se préoccuper d’accomplir ce qu’elles signifient. Car Dieu n’adresse jamais à l’âme ces paroles substantielles pour qu’elle les mette en œuvre, mais pour les réaliser lui-même dans cette âme ; et c’est là ce qui les différencie des paroles formelles et des paroles successives. Je dis que l’âme n’a pas à vouloir ou non ici, car son consentement n’est pas nécessaire pour que Dieu agisse, comme sa résistance ne suffirait pas à empêcher l’effet que Dieu produit. Mais elle doit se résigner et se tenir dans l’humilité.
+
+[…]
+
+	Elle n’a pas non plus à craindre quelque illusion. Car ni l’entendement ni le démon ne peuvent intervenir ici ; ce malin esprit n’arrivera jamais à produire passivement dans une âme quelconque un effet substantiel de manière à graver en elle l’effet habituel de sa parole.
+
+[…]
+
+	Il nous faut traiter maintenant de la quatrième et dernière catégorie des connaissances intellectuelles. Ces connaissances, avons-nous dit, peuvent être communiquées à l’entendement par les sentiments spirituels qui se manifestent très souvent d’une manière surnaturelle à l’homme intérieur. Nous les classons parmi les connaissances distinctes de celles de l’entendement.
+
+	Ces sentiments spirituels peuvent être de deux sortes. La première comprend les sentiments qui résident dans l’affection de la volonté ; la seconde, les sentiments qui résident dans la substance de l’âme. L’une et l’autre peuvent renfermer une grande variété.
+
+	Les premiers sentiments, quand ils viennent de Dieu, sont très élevés ; mais les seconds, qui résident dans la substance de l’âme, les surpassent et produisent les plus grands biens et les plus grands avantages. Ni l’âme ni son guide ne peuvent savoir ni comprendre la cause d’où elles procèdent, ni par quelles voies ni pour quelles œuvres Dieu accorde de pareilles faveurs ; car elles ne dépendent nullement des œuvres que l’âme accomplit, ni des considérations qu’elle fait, bien que ces œuvres et ces considérations soient de bonnes dispositions pour les recevoir. Dieu les donne à qui il veut, comme il veut et pour le but qu’il veut. Une personne aura pratiqué beaucoup de bonnes œuvres, et Dieu ne lui donnera pas de ces touches ; une autre aura fait beaucoup moins, et elle recevra des touches très élevées et en très grande abondance. Il n’est donc pas nécessaire que l’âme soit actuellement occupée de choses spirituelles pour que Dieu lui donne de ces touches qui provoquent les sentiments dont nous parlons ; cependant, si elle en était occupée, elle serait bien mieux préparée à recevoir ces faveurs. Mais le plus souvent ces faveurs lui sont accordées au moment où elle y pense le moins.
+
+
+
+Livre troisième
+p. 306
+
+	Je dis que ces connaissances naturelles de la mémoire sont toutes celles qu’elle peut former des objets à l’aide des cinq sens corporels : l’ouïe, la vue, l’odorat, le goût et le tact, ainsi que toutes les autres de ce genre qu’elle pourrait fabriquer et imaginer. Or elle doit se dépouiller et se défaire de toutes ces connaissances et imaginations, travailler même à en perdre le souvenir, de telle sorte qu’elle n’en garde aucune impression ni aucune trace et soit dans le dénuement absolu, comme si rien ne s’était passé en elle, dans l’oubli et l’abstraction de tout. La mémoire ne peut faire moins que de s’annihiler par rapport à toutes ces formes, si elle doit s’unir à Dieu. Car l’amour avec Dieu ne saurait exister, tant qu’elle ne sera pas complètement séparée de toutes les formes qui ne sont pas Dieu.
+
+[…]
+
+	Dieu n’a ni forme ni image qui puissent être comprises par la mémoire ; il s’ensuit donc que quand l’âme est unie à Dieu, comme le prouve l’expérience de chaque jour, elle est comme si elle n’avait ni forme ni figure, l’imagination n’agit plus, et la mémoire enivrée du souverain bien est dans l’oubli de tout et ne se souvenant de rien. Cette divine union, en effet, opère le vide dans l’imagination, qu’elle purifie de toutes les formes et connaissances pour l’élever à un état surnaturel. C’est quelque chose d’extraordinaire que ce qui se passe alors parfois. Il arrive en effet quelquefois, quand Dieu accorde ces touches d’union à la mémoire, qu’il se produit tout à coup dans le cerveau, à cette partie où elle a son siège, un tressaillement si sensible qu’il semble que l’on s’évanouit, que l’on perd absolument le jugement et l’usage des sens. Cet effet est plus ou moins grand, selon la puissance de la touche divine. Mais alors, je le répète, la mémoire est dégagée et purifiée de toutes ses connaissances ; elle est comme hors d’elle-même, et parfois si oublieuse d’elle-même qu’elle doit faire un grand effort pour se rappeler quelque chose. Cet oubli de la mémoire et cette suspension de l’imagination sont tels quelquefois, par suite de l’union de la mémoire avec Dieu, qu’il s’écoule beaucoup de temps sans qu’on s’en aperçoive et sans qu’on sache ce qui s’est passé. Et comme l’imagination est parfois suspendue alors, viendrait-on à faire ce qui devrait lui causer de la souffrance, elle ne le sent point, parce que sans imagination il n’y a pas de sentiment ; elle ne songe même pas, puisqu’il n’y a pas de pensée.
+
+[…]
+
+	Mais, me direz-vous peut-être, il est impossible à l’âme de dégager sa mémoire et de la dépouiller si bien des images et représentations qu’elle puisse arriver à un état si élevé. Il y a, en effet, ici deux difficultés qui sont au-dessus des forces et de la capacité de l’homme : la première qui est de se dépouiller de sa nature et de ses aptitudes naturelles, ce qui ne saurait se réaliser ; et la second, qui est encore plus ardue, est d’atteindre le surnaturel et de s’unir à lui. En réalité, il est impossible d’arriver à ce résultat avec les seuls forces de la nature. Il est certain que c’est Dieu qui doit élever l’âme à cet état surnaturel. Quant à l’âme, elle doit ne rien négliger pour s’y disposer, et cela, elle le peut naturellement, surtout avec les secours que Dieu lui donne progressivement. Voilà pourquoi, au fur et à mesure qu’elle avance dans ce renoncement et ce détachement de toutes les formes sensibles, Dieu lui donne une plus grande possession de l’union.
+
+[…]
+
+	Ce moyen consiste en ce que l’âme adonnée à la vie spirituelle observe bien l’avis suivant : Tout ce qui frappera la vue, l’ouïe, l’odorat, le goût ou le tact, elle veillera à ne pas s’y attacher et à n’en rien conserver dans sa mémoire ; elle s’appliquera à l’oublier tout de suite, et y travaillera même, s’il le faut, avec ce zèle que l’on met à se rappeler d’autres souvenirs. Elle ne doit laisser dans sa mémoire aucune connaissance ou impression des choses d’ici-bas, qu’elle considérera comme si elles n’existaient pas ; sa mémoire en sera absolument dégagée et libérée ; elle ne s’arrêtera à aucune considération, soit d’en haut, soit d’en bas ; qu’elle se conduise comme si cette faculté de la mémoire n’existait pas, et la laisse librement se perdre dans l’oubli, comme une chose qui trouble si elle ne disparaît pas. Car tout ce qui est naturel est plutôt un obstacle qu’un secours, si l’on veut s’en servir dans ce qui est surnaturel.
+
+[…]
+
+	L’homme adonné à la spiritualité est exposé à trois sortes de dommages ou inconvénients, lorsqu’il veut user encore des connaissances et des discours naturels de la mémoire pour aller à Dieu ou pour accomplir un autre but. Deux de ces inconvénients sont positifs, et le troisième est privatif. Le premier résulte du contact avec les choses du monde, le second vient du démon ; le troisième, qui est privatif, est un obstacle, un trouble qu’ils produisent et causent dans l’âme pour empêcher son union avec Dieu.
+
+	Le premier inconvénient, qui résulte du contact avec les choses du monde, est d’être exposé à toutes sortes de dangers par suite des connaissances et des discours de la mémoire ; ce sont des faussetés, des imperfections, des convoitises, des jugements, des pertes de temps, et beaucoup d’autres choses encore qui produisent dans l’âme une foule de souillures. Or il est clair que l’on tombera nécessairement dans une foule de faussetés, si l’on donne prise à ces connaissances et à ces discours ; car très souvent le vrai paraîtra faux, et au contraire ce qui est certain paraîtra douteux ; c’est à peine si nous pouvons connaître à fond une seule vérité. Or l’âme se préserve de toutes ces erreurs en fermant les yeux de la mémoire à tout discours et à toute connaissance.
+
+	On tombe à chaque pas dans des imperfections si on occupe la mémoire de ce que l’on a entendu, vu, senti, touché ou goûté ; chaque objet lui procure quelque impression d’amour, de douleur, de crainte, de haine, de vaine espérance, de fausse joie, ou de vaine gloire, etc. Toutes ces impressions sont au moins des imperfections, et parfois même des péchés véniels manifestes : toutes choses qui troublent la pureté parfait de l’âme et sa très simple union avec Dieu.
+
+	Il est clair, en outre, que de là proviennent des désirs frivoles, car ils naissent tout naturellement de ces connaissances et de ces discours de la mémoire ; d’ailleurs le fait seul de vouloir posséder ces connaissances et de s’y entretenir est déjà une tendance de la convoitise.
+
+[…]
+
+	Le second dommage positif qui peut venir à l’âme des connaissances de la mémoire a pour auteur le démon, qui s’insinue très facilement par ce moyen. Il peut, en effet, susciter des formes, connaissances ou discours et ainsi porter l’âme à l’orgueil, à l’avarice, à l’envie, à la colère, etc. ; il peut lui suggérer une haine injuste, un amour vain, et la tromper de beaucoup de manières. De plus, il a pour habitude d’imprimer si bien ses suggestions et de les fixer de telle sorte dans l’imagination que le faux paraît vrai, et le vrai paraît faux. En somme, la plupart des illusions ou des maux causés par le démon proviennent des connaissances et des discours qu’il représente à la mémoire. Mais que cette faculté s’en détache et les anéantisse dans un oubli complet, elle ferme totalement la porte à tous ces dangers du démon, elle se délivre de toutes ces tentations, et c’est là un grand bien. Le démon, en effet, ne peut rien faire dans l’âme, si ce n’est par les opérations de ses puissances, surtout par le moyen des connaissances et des représentations imaginaires, parce que c’est d’elles que dépendent presque toutes les opérations des autres puissances. Par conséquent, si la mémoire s’en détache, le démon ne peut plus rien car il ne trouve rien à quoi il puisse s’attacher ; et, tout moyen lui faisant défaut, il ne peut rien.
+
+[…]
+
+	Le troisième dommage causé à l’âme par les connaissances naturelles de la mémoire est négatif. Il peut en effet empêcher le bien moral et priver du bien spirituel. Et d’abord, pour montrer comme ces connaissances empêchent le bien moral dans l’âme, il faut savoir que ce bien moral consiste à réprimer les passions et à mettre un frein aux tendances désordonnées ; et de là résultent dans l’âme la tranquillité, la paix et le repose, les vertus morales, toutes choses qui constituent le bien moral.
+
+	Ces freins et ces rênes, l’âme ne les possède pas en réalité si elle ne se tient pas dans l’oubli et à l’écart par rapport à tout ce qui engendre ses affections ; car, il ne lui vient jamais de trouble si ce n’est des connaissances que lui suggère la mémoire. En effet, si toutes les choses d’ici-bas sont mises dans l’oubli, il n’y a plus rien qui puisse troubler sa paix, ou exciter ses tendances, car, ainsi que le dit l’adage : ce que l’œil ne voit pas, le cœur ne désire pas.
+
+	Cette vérité est confirmée par une expérience de touts les instants. En effet, nous voyons que toutes les fois que l’âme se met à penser à une chose, elle en est impressionnée et remuée plus ou moins, selon la connaissance qu’elle en a. En reçoit-elle une impression pénible et fâcheuse ? Elle en conçoit de la tristesse ou de la haine. Son impression est-elle agréable ? Elle sera dans la joie et désirera cet objet. Voilà pourquoi ce changement d’impressions doit nécessairement produire en elle des troubles. Elle passe de la joie à la tristesse, de la haine à l’amour ; elle ne peut jamais persévérer dans le même état, ce qui serait un effet de la tranquillité morale, à moins de se tenir dans l’oubli de toutes les choses créées. Il est donc clair que les connaissances de la mémoire sont un grand obstacle au bien des vertus morales.
+
+	De tout ce que nous avons dit, il résulte encore clairement que la mémoire qui n’est pas complètement détachée est un obstacle pour le bien mystique et spirituel. Car l’âme qui est dans le trouble et qui ne possède pas le fondement du bien moral n’est pas capable, comme telle, des biens spirituels qui ne s’impriment que dans l’âme où règne le calme et la paix.
+
+[…]
+
+	Il est clair, en effet, qu’il est toujours inutile de se troubler, car jamais le trouble n’a été d’un profit quelconque. Voilà pourquoi, alors même que tout disparaît ou que tout s’écroule, que tous les événements arrivent au rebours de nos desseins ou nous sont défavorables, il est inutile de se troubler ; car, bien loin de remédier au mal, on ne ferait que l’augmenter. Il faut tout supporter avec égalité d’humeur, tranquillité et paix ; cette disposition non seulement procure à l’âme beaucoup de biens, mais elle aide même à mieux comprendre les adversités, à en juger et à y apporter le remède convenable.
+
+[…]
+
+	L’homme adonné à la spiritualité s’expose à cinq sortes de dommages, s’il s’arrête ou réfléchir à ces connaissances ou à ces images qui lui sont communiquées par la voie surnaturelle.
+
+	Le premier, c’est qu’il se trompe très souvent, en prenant une chose pour une autre. Le second, c’est qu’il est dans le danger et l’occasion de tomber dans quelque présomption ou vanité. Le troisième, c’est qu’il donne largement prise au démon, qui le trompera par le moyen de ces connaissances. Le quatrième, c’est qu’il empêche l’union avec Dieu par l’espérance. Le cinquième, c’est qu’il juge ordinairement de Dieu d’une manière grossière.
+
+[…]
+
+	Remarquons bien ici que nous n’avons nullement l’intention, ni la volonté de confondre notre doctrine avec celle de ces hommes pervers qui, aveuglés par leur orgueil et une jalousie satanique, ont cherché à soustraire aux regards des fidèles le saint et nécessaire usage ainsi que le culte admirable des images de Dieu et des Saints. Notre doctrine, au contraire, est, toute différente de la leur. Notre but, en effet, ici n’est pas, comme le leur, de prétendre qu’il ne faut plus d’images et qu’on ne doit pas les vénérer : nous voulons montrer la différence qu’il y a entre ces images et Dieu, et le moyen de se servir des images sans y trouver un obstacle à la réalité spirituelle qu’elles représentent, en s’y attachant plus qu’il ne faut. De même que le moyen est bon et nécessaire pour arriver à la fin, comme le sont les images pour nous rappeler le souvenir de Dieu et des Saints, de même, quand on s’arrête au moyen plus qu’il ne faut, ce moyen lui-même devient un obstacle comme le serait toute autre chose différente.
+
+	Cela est d’autant plus vrai que je m’occupe ici surtout des images et des visions surnaturelles qui sont exposées à beaucoup d’erreurs et de dangers. Mais le souvenir, le culte et l’estime des images que naturellement nous propose la sainte Eglise, n’expose à aucune illusion ni à aucun danger ; car on ne recherche en elles que l’objet qu’elles représentent. Leur souvenir ne manquera pas d’être utile à l’âme, car elle ne les recherche que par amour pour cet objet ; elle ne s’en sert que dans ce but ; voilà pourquoi ces images favorisent toujours l’union divine, pourvu qu’on laisse l’âme s’élever, quand Dieu lui en fait la grâce, de la représentation de l’objet au Dieu vivant, tandis qu’elle oublie toutes les créatures et tout ce qui en découle.
+
+[…]
+
+	La force de l’âme se trouve dans ses puissances, dans ses passions et dans ses tendances, qui toutes sont gouvernées par la volonté. Or quand la volonté les détourne de ce qui n’est pas Dieu et les dirige vers Dieu, elle garde alors la force de son âme pour Dieu ; c’est ainsi qu’elle parvient à aimer Dieu de toutes ses forces. Pour que l’âme atteigne ce but, nous nous occuperons ici de purifier la volonté de toutes ses affections désordonnées, qui sont la source d’où procèdent ses tendances, ses attaches et ses œuvres désordonnées, et d’où vient également qu’elle ne garde pas toute sa force pour Dieu.
+
+	Ces affections ou passions sont au nombre de quatre, à savoir : la joie, l’espérance, la douleur et la crainte. Quand on les applique à Dieu par un exercice raisonnable, de telle sorte que l’âme ne se réjouisse que de ce qui intéresse purement l’honneur et la gloire de Dieu Notre-Seigneur, ne mette qu’en lui son espérance, ne s’afflige que de ce qui le blesse, ne craigne que lui, il est clair que l’on dispose et que l’on garde toutes les forces de l’âme et toute son habileté pour Dieu. Au contraire, plus l’âme se réjouirait en quelque autre chose, moins de force elle conserverait pour mettre sa joie en Dieu ; plus elle mettrait sa confiance dans quelque chose de créé, moins elle en mettrait en Dieu ; et ainsi des autres passions.
+
+[…]
+
+	Aussi je vous en préviens, ô homme adonné à la spiritualité, là où se dirigera l’une de vos passions, se dirigera toute votre âme ; la volonté et les autres puissances vivront comme des esclaves sous sa dépendance ; les trois autres puissances ou passions y trouveront leur vie ; elles affligeront l’âme de leurs chaînes, l’empêcheront de prendre librement son vol ; elles la priveront du repos de la douce contemplation et de l’union. Voilà pourquoi Boèce a dit : Si vous voulez connaître la vérité dans toute sa clarté, faites abstraction de la joie, de l’espérance, de la crainte et de la douleur ; car tant que ces passions régneront en vous, elles ne laisseront pas votre âme la tranquillité et la paix requises pour recevoir naturellement et surnaturellement la sagesse.
+
+[…]
+
+	La joie peut naître de six genres d’objets ou de biens : ils sont temporels, naturels, sensuels, moraux, surnaturels et spirituels.
+
+[…]
+
+	La première sorte de biens dont nous avons parlé renferme les biens temporels. Par là nous entendons les richesses, les possessions, les emplois et autres avantages extérieurs ; nous y comprenons aussi les enfants, les parents, les alliances…, toutes choses dont la volonté peut se réjouir. Mais combien est vaine la joie que l’on tire des richesses, des titres, des possessions, des emplois et autres bien de ce genre qui d’ordinaire excitent l’ambition !
+
+[…]
+
+	Sans doute, les bien temporels par eux-mêmes ne portent pas nécessairement au péché, mais le cœur de l’homme s’y attache d’ordinaire par faiblesse d’affection, et il manque à ses devoirs envers Dieu, ce qui est un péché.
+
+[…]
+
+	La joie est comme un nuage qui obscurcit le jugement, parce qu’il est impossible que la joie volontaire pour la créature existe sans qu’il y ait aussi l’esprit de propriété volontaire ; de même que la joie, en tant que passion, ne peut pas exister s’il n’y a pas en même temps le sentiment habituel de propriété dans le cœur. Au contraire, l’abnégation, la purification de cette jouissance laisse au jugement toute sa clarté, comme l’air qui redevient pur quand les vapeurs qui l’obscurcissaient sont dissipées.
+
+	Ainsi donc celui qui ne met plus aucune complaisance dans les créatures, et dont le cœur en est désapproprié, jouit de toutes comme s’il les possédait toutes ; au contraire, celui qui les regarde avec un esprit particulier de propriété perd la jouissance de toutes en général.
+
+[…]
+
+	Par biens naturels nous entendons ici la beauté, la grâce, la distinction des manières, la complexion et toutes les autres qualités du corps ; nous entendons aussi les qualités de l’âme qu’on appelle la belle intelligence, la discrétion, et les autres dons de la raison. Or si un homme met ses complaisances à considérer que lui ou les siens possèdent ces qualités, sans élever plus haut ses pensées, ni rendre grâces à Dieu qui ne concède ces dons que pour être mieux connu et aimé, s’il n’a pas d’autre but que ces complaisances, c’est une vanité et une illusion.
+
+[…]
+
+	Les dommages spirituels et corporels causés directement et effectivement à l’âme quand elle met sa joie dans les biens naturels se réduisent à six dommages principaux.
+
+	Le premier est la vaine gloire, la présomption, l’orgueil et le mépris du prochain. Et, en effet, on ne peut pas donner une estime exagérée à un objet, sans la refuser aux autres. Il en découle, au moins d’une manière réelle et implicite, un mépris de tout le reste ; car il est naturel que si l’on porte son estime vers un objet, le cœur se retire des autres pour aller à celui qu’il préfère ; et de ce mépris réel, il est très facile d’arriver à un mépris formel et volontaire de quelqu’une de ces autres choses en particulier ou en général ; cette disposition existe non seulement dans le cœur, mais elle se traduit par les paroles et on dit : Telle chose ou telle personne n’est pas comme telle ou telle autre…
+
+	Le second dommage consiste à exciter les sens ; il porte à des complaisances sensuelles et à la luxure.
+
+	Le troisième dommage est de porter à l’adulation et aux vaines louanges qui sont remplies de mensonges et d’illusions. […] La raison, c’est que, si parfois on dit la vérité en faisant l’éloge des bonnes grâces et de la beauté du corps, il est bien rare qu’il n’en résulte quelque inconvénient ; ou bien on fait tomber le prochain dans la vaine complaisance ou la joie frivole, ou bien on y porte de l’attachement et des intentions imparfaites.
+
+	Le quatrième dommage est général ; il consiste à émousser la raison et aussi le sens de l’esprit, comme cela arrive quand on se réjouit des biens temporels, et même le dommage est ici beaucoup plus grave. Les biens naturels, en effet, nous étant plus intimes que les biens temporels, la joie qu’on en ressent est aussi plus efficace et plus prompte ; elle laisse une trace plus profonde dans les sens et fascine plus fortement l’esprit. La raison et le jugement perdent leur liberté ; ils sont comme dans les ténèbres par suite de cette affection de joie qui leur est si intime.
+
+	De la naît le cinquième dommage qui est une distraction de la mémoire, je veux dire une divagation de l’esprit vers les créatures d’où découlent et proviennent la tiédeur et la langueur spirituelle.
+
+	C’est là le sixième dommage qui, lui aussi, est général. Il arrive ordinairement à tel point qu’il engendre un grand ennui et une profonde tristesse pour les choses de Dieu, et qu’il porte même à les avoir en horreur. Quand on a cette joie dans les biens naturels, on perd infailliblement la pureté de l’esprit, du moins au début. Si l’on ressent quelque mouvement de ferveur, ce ne sera qu’une ferveur toute sensible et grossière, très peu spirituelle, peu intérieure et peu recueillie ; elle consistera plutôt dans la jouissance du sens que dans la vigueur de l’âme.
+
+[…]
+
+	Aussi doit-on s’encourager à prendre à temps le remède conseillé par le poète à ceux qui commencent à sentir en eux l’affection pour les biens naturels : Hâtez-vous maintenant et dès le début de prendre le remède, parce que si vous laissez au mal le temps de croître dans le cœur, il sera trop tard d’y apporter le remède.
+
+[…]
+
+	Nombreux sont les avantages que l’âme retire à éloigner son cœur de cette joie. Non seulement cette abnégation la dispose implicitement à l’amour de Dieu et aux autres vertus, mais il la porte directement à pratiquer l’humilité vis-à-vis d’elle-même, ainsi qu’à la charité d’une façon générale vis-à-vis du prochain. En effet, quand elle ne s’affectionne à personne en particulier à cause des biens naturels apparents qui sont trompeurs, elle est libre et indépendante pour aimer tous les hommes d’une manière raisonnable et spirituelle, comme Dieu veut qu’ils soient aimés. Par là on reconnaît que personne ne mérite d’être aimé, si ce n’est à cause de la vertu qui est en lui. Quand on aime de la sorte, on aime selon Dieu et en toute liberté, et si cet amour attache à la créature, c’est qu’il attache surtout à Dieu ; car alors plus grandit l’amour du prochain, plus aussi grandit l’amour de Dieu ; et de même, plus l’amour de Dieu grandit, plus aussi grandit l’amour du prochain. L’amour du prochain procède de celui de Dieu ; ils ont la même raison d’être ; ils ont la même cause.
+
+[…]
+
+	Un autre avantage qui n’est pas moindre chez ceux dont les progrès dans la mortification de ce genre de joie sont déjà considérables, c’est que les objets et les pensées obscènes ne leur font plus ces impressions impures auxquelles sont assujettis ceux qui conservent encore quelque affection pour les biens naturels. Aussi la privation et la négation de cette complaisance apportent au spirituel la pureté de l’âme et du corps, c’est-à-dire de l’esprit et des sens, lui confèrent une vie tout angélique dans ses rapports avec Dieu ; sont âme et son corps deviennent le digne temple de l’Esprit-Saint. Or une telle pureté ne peut exister quand le cœur se complaît dans les grâces et les biens naturels. Il n’est même pas nécessaire que l’on consente formellement à une chose impure ou qu’on s’en souvienne ; la complaisance seule provenant de la connaissance de cette chose suffit pour causer l’impureté de l’âme et du sens. Le Sage, en effet, a dit que « l’Esprit-Saint s’éloignera des pensées qui sont sans intelligence » (Sag. 1, 5), c’est-à-dire qui ne sont pas ordonnées à Dieu par une raison éclairée.
+
+[…]
+
+	De tous ces avantages découle le dernier. C’est un bien incomparable pour l’âme et qui lui est absolument nécessaire pour servir Dieu : c’est la liberté d’esprit ; avec elle elle surmonte facilement les tentations, elle sanctifie les épreuves et réalise les plus heureux progrès dans toutes les vertus.
+
+[…]
+
+	Si toutes les fois que l’on entend de la musique ou des choses agréables, que l’on respire de suaves parfums, que l’on goûte quelques saveurs ou que l’on éprouve des touches délicates, on dirige de suite la pensée et les affections vers Dieu, si l’âme estime plus ce souvenir de Dieu que l’impression sensible qui l’a provoqué, si même elle n’apprécie cette impression que pour cette fin, c’est un signe qu’elle en tire profit, et cette impression sensible est utile à l’âme. Dans ce cas elle peut s’en servir, car alors les objets sensibles nous aident à obtenir la fin pour laquelle Dieu les a créés et nous les a donnés, et cette fin est qu’ils nous servent à le mieux connaître et aimer.
+
+	Il faut savoir ici que celui à qui ces impressions sensibles produisent uniquement l’effet spirituel dont nous parlons ne les désire pas néanmoins pour cela et ne s’en soucie pour ainsi dire point, bien que, quand elles s’offrent à lui, il en éprouve une grande joie, à cause de ce plaisir d’aimer Dieu dont il a été question et qu’elles lui procurent. Aussi ne les recherche-t-il point, et, quand elles se présentent, sa volonté, je le répète, les dépasse aussitôt et les abandonne pour se fixer en Dieu. Le motif pour lequel il ne se préoccupe pas beaucoup de ces impressions, bien qu’elles l’aident pour s’élever vers Dieu, c’est qu’il est habitué à aller vers lui, en tout et pour tout, il est tellement attiré, absorbé, captivé par l’esprit de Dieu, que rien ne lui manque et qu’il ne désire rien. Si néanmoins il lui arrive de les désirer dans ce but, il passe outre aussitôt, il les oublie et n’en fait aucun cas.
+
+[…]
+
+	Le quatrième genre de biens où la volonté peut mettre sa joie comprend les biens moraux. On entend par là les vertus et leurs habitudes, en tant qu’habitudes morales, la pratique de toutes les vertus et des œuvres de miséricorde, l’accomplissement de la loi divine et humaine, en un mot, les œuvres qui proviennent d’un naturel heureux et d’une bonne inclination. Ces bien moraux, quand on les possède et qu’on s’en sert, méritent peut-être plus la joie de la volonté qu’aucun des trois autres genres de biens dont nous avons parlé. Il y a deux causes qui peuvent, chacune séparément ou toutes les deux réunies, produire cette joie : on considère soit ce qu’ils sont en eux-mêmes, soit l’avantage qu’ils nous procurent comme moyens ou comme instruments. Et ainsi nous verrons que la possession de ces trois genres de biens dont nous avons parlé ne mérite pas la joie de la volonté.
+
+[…]
+
+	Les biens moraux, au contraire, méritent déjà quelque estime de la part de celui qui les possède, d’abord pour le premier motif, c’est-à-dire à cause de ce qu’ils sont en eux-mêmes et de ce qu’ils valent. Et en effet, comme ils apportent avec eux la paix et la tranquillité, la rectitude et l’ordre dans l’usage de la raison, et la prudence dans la conduite, l’homme ne peut, humainement parlant, rien posséder de meilleur en cette vie. Ainsi donc, dès lors que les vertus par elles-mêmes méritent d’être aimées et estimées, l’homme, humainement parlant, peut bien se réjouir de les posséder et de s’en servir, tant à cause de ce qu’elles sont en elles-mêmes, qu’à cause des avantages humains et temporels qu’elles procurent. C’est dans ce cens et pour ce motif que les philosophes, les sages et les princes de l’antiquité les estimaient, en faisaient l’éloge, les ont recherchées, en ont fait usage, tout païens qu’ils étaient. Ils ne les envisageaient qu’au point de vue temporel et pour les biens temporels, corporels et naturels qu’ils savaient devoir en tirer. Or en agissant ainsi, non seulement ils obtenaient les biens et la renommée passagère qu’ils poursuivaient, mais de plus, comme Dieu aime toute ce qui est bon (même dans le barbare et le gentil) et que rien, nous dit le Sage, ne peut l’empêcher de se montrer bon, il prolongeait leur vie, augmentait leur renommée, leur empire, et leur donnait une paix glorieuse. C’est ainsi qu’il agit à l’égard des Romains, parce qu’ils avaient de justes lois ; il leur soumit pour ainsi dire tout l’univers ; il récompensait ainsi temporellement les coutumes louables de ces hommes qui, à cause de leur infidélité, étaient incapables de recevoir la récompense éternelle.
+
+[…]
+
+	Aussi le chrétien, pour élever vers Dieu la joie qu’il trouve dans les biens moraux, doit considérer que la valeur de ses bonnes œuvres : jeûnes, aumônes, pénitences, oraisons, etc., ne repose pas seulement sur leur nombre ou leur qualité intrinsèque, mais sur l’amour de Dieu dont il s’anime alors ; ses œuvres sont d’autant plus excellentes qu’elles partent d’un amour de Dieu plus pur et plus parfait, et qu’on y recherche moins un intérêt quelconque de joie, de goût, de consolation ou de réjouissance pour ce monde et pour l’autre. Voilà pourquoi le cœur ne doit pas s’attacher au goût, à la consolation, à la saveur ni autres satisfactions qui accompagnent d’ordinaire l’exercice de la vertu et la pratique des bonnes œuvres ; il doit rapporter sa joie à Dieu, désirer travailler à la gloire de Dieu par ce moyen, renoncer à la joie qu’il y trouve et s’en priver, vouloir que Dieu seul s’en réjouisse et la savoure en secret, enfin il n’aura pas d’autre intérêt, ni d’autre bonheur que de travailler à l’honneur et à la gloire de Dieu. C’est ainsi qu’il concentrera en Dieu toute la force de sa volonté en ce qui concerne les biens de l’ordre moral.
+
+[…]
+
+	Les dommages principaux où l’homme peut tomber quand il se complaît vainement dans ses bonnes œuvres ou ses saintes pratiques sont, à mon avis, au nombre de sept ; ils sont très préjudiciables, parce qu’ils sont spirituels. Je veux en parler ici brièvement.
+
+	Le premier dommage est la vanité, l’orgueil, la vaine glorie et la présomption. On ne peut, en effet, se réjouir de ses œuvres sans les estimer. De là naissent la jactance et les autres vices dont nous venons de parler.
+
+[…]
+
+	Le second dommage est ordinairement uni au précédent. Il consiste à juger les autres mauvais et imparfaits par rapport à nous-mêmes. Il nous semble qu’ils n’agissent pas et ne se conduisent pas aussi bien que nous. Nous avons peu d’estime pour eux dans notre cœur et nous le montrons parfois dans nos paroles.
+
+[…]
+
+	Le troisième dommage consiste en ce que, comme ces personnes ne recherchent dans leurs œuvres que leur propre satisfaction, elles ne les accomplissent généralement que quand elles voient qu’elles vont en retirer quelque satisfaction ou quelque louange.
+
+[…]
+
+	Le quatrième dommage découle de ce dernier, et il consiste en ce que ces personnes ne recevront pas de Dieu leur récompense parce qu’elles ont voulu l’avoir dès cette vie dans la jouissance, les consolations, l’honneur et d’autres intérêts qu’elles ont recherchés dans leurs œuvres. […] Il faut donc, pour éviter un pareil dommage, cacher nos bonnes œuvres, afin que Dieu seul en soit le témoin, et vouloir que personne n’en fasse cas. Non seulement nous les cacher à tout le monde, mais encore à nous-mêmes, c’est-à-dire que nous ne devons pas y mettre de complaisance ni les estimer comme si elles avaient quelque valeur, ni en tirer la moindre joie. C’est là le sens spirituel que Notre-Seigneur a donné à cette parole : « Que votre main gauche ne sache pas ce que fait votre main droite » (Mat. 6, 3), c’est-à-dire : Ce n’est pas avec un œil terrestre et charnel que vous devez regarder et estimer l’œuvre spirituelle que vous accomplissez.
+
+[…]
+
+	Le cinquième dommage consiste à ne pas faire de progrès dans le chemin de la perfection. C’est le cas de ceux, en effet, qui s’attachent aux goûts et aux consolations qu’ils trouvent dans les bonnes œuvres. Dès qu’ils ne trouvent plus dans leurs bonnes œuvres ou exercices de piété ni goûts ni consolations, ils ne comprennent pas que cela arrive ordinairement quand Dieu, pour les élever plus haut, leur donne le pain dur destiné aux parfaits, et les sèvre du lait des enfants ; il éprouve leurs forces et purifie leurs désirs encore faibles, il veut leur faire goûter le pain qui convient aux hommes mûrs. Mais le plus souvent ces âmes sont déconcertées, et perdent courage parce qu’elles ne trouvent plus de douceur dans leurs bonnes œuvres.
+
+[…]
+
+	Le sixième dommage vient de ce que l’on se trompe généralement quand on regarde comme meilleurs les choses et les œuvres qui plaisent que celles qui ne plaisent pas ; on loue et on estime les unes, tandis que l’on critique et déprécie les autres.
+
+[…]
+
+	Le septième dommage consiste en ce que l’homme qui n’a pas étouffé en lui la vaine joie qui provient des biens de l’ordre moral, est incapable de recevoir les bons conseils et les enseignements sages qui lui seraient nécessaires pour les œuvres qu’il doit accomplir. Cette habitude de faiblesse qu’il a de rechercher dans ses œuvres une vaine jouissance comme son bien propre l’enchaîne de telle sorte qu’il ne regardera pas le conseil des autres comme meilleur, ou du moins, s’il le trouve tel, il ne voudra pas le suivre, faute de courage. La charité alors devient très faible soit pour Dieu soit pour le prochain. Car l’amour-propre que l’on apporte dans les œuvres refroidit la vertu de charité.
+
+[…]
+
+	Il convient maintenant de parler du cinquième genre de biens dans lesquels l’âme peut mettre sa joie et que nous avons appelés surnaturels. Nous entendons par là tous les dons et toutes les grâces qui viennent de Dieu, qui dépassent les facultés et les forces de la nature, et que l’on appelle grâces données gratuitement ; tels sont les dons de sagesse et de science qui ont été accordés à Salomon ; telles sont aussi les grâces dont parle saint Paul : « la foi, le don des guérisons, le don des miracles, l’esprit de prophétie, la connaissance et le discernement des esprits, l’interprétation des paroles et aussi le don des langues. » Ces biens sont sans doute spirituels, comme ceux du sixième genre dont nous traiterons bientôt ; mais comme il y a beaucoup de différence entre eux, j’ai voulu en traiter à part. L’exercice de ces biens regarde immédiatement l’utilité du prochain : c’est dans ce but et pour cette fin, dit saint Paul, que Dieu les accorde.
+
+[…]
+
+	Trois dommages principaux peuvent, ce me semble, arriver à celui qui met sa joie dans les biens surnaturels : il se trompe ou il est trompé ; il subit un détriment de la foi ; et il s’expose à la vaine gloire ou à quelque vanité.
+
+[…]
+
+	Le but que nous poursuivons dans cet ouvrage est de conduire l’esprit par le moyen des biens spirituels jusqu’à l’union parfaite de l’âme avec Dieu. Maintenant nous devons traiter du sixième genre de biens, c’est-à-dire des biens spirituels ; ce sont ceux-là qui contribuent le plus à la réalisation de notre dessein.
+
+[…]
+
+	Pour en venir à notre sujet, je dis que par biens spirituels j’entends tous les biens qui nous aident et nous meuvent vers les choses divines, ou les rapports soit de l’âme avec Dieu, soit de Dieu avec l’âme.
+
+	Commençant donc à les diviser par les genres les plus universels, je dis que les biens spirituels sont de deux sortes : les uns sont agréables à l’âme, les autres lui sont pénibles. Chacun de ces deux genres se divise à son tour en deux catégories, car, parmi les biens qui sont agréables, il y en a que l’esprit comprend clairement et distinctement, et d’autres qu’il ne comprend pas clairement et distinctement. Parmi les biens qui sont pénibles, il y en a dont l’objet est clair et distinct, et d’autres dont l’objet est obscur et confus. Tous ces biens, nous pouvons encore les diviser d’après la distinction des puissances de l’âme. Les uns, en effet, sont des connaissances intellectuelles et appartiennent à l’entendement, d’autres sont des affections et appartiennent à la volonté ; et d’autres sont imaginaires et appartiennent à la mémoire.
+
+[…]
+
+	Nous pouvons réduire à quatre tous les genres de biens spirituels dont la volonté peut distinctement se réjouir : ils motivent la dévotion, ils la provoquent, ils la dirigent et la perfectionnent.
+
+[…]
+
+	Quant à ce qui regarde les images et les portraits des Saints, il peut y avoir beaucoup de vanité et de joie frivole. Ils sont cependant très importants pour le culte divine, et même très nécessaires pour porter la volonté à la dévotion. La preuve, c’est que la sainte Eglise, notre Mère, les approuve et en fait usage. Aussi est-il toujours convenable que nous les mettions à profit pour secouer notre tiédeur. Et cependant, il y a beaucoup de personnes qui se complaisent plutôt dans la peinture et les ornements de ces images que dans le sujet qu’elles représentent.
+
+	L’Église s’est proposé deux fins principales en nous prescrivant le culte des images : d’abord d’honorer les Saints par ce moyen, et ensuite de mouvoir la volonté pour réveiller la dévotion à leur égard. Or en tant qu’elles servent à ce double but, elles sont très utiles et l’usage en est nécessaire. Aussi devons-nous choisir celles qui représentent le mieux et le plus exactement leur objet et portent davantage la volonté à la dévotion. C’est là le point sur lequel nous devons jeter les yeux, et non sur la valeur de l’image, la délicatesse du travail ou de l’ornementation. Il y a, je le répète, certaines personnes qui s’attachent plus à la beauté de l’image et à sa valeur qu’à ce qu’elle représente. Quant à la dévotion intérieure et spirituelle qu’elles devraient avoir pour le Saint que l’on ne voit pas, que devient-elle ? On oublie immédiatement l’image, puisqu’elle n’a servi qu’à donner une émotion ; on l’emploie comme un objet de curiosité, ou un ornement extérieur. Par là, les sens sont flattés et satisfaits, et là s’arrêtent la joie et l’affection de la volonté. Mais une telle conduite détruit complètement la véritable ferveur qui requiert le renoncement absolu à l’affection pour tous les objets particuliers. Nous en avons une preuve dans cet usage abominable que certaines personnes ont introduit de nos jours. Elles n’ont pas horreur des modes profanes du monde ; elles ornent les images de ces costumes que les mondains inventent périodiquement pour s’en faire des passe-temps et satisfaire leurs propres légèretés ; or ces costumes qui sont répréhensibles chez eux leur servent à couvrir les images, quand les Saints qu’elles représentent les avaient en horreur, et à juste titre. Ils sont d’accord avec le démon pour canoniser ainsi leurs vanités en les imposant aux Saints, comme si ce n’était pas là leur aire une grave injure. De la sorte la vraie et solide piété, qui rejette et repousse bien loin toute vanité et toute apparence même de vanité, a disparu. La dévotion ne consiste plus, pour ainsi dire, qu’à parer des poupées. Pour quelques-uns l’image est devenue une idole, dans laquelle ils mettent leur complaisance.
+
+[…]
+
+	Celui qui est vraiment pieux met surtout sa dévotion dans l’objet invisible que représentent ces images. Il n’a pas besoin de beaucoup d’images ; très peu lui suffisent ; et encore, il ne se sert que de celles qui rappellent plus le divin que l’humain. Ce sont celles-là qu’il veut voir, comme lui-même d’ailleurs, en conformité avec cet extérieur qui élève la pensée vers le ciel et les Saints qui l’habitent, plutôt que vers la terre. […] Il y a plus : son cœur n’a aucune attache aux images dont il se sert. Vient-on à les lui enlever, il ne s’en préoccupe pas beaucoup ; il cherche, en effet, cet image vivante qu’il porte en lui-même, c’est-à-dire Jésus crucifié. Voilà pourquoi, par amour pour lui, il est plutôt heureux de ce qu’on lui enlève tout et de ce que tout lui manque, même les moyens qui semblaient les plus aptes à l’élever vers Dieu ; il est alors dans la paix. Il y a d’ailleurs plus de perfection pour l’âme à garder la paix et la joie quand on la prive de ces moyens que quand elle les possède avec attachement et avec passion.
+
+[…]
+
+	Si cette question des images vous suggère quelques difficultés, cela vient de ce que vous ne comprenez pas bien le dénuement et l’esprit de pauvreté que requiert la perfection ; du moins vous reconnaîtrez l’imperfection que l’on apporte généralement dans l’usage des chapelets. On trouvera à peine une personne qui n’ait quelque faiblesse à leur sujet ; on veut qu’ils soient de telle sorte plutôt que de telle autre, de telle couleur, de tel métal, ou avec tel ou tel ornement ; or il importe peu qu’ils soient d’une façon ou d’une autre. Dieu n’écoute pas mieux la prière qu’on fait avec ce chapelet que celle qu’on fait avec un autre ; il a pour agréable celle qu’on lui adresse avec un cœur simple et droit, avec l’unique but de lui être agréable, sans se préoccuper de ce chapelet plutôt que d’un autre, à moins qu’il ne soit indulgencié.
+
+[…]
+
+	D’autres fois, il arrive qu’en regardant une image on la voit se mouvoir, changer de physionomie, faire des signes, donner certaines choses à entendre, parler de telle ou telle sorte. Ces faits surnaturels des images dont nous parlons peuvent être bons et vrais très souvent. Dieu les produit pour augmenter la dévotion, ou donner à l’âme quelque appui auquel elle s’attache afin de soutenir sa faiblesse et ne point se perdre dans les distractions. Mais bien des fois aussi c’est le démon qui les produit pour tromper et pour nuire.
+
+[…]
+
+	Dès lors, que les images ne doivent nous servir que comme des moyens qui nous rappellent les choses invisibles, nous ne rechercherons en elles que ce qui porte la volonté à aimer l’objet vivant qu’elles représentent et à y mettre sa joie. Voilà pourquoi le fidèle aura soin de ne pas rechercher la satisfaction des sens lorsqu’il verra une image, qu’elle soit corporelle, ou imaginaire, bien travaillée ou richement ornée, qu’elle lui inspire une dévotion sensible ou spirituelle, qu’elle lui donne des indications surnaturelles. Il ne fera aucun cas de ces choses accidentelles ; il ne s’y arrêtera pas. Dès qu’il aura fait à l’image l’acte de vénération que commande l’Église, il élèvera immédiatement sa pensée à l’objet qu’elle représente ; il mettra en Dieu ou dans le Saint qu’il invoque la joie et le plaisir de sa volonté, par l’amour qu’il lui portera et la prière qu’il lui adressera. Car ce qu’il y a de vivant et de spirituel dans le culte de l’image ne sera point frustré par la peinture de l’image ou l’impression sensible qu’elle produit. De la sorte, il ne s’exposera pas à l’illusion, puisqu’il ne fera aucun cas de ce que l’image lui dira ; il n’occupera point l’esprit et le sens à l’empêcher d’aller librement vers Dieu ; il ne mettra pas plus sa confiance dans une image que dans une autre. Celle qui lui inspirait surnaturellement de la dévotion lui en donnera alors plus abondamment, parce qu’il ira alors tout de suite vers Dieu avec amour. D’ailleurs, chaque fois que Dieu accorde ces faveurs dont nous avons parlé et d’autres semblables, il ne les accorde qu’en inclinant l’amour et la joie de la volonté vers ce qui est invisible. C’est là ce qu’il veut que nous fassions en détruisant la force des puissances et le joug où elles nous tiennent du côté de toutes les choses visibles et sensibles.
+
+[…]
+
+	L’homme vraiment spirituel s’attache très peu à quoi que ce soit de ces objets. Ce qu’il recherche, ce sont le recueillement intérieur et les entretiens intimes avec Dieu. Sans doute, il tire profit des images et des oratoires ; mais ce n’est qu’en passant, et tout de suite son esprit se repose en Dieu et il oublie tout ce qui est sensible. Voilà pourquoi, s’il est mieux en soi de prier dans les endroits qui sont plus appropriés au culte, il faut néanmoins, et malgré cela, préférer l’endroit où les sens sont moins absorbés par le sensible et où l’esprit est plus libre de s’élever vers Dieu.
+
+[…]
+
+	Il ne faut donc pas rechercher un endroit qui soit agréable et flatte les sens, comme quelques-un le font, car, au lieu de se recueillir intérieurement pour être avec Dieu, l’esprit n’y trouverait que récréation, goûts et saveurs pour les sens. Ce qui convient, c’est un lieu solitaire et même d’aspect sévère, afin que l’esprit monte sûrement et directement vers Dieu, sans être empêché ni retenu par les choses visibles. Sans doute les choses visibles aident parfois l’esprit à s’élever, mais l’esprit ne s’élève qu’en les oubliant aussitôt pour se fixer en Dieu. Voilà pourquoi notre Sauveur choisissait ordinairement pour prier les lieux solitaires et ceux qui flattaient peu les sens, afin de nous donner l’exemple ; il préférait ceux qui élèvent l’âme à Dieu, comme les montagnes qui s’élèvent au-dessus de terre et qui, généralement dénudées, n’offrent pas de récréation aux sens. Aussi l’âme véritablement adonnée à la spiritualité ne recherche pas si l’endroit où elle veut prier offre telle ou telle commodité, car ce sera là une marque que l’on est encore l’esclave des sens ; elle songe à se procurer le recueillement intérieur ; pour cela elle oublie tout le reste, et choisir pour faire oraison l’endroit où elle sera le plus à l’abri des objets et des plaisirs sensibles ; elle détourne le regard de tous les objets extérieurs, afin que, dégagée de toutes les créatures, elle puisse mieux s’entretenir seule à seule avec Dieu. Et pourtant, chose curieuse ! on voit quelques âmes adonnées à la spiritualité qui ne songent qu’à orner leur oratoire, à disposer des lieux agréables à leur condition et à leur inclination. Quant au recueillement intérieur, qui est ce qu’il y a de plus important, c’est ce dont elles font moins de cas ; aussi en ont-elles fort peu car si elles en avaient, elles ne pourraient prendre plaisir à ces ornementations et décorations elles en éprouveraient plutôt de la fatigue.
+
+[…]
+
+	La cause pour laquelle certaines personnes adonnées à la spiritualité n’arrivent jamais à entrer dans la véritable joie de l’esprit, c’est qu’elles n’achèvent pas elles-mêmes de se sevrer de la joie que procurent les choses extérieures et visibles. Elles doivent savoir que si le lieu convenable et consacré à la prière est le temple ou l’oratoire visible, et si l’image est le motif de la prière, il ne s’ensuit pas qu’on doive réserver son goût et la saveur pour le temple visible ou l’image, tandis que l’on oublierait de prier dans le temple vivant, c’est-à-dire de se recueillir intérieurement.
+
+[…]
+
+	Je trouve qu’il y a trois sortes de lieux par le moyen desquels Dieu a coutume de porter la volonté à la dévotion. La première consiste dans certaines dispositions du terrain, ou du site qui par l’aspect agréable de leurs variétés, leurs vallons, leurs bosquets, leur paisible solitude, excitent la dévotion. Il est utile de profiter de ces lieux, mais à la condition de les oublier pour élever tout de suite son cœur vers Dieu, car celui qui veut la fin ne doit pas s’arrêter plus qu’il ne convient au moyen qui y conduit. Si on recherche un attrait naturel ou le plaisir des sens, on ne trouvera que sécheresse et distraction pour l’esprit, car la satisfaction et la joie de l’esprit ne se trouvent que dans le recueillement intérieur. Voilà pourquoi, lorsqu’on est dans un lieu de cette sorte, il faut chercher à se trouver intérieurement avec Dieu, comme si l’on n’était pas dans ce lieu. Car si l’on court vers la jouissance et le plaisir de ce lieu ou de cet autre, comme nous l’avons dit, on recherche une récréation pour les sens et l’on favorise l’instabilité de l’esprit plutôt que le calme de l’âme. Que faisaient les anachorètes et tous les anciens ermites dans leurs solitudes si vastes et si belles ? Ils ne prenaient que le moins de terrain possible pour y bâtir une très étroite cellule, ou se creusaient quelque grotte pour s’y renfermer.
+
+[…]
+
+	La seconde sorte de lieux qui favorisent la dévotion est plus particulière. Je veux parler de certains endroits, déserts ou autres, peu importe, où Dieu a coutume d’accorder quelques faveurs spirituelles très élevées à quelques âmes choisies. Aussi, arrive-t-il d’ordinaire que celui qui a reçu une faveur à cet endroit sens que son cœur y est porté ; il éprouve parfois le désir le plus vif et le plus véhément d’y retourner. Sans doute, quand il y retourne, il ne se trouve pas impressionné comme avant, car il ne dépend pas de lui de recevoir de pareilles faveurs. Dieu les accorde quand il veut, à qui il veut et où il veut ; il n’est pas lié au lieu, ni au temps, ni à la libre volonté de celui à qui il les accorde. Néanmoins, si l’âme est détachée de tout sentiment égoïste, il est bon qu’elle retourne quelquefois à ce lieu pour prier, et cela pour trois raisons. La première, c’est que si Dieu, comme nous l’avons dit, n’est pas lié à tel endroit, il semble bien que c’est là qu’il a voulu être loué par cette âme, lorsqu’il a daigné lui accorder cette faveur. La seconde, c’est que l’âme se rappelle mieux là quelle reconnaissance elle doit à Dieu pour le bienfait qu’elle y a reçu. La troisième, c’est que par ce souvenir l’âme se sent portée davantage à la dévotion.
+
+[…]
+
+	Troisièmement, les lieux qui donnent de la dévotion sont ceux que Dieu choisit particulièrement pour y être invoqué et glorifié, comme le mont Sinaï où il a donné sa loi à Moïse, comme ce lieu qu’il a fixé à Abraham pour qu’il y immolât son propre fils ; comme le Mont Horeb où « Dieu commanda à Elie d’aller pour se montrer à lui ; comme le mont Gargano dédié à saint Michel, qui apparut à l’évêque de Siponto et lui déclara qu’il était le gardien de ce lieu et voulait y voir érigée une église en l’honneur des saints Anges. La glorieuse Vierge Marie n’a-t-elle pas désigné à Rome par le prodige de la neige l’endroit où elle demandait un temple en son nom à Patrice ? Le motif pour lequel Dieu choisir tel endroit plutôt qu’un autre pour y être loué, c’est son secret. Ce qui nous convient à nous autres de savoir, c’est que tous ces lieux sont pour notre avantage et que Dieu y écoute nos prières, comme partout d’ailleurs où nous le prions avec une foi vive. Cependant les endroits qui sont consacrés à sa gloire sont une occasion beaucoup plus favorable de voir exaucées nos prières, parce que l’Église nous les a signalés et dédiés dans ce but.
+
+[…]
+
+	Il est évident que lorsque les disciples demandèrent à Notre-Seigneur de leur enseigner à prier, il a dû leur dire tout ce qu’il fallait pour être exaucés du Père Eternel, dont il connaissait parfaitement la volonté. Or, il ne leur a enseigné que les sept demandes du Notre Père, où est contenue l’expression de toutes nos nécessités corporelles et spirituelles. Il ne leur enseigna nullement une foule de prières et de cérémonies. Au contraire, il leur dit dans une autre circonstance : « Lorsque vous prierez, veillez à ne pas dire beaucoup de paroles, parce que votre Père céleste sait très bien ce qui vous est utile. » La seule chose qu’il leur recommanda avec les plus vives instances, c’est de persévérer dans la prière, c’est-à-dire dans la récitation du Notre Père. Car, il a dit aussi : « Il faut prier toujours et ne jamais cesser de prier. » Toutefois, il ne nous a pas enseigné à varier nos demandes, mais à redire souvent la même prière avec ferveur et attention. Car, je le répète, ces demandes du Notre Père renferment tout ce qui est conforme à la volonté de Dieu et à notre avantage.
