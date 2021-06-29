@@ -42,7 +42,7 @@ Itshaq Abravanel   _ pas encore lu et écrit
 
 
 ### Genèse 1, 2 <a name="genese-1-2"></a>
->La terre était déserte et vide, et la ténèbre à la surface de l'abîme ; le souffle de Dieu planait à la surface des eaux.
+>La terre était déserte et vide, et la ténèbre à la surface de l'abîme ; le souffle de Dieu planait à la surface des eaux. (TOB)
 
 >La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit (רוּחַ ruaḥ) de Dieu planant (מְרַחֶפֶת meraḥefet) au-dessus des eaux. (Trad. : Polito de l'hébreu)
 
