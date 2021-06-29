@@ -15,85 +15,22 @@
 
 ### Livre premier
 
->Par une nuit profonde,
+>Par une nuit profonde, Etant pleine d’angoisse et enflammée d’amour, Oh ! l’heureux sort ! Je sortis sans être vue, Tandis que ma demeure était déjà en paix.
 >
->Etant pleine d’angoisse et enflammée d’amour,
+>J’étais dans les ténèbres et en sûreté Quand je sortis déguisée par l’escalier secret, Oh ! l’heureux sort ! J’étais dans les ténèbres et en cachette, Tandis que ma demeure était déjà en paix.
 >
->Oh ! l’heureux sort !
+>Dans cette heureuse nuit, Je me tenais dans le secret, personne ne me voyait, Et je n’apercevais rien Pour me guider que la lumière Qui brûlait dans mon cœur.
 >
->Je sortis sans être vue,
+>Elle me guidait Plus sûrement que la lumière du midi Au but où m’attendait Celui que j’aimais, Là où nul autre ne se voyait.
 >
->Tandis que ma demeure était déjà en paix.
+>O nuit qui m’avez guidée ! O nuit plus aimable que l’aurore ! O nuit qui avez uni L’aimé avec sa bien-aimée Qui a été transformée en lui !
 >
->J’étais dans les ténèbres et en sûreté
+>Sur mon sein orné de fleurs, Que je gardais tout entier pour lui seul, Il reste endormi, Et moi je le caressais Et avec un éventail de cèdre je le rafraîchissais.
 >
->Quand je sortis déguisée par l’escalier secret,
+>Quand le souffle provenant du fort Soulevait déjà sa chevelure, De sa douce main Posée sur mon cou il me blessait, Et tous mes sens furent suspendus.
 >
->Oh ! l’heureux sort !
+>Je restai là et m’oubliai, Le visage penché sur le Bien-Aimé. Tout cessa pour moi, et je m’abandonnai à lui, Je lui confiai tous mes soucis Et m’oubliai au milieu des lis.
 >
->J’étais dans les ténèbres et en cachette,
->
->Tandis que ma demeure était déjà en paix.
->
->Dans cette heureuse nuit,
->
->Je me tenais dans le secret, personne ne me voyait,
->
->Et je n’apercevais rien
->
->Pour me guider que la lumière
->
->Qui brûlait dans mon cœur.
->
->Elle me guidait
->
->Plus sûrement que la lumière du midi
->
->Au but où m’attendait
->
->Celui que j’aimais,
->
->Là où nul autre ne se voyait.
->
->O nuit qui m’avez guidée !
->
->O nuit plus aimable que l’aurore !
->
->O nuit qui avez uni
->
->L’aimé avec sa bien-aimée
->
->Qui a été transformée en lui !
->
->Sur mon sein orné de fleurs,
->
->Que je gardais tout entier pour lui seul,
->
->Il reste endormi,
->
->Et moi je le caressais
->
->Et avec un éventail de cèdre je le rafraîchissais.
->
->Quand le souffle provenant du fort
->
->Soulevait déjà sa chevelure,
->
->De sa douce main
->
->Posée sur mon cou il me blessait,
->
->Et tous mes sens furent suspendus.
->
->Je restai là et m’oubliai,
->
->Le visage penché sur le Bien-Aimé.
->
->Tout cessa pour moi, et je m’abandonnai à lui,
->
->Je lui confiai tous mes soucis
->
->Et m’oubliai au milieu des lis.
 >Pour comprendre cette doctrine, il faut savoir que l’âme, avant d’arriver à l’état de perfection, doit ordinairement passer tout d’abord par deux sortes principales de nuit que les auteurs spirituels appellent voies purgatives ou purifications, et que nous appelons ici des nuits, parce que, dans les deux cas, l’âme marche pour ainsi dire de nuit et dans l’obscurité. […] Ce fut une heureuse fortune pour elle que Dieu la plaçât dans cette nuit, d’où lui est venu un si grand bien, et où elle n’aurait jamais pu s’introduire d’elle-même. Il n’y a personne d’ailleurs qui soit capable par ses seules forces de se dégager de toutes ses tendances pour aller à Dieu.
 
 #### Par une nuit profonde
