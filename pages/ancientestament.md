@@ -20,9 +20,8 @@
 
 >ENTÊTE Elohims créait les ciels et la terre. (Trad. : Chouraqui)
 
-[[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
+[[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)]
 
-Philon d'Alexandrie        _ pas encore lu et écrit
 
 Origène     _ pas encore lu et écrit
 
@@ -35,6 +34,9 @@ Ambroise de Milan   _ pas encore lu et écrit
 Augustin d'Hippone   _ pas encore lu et écrit
 
 Itshaq Abravanel   _ pas encore lu et écrit
+
+[[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
+
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
@@ -65,7 +67,7 @@ Augustin d'Hippone        _ pas encore lu et écrit
 
 
 ### Genèse 2, 4-10 <a name="genese-2-4-10"></a>
->Ceux-ci sont les engendrements des cieux et de la terre dans leur être créés le jour où le Seigneur Dieu fit la terre et les cieux. Et il n’y avait encore aucune plante des champs sur la terre et aucune herbe des champs n’avait poussé puisque le Seigneur Dieu n’avait pas encore fait pleuvoir sur la terre et il n’y avait pas d’homme pour travailler le sol. Et une source montait de la terre et irriguait toute la surface du sol. Alors le Seigneur Dieu modela l’homme poussière du sol; il insuffla dans ses narines un souffle de vie, et l’homme devint une âme vivante. Le Seigneur Dieu planta un jardin-Éden (jardin-plaisir), depuis l’orient, et plaça la-bas l’homme qu’il avait modelé. Le Seigneur Dieu fit pousser du sol tout arbre loué pour son aspect et bon à manger et l’arbre de la vie au milieu du jardin et l’arbre de la connaissance du bien et du mal. Un fleuve sortait d’Éden pour irriguer le jardin et de la-bas il se divisait et devenait quatre têtes… 
+>Ceux-ci sont les engendrements des cieux et de la terre dans leur être créés le jour où le Seigneur Dieu fit la terre et les cieux. Et il n’y avait encore aucune plante des champs sur la terre et aucune herbe des champs n’avait poussé puisque le Seigneur Dieu n’avait pas encore fait pleuvoir sur la terre et il n’y avait pas d’homme pour travailler le sol. Et une source montait de la terre et irriguait toute la surface du sol. Alors le Seigneur Dieu modela l’homme poussière du sol; il insuffla dans ses narines un souffle de vie, et l’homme devint une âme vivante. Le Seigneur Dieu planta un jardin-Éden (jardin-plaisir), depuis l’orient, et plaça la-bas l’homme qu’il avait modelé. Le Seigneur Dieu fit pousser du sol tout arbre loué pour son aspect et bon à manger et l’arbre de la vie au milieu du jardin et l’arbre de la connaissance du bien et du mal. Un fleuve sortait d’Éden pour irriguer le jardin et de la-bas il se divisait et devenait quatre têtes… (Trad. : Polito de l'hébreu)
 
 ambroisedemilan.html#genese-2-4-10  _ dans esperance pour l'instant
 

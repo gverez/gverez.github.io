@@ -7,9 +7,16 @@
 
 ## Au commencement
 
+[[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)]
+
+
+
+
+[[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
+
 Commentaire sur la création (polito genese-1-1)
 - Etymologie du commencement : Bereshit, En arkhế, In principio, Entête, En kephálaioi (polito)
-- la création ne peut pas être liée au temps car le temps n’existait pas avant le monde (philon, origene, gregoiredenysse, basiledecesaree, ambroise, polito). Le temps lui-même est une créature (augustin). Création d’un monde intelligible et d’un monde sensible et le monde sensible est créé d’après le modèle intelligible. Le monde intelligible est le lógos même de Dieu, son Verbe intérieur, et le monde, créé à l’image et ressemblance de Dieu porte l’empreinte de l’arkhế de Dieu (philon).
+- la création ne peut pas être liée au temps car le temps n’existait pas avant le monde (philon, origene, gregoiredenysse, basiledecesaree, ambroise, polito). Les six jours rendent compte d'un ordre et non d'un temps (Philon). Le temps lui-même est une créature (augustin). Création d’un monde intelligible et d’un monde sensible et le monde sensible est créé d’après le modèle intelligible. Le monde intelligible est le lógos même de Dieu, son Verbe intérieur, et le monde, créé à l’image et ressemblance de Dieu porte l’empreinte de l’arkhế de Dieu (philon).
 	- En arkhế : principe qui est à l’origine de quelque chose et principe qui fait subsister quelque chose, la cause de son être. Ce mot couvre aussi la notion d’autorité, celui qui est le premier est aussi celui qui guide et commande (polito). Tout a été fait dans arkhế, que les caractéristiques de arkhế se trouvent justement dans le lógos créateur qui est commencement, ordre, fondement et principe de tout ce qui existe (basile).
 		- En kephálaioi : Aquila (cité par Basile de Césarée et Grégoire de Nysse) utilise kephálaioi à la place de arkhế pour traduire bereshit. Littéralement cela signifie dans la tête mais il est utilisé ici pour souligner la totalité de ce qui est créé. Les deux termes de kephálaion et arkhế peuvent être utilisés ensemble pour leur complémentarité: le premier nous dit que Dieu a conçu tous les étants ensemble et le deuxième nous dit que cela s’est passé avant le début du temps (polito). Dieu a créé une telle beauté tout ensemble, aussi les anges, en un instant, à partir du néant (ambroise).
 		- In principio : le principe est avant toutes choses (ambroise).
@@ -24,7 +31,7 @@ Daniel 13, 42 : C’est l’oeil divin qui “a contemplé toutes les choses ava
 
 Psaume 18, 1 : les cieux racontent la gloire de Dieu et le firmament annonce l’œuvre de ses mains
 
-
+Averroès (Ibn Rushd), lorsqu’il défend les idées des philosophes et d’Aristote en particulier sur l’éternité du monde, en expliquant que le fait d’affirmer un monde éternel n’enlève rien à l’acte créateur de Dieu qui veut éternellement ce monde et lui donne vie. Le monde reste donc une créature et non un dieu, au sens de dieu créateur.
 
 
 
