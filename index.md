@@ -63,7 +63,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/spiritualite.png">](/pages/spiritualite.html) [<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html)
 
 
-# Auteurs
+# Extraits de textes
 
 [<img src="/images/aristote.png">](/references/aristote.md)
 [<img src="/images/philondalexandrie.png">](/references/philondalexandrie.md)
@@ -88,6 +88,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/lanspergius.png">](/references/lanspergius.md)
 [<img src="/images/angelussilesius.png">](/references/angelussilesius.md)
 [<img src="/images/louismariegrigniondemontfort.png">](/references/louismariegrigniondemontfort.md)
+[<img src="/images/ambroisegardeil.png">](/references/ambroisegardeil.md)
 [<img src="/images/philippesellier.png">](/references/philippesellier.md)
 [<img src="/images/nopicture.png">](/references/henrydumery.md)
 [<img src="/images/danielmaurin.png">](/references/danielmaurin.md)
@@ -120,6 +121,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 	- Reparcourir Fratteli Tutti pour ajouter les références bibliques et les commentaires associés
 	- Riches et Pauvres
 	- Ajouter finalement mes citations bibliques qui n'ont pas encore été utilisées
+- Ajouter toute référence utile du cathéchisme de l'eglise catholique
 
 - Importer mes références ontologiques
 - Importer tout le texte ontologique dans Ontologie
