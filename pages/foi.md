@@ -11,6 +11,9 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 
 ## Au commencement
 
+### Bereshit
+
+
 [[Aristote](/references/aristote.html#arkhe)]
 
 [[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)]
@@ -46,7 +49,7 @@ Verbum est le mot latin utilisé pour traduire lógos. Ce mot qui signifie verbe
 
 voir Aristote sur Arkhé
 
-
+Pas de matière préformée : augustin
 
 
 
@@ -69,12 +72,19 @@ Psaume 18, 1 : les cieux racontent la gloire de Dieu et le firmament annonce l�
 
 Averroès (Ibn Rushd), lorsqu’il défend les idées des philosophes et d’Aristote en particulier sur l’éternité du monde, en expliquant que le fait d’affirmer un monde éternel n’enlève rien à l’acte créateur de Dieu qui veut éternellement ce monde et lui donne vie. Le monde reste donc une créature et non un dieu, au sens de dieu créateur.
 
+### Compléments sur la trinité
+
+Genèse 1, 26
+>Et Dieu dit: "Faisons les hommes (adam) dans notre image comme notre ressemblance [...]"
+
+Faisons: Le sujet de ce verbe est au pluriel dans l’original. Cela a donné lieu à beaucoup de commentaires, tant juifs que chrétiens. En effet, même si le mot pour Dieu (elohim) est grammaticalement un pluriel en hébreu, il s’accorde avec un verbe au singulier dans le reste du chapitre, comme lorsqu’il est dit: "elohim créa". L’interprétation chrétienne a toujours vu une annonce de la Trinité dans ce pluriel et aussi dans l’évocation de la Parole créatrice de Dieu et de l’Esprit qui vivifie et plane sur les eaux (polito genese-1-3-30). Au verbe “faisons” au pluriel s’ajoute aussi l’adjectif possessif "notre" dans "notre image et ressemblance". **ajouter commentaire augustin sur image et ressemblance**
 
 
 
-## L'Amour
+Selon la doctrine trinitaire le Fils de Dieu est la Parole éternelle de Dieu, qui coexiste éternellement avec lui, en est l’expression et l’image parfaite et en cette parole, en Dieu est la forme parfaite de tout ce qui existe, de tout ce que cette parole appèle à l’être.
 
-### Un Esprit maternel
+
+### Un Esprit maternel, l'amour
 
 [[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)]
 
@@ -110,6 +120,11 @@ Aussi bien la Bible ("reḥem") que le Qur’an ("raḥmān", "raḥīm") nous p
 
 la création est l’oeuvre de la Trinité et Basile, tient à réaffirmer ici qui l’action de l’Esprit est celle d’infuser la vie de Dieu en ses créature, le souffle de Dieu donne et transmet la vie divine à ses créatures.
 
+Dans le récit de la création, Augustin contemple l’oeuvre de la Trinité: “Dieu dit” donc Dieu engendre la Parole, il est Père, et sa Parole, le Verbe divin, est son Fils, la Parole qui exprime parfaitement ce qu’il est, sa volonté: dans le Fils on voit le Père. Ensuite, c’est l’Esprit Saint qu’il contemple dans “Dieu vit que cela est bon” car la création est l’oeuvre de sa bonté, un reflet de sa bonté et la bonté de Dieu est son souffle, son Esprit qui donne vie, qui infuse la vie à la création et la conduit à sa perfection. Chaque être, conduit à sa perfection, renvoie à la bonté créatrice de l’esprit divin.
+
+
+
+
 ### Dessein supposé
 Toute l’œuvre de Dieu est de nous conduire à goûter la joie du ciel, c’est à dire la joie qui provient du parfait échange d’amour. L’image que les apôtres donnent de cette harmonie est celle du corps humain et de ses membres qui collaborent tous au bien commun. Saint Augustin aussi nous dit que l’oeuvre de Dieu est de nous conduire à la pleine ressemblance avec lui, c’est-à-dire à cette unité parfaite dans l’amour dont nous parle Jésus: "Soyez un, comme moi et mon père nous sommes un" [[Giovanni Polito](/references/giovannipolito.html#genese-4-1-15)].
 
@@ -120,14 +135,6 @@ Toute l’œuvre de Dieu est de nous conduire à goûter la joie du ciel, c’es
 
 
 
-
-
-## Trinité
-
-Genèse 1, 26
->Et Dieu dit: "Faisons les hommes (adam) dans notre image comme notre ressemblance [...]"
-
-Faisons: Le sujet de ce verbe est au pluriel dans l’original. Cela a donné lieu à beaucoup de commentaires, tant juifs que chrétiens. En effet, même si le mot pour Dieu (elohim) est grammaticalement un pluriel en hébreu, il s’accorde avec un verbe au singulier dans le reste du chapitre, comme lorsqu’il est dit: "elohim créa". L’interprétation chrétienne a toujours vu une annonce de la Trinité dans ce pluriel et aussi dans l’évocation de la Parole créatrice de Dieu et de l’Esprit qui vivifie et plane sur les eaux (polito genese-1-3-30). Au verbe “faisons” au pluriel s’ajoute aussi l’adjectif possessif "notre" dans "notre image et ressemblance". **ajouter commentaire augustin sur image et ressemblance**
 
 
 

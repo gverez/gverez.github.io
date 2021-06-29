@@ -16,23 +16,6 @@ Détails
 >
 >Avant de rentrer dans la lecture de l’oeuvre des six jours, sachons que les jours en Dieu, dans sa tête, dans son propos, dans son lógos, ne sont pas comme nos jours. Le Psaume 90, v.4 nous dit que "mille ans à tes yeux sont comme le jour de hier qui passe" (**A INTEGRER**), que toute la vie ne dure qu’un instant. Et voici que grand est le nombre de ceux qui ont essayé d’expliquer ce premier mot de la Bible et chaque explication élargit notre regard aux dimensions de Dieu, mais comment en mesurer la largeur, la longueur, la hauteur, la profondeur… comme nous dit saint Paul (Lettre aux Ephésiens 3, 18 **A INTEGRER**). Le premier mot de la Bible en hébreu est: בְּרֵאשִׁית (bereshit), les lettres qui le composent ont été regroupées de beaucoup de façons différentes. Voici la lecture, la plus simple, la plus courante, dans la langue hébraïque: בְּ (be) signifie “dans”, רֵאש (resh) vient du mot רֹאש (rosh) la “tête” et ית (it) est le suffixe qu’on utilise pour former un adjectif ou un adverbe, ici utilisé pour indiquer qu’on parle de quelque chose de relatif, à la tête.
 >
->Voici la liste des auteurs dont les extraits de textes seront abordés, chacun en un article différent:
->
->**Judaïsme ancien:**
->- Philon d’Alexandrie (Alexandrie 25 av. J.-C. – 50 ap. J.-C.)
->
->**Christianisme, tradition grecque:**
->- Origène (Alexandrie v.185 – Tyr v. 253)
->- Basile de Césarée (Césarée de Cappadoce, actuelle Kayseri, 329 – 379)
->- Grégoire de Nysse (Néocésarée, actuelle Niksar, entre 331 et 341 – 394)
->
->**Christianisme, tradition latine:**
->- Ambroise de Milan (Trèves  339-340 – Milano, 397)
->- Augustin, (Thagaste, actuelle Souk Ahras en Algérie, 354 – 430 à Hippone, actuelle Annaba en Algérie)
->
->**Judaïsme, au temps de la Renaissance:**
->- Itshaq Abravanel (Lisbonne 1437 – 1508 Venise)
->
 >Certaines réflexions et questions de fond se retrouvent chez différents auteurs: pourquoi Dieu a-t-il crée le monde? Son entendement n’est pas le nôtre, Dieu est hors du temps et de l’espace. Sa volonté de partager son bonheur avec des créatures, de les combler de sa propre vie, joie, amour est inscrite dans son éternité. Ces auteurs, croyants de différentes traditions et cultures, dialoguent avec les philosophes, dont certains ont dit que le monde est éternel car en Dieu il n’y a pas une succession d’idées, il ne change pas. Cependant, les croyants juifs, chrétiens, musulmans seront attentifs à préserver le libre choix de Dieu: s’il a décidé de donner sa vie à des créatures cela fait partie de Lui, cela est éternellement inscrit dans son être qui est amour, la création est le fruit de l’initiative de Dieu, le temps et la matière sont créés à partir de rien. Mais comment le langage humain pourrait-il rendre compte de ce qui n’a ni avant ni après? Combien notre discours qui a besoin du temps pour se développer, avancer, est inadéquat à rendre compte de l’éternel, de ce qui existe avant le temps et avant l’espace.
 >
 >Ainsi quand les textes prophétiques parlent de Dieu, il faut tenir compte de cette dimension où le temps, l’avant et l’après ne sont pas, où notre langage nous parle de l’invisible à partir d’images visibles, comme dit Grégoire de Nysse. Et si c’est Dieu qui parle le langage des hommes c’est aussi que ces paroles et les images, les objets, les réalités auxquelles elles se réfèrent sont faites pour parler de Lui, pourvu d’essayer de se mettre à sa place et de chercher de rendre nos réalités terrestres et nos façons de nous exprimer, compatibles avec son amour éternel et immuable, qui ne connait ni vengeance, ni punition. Il ne peut qu’exprimer sa volonté éternelle de rendre l’homme participant de Sa propre vie, de Sa plénitude, de Son bonheur. Cette finalité de l’acte créateur et la bonté du Créateur sont toujours rappelés et résumés dans les commentaires de Philon d’Alexandrie et des Pères de l’Eglise des siècles successifs.
@@ -91,7 +74,7 @@ Détails
 >
 >Les mots, les symboles, les réalités de l’univers entier avec toutes ses langues ne pourraient suffire à épuiser le mystère de Dieu. La Bible en fait large usage, mais combien d’autres traditions et langues encore essaient de se frayer un chemin vers Lui? Chacun le recherche comme un enfant cherche sa mère. Alors comment ne pas nous émerveiller de la multiplicité des langages et des images utilisés par toute créature pour nous parler de Lui, pour nous parler du mystère qui infuse en nous la vie et l’amour, comme la mère comble son petit en le tenant dans les bras.
 >
->Voir les commentaires de Basile de Césarée [[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)] (Césarée de Cappadoce, actuelle Kayseri, 329 – 379) et d’Augustin **AJOUTER CITATION** (Thagaste, actuelle Souk Ahras en Algérie, 354 – 430 à Hippone, actuelle Annaba en Algérie) sur le deuxième verset de la Genèse. Ils sont aussi attentif à la traduction du mot מְרַחֶפֶת meraḥefet qui se rapporte à l’Esprit de Dieu (רוּחַ ruaḥ souffle, esprit de genre féminin en hébreu) et rappellent la tradition syriaque, langue proche de l’hébreu, qui traduit ce mot par réchauffer, couver, évoquant justement le geste de l’oiseau qui se tient au-dessus de ses petits, qui infuse sa chaleur et son énergie vitale aux oeufs.
+>Voir les commentaires de [Basile de Césarée](/references/basiledecesaree.html#genese-1-2) (Césarée de Cappadoce, actuelle Kayseri, 329 – 379) et d’[Augustin d'Hippone](/references/augustindhippone.html#genese-1-2) (Thagaste, actuelle Souk Ahras en Algérie, 354 – 430 à Hippone, actuelle Annaba en Algérie) sur le deuxième verset de la Genèse. Ils sont aussi attentif à la traduction du mot מְרַחֶפֶת meraḥefet qui se rapporte à l’Esprit de Dieu (רוּחַ ruaḥ souffle, esprit de genre féminin en hébreu) et rappellent la tradition syriaque, langue proche de l’hébreu, qui traduit ce mot par réchauffer, couver, évoquant justement le geste de l’oiseau qui se tient au-dessus de ses petits, qui infuse sa chaleur et son énergie vitale aux oeufs.
 
 <sub>[Retour à l'A.T.](/pages/ancientestament.html#genese-1-2) — [Retour au début de page](#genese-1-1)</sub>
 
