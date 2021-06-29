@@ -59,9 +59,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 
 
 ## Thèmes
-[<img src="/images/spiritualite.png">](/pages/spiritualite.html)
-
-[<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html) [<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html)
 
 
 # Auteurs
