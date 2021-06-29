@@ -9,12 +9,101 @@
 
 ## Genèse <a name="genese"></a>
 
-### Genèse 4, 9  <a name="genese-4-9"></a>
+### Genèse 1, 1 <a name="genese-1-1"></a>
+>Commencement de la création par Dieu du ciel et de la terre. (Trad. : TOB)
 
-Genèse 4, 9
->Le Seigneur dit à Caïn : « Où est ton frère Abel ? » – « Je ne sais, répondit-il. Suis-je le gardien de mon frère ? »
+>Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. (Trad. : Polito de l'hébreu)
 
-Commentaire du Pape François ?
+>Dans arkhế fit le Dieu le ciel et la terre. (Trad. : Polito du grec)
+
+>In principio créa Dieu ciel et terre. (Trad. : Polito du latin)
+
+>ENTÊTE Elohims créait les ciels et la terre. (Trad. : Chouraqui)
+
+[[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
+
+Philon d'Alexandrie        _ pas encore lu et écrit
+
+Origène     _ pas encore lu et écrit
+
+Basile de Césarée    _ pas encore lu et écrit
+
+Grégoire de Nysse      _ pas encore lu et écrit
+
+Ambroise de Milan   _ pas encore lu et écrit
+
+Augustin d'Hippone   _ pas encore lu et écrit
+
+Itshaq Abravanel   _ pas encore lu et écrit
+
+<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
+
+
+
+### Genèse 1, 2 <a name="genese-1-2"></a>
+>La terre était déserte et vide, et la ténèbre à la surface de l'abîme ; le souffle de Dieu planait à la surface des eaux.
+
+>La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit (רוּחַ ruaḥ) de Dieu planant (מְרַחֶפֶת meraḥefet) au-dessus des eaux. (Trad. : Polito de l'hébreu)
+
+[[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]
+
+Basile de Césarée        _ pas encore lu et écrit
+
+Augustin d'Hippone        _ pas encore lu et écrit
+
+<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
+
+
+
+### Genèse 1, 3-31 <a name="genese-1-3-31"></a>
+>Et Dieu dit: "Que soit une lumière" et lumière fut. Et Dieu vit que la lumière était bonne et il sépara, Dieu, la lumière de l’obscurité. Et Dieu appela la lumière "jour" et l’obscurité il l’appela "nuit" et il fut soir et il fut matin jour un. Et Dieu dit: "Que soit un espace au milieu des eaux" et il fut une séparation entre eau et eau. Et Dieu fit l’espace et il sépara l’eau qui est en dessous de l’espace de l’eau qui est au dessus de l’espace et il fut ainsi. Et Dieu appela l’espace "cieux" et il fut soir et il fut matin jour deuxième. Et Dieu dit: "Que les eaux en dessous des cieux tendent vers un lieu unique et que soit vu ce qui est sec" et il fut ainsi. Et Dieu appela ce qui est sec terre et le regroupement des eaux, il l’appela "eaux" et il vit, Dieu, que c’était bon. Et Dieu dit: "Que la terre fasse pousser des pousses d’herbe qui sèment une semence d’arbre fruitier qui fasse du fruit dans lequel est la semence pour son espèce sur la terre" et il fut ainsi. Et la terre fit sortir des pousses d’herbe qui sèment une semence chacune pour son espèce et des arbres qui font du fruit dans lequel il y a la semence chacune pour son espèce et Dieu vit que c’était bon. Et il fut soir et il fut matin jour troisième.  Et Dieu dit: "Que soient des luminaires dans l’espace des cieux pour séparer le jour de la nuit et qu’ils soient des signes pour les temps fixés, les jours et les années. Et qu’ils soient des luminaires dans l’espace des cieux pour illuminer la terre" et il fut ainsi. Et Dieu fit les deux grands luminaires, le grand luminaire pour gouverner le jour et le petit luminaire pour l’ordonnance de la nuit et des étoiles. Et Dieu leur donna dans l’espace des cieux d’illuminer la terre. Et d’ordonner le jour et la nuit et de séparer la lumière et l’obscurité et Dieu vit que c’était bon. Et il fut soir et il fut matin jour quatrième. Et Dieu dit: "Que bougent les eaux d’un mouvement d’âmes vivantes et que les oiseaux volent sur la terre sous l’espace des cieux". Et Dieu créa les grands monstres marins et toutes les âmes vivantes qui bougent [sans membres] et se meuvent dans les eaux de différentes espèces, et tous les oiseaux ailés de différentes espèces, et Dieu vit que c’était bon. Et Dieu les bénit en disant: "Portez du fruit et multipliez-vous et remplissez les eaux dans les mers et que les oiseaux se multiplient sur la terre". Et il fut soir et il fut matin jour cinquième. Et Dieu dit: "Que la terre fasse sortir des âmes vivantes de différentes espèces bétail et animaux qui rampent et animaux de la terre de différentes espèces" et il fut ainsi. Et Dieu fit les vivants de la terre de différentes espèces et le bétail de différentes espèces et tous les animaux qui rampent sur la terre de différentes espèces et il vit que c’était bon. Et Dieu dit: "Faisons les hommes (adam) dans notre image comme notre ressemblance et qu’ils dominent sur les poissons de la mer, les oiseaux du ciel, le bétail et sur toute la terre et les rampants qui rampent sur la terre". Et Dieu créa l’homme dans son image dans l’image de Dieu (elohim) il le créa mâle et femelle il les créa. Et Dieu les béni et il leur dit: "Portez du fruit, multipliez-vous et remplissez la terre, mettez-la sous vos pieds et dominez sur les poissons de la mer et sur les oiseaux des cieux et sur tout vivant qui rampe sur la terre". Et Dieu dit: "Voici, je leur ai donné toute herbe semant semence sur la surface de toute la terre et tout arbre dans lequel est fruit d’arbre semant semence pour eux sera pour nourriture et pour tout vivant de la terre et pour tout oiseau des cieux et pour tout rampant sur la terre dans lequel est une âme vivante tout herbe verte pour nourriture" et il fut ainsi. Et Dieu vit tout ce qu’il avait fait et voici très bon et il fut soir et il fut matin jour sixième. (Trad. : Polito de l'hébreu)
+
+[[Giovanni Polito](/references/giovannipolito.html#genese-1-3-31)]
+
+<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
+
+
+
+### Genèse 2, 4-10 <a name="genese-2-4-10"></a>
+>Ceux-ci sont les engendrements des cieux et de la terre dans leur être créés le jour où le Seigneur Dieu fit la terre et les cieux. Et il n’y avait encore aucune plante des champs sur la terre et aucune herbe des champs n’avait poussé puisque le Seigneur Dieu n’avait pas encore fait pleuvoir sur la terre et il n’y avait pas d’homme pour travailler le sol. Et une source montait de la terre et irriguait toute la surface du sol. Alors le Seigneur Dieu modela l’homme poussière du sol; il insuffla dans ses narines un souffle de vie, et l’homme devint une âme vivante. Le Seigneur Dieu planta un jardin-Éden (jardin-plaisir), depuis l’orient, et plaça la-bas l’homme qu’il avait modelé. Le Seigneur Dieu fit pousser du sol tout arbre loué pour son aspect et bon à manger et l’arbre de la vie au milieu du jardin et l’arbre de la connaissance du bien et du mal. Un fleuve sortait d’Éden pour irriguer le jardin et de la-bas il se divisait et devenait quatre têtes… 
+
+ambroisedemilan.html#genese-2-4-10  _ dans esperance pour l'instant
+
+<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
+
+
+
+### Genèse 2, 15-25 <a name="genese-2-15-25"></a>
+>Le Seigneur Dieu prit l’homme [‘adam] et le laissa dans le jardin d’Éden pour le travailler et le garder. Le Seigneur Dieu donna un ordre à Adam en disant : "De tous les arbres du jardin manger tu mangeras et de l’arbre de la connaissance du bien et du mal tu ne mangeras pas car le jour où tu mangeras de celui-ci, de mort tu mourras". Et le Seigneur Dieu dit : "Il n’est pas bon que Adam soit seul. Je vais lui faire une aide comme devant lui". Et le Seigneur Dieu modela à partir du sol [‘adamah] tout vivant du champs et tout oiseau des cieux et il les fit venir vers Adam pour voir comment il l’appellerait et tout ce que Adam appelait, une âme vivante [nephesh khayya]<sup id="a1-genese-2-15-25">[1](#f1-genese-2-15-25)</sup> était son nom.  Et Adam donna des noms à toute bête et à l’oiseau des cieux et à tout vivant du champs et pour Adam il ne trouva aucune aide comme devant lui [kenegdo]<sup id="a2-genese-2-15-25">[2](#f2-genese-2-15-25)</sup>. Et le Seigneur Dieu fit tomber sur Adam un sommeil [tardemah] et il dormit et il prit une de ses côtes et il referma la chair en-dessous d’elle. Et le Seigneur Dieu bâtit la côte qu’il avait pris à Adam en une femme [‘isha] et la fit venir vers Adam. Et l’homme dit : "Cette fois-ci, c’est l’os de mes os et la chair de ma chair, c’est pour cela qu’on l’appellera femme [‘isha] car elle a été tirée de l’homme [‘ish]". C’est pourquoi l’homme [‘ish] abandonnera son père et sa mère et s’attachera à sa femme [be’ishto] et ce sera une chair. Et les deux, Adam et sa femme, étaient nus et ils n’avaient pas honte. (Trad. : Polito de l'hébreu)
+
+<sub><b id="f1-genese-2-15-25">1</b>[Polito ↵](#a1-genese-2-15-25) âme (nephesh): naphash est la racine qui dit le souffle qui anime chaque être vivant. Certains exégètes juifs disent que Dieu amena les animaux à Adam pour voir s’il donnerait les noms justes aux animaux, selon la langue qu’il lui avait appris. D’autres attirent l’attention sur la nature du nom et sur le fait que chaque nom soit un souffle de vie, une âme vivante, puisque c’est par la parole que Dieu crée le monde.</sub>
+
+<sub><b id="f2-genese-2-15-25">2</b>[Polito ↵](#a2-genese-2-15-25) Le mot neged en hébreu signifie en face, devant, en vis-à-vis et aussi contre. Donc, Adam ne trouve aucune aide qui puisse se tenir devant lui, être son vis-à-vis, mais cette présence à laquelle il peut se confronter peut aussi être contraire à lui.</sub>
+
+ambroisedemilan.html#genese-2-15-25   _ dans esperance pour l'instant
+
+augustindhippone.html#genese-2-15-25  _ dans esperance pour l'instant
+
+<sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
+
+
+
+### Genèse 3, 1-24 <a name="genese-3-1-24"></a>
+>Le serpent était le plus fourbe de tous les vivants [animaux] du champ que fit le Seigneur Dieu et il [le serpent] dit à la femme: « Rien de moins que ça! Dieu vous a dit: "vous ne mangerez d’aucun arbre du jardin"? » Et la femme dit au serpent : « Nous mangeons les fruits des arbres du jardin. Mais, le fruit de l’arbre qui est au milieu du jardin, Dieu a dit : "Vous n’en mangerez pas et vous ne le toucherez pas, sinon vous mourrez." » Et le serpent dit à la femme : "Vous ne mourrez pas de mort. Puisque Dieu sait que, le jour où vous en mangerez, vos yeux s’ouvriront, et vous serez comme des dieux, connaissant le bien et le mal." Et la femme vit que l’arbre était bon à manger et qu’il donnait du plaisir aux yeux et qu’il était désirable, cet arbre, pour comprendre. Et elle prit de son fruit, et en mangea et elle donna aussi à son mari avec elle et il mangea. Et les yeux de tous les deux s’ouvrirent et ils surent qu’ils étaient nus et ils cousurent des feuilles de figuier et firent pour eux des ceintures. Et ils entendirent la voix du Seigneur Dieu qui s’en allait dans le jardin au vent [rouah esprit] du jour et ils se cachèrent l’homme et sa femme du visage du Seigneur Dieu au milieu des arbres [litteralement: de l’arbre] du jardin. Le Seigneur Dieu appela l’homme et lui dit : "Où es-tu ?" Il répondit : "J’ai entendu ta voix dans le jardin et j’ai eu peur parce que je suis nu, et je me suis caché." Et il dit : "Qui t’a dit que tu es nu ? Est-ce que tu as mangé de l’arbre dont je t’avais ordonné de ne pas en manger ?" Et l’homme dit : "La femme que tu [m’] as donnée [pour être] avec moi, c’est elle qui m’a donné de l’arbre, et j’ai mangé." Et le Seigneur Dieu dit à la femme : "Qu’est-ce que c’est ce que tu as fait ?" Et la femme dit : "Le serpent m’a trompée, et j’ai mangé." Et le Seigneur Dieu dit au serpent : "Parce que tu as fait cela, maudit es-tu parmi toutes les bêtes et les vivants du champ. Sur ton ventre tu iras et tu mangeras la poussière tous les jours de ta vie. Je mettrai une haine entre toi et la femme, entre ta descendance et sa descendance : [sa descendance] te piétinera la tête, et toi, tu lui piétineras le talon." À la femme, il dit: "D’une multiplication je multiplierai tes peines et ta grossesse dans la peine tu enfanteras des fils et vers ton mari [ira] ton désir et celui-ci dominera sur toi." Et à l’homme il dit: "Puisque tu as écouté la voix de ta femme tu as mangé de l’arbre dont je t’avais ordonné en disant: "Tu ne mangeras pas de celui-ci", maudite soit la terre (‘adamah) à cause de toi, dans la peine tu mangeras, tous les jours de ta vie. [La terre] fera pousser pour toi épines et chardons et tu mangeras l’herbe du champ. Dans la sueur de ton visage tu mangeras le pain, jusqu’à ce que tu retournes à la terre puisque c’est d’elle que tu as été pris, car tu es poussière et à la poussière tu retourneras." Et l’homme appela sa femme du nom de Ève [ḥavvah, c’est-à-dire la vivante], parce qu’elle fut la mère de tout vivant. Et le Seigneur Dieu fit à Adam et à sa femme des tuniques de peau et les revêtit. Et le Seigneur Dieu dit : "Voici que l’homme est devenu comme l’un de nous pour la connaissance du bien et du mal et maintenant, qu’il n’envoie pas la main et qu’il cueille aussi de l’arbre de vie et qu’il mange et vive pour toujours." Et le Seigneur Dieu l’envoya du jardin d’Éden [‘eden, c’est-à-dire délice] travailler la terre (‘adamah) d’où il avait été tiré. Et il bannit l’homme et il établit à l’orient du jardin-Éden les Kéroubim et une épée brillante qui tournait pour garder le chemin de l’arbre de vie. (Trad. : Polito de l'hébreu)
+
+gregoiredenysse.html#genese-3-1-24  _ dans esperance pour l'instant
+
+
+
+
+### Genèse 4, 1-15  <a name="genese-4-1-15"></a>
+>L’homme connu Ève, sa femme, et elle conçut, et elle enfanta Caïn et elle dit: "J’ai acquis un homme avec le Seigneur !" Elle ajouta en enfantant son frère Abel et Abel devint berger de brebis et Caïn fur travailleur du sol. A partir de la limite des jours, Caïn apporta des fruits du sol en offrande au Seigneur. Et Abel aussi apporta les premiers-nés de son troupeau et de leur graisse et le Seigneur regarda vers Abel et son offrande, mais vers Caïn et son offrande, il ne regarda pas et Caïn se fâcha et son visage tomba. Et le Seigneur dit à Caïn : "Pourquoi es-tu fâché, pourquoi ton visage est tombé ? N’est-ce pas que si tu fais du bien tu t’élèveras et si tu n’agis pas bien le péché est en bas de la porte et son désir est dirigé vers toi et toi tu le domineras." Et Caïn parla à son frère Abel et, quand ils furent dans le champs, Caïn se leva contre son frère Abel et le tua. Le Seigneur dit à Caïn: "Où est ton frère Abel?" Et il dit: "Je ne sais pas. Est-ce que je suis le gardien de mon frère, moi ?" Et il dit : "Qu’as-tu fait ? La voix du sang de ton frère crie vers moi depuis le sol. Maintenant, sois maudit du sol qui a ouvert la bouche pour prendre le sang de ton frère de ta main. Car tu travailleras le sol, mais il ne te donnera plus sa force, tu seras instable et tu seras errant sur la terre." Alors Caïn dit au Seigneur : "Ma faute est plus grande que ce que je peux porter ! Voici qu’aujourd’hui tu m’as éloigné de la surface du sol et de ta face je me cacherai et je serai instable et errant sur la terre et celui qui me trouvera me tuera." Le Seigneur lui dit: "C’est pourquoi celui qui tue Caïn, sera vengé sept fois." Et le Seigneur mit un signe à Caïn pour que celui qui le trouve ne le frappe pas. (Trad. : Polito de l'hébreu)
+
+/pages/references/ambroisedemilan.html#genese-4-1-15  _ dans esperance pour l'instant
+
+giovannipolito
+
+Commentaire du Pape François Fratteli Tutti sur "suis-je le gardien de mon frère, moi ?"
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
