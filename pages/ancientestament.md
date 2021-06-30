@@ -33,7 +33,7 @@
 
 [Augustin d'Hippone](/references/augustindhippone.html#genese-1-1)
 
-Itshaq Abravanel   _ pas encore lu et écrit
+[Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1)
 
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 

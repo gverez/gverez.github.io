@@ -28,6 +28,8 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 
 [Augustin d'Hippone](/references/augustindhippone.html#genese-1-1)
 
+[Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1)
+
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 
 Relire brièvement ces auteurs au-dessus et dire de quoi ils parlent, pour mieux savoir quand aller puiser dedans. Notamment certains parlent presque exclusivement de Arkhé
