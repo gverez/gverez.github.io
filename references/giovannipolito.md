@@ -96,6 +96,8 @@ title: Giovanni Polito
 
 <sub>[Retour à l'A.T.](/pages/ancientestament.html#genese-3-1-24) — [Retour au début de page](#genese-1-1)</sub>
 
+
+
 ## Commentaire sur Genèse 4, 1-15 <a name="genese-4-1-15"></a>
 >C’est l’humanité entière qui est représentée en Adam et Ève et les conséquences de leurs actes se reflètent dans les deux attitudes de leurs fils, Caïn et Abel. Vivre le lien de confiance dans l’action de grâce c’est l’attitude d’Abel qui accueille dans la vie le don surabondant de Dieu. Caïn, qui ne vit pas la relation de gratuité et de confiance, ne goûte pas à la joie de l’amour fraternel. Il dit qu’il n’est pas le gardien de son frère et peine au travail de la terre. "Qui aime sa vie la perd; qui s’en détache en ce monde la gardera pour la vie éternelle" (Jean 12, 25). Sa relation à Dieu, à la vie est marchande, pas de gratuité, pas de confiance, ce qu’il offre à Dieu c’est pour acheter sa faveur, il ne croit pas à sa bienveillance de père. Le nom de Caïn, comme le texte biblique lui-même nous l’explique signifie acquisition. Ils s’approprie de la vie pour lui même, pas de partage si l’on se croit privé de l’essentiel. Et pourtant, comme dans la parabole de l’Evangile, le père est celui qui dit au fils: "Toi, mon enfant, tu es toujours avec moi, et tout ce qui est à moi est à toi." (Luc 15, 31). Mais celui qui vit dans la relation marchande avec autrui a préféré acheter lui même, avec son argent et la peine de son travail, l’agneau pour faire la fête avec ses amis. (voir Luc 15, 11-32 Le fils prodigue)
 >

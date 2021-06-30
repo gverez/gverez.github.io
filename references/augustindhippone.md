@@ -128,6 +128,25 @@ Augustin introduit ici le verbe foveo réchauffer en utilisant son nom d’actio
 [[Retour à Genèse 1, 2](/pages/ancientestament.html#genese-1-2)]
 
 
+
+## Commentaire sur Genèse 2, 15-25 <a name="genese-2-15-25"></a>
+*Traduction et commentaires : Giovanni Polito*
+	
+*Sur l’Evangile de Saint Jean, Traité 9, 10*
+
+>Adam dort afin qu’Ève soit faite, le Christ meurt afin que l’Eglise soit faite. Ève a été faite du côté d’Adam endormi, le Christ mort, son côté est percuté par une lance, afin que les sacrements, par lesquels l’Eglise est formée, en coulent. A qui n’apparaît pas pourquoi dans ces faits d’alors sont figurés les choses futures, lorsque l’Apôtre dit que ce même Adam est la forme du futur ? (Saint Paul, Épître aux Romains 5, 14).
+
+*Sur l’Evangile de Saint Jean, Traité 15, 8*
+
+>Sous l’image de ces choses Adam qui était une forme du futur, nous présente un grand indice du sacrement, ou plutôt, c’est Dieu qui nous l’a présenté en lui. En effet, c’est en dormant qu’il a mérité de recevoir une épouse et c’est de son côté que lui fut faite une épouse. Puisque c’est du côté du Christ endormi sur la croix que serait sortie l’Eglise, c’est à dire du côté de celui qui est endormi. Puisque c’est du côté de celui qui était suspendu à une croix, percuté par une lance, que les sacrements de l’Eglise se sont écoulés. Mais pourquoi, frères, ai-je voulu vous dire cela? Puisque l’infirmité du Christ nous rend forts (Romains 5, 14).
+
+[[Retour à Genèse 2, 15-25](/pages/ancientestament.html#genese-2-15-25)]
+
+
+
+
+
+
 ## Confessions <a name="augustindhippone-confessions"></a>
 *Gallimard, 1993*
 
