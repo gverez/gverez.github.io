@@ -28,9 +28,11 @@ title: Foi
 
 ### 1.1 Sur l'origine de la création <a name="p1-1"></a>
 
+#### L'entête
+
 Le premier mot de la Bible en hébreu est : בְּרֵאשִׁית, **bereshit**. les lettres qui le composent ont été regroupées de beaucoup de façons différentes. Voici la lecture, la plus simple, la plus courante, dans la langue hébraïque: בְּ (be) signifie "dans", רֵאש (resh) vient du mot רֹאש (rosh), la "tête", et ית (it) est le suffixe qu’on utilise pour former un adjectif ou un adverbe, ici utilisé pour indiquer qu’on parle de quelque chose de relatif, donc à la tête. Pouvons-nous rentrer dans la tête de Dieu, percer son esprit, sa volonté ? Si ce n’est Lui qui nous le révèle cela est impossible à l’homme [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)].
 
-**Arkhế** apparait dans la traduction grecque de la Septante (à Alexandrie, vers 270 BCE) pour bereshit. Ce mot peut, selon le contexte, assumer différentes significations : commencement (dans le temps) ; début (du chemin) ; origine (de ce qui est engendré) ; fondement (de ce qui est construit) ; modèle (de ce qui est formé) ; principe (d'une action vers sa finalité) ; point de départ (de ce qui est appris) ; etc. Ce mot est particulièrement commenté par [Aristote](/references/aristote.html#arkhe), [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), [Origène](/references/origene.html#genese-1-1), [Basile de Césarée](/references/basiledecesaree.html#genese-1-1), [Grégoire de Nysse](/references/gregoiredenysse.html#genese-1-1) et [Augustin d'Hippone](/references/augustindhippone.html#genese-1-1). Il se retrouve à plusieurs endroits dans la Bible avec des significations différents :
+Bereshit est traduit par **arkhế** dans la traduction grecque de la Septante (à Alexandrie, vers 270 BCE). Ce mot peut, selon le contexte, assumer différentes significations : commencement (dans le temps) ; début (du chemin) ; origine (de ce qui est engendré) ; fondement (de ce qui est construit) ; modèle (de ce qui est formé) ; principe (d'une action vers sa finalité) ; point de départ (de ce qui est appris) ; etc. Ce mot est particulièrement commenté par [Aristote](/references/aristote.html#arkhe), [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), [Origène](/references/origene.html#genese-1-1), [Basile de Césarée](/references/basiledecesaree.html#genese-1-1), [Grégoire de Nysse](/references/gregoiredenysse.html#genese-1-1) et [Augustin d'Hippone](/references/augustindhippone.html#genese-1-1). Il se retrouve à plusieurs endroits dans la Bible avec des significations différents :
 
 Dans Proverbes 1, 7 comme fondation :
 >Arkhé de la sagesse est la crainte du Seigneur.
@@ -63,30 +65,17 @@ Dans Psaume 104, 27, par un certain lógos, la puissance de produire chacun des 
 
 Le mot latin **verbum** est utilisé pour traduire lógos. Ce mot qui signifie verbe, parole, comme déjà expliqué au sujet de lógos, doit être compris dans le contexte comme parole qui est expression de la sagesse, du savoir de Dieu, parole en qui se trouve la raison et le principe de tout ce qui est, car par lui tout est venu à l’être [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)].
 
-
-
-**Chronologie vs Ordre**
+#### Chronologie et ordre de la création
 
 Les deux premiers mots de la Genèse peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" [[Giovanni Polito](/references/itshaqabravanel.html#genese-1-1)]. En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis. Pour Abravenel, comme avant lui pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), les jours de la création rendent compte de l’ordre et non pas d’une succession de temps. A ce sujet, [Basile de Césarée](/references/basiledecesaree.html#genese-1-1) donne une définition d'arkhé, comme commencement de quelque chose, dans une notion d'ordre qui n’inclut pas nécessairement une antécédence temporelle, mais plutôt logique : "nous sommes en mouvement vers la vie bienheureuse premièrement par nos oeuvres justes". De cette manière, [Ambroise de Milan](/references/ambroisedemilan.html#genese-1-1) voit dans le premier verset l'annonce de la création achevée tandis que le détail de son commencement sera expliqué après dans la suite des jours.
 
-
-
-
-**Le temps et donc éternité de Dieu**
-
+#### Le temps dans la création et l'éternité de Dieu
 
 Pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), le temps n'existait pas avant le monde mais il est venu à être avec lui ou après lui, car le mouvement, dont le temps est l'intervalle, ne peut pas venir avant ce qui est mû. Ainsi, il décrit Dieu comme l'Etre séparé, éternel et immobile, qui préside à l'ordre du cosmos (kosmos en grec signifie ce qui est bien ordonné, bien disposé). Cette position, reprise par [Augustin d'Hippone](/references/augustindhippone.html#genese-1-1), est proche de la conception du monde d'Aristote [cf. Polito](/references/philondalexandrie.html#genese-1-1). [Origène](/references/origene.html#genese-1-1) qui distingue également la vision et l’ordre de la création qui se trouve dans le lógos divin, hors du temps et la venue à l’existence des choses dans le temps.
 
-
-
-
-
-
-**Sur la matière et le néant préalable**
+### la matière et le néant préalable
 
 [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1) décrit Dieu à la manière d'un architecte voulant édifier une ville, qui pense d'abord les modèles de celle-ci, la ville étant projetée dans son esprit, imprimée dans sa psykhế, n'ayant pas d'endroit à l'extérieur, puis réalise le monde sensible en utilisant comme modèle ce monde intelligibile, qui est soustrait aux sens. Le monde intelligible n'est autre que le logos de Dieu qui déjà crée le monde, lorsqu’il l’intellige. En d'autres termes, Dieu conçoit chaque chose et en la concevant la génère. [Grégoire de Nysse](/references/gregoiredenysse.html#genese-1-1) suggère la même chose en utilisant "En kephalaioi", une création quasiment "dans la tête de Dieu", lorsqu'il prévoit, conçoit le monde dans sa vision hors du temps. La distinction entre la création telle qu’elle est d’abord conçue par Dieu et l’apparition matérielle de la chose créé dans l’espace et dans le temps, ne présuppose pas un intervalle de temps entre les deux, entre le moment où Dieu conçoit dans sa sagesse la raison d'être des choses et le moment où la création reçoit une existence, dans la matière, le temps et l’espace. Tout se passe de façon simultanée, la distinction est d’ordre causale [cf. Polito](/references/gregoiredenysse.html#genese-1-1). 
-
-
 
 Selon Rabbi Moses ben Nahman (Nahmanide) [[cf. Abravanel](/references/itshaqabravanel.html#genese-1-1)], à partir du néant, Dieu a créé deux matières en puissance et sans forme et à partir de l'une d'elle il a fait le ciel et à partir de l'autre la terre. Les philosophes de l’antiquité parlaient d’une matière (hylé) préexistante et éternelle qui aurait été modelée par Dieu [[cf. Polito](/references/itshaqabravanel.html#genese-1-1)]. Aristote notamment parle de cette matière en puissance qui ne peut qu'inconnaissable jusqu'à ce qu'elle devienne en acte, soit effectivement en puissance. Toujours selon Aristote : "ce qui est en puissance ne peut se distinguer ni se reconnaître de ce qui est en puissance". Ceci fait dire à Abravanel que la conception de Rabbi Moses ben Nahman n'est pas possible car il ne pouvait y avoir deux matières en puissance distinctes.
 
@@ -98,13 +87,7 @@ Selon Ibn Rushd (Averroès) [[cf. Abravanel](/references/itshaqabravanel.html#ge
 >C’est justement dans un unique instant, dans la décision de la volonté divine, le tout étant encore indistinct, tous les éléments étant mélangés entre eux, que le feu disséminé partout était dans l’obscurité, occulté par la matière qui remplissait tout. Puisque sa puissance [du feu] a une certaine rapidité et facilité de mouvement, il lui est confié par Dieu de donner simultanément à la nature des étants l’impulsion initiale pour la genèse du cosmos, il a précédé tout ce qui a une nature plus lourde et a immédiatement illuminé toute chose autour par [sa] lumière. Ce qui a été généré [est venu à l’être] selon le lógos du savoir, par la puissance de celui qui a fait, en tant que logós donnant un ordre,  a été rappelée par Moïse. [...] La puissance lumineuse fut à la première place et se distingua des étants en vitesse et facilité de mouvement, se séparant elle même des autres natures, elle embrassa et illumina tout de sa puissance resplendissante
 
 
-
-
-
-
 ### 1.2 Un Esprit maternel <a name="p1-2"></a>
-
-
 
 Dieu est au-delà de nos distinctions de genre et cependant, la multiplicité de nos mots et de nos réalités nous permet de nous approcher un peu plus de lui. Si nous considérons que Dieu est Père, c’est que nous voulons affirmer qu’il a eu l’initiative de l’acte créateur ; mais si nous parlons de son Esprit, de la façon qu’il a de nous aimer, nous sommes obligés de prendre l’image de l’amour maternel, un amour qui ne peut se séparer du fruit de ses entrailles. Il s’agit d’un attachement et d’une communion profonde entre la mère et l’enfant qu’elle porte [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]. A côté de l’autorité paternelle, la Bible introduit tout de suite en Dieu son affection maternelle à travers le mot Esprit et le verbe planer dans [Genèse 1, 2](/pages/ancientestament.html#genese-2-1):
 
