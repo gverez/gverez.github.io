@@ -69,8 +69,8 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/philondalexandrie.png">](/references/philondalexandrie.md)
 [<img src="/images/origene.png">](/references/origene.md)
 [<img src="/images/basiledecesaree.png">](/references/basiledecesaree.md)
-[<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.md)
 [<img src="/images/macairedescete.png">](/references/macairedescete.md)
+[<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.md)
 [<img src="/images/ambroisedemilan.png">](/references/ambroisedemilan.md)
 [<img src="/images/jeanchrysostome.png">](/references/jeanchrysostome.md)
 [<img src="/images/augustindhippone.png">](/references/augustindhippone.md)
@@ -101,6 +101,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/danielmaurin.png">](/references/danielmaurin.md)
 [<img src="/images/alaindelibera.png">](/references/alaindelibera.md)
 [<img src="/images/jeanyvesleloup.png">](/references/jeanyvesleloup.md)
+[<img src="/images/peterharvey.png">](/references/peterharvey.md)
 [<img src="/images/giovannipolito.png">](/references/giovannipolito.md)
 
 
