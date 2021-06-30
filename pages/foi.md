@@ -11,8 +11,6 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 
 ## Au commencement
 
-### Bereshit
-
 
 [[Aristote](/references/aristote.html#arkhe)]
 
@@ -31,6 +29,39 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1)
 
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
+
+
+
+### Sur l'origine de la création
+
+[Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31),:
+>Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: “Que soit une lumière” et lumière fut.
+
+**Bereshit**
+Commentaire sur le premier mot, Bereshit : Abravanel
+
+
+
+
+
+**Chronologie vs Ordre**
+Les deux premiers mots peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" (Polito sur Abravanel). En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi Itshaq Abravanel n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis.
+
+Compréhension des trois premiers verset plutôt comme une chronologie : Rabbi Chlomo ben Itzhak HaTzarfati, Rabbi Abraham Ibn Ezrah, Rabbi Levi ben Geshon (citation par Abravanel)
+Pas une chronologie mais une relation d'ordre : Abravanel
+
+
+**Sur la matière**
+Selon Rabbi Moses ben Nahman (Nahmanide) (citation par Abravanel), à partir du néant, Dieu a créé deux matières en puissance et sans forme et à partir de l'une d'elle il a fait le ciel et à partir de l'autre la terre. Les philosophes de l’antiquité parlaient d’une matière (hylé) préexistante et éternelle qui aurait été modelée par Dieu (commentaires de Polito sur Abravanel). Aristote notamment parle de cette matière en puissance qui ne peut qu'inconnaissable jusqu'à ce qu'elle devienne en acte, soit effectivement en puissance. Toujours selon Aristote : "ce qui est en puissance ne peut se distinguer ni se reconnaître de ce qui est en puissance". Ceci fait dire à Abravanel que la conception de Rabbi Moses ben Nahman n'est pas possible car il ne pouvait y avoir deux matières en puissance distinctes.
+
+Selon Ibn Rushd (Averroès) (citation par Abravanel), les formes matérielles étaient contenues dans des matières en puissance. De plus, il affirmait l'acte créateur tout en soutenant l'opinion d'Aristote à propros de l'éternité du monde car même si le monde (et donc la matière) existe éternelle, cela n'enlève rien à l’acte créateur qui la créé et la maintient dans la création depuis toute éternité (commentaires de Polito sur Abravanel). Abravanel argumente contre cette hypothèse en soutenant que la matière peut procéder de la matière et en dériver, mais non pas l’esprit, l’âme, qui provident d'un substrat différent. L'esprit, comme l'intellect, ne peut pas provenir d’une matière, mais doit son existence à un acte créateur, car elle répond à d’autres lois. Tout ceci fait dire à Abravanel que le monde n'est pas venu à l'existence à partir de quelque chose, mais après le néant total, et qu'il ne peut soutenir une "hylé" avant la première création.
+
+
+
+
+
+
+
 
 Relire brièvement ces auteurs au-dessus et dire de quoi ils parlent, pour mieux savoir quand aller puiser dedans. Notamment certains parlent presque exclusivement de Arkhé
 
