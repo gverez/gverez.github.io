@@ -35,7 +35,7 @@ Dans Proverbes 1, 7 comme fondation :
 >Arkhé de la sagesse est la crainte du Seigneur.
 
 Dans Proverbes 8, 22 comme genèse :
->Dieu m’a engendrée en tant que arkhé (comme genèse) de ses chemins pour ses œuvres.
+>Dieu m’a engendrée en tant que arkhé de ses chemins pour ses œuvres.
 
 Dans Proverbes 16, 7 comme premier mouvement :
 >Faire ce qui est juste est arkhé du bon chemin.
