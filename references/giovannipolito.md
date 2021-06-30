@@ -81,12 +81,12 @@ title: Giovanni Polito
 
 
 
-## Commentaire sur Genèse 1, 3-30 <a name="genese-1-3-30"></a>
+## Commentaire sur Genèse 1, 3-31 <a name="genese-1-3-31"></a>
 >**Faisons** : Le sujet de ce verbe est au pluriel dans l’original. Cela a donné lieu à beaucoup de commentaires, tant juifs que chrétiens. En effet, même si le mot pour Dieu (elohim) est grammaticalement un pluriel en hébreu, il s’accorde avec un verbe au singulier dans le reste du chapitre, comme lorsqu’il est dit: “elohim créa”. L’interprétation chrétienne a toujours vu une annonce de la Trinité dans ce pluriel et aussi dans l’évocation de la Parole créatrice de Dieu et de l’Esprit qui vivifie et plane sur les eaux. Au verbe “faisons” au pluriel s’ajoute aussi l’adjectif possessif “notre” dans “notre image et ressemblance”. Voici le commentaire de Augustin sur image et ressemblance.
 >
 >**Homme (adam)** : est ici au singulier comme c’est le cas pour oiseau ou autres animaux dans les versets précédents. Il s’agit probablement d’un usage du singulier collectif pour indiquer l’ensemble des hommes. En effet, le verbe est ici accordé au pluriel: qu’ils dominent (יִרְדּוּ yrdū).
 
-<sub>[Retour à l'A.T.](/pages/ancientestament.html#genese-1-3-30) — [Retour au début de page](#genese-1-1)</sub>
+<sub>[Retour à l'A.T.](/pages/ancientestament.html#genese-1-3-31) — [Retour au début de page](#genese-1-1)</sub>
 
 
 ## Commentaire sur Genèse 3, 1-24 <a name="genese-3-1-24"></a>

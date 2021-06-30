@@ -54,7 +54,7 @@ title: Ancien Testament
 ### Genèse 2, 4-10 <a name="genese-2-4-10"></a>
 >Ceux-ci sont les engendrements des cieux et de la terre dans leur être créés le jour où le Seigneur Dieu fit la terre et les cieux. Et il n’y avait encore aucune plante des champs sur la terre et aucune herbe des champs n’avait poussé puisque le Seigneur Dieu n’avait pas encore fait pleuvoir sur la terre et il n’y avait pas d’homme pour travailler le sol. Et une source montait de la terre et irriguait toute la surface du sol. Alors le Seigneur Dieu modela l’homme poussière du sol; il insuffla dans ses narines un souffle de vie, et l’homme devint une âme vivante. Le Seigneur Dieu planta un jardin-Éden (jardin-plaisir), depuis l’orient, et plaça la-bas l’homme qu’il avait modelé. Le Seigneur Dieu fit pousser du sol tout arbre loué pour son aspect et bon à manger et l’arbre de la vie au milieu du jardin et l’arbre de la connaissance du bien et du mal. Un fleuve sortait d’Éden pour irriguer le jardin et de la-bas il se divisait et devenait quatre têtes… (Trad. : Polito de l'hébreu)
 
-[[Ambroise de Milan](/references/ambroisedemilan.html#genese-2-4-10)]
+[[Ambroise de Milan](/references/ambroisedemilan.html#genese)]
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
@@ -67,7 +67,7 @@ title: Ancien Testament
 
 <sub><b id="f2-genese-2-15-25">2</b>[Polito ↵](#a2-genese-2-15-25) Le mot neged en hébreu signifie en face, devant, en vis-à-vis et aussi contre. Donc, Adam ne trouve aucune aide qui puisse se tenir devant lui, être son vis-à-vis, mais cette présence à laquelle il peut se confronter peut aussi être contraire à lui.</sub>
 
-[[Ambroise de Milan](/references/ambroisedemilan.html#genese-2-15-25)] - [[Augustin d'Hippone](/references/augustindhippone.html#genese-2-15-25)]
+[[Ambroise de Milan](/references/ambroisedemilan.html#genese)] - [[Augustin d'Hippone](/references/augustindhippone.html#genese-2-15-25)]
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
