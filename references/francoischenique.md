@@ -32,7 +32,7 @@ title: François Chenique
 >De là découlent les prérogatives de la métaphysique :
 >
 >1. C’est une science spéculative, c’est-à-dire une science où le savoir est recherché pour lui-même et non en vue d’une action pratique. Une telle science mérite le nom de sagesse ou philosophie.
->>2. La métaphysique est une science libre car toutes les autres sciences lui sont ordonnées comme à leur fin. Elle seule, ayant pour objet les causes les plus élevées, n’est pas subordonnée aux autres sciences.
+>2. La métaphysique est une science libre car toutes les autres sciences lui sont ordonnées comme à leur fin. Elle seule, ayant pour objet les causes les plus élevées, n’est pas subordonnée aux autres sciences.
 >3. La métaphysique n’est pas une science humaine. […]
 >4. La métaphysique est la plus noble de toutes les sciences. En effet elle est « divine » au plus haut degré, et ceci pour deux raisons : d’une part parce qu’elle a Dieu pour objet et d’autre part parce qu’elle est la science que Dieu possède ; Dieu la possède au plus haut degré (maxime), et les hommes la partagent à leur mesure comme quelque chose d’emprunté à Dieu.
 >
@@ -41,395 +41,198 @@ title: François Chenique
 >2. La sagesse théologique qui est fondée sur la Révélation mais dont le mode d’exercice est essentiellement rationnel.
 >3. La métaphysique, sagesse purement humaine, qui n’a d’autre lumière que la raison naturelle ; elle prétend aussi atteindre Dieu, principe suprême des choses, mais à titre de « cause » et non plus à titre « d’objet » directement appréhendé.
 >
->Notons au passage la contradiction entre cette dernière affirmation et celle commune à Saint Thomas et à Aristote, selon laquelle « la métaphysique n’est pas une science humaine ».
-
-[…]
-
-	Nous pensons que le Père Gardeil veut dire par là que la sagesse ne doit pas seulement être le fruit du raisonnement humain, mais s’appuyer sur la Révélation.
-
-[…]
-
-	C’est cette « sagesse intégrale » que nous appelons métaphysique. Il ne peut y avoir séparation totale entre l’étude théorique et la réalisation spirituelle ; si un stade préliminaire d’étude et de spéculation est nécessaire, il ne peut être question de limiter la métaphysique à ce stade, sous peine de la frapper de stérilité.
-
-	C’est d’ailleurs, à notre sens, le « rabaissement » de la métaphysique à une science purement humaine et rationnelle d’une part, et la « limitation » de son objet à la « cause première » d’autre part, qui ont provoqué la décadence de la métaphysique dans la philosophie occidentale.
-
-[…]
-
-	La philosophie est un mode de pensée strictement rationnel : n’utilisant que la raison, organe individuel de la pensée, elle se limite forcément à l’individu et ne peut atteindre la véritable connaissance qui est d’ordre supra-individuel et universel.
-
-	La raison laissée à elle-même ne veut que tourner indéfiniment dans des pétitions de principe et s’épuiser à bâtir des « systèmes » de plus en plus limités et incohérents, jusqu’à se renier elle-même. Certes les conséquences du « point de vue philosophique » dans la recherche de la vérité ne sont apparues que peu à peu. Le germe de la décadence existait déjà dans le système issu d’Aristote, ce qui justifiait le rejet total du point de vue philosophique par saint Paul.
-
-	C’est surtout à partir de Descartes que la philosophie, une fois rejetée la lumière de la Révélation, est en quelque sorte livrée à elle-même et apparaît sous son vrai jour. Le rationalisme ne connaît que la raison et il estime qu’une bonne « méthode » est la condition suffisante pour atteindre la vérité. Que le rationalisme admette encore la Révélation, comme Descartes, ou qu’il la rejette, son attitude pratique reste la même ; la raison le porte vers l’étude de ce qui est concret, de ce qui tombe sous les sens, en un mot vers l’étude de la « physique » proprement dite. Le rationaliste ne sait plus ce qu’est la métaphysique, ou bien il la déclare inutile, ce qui revient au même. Parfois il bâtit un système qu’il appelle « métaphysique », mais qui n’a plus rien de commun avec ce que nous avons décrit plus haut.
-
-	L’empirisme succède au rationalisme. Las de voir la raison ne rien trouver de définitif dans l’ordre des principes, l’homme ne se fit qu’à l’expérience et il apprend d’elle que beaucoup de choses relatives. De là à se proclamer « relativiste » ou « agnostique » il n’y a qu’un pas. Si l’Absolu existe, il est inconnaissable ; la raison n’atteint que le relatif à travers les sens. C’est en quelque sorte la négation de la raison elle-même.
-
-	Pour Kant, la métaphysique est l’ensemble des connaissances qui se tirent de la Raison seule, c’est-à-dire de la faculté de connaître a priori par concepts, sans faire appel aux données de l’expérience, ni aux intuitions de temps et d’espace. La Raison pratique nous garantit la réalité du « noumène » (au-delà du phénomène) mais sans nous en donner l’intuition. Il ne reste pas d’autre voie possible, dit Kant, que d’attribuer au « phénomène » seul l’existence d’une chose, en tant qu’elle est déterminée dans le temps (et par conséquent aussi la causalité suivant les lois de la nécessité naturelle) et d’attribuer la liberté à ce même être en tant que chose en soi.
-
-	Nous sommes loin de la métaphysique de saint Thomas, mais nous recevons là l’aveu le plus sincère et le plus clair de l’impossibilité pour la raison humaine livrée à ses seules forces d’élaborer une métaphysique.
-
-[…]
-
-	Bien qu’au départ de toute recherche métaphysique il y ait une action du mental et un effort de la raison en tant qu’instrument de connaissance analytique, la véritable connaissance exige de dépasser les modes de la raison. C’est pourquoi la foi, véritable connaissance intuitive bien qu’obscure, est une préparation à la Sagesse infiniment supérieure à tous les systèmes rationnels de connaissance.
-
-[…]
-
-	Pour qu’un individu humain puisse sortir des limites de son individualité empirique, il faut qu’il y ait en lui quelque chose de « non humain » ou de « supra-humain », ou du moins qu’il ait en lui la possibilité de recevoir quelque chose de supra-humain comme le don de la Sagesse qui est le premier des dons du Saint-Esprit. Pour les scolastiques l’organe de la connaissance métaphysique, c’est l’intellect.
-
-	Saint Augustin distinguait la « raison supérieure » tournée vers les réalités éternelles et la « raison inférieure » tournée vers les choses temporelles, mais il ajoutait que ces deux raisons ne se distinguaient en fait que par leurs fonctions. En effet, les choses temporelles sont pour nous le « moyen » de connaître les réalités éternelles ; l’une et l’autre raison ne sont donc qu’une seule et même « puissance » ; c’est la même faculté qui est concernée par les « moyens » et par les « fins ».
-
-[…]
-
-	L’existence d’un intellect agent dans chaque homme n’exclut pas mais exige l’existence d’un Intellect supérieur séparé auquel l’intellect agent soit relié par une certaine participation. L’âme humaine, en effet, « n’est pas tout entière intellective, mais en partie seulement. Elle atteint l’intelligence de la vérité à l’aide du discours et par le mouvement de l’argumentation. Elle a même une intelligence imparfaite, puisque d’une part elle ne comprend pas tout, et que d’autre part, dans ce qu’elle comprend, elle procède par le passage de la puissance à l’acte. Il faut donc qu’il existe un intellect supérieur qui aide l’âme à comprendre ». Saint Thomas d’Aquin. Cet intellect parfait est l’Intellect divin.
-
-	L’intelligence humaine accède aux idées de la façon suivante : le réel est considéré comme de l’idée reçue dans la matière. L’intellect dégage cette idée par un processus qui « désindividualise » en quelque sorte l’idée hors de la matière, et qui est appelé « abstraction » ou « extraction ».
-
-[…]
-
-	Le débat entre les « thomistes » et les partisans d’autres formes de la « métalangue philosophique » dure depuis plusieurs siècles. Il ne faut cependant pas durcir les oppositions ni, par vanité d’école, rendre inconciliables des positions qui sont plutôt des « points de vue » sur une même et unique vérité :
-
-	« Connaissons-nous les vérité dans la lumière de notre intellect propre, ou la connaissons-nous dans une lumière divine ajoutée à celle de l’intellect ? Le moyen âge a connu d’interminables controverses sur ce point et, bien entendu, Thomas d’Aquin a pris position sur la question. Il estime que l’homme connaît la vérité, même le vérités éternelles, dans la lumière de son propre intellect agent, mais quand on lui objecte que saint Augustin exige une intervention de la lumière divine, Thomas répond qu’il n’y a pas grande différence entre dire que nous connaissons le vrai dans la lumière divine, ou dire que nous le connaissons dans celle de notre propre intellect qui est en nous la marque laissée par Dieu sur sa créature. En dernière analyse, c’est toujours dans la lumière divine que l’homme connaît la vérité. La différence philosophique qui sépare les deux thèses perd beaucoup de son importance lorsqu’elle est vue du haut de la sagesse théologique ». Gilson, Les tribulations de Sophie.
-
-[…]
-
-	L’intelligence siège dans le coeur, c’est pourquoi on l’appelle « l’oeil du coeur » ; la raison en est le reflet passif qui siège dans le cerveau. C’est pourquoi, après la saisie rationnelle des données, doit avoir lieu l’assimilation par l’intelligence pour qu’éclate le « fulgur veritatis ». C’est sur cette base théorique que pourra débuter ensuite le travail personnel qui conduit à ce que nous avons appelé la « réalisation métaphysique ». Mais l’évidence est le point de départ : on peut l’éveiller en autrui, mais non la donner à celui qui ne la possède pas. Dans une terminologie empruntée à la logique moderne nous dirions volontiers que la métaphysique est une métalangue commune aux diverses traditions spirituelles de l’humanité. Il s’agit toujours de commenter des textes sacrés ou révélés à l’aide de concepts propres à en fait percevoir la richesse spirituelle.
-
-
-
-Essence et substance
-p. 58
-
-	Le panthéisme est proprement la doctrine qui admet une « continuité substantielle » entre le Principe (ici Dieu puisqu’il s’agit de théisme) et sa manifestation (ici le monde créé). Le panthéisme suppose donc une conception substantielle de la divinité : Dieu n’est pas différent du monde, et le monde n’est pas différent de Dieu. Or la métaphysique ne peut admettre qu’une conception « essentielle » de la divinité, ici l’Etre pur. Et quand l’Etre manifeste les possibilités contenues en lui il n’est nullement affecté par cette manifestation. Dieu, manifeste le monde, mais Dieu n’est pas le monde ; il n’est même pas dans le monde, car l’Infini ne peut être contenu dans le fini. Néanmoins le monde tire toute sa réalité de Dieu, car s’il avait une réalité propre, il limiterait l’Infini. C’est pourquoi, sous le rapport de l’essence, le monde est « essentiellement » Dieu, car il manifeste les « qualités » contenues dans l’Essence divine ; mais sous le rapport de l’existence, il se trouve séparé de Dieu. Il y a donc discontinuité entre Dieu et le monde, non pas discontinuité absolue, ce qui est impensable puisque le monde tire sa réalité de Dieu, mais discontinuité relative en ce sens qu’il y a à la fois continuité dans la discontinuité et discontinuité dans la continuité.
-
-[…]
-
-	Rappelons enfin les versets 4 et 5 du chapitre IX de la Bhagavad Gitâ :
-
-4. Cet univers a été déployé par ma forme non manifestée ; Tous les êtres sont en Moi, mais je ne suis pas en eux.
-
-5. Et pourtant les êtres ne demeurent pas en Moi, vois mon divin yoga ; mon Soi est la source et le soutien des êtres, mais il ne réside pas en eux.
-
-	Le début du second verset est antinomique par rapport au premier ; la manifestation est dans le Principe, mais le Principe n’est pas contenu dans sa manifestation et limitée par elle ; cependant la manifestation n’est pas dans le Principe comme une partie d’un tout.
-
-[…]
-
-	Le verbe « créer » signifie simplement « faire » et la théologique enseigne que Dieu a crée la monde « ex nihilo ». Elle a voulu éviter par là la conception d’un Dieu « démiurge » qui « organiserait » le monde à partir d’une « matière » préexistante et en quelque sorte éternelle. La conception « démiurgique » était propre à la mentalité grecque, et l’importance que l’Occident a toujours attaché à la matière montre que le danger n’était pas illusoire.
-
-	Pourtant, il ne faudrait pas donner à l’expression « ex nihilo » la même signification démiurgique que celle qu’elle veut éviter. Il ne faut pas en effet considérer le « rien » (nihil) comme un « quelque chose » éternel dont Dieu tirerait le monde. Le néant n’existe pas lui-même ; il n’est même pas une « possibilité d’être » dont Dieu pourrait tirer quelque chose. Puisque rien n’existe en dehors du Principe qui est infini par définition, Dieu ne peut pas tirer le monde d’ailleurs que de lui-même ; mais ce faisant, il n’est nullement affecté, diminué ou modifié comme nous l’avons déjà expliqué. Dieu étend le monde selon les multiples possibilités contenues en lui, mais le monde ne se soutient pas devant lui. Pour désigner cela, le mot « manifestation » semble préférable au mot « création ». Néanmoins il faut se garder de confondre la notion de « manifestation » avec les théories « émanationnistes » qui relèvent, elles, du panthéisme. Le danger est évité lorsqu’on maintient une conception « essentielle » de la divinité et la transcendance du Principe à l’égard de sa manifestation.
-
-[…]
-
-	Pourquoi le monde alors existe-t-il ? Métaphysiquement, la réponse est simple : l’Infini, pour être véritablement « infini » doit comporter en quelque sorte la négation ou la limitation de soi-même. La manifestation est donc à la fois affirmation et négation du Principe suprême, mais il s’agit là d’un mystère qui dépasse l’Etre conçu comme cause.
-
-[…]
-
-	Après ces quelques explications sur la façon de considérer l’Etre en lui-même et dans ses relations avec sa manifestation, il faut maintenant expliquer comme l’Etre manifeste les possibilités contenues en lui.
-
-	La manifestation universelle procède d’un double Principe, autrement dit d’une « polarisation » qui s’effectue au sein de l’Etre. L’un des principes est considéré comme actif ou masculin et il est appelé « Essence universelle », l’autre est considéré comme passif ou féminin et il est appelé « Substance universelle ». Toute manifestation procède donc de ce double Principe masculin et féminin.
-
-[…]
-
-	La polarisation Essence-Substance est la première des dualités, et toutes les autres dualités en dérivent. Cette dualité n’est pas du « dualisme », car elle n’affecte en rien l’Unité de l’Etre, et elle n’est nullement irréductible (comme l’est le dualisme), puisque précisément elle se résout dans l’unité de l’Etre.
-
-[…]
-
-	Le Principe masculin est actif, mais il ne produit pas. Le Principe féminin est passif et il produit sous l’influence du Principe masculin. Ce dernier, bien qu’actif, agit par son « non-agir » et rend fécond le Principe féminin auquel doit être rapporté tout ce qui est production, changement et multiplicité dans la manifestation universelle. Ces deux principes masculin et féminin sont Purusha et Prakritti de la tradition hindoue, Yang et Yinn de la tradition chinoise.
-
-	« Sache que Prakriti (la Nature ou Substance universelle) et Purusha (l’Essence universelle) sont l’une et l’autre sans origine ; sache aussi que les formes (vikâra) et les modes (guna) sont nés de Prakriti ». Gitâ XIII.
-
-	Nous reproduisons ci-dessous le début du Tao-Te-King, Traité du Principe et de son Action, ou encore Traité de la Voie et de la Vertu, attribué à Lao-Tseu. La traduction et le résumé des commentaires sont du R.P. Léon Wieger : les Pères du Système taoïste.
-
-Texte :
-
-I-A – Le principe qui peut être énoncé, n’est pas celui qui fut toujours. L’être qui peut être nommé, n’est pas celui qui fut de tout temps. Avant les temps, fut un être ineffable, innommable.
-
-I-B – Alors qu’il était encore innommable, il conçut le ciel et la terre. Après qu’il fut ainsi devenu nommable, il donna naissance à tous les êtres.
-
-Début du commentaire :
-
-	Avant les temps, et de tout temps, fut un être existant de lui-même, éternel, infini, complet, omniprésent. Impossible de le nommer, d’en parler, parce que les termes humains ne s’appliquent qu’aux êtres sensibles. Or l’être primordial fut primitivement, et est encore essentiellement non sensible. En dehors de cet être, avant l’origine, il n’y eut rien. On appelle sien-t’ien, avant le ciel, l’époque où il n’y avait encore aucun être sensible, où l’essence du principe existait seule. Cette essence possédait deux propriétés immanentes, le yinn concentration et le yang expansion, lesquelles furent extériorisées un jour, sous les formes sensibles ciel (yang) et terre (yinn). Ce jour fut le commencement du temps. De ce jour le principe put être nommé par le terme double ciel-terre. Le binôme ciel-terre émit tous les êtres sensibles existant. On appelle you être sensible, ce binôme ciel-terre produisant par tei la vertu du principe, et tous ses produits qui remplissent le monde. On appelle heou-t’ien après le ciel, les temps postérieurs à l’extériorisation du ciel-terre. L’état yinn de concentration et de repos, d’imperceptibilité, qui fut celui du principe avant le temps, est son état propre. L’état yang d’expansion et d’action, de manifestation dans les êtres sensibles, est son état dans le temps, en quelque sorte d’impropre.
-
-[…]
-
-	La Substance universelle est en somme la « racine », la « mère » de la manifestation universelle. Prakriti est parfois désignée par « Mûla-Prakriti » car « mûla » signifie « racine » de tous les êtres. On notera d’autre part l’étymologie commune des mots « mater », « materia », « matrice », Prakriti étant également appelée « matrice de tous les êtres ». Comme la mère dans la génération humaine, elle est rendue féconde par le Principe masculin ou Essence universelle, lequel doit être considéré comme la cause réelle de tout ce qui est produit.
-
-[…]
-
-	La première production de l’Essence et de la Substance est l’Intellect universel qui fait partie de la manifestation informelle et qui est le reflet direct de l’Intellect divin. R. Guenon, L’homme et son devenir selon le Vêdânta. Buddhi, l’Intellect universel, est la première des productions de Prakriti. Buddhi est le principe immédiat, mais transcendant, de l’individualité humaine (ou des autres états individuels) ; elle est l’expression de la personnalité dans la manifestation et elle unifie l’être à travers la multiplicité de ses états individuels.
-
-	La manifestation informelle est celle qui n’est pas soumise à la forme. C’est le cas des anges de la tradition judéo-chrétienne, que la tradition de l’Église, orthodoxe appelle d’ailleurs « les incorporels ». Dans la terminologie du Vedânta, les être du domaine corporel et du domaine subtil (le corporel étant un mode « condensé » du subtil) sont soumis au « Nom et à la Forme » (nâma-rûpa), alors que les êtres spirituels sont seulement caractérisés par le « Nom » qui correspond à leur essence. Dans la terminologie de saint Thomas, les êtres spirituels sont des « formes sans matière » ou « formes pures » ; pour saint Bonaventure, par contre, il existe une « matière spirituelle » chez les anges qui sont ainsi composés de matière et de forme et multipliables au sein d’une même espèce.
-
-[…]
-
-	A partir de la conception biblique du Dieu Créateur et du concept de « cause », la théologie chrétienne enseigne que l’âme est créée. Notons déjà que le « moment » de cette création et la « préexistence » éventuelle de l’âme à son « incarnation » ont soulevé au cours des siècles de nombreux problèmes. Cette âme créée est « immortelle », ce qui peut se traduire approximativement par la proposition suivante : l’âme « commence » avec le corps, mais elle ne « meurt » jamais.
-
-	Si l’on conçoit l’éternité, ou même seulement l’immortalité comme une « indéfinité temporelle », on arrive à des problèmes du type « que faisait Dieu avant la Création ? ». Si l’on conçoit l’éternité comme la parfaite simultanéité du non-temps que signifie alors un problème comme : « quand est le commencement de l’âme ? ».
-
-	Maître Eckhart aborde le problème de la façon la plus « métaphysique » et la plus « védântique » possible :
-
-	« D’après mon mode de naissance éternelle, j’ai été éternellement, je suis maintenant et je demeurerai éternellement. Ce que je suis comme créature temporelle mourra et s’anéantir, car cela est dévolu au temps et doit pourrir avec le temps. Mais dans ma naissance éternelle naquirent toutes choses ; ici je fus cause de toutes choses et de moi-même. Si je l’avais voulu alors, le monde et moi-même ne serions pas ; et si je n’étais pas, Dieu ne serait pas non plus ; que Dieu soit Dieu j’en suis une cause. Si je n’étais pas, Dieu ne serait pas non plus ».
-
-	Ce passage, nullement condamné par la Bulle de Jean XXII, montre que pour comprendre le mystère de l’âme, il faut aller « au-delà » de la cause et du Dieu créateur conçu comme Dieu-cause.
-
-[…]
-
-	Mais même sur le simple plan théologique, il est impossible de soutenir que nous avons été « autrefois » dans le « néant ». Nous sommes, comme toutes choses d’ailleurs, éternellement dans la « pensée divine » (le Verbe conçu comme Intellect divin). En d’autres termes, l’effet est toujours contenu « éminemment » dans la cause.
-
-	Donc, même si l’on adopte une perspective « théiste » ou « théologique », il faut maintenant que l’âme créée n’est pas un « petit absolu » posé en face du Créateur et qui lui échapperait en quelque sorte après sa création. Il reste toujours, surtout dans cette perspective, la relation de cause à effet. Dans le domaine spirituel on parle de « grâces », de « dons » qui sont des liens véritables, et les mystiques parlent de la « fine pointe de l’âme » comme le « lieu » où Dieu opère.
-
-	Si l’on adopte une perspective métaphysique et si l’on soutient que l’effet n’est pas essentiellement différent de la cause, il reste à rendre compte de la « discontinuité » au sein de la « continuité », à expliquer l’âme individuelle et à ne pas confondre l’identité métaphysique ou « essentielle » avec l’identité cosmologique ou « substantielle » qui n’est autre que le panthéisme. Cette confusion est très fréquente de la part des occidentaux, alors que la métaphysique des Upanishads ne peut à coup sur être confondue avec les rêveries panthéistes de certains auteurs modernes.
-
-
-
-
-
-
-
-Mater Dei
-p. 80
-
-	Nous appellerons « Non-Etre », d’un mot emprunté à la Tradition chinoise, ce qui est non manifesté, mais il faut bien comprendre que le Non-Etre, loin d’être le néant, est au contraire la plénitude suprême puisque la détermination relative de l’Etre se trouve à son tour niée pour affirmer l’Absolu.
-
-[…]
-
-	Lorsque la philosophie occidentale parle de Dieu, elle l’envisage à peu près toujours comme l’Etre. Pourtant le Principe Suprême, que nous pouvons appeler l’Infini puisqu’il contient tout en lui-même sans limitation aucune, est au-delà de l’Etre, puisqu’il est à la fois Etre et Non-Etre si l’on peut dire.
-
-[…]
-
-	Pour aller plus loin dans l’explication, il faut recourir maintenant à la terminologie hindoue. Quand nous utilisons ainsi des terminologies étrangères à la Tradition chrétienne, il faut bien comprendre qu’il s’agit là de principes métaphysiques et non de dieux ou de déesses du panthéon hindou.
-
-	Appelons « Infini » le Principe suprême. Il contient tout en lui, et ne peut être limité par rien, sous peine de ne plus être l’Infini ; tout doit donc être considéré comme possible pour l’Infini, sois comme possibilité de manifestation, soit comme possibilité de non-manifestation. Appelons « Toute-possibilité » cette fécondité infinie de l’Infini. Nous avons ainsi défini un couple masculin-féminin : l’Infini et sa Toute-Possibilité. Encore une fois, cette distinction, c’est nous qui la faisons ; elle correspond à quelque chose de réel sous peine d’être fausse et inexistante, mais elle ne correspond pas à une « séparation », encore moins à une dualité, puisque nous sommes au-delà de l’Unité.
-
-	L’Infini est Brahma et sa Toute-Possibilité est Mâyâ, la Shakti (ou aspect féminin) de Brahma. Nous concevons donc dans le Principe suprême un aspect féminin et un aspect masculin, un aspect maternel et un aspect paternel. Cet aspect maternel est proprement la Mère de Dieu. L’aspect féminin du Principe suprême (ou la Perfection passive) est évidemment la raison dernière de la Substance universelle dont nous avons parlé plus haut.
-
-	Mais avant d’être cela, cette Perfection passive est la raison d’être de la Personne divine, c’est pourquoi elle est véritablement la Mère de Dieu. L’Impersonnalité divine, féconde dans sa non-dualité, « engendre » la Personnalité divine, ou Etre divin qui se polarise en Essence et Substance, cette dernière étant la Mère universelle de toute la manifestation. Mais si la Mère de Dieu, aspect féminin de la Déité, engendre la Divinité, et si la Substance universelle « produit » la manifestation universelle, un processus analogue préside à la manifestation du Principe Créateur (envisagé alors comme Verbe divin) au sein de la manifestation universelle.
-
-
-
-La manifestation temporelle
-p. 92
-
-	Un symbole est par définition une « chose » chargée de « signifier » et de « représenter » autre chose. Le symbolisme est le langage constitué par les symboles.
-
-	Un symbole peut être verbal, graphique, plastique, etc. peu importe pouvoir qu’il ait « par nature » la vertu de représenter et de signifier quelque chose de plus haut que lui.
-
-	Il faut d’abord éliminer du symbolisme métaphysique tel que nous l’entendons tout ce qui a reçu le nom de symbolisme dans l’art et dans la littérature profanes. Ce symbolisme conventionnel et superficiel est une invention humaine alors que le symbolisme métaphysique tient, comme nous l’avons souligné, à la nature même des choses. Il ne peut donc être inventé par la volonté de l’homme, mais il doit être reconnu et compris. Le symbolisme n’est pas l’allégorie ; celle-ci est une invention de l’homme et parfois la délimitation est difficile à établir entre le deux langages, surtout après les abus de la fin du Moyen Age. Mais les abus ou les erreurs individuelles, qui ont tant contribué à déprécier le symbolisme dans la conscience chrétienne jusqu’à le faire pendre pour un simple jeu de l’esprit, ne doivent pas faire oublier que le symbolisme est le seul langage adéquat à l’expression des vérités métaphysiques.
-
-	Le monde créé reflète les qualités divines puisqu’il vient du Principe. Les choses créées peuvent donc suggérer ces qualités divines ; elles en sont des symboles. L’univers tout entier devient donc un grand livre où peuvent lire le message divin ceux dont le cœur est purifié et qui ont retrouvé l’innocence d’Adam au Paradis, selon la parole « Bienheureux les cœurs purs car ils verront Dieu ».
-
-[…]
-
-	Aborder les Pères ou le Moyen Age sans connaître le symbolisme, c’est se condamner à ne rien comprendre à cet univers si particulier que l’homme rationnel tend à rejeter en bloc parce qu’il a perdu à la fois le sens du mystère et la clef de l’énigme. Sans remonter au Moyen Age nous ne voyons pas comment sans un minimum de symbolisme admis et vécu, il est possible de pénétrer les rites chrétiens (sacrements et liturgie). Les difficultés qu’éprouve l’homme moderne vis-à-vis des rites viennent de sa fermeture au monde des symboles.
-
-	« Le véritable fondement du symbolisme, c’est comme nous l’avons dit, la correspondance qui existe entre tous les ordres de réalité, qui les relie l’un à l’autre, et qui s’étend, par conséquent, de l’ordre naturel pris dans son ensemble à l’ordre surnaturel lui-même ; en vertu de cette correspondance, la nature tout entière n’est elle-même qu’un symbole, c’est-à-dire qu’elle ne reçoit sa vraie signification que si on la regarde comme un support pour nous élever à la connaissance des vérités surnaturelles, ou « métaphysiques » au sens propre et étymologique de ce mot, ce qui est précisément la fonction essentielle du symbolisme, et ce qui est aussi la raison d’être profonde de toute science traditionnelle. Par là même, il y a nécessairement dans le symbolisme quelque chose dont l’origine remonte plus haut et plus loin que l’humanité, et que l’on pourrait dire que cette origine est dans l’œuvre même du Verbe divin : elle est tout d’abord dans la manifestation universelle elle-même, et elle est ensuite, plus spécialement par rapport à l’humanité, dans la Tradition primordiale qui est bien, elle aussi, « révélation » du Verbe ; cette Tradition dont toutes les autres ne sont que des formes dérivées, s’incorpore pour ainsi dire dans des symboles qui se sont transmis d’âge en âg sans qu’on puisse leur assigner aucune origine « historique », et le processus de cette sorte d’incorporation symbolique est encore analogue, dans son ordre, à celui de la manifestation ». Guenon, Aperçus sur l’initiation.
-
-[…]
-
-	Certes, et nous insistons beaucoup sur ce point, il ne faut pas confondre le symbolisme dont nous parlons, avec ce que C.G. Jung appelle les « archétypes », mais l’œuvre de Jung donne, au niveau psychologique où elle se place, des ouvertures précieuses sur le symbole : elle peut faire saisir à l’homme moderne que penser, sentir et s’exprimer par symboles est une très haute fonction du mental. Si l’homme moderne se rend compte qu’il pense et s’exprime par symbole même à son insu, il sera plus ouvert au symbolisme métaphysique qui lui semblera moins étranger à sa mentalité et à ses préoccupations courantes.
-
-[…]
-
-	Mais tous les symboles ne sont pas à mettre sur le même plan. Dans les symboles chrétiens certains sont plus « efficaces » et agissent « par eux-mêmes » (ex opere operato) ; ces « symboles efficaces » sont les sacrements, signes sensibles (matériels) qui produisent la grâce, chacun selon sa vertu propre.
-
-	A côté des sacrements, l’Église connaît les sacramentaux qui produisent eux aussi la grâce, mais selon les dispositions du sujet (ex opere operantis). Ces sacramentaux sont de nature très diverse : eau bénite, objets bénits, rites divers, formules récitées, gestes, etc. On conçoit qu’à la limite tout objet créé puisse devenir un sacramental pour celui qui a le coeur aussi pur que celui de l’homme sorti des mains du Créateur. C’est le cas de saint François d’Assise dont le Cantique des créatures est loin d’être la poésie sentimental qu’on y voit très souvent. Au contraire ce Cantique témoigne d’une haute « intellectualité », d’une haute intelligence des choses divines, autrement dit, d’un degré élevé de contemplation. Le symbolisme du Cantique des créateures est très proche de celui des Indiens d’Amérique du Nord, pour lesquels la nature est le temple sacré par excellence. Voir Schuon, Aperçus sur la Tradition des Indiens d’Amérique du Nord dans Etudes traditionnelles.
-
-[…]
-
-	C’est pourquoi Jésus-Christ, le Fils de Dieu incarné est le symbole parfait, le Symbole par excellence. Il réunit en lui tous les symboles possibles, et comme tout véritable symbole est efficace à quelque degré, il est le Symbole efficace par excellence puisque c’est par lui que nous vient la grâce divine dans sa plénitude. C’est pourquoi, appelé « Fils de l’homme », il peut aussi être appelé l’Homme Universel, car il est l’Homme parfait, synthèse parfaite du « métacosme », du « macrocosme » et du « microcosme », à la fois Créateur et Sauveur de l’Univers tout entier.
-
-
-
-
-
-
-
-La sagesse
-p. 99
-
-	« Au commencement, Dieu créa le ciel et la terre ». Par « Ciel » et « Terre », il faut entendre les Principes masculins et féminin non-manifestés de la manifestation universelle, ceux-ci pouvant d’ailleurs s’appliquer à différents niveaux ou degrés d’existence. La terminologie chinoise à laquelle nous avons déjà fait allusion appelle aussi ces principes Ciel (Tien) et Terre (Ti). La terre est féconde, elle produit tous les êtres créés, mais sous l’influence du Ciel qui féconde la Terre par la pluie et la lumière du soleil.
-
-[…]
-
-	« Dieu dit : Que la lumière soit ». Le « Fiat Lux » ébranle le chaos des ténèbres, analogue à celui des eaux ténébreuses, et c’est la même vibration, à la fois sonore et lumineuse, qui est perçue lors de l’illumination du baptême, du moins quand le sujet est dans l’état requis pour cela.
-
-[…]
-
-	« Dieu fit le firmament et il sépara les eaux qui sont en dessous du firmament et celles qui sont au-dessus ». Les eaux inférieures symbolisent la « manifestation formelle », c’est-à-dire celle où la « forme » est caractéristique de l’individu ; les eaux supérieurs symbolisent la manifestation informelle ou supra-individuelle, autrement dit le monde angélique, caractérisé par l’absence de forme. La « marche sur les eaux » signifie proprement que celui qui l’effectue a dépassé les états individuels.
-
-	Cette façon d’interpréter les premiers versets de la Genèse ne contredit par les interprétations plus littérales ou plus morales. Elle est très éloignée des théories « concordistes », mais elle se refuse énergiquement à ne voir dans la Genèse qu’un récit poétique sans signification métaphysique. Pour être clair, nous dirons que le récit de la Genèse est un « mythe », mais un mythe au sens fort et précis du mot, et pas du tout une fiction littéraire. Un mythe est un « symbole verbal » capable de transmettre à l’initié qui l’écoute de très hautes vérités d’ordre métaphysique. Le récit de la Genèse contient les symboles fondamentaux de l’homme créé à l’image de Dieu sur le rythme des « six jours » et ce n’est pas sans raison que ce récit est repris à la veillée pascale, au moment où le néophyte va renaître à une « vie nouvelle » et devenir une « créature nouvelle ».
-
-[…]
-
-	Le rôle du Prophète dans l’Islam est analogue et symboliquement identique à celui de la Vierge dans la Tradition chrétienne :
-
-	« De même que la Sainte Vierge, fécondée par le Saint-Epsrit, est « Corédemptrice » et « Reine du Ciel », créée avant le reste de la Création, de même le Prophète, inspiré par le même Esprit paraclétique, est « Envoyé de Miséricorde » (Rasûl Er-Rahmah) et « Seigneur des deux existences » (de l’ici-bas et de l’au-delà), et il est « également » créé avant tous les autres êtres. Cette « création antérieure » signifie que la Vierge et le Prophète « incarnent » une Réalité principielle ou « métacosmique » ; ils s’identifient – dans leur rôle réceptif, non dans leur Connaissance divine ni, pour ce qui est de Mohammed, dans sa fonction prophétique – à l’aspect passif de l’Existence universelle (Prakriti, en arabe El-Lawh el-mahfûzh, « la Table Gardée »), et c’est pour cela que la Vierge est « immaculée » et, au point de vue simplement physique, « vierge », tandis que le Prophète est « illettré » (ummî), comme l’étaient du reste aussi les Apôtres, c’est-à-dire « pur » de la « souillure » d’un savoir humain, ou d’un savoir acquis humainement. » Schuon, De l’unité transcendante des religions.
-
-[…]
-
-	Les symboles de la Vierge dans l’Ancien Testament sont nombreux ; les Pères et les auteurs spirituels se sont plu à les recenser et à les interpréter. Marie l’Arbre de Vie qui porte le véritable fruit seul capable de rendre les hommes immortels et divins, est le vrai « Jardin d’Eden » c’est-à-dire l’Église mère des croyants, symbole du « Monde nouveau » de l’Apocalypse.
-
-
-
-Les privilèges
-p. 114
-
-	En termes métaphysiques, lorsque le principe féminin non manifesté de la manifestation universelle se manifeste dans le monde, il n’est pas affecté par les limites de ce monde. C’est ce que la théologie traduit dans son langage par le mot « privilège ».
-
-	Or précisément, dans l’ordre historique, ce privilège a été réservé au Christ et à la Vierge. Tous deux sont exempts du péché originel, qui est certes un péché d’origine puisqu’il affecte toute l’humanité dès l’origine, mais qui est « en fait » aussi un péché de « nature » puisqu’en fait toute la race humaine y est soumise depuis la faute d’Adam et d’Eve.
-
-[…]
-
-	Adam est Eve ont engendré l’humanité pécheresse. Le Christ et la Vierge engendrent l’humanité nouvelle. Comme Adam et Eve président à la génération charnelle, le Christ et la Vierge président à la « re-naissance spirituelle ». De même qu’ils sont principes de « manifestation », ils sont principes de « régénération » ou de salut.
-
-[…]
-
-	Le fait que Marie a conçu et mis au monde le Fils de Dieu lui donne le titre de « Mère de Dieu ». On peut chercher la raison pour laquelle Dieu a choisi une femme pour s’incarner.
-
-
-
-Ecce mater tua
-p. 123
-
-	La théologie explique que la Vierge a mis au monde le Fils de Dieu incarné en lui fournissant la nature humaine. Mais, malgré la dualité des natures, la Personne de Jésus-Christ est unique. C’est pourquoi Marie a véritablement mis au monde la Personne du Fils de Dieu – ou de Jésus Christ – et pas seulement sa nature humaine ; elle peut donc être appelée à juste titre Mère de Dieu.
-
-[…]
-
-	A vrai dire, c’est le Christ « seul » qui nous sauve. C’est lui qui est le Médiateur universel. « Pour aller à Jésus il faut aller à Marie, c’est notre médiatrice d’intercession ; pour aller au Père éternel, il faut aller à Jésus, c’est notre médiateur de rédemption », Saint Louis-Marie de Montfort, Traité de la vraie dévotion à la Sainte-Vierge. La médiation de Marie, pour nécessaire qu’elle soit, n’en est pas moins « subordonnée » à celle de son Fils. La théologie s’efforce de distinguer et de préciser ces deux médiations. La difficulté est résolue si l’on se souvient que ces deux médiations sont celles de l’Essence et de la Substance par rapport à la manifestation. Elles sont donc toutes les deux nécessaires, mais pas identiques, et l’une peut véritablement être dite la « cause » de l’autre.
-
-	Marie est donc véritablement « Mère », à la fois de Dieu, du Christ et des hommes. Mais elle demeure « toujours vierge », comme nous l’avons expliqué. Marie est aussi « épouse », épouse de saint Joseph par son mariage avec lui, mais surtout l’épouse de l’Esprit-Saint dont elle a conçu. Marie est donc la seule femme qui soit à la fois et pleinement, Mère, Vierge et Epouse.
-
-
-
-Les noms et les symboles
-p. 136
-
-	L’adjectif « mystique » précise ici la haute portée spirituelle. Il faut traduire « mystique » par « mystérieux » ou tout au moins préciser qu’il ne faut pas entendre le mot « mystique » avec la nuance assez spéciale que lui a donné l’Occident chrétien. « Mystique » se dit étymologiquement des « mystères », c’est-à-dire de ce qui a rapport à la mystérieuse transformation de l’âme en Dieu par son ascension spirituelle, transformation qui est proprement « inexprimable » parce que dépassant le domaine de la « forme ». Le mystère est donc l’inexprimable, et non l’incompréhensible, et ce que nous avons dit du symbolisme laisse entendre que ce qui peut être dit du « Mystère de la Vierge » ne peut l’être que d’une façon symbolique.
-
-[…]
-
-	Le prototype des icônes est censé remonter à saint Luc, l’Evangéliste, qui l’aurait exécuté avec l’aide des Anges. Bien que de toute évidence ce prototype n’ait pas été conservé, il faut admettre que les icônes sont venues du Ciel et qu’elles ont en définitive une origine non humaine.
-
-	Les icônes sont les images traditionnelles de la Vierge. En effet, les principes qui président à la confection des icônes se transmettent en Orient dans des confréries religieuses analogues aux anciennes corporations de l’Occident, et l’artiste n’est pas libre de faire ce qu’il veut. Il doit de toute façon se soumettre aux canons définis par les conciles et aux règles édictées par les Pères. L’ordre et la disposition du sujet sont ainsi réglés ; à lui revient l’exécution.
-
-[…]
-
-	L’icône répand ainsi son influence spirituelle ici-bas car elle traduit en langage visuel humain les réalités célestes, mais pour que celles-ci puissent exercer leur influence, il faut un « support » adéquat, d’où la sévérité de l’Église d’Orient dans le contrôle qu’elle exerce sur la représentation iconographique.
-
-[…]
-
-	Une icône, la Vierge, par exemple, doit avoir une beauté en quelque sorte surhumaine, en ce sens qu’elle doit être exempte des laideurs et des souillures de la nature déchue. C’est pourquoi une icône est tendre, mais nullement sentimentale ; elle est bonne mais point familière ; elle est belle, mais pas selon les goûts du jour. Une icône est en définitive un « type », le type de l’humanité rachetée et glorifiée, telle qu’elle est associée à la contemplation de Dieu au Paradis. C’est pourquoi une icône est sereine et majestueuse, tout en restant proche de nous ; elle est un modèle à réaliser, non un objet à exploiter sentimentalement, voire commercialement.
-
-[…]
-
-	Quand l’artiste exécute une icône, il le fait en imitant les règles mêmes, ou les lois, qui ont présidé à la création du monde. L’artiste devient ainsi un « créateur » et l’art imite bien la nature, mais non pas en elle-même (ce qui serait une copie satanique), mais selon « son mode d’opération » comme dit saint Thomas. L’artiste se sert ainsi de son métier comme d’un support pour sa vie spirituelle, en même temps qu’il offre ce support aux autres. Ceci suppose évidemment que l’artiste soit chrétien et qu’il ait été initié à l’iconographie.
-
-
-
-Le culte
-p. 147
-
-	Le culte est rendu à la Vierge principalement par la liturgie. Il existe un cycle marial étroitement associé au cycle christique ; c’est le culte public, nous n’en parlerons pas ici.
-
-	Le culte privé est parfois appelé « dévotion ». Il faudrait donner à ce mot son sens étymologique et le débarrasser de l’aspect sentimental qui s’attache à lui depuis l’époque moderne. Saint Louis-Marie de Montfort est par excellence le docteur de la vraie dévotion à la Vierge. Nous renvoyons à ses ouvrages. Pourtant le style et les images de l’époque sont désagréables aux lecteurs modernes ; il est donc nécessaire de dépasser la forme et de pénétrer jusqu’à la doctrine.
-
-[…]
-
-	Le culte privé se manifeste de façons très diverses. Parmi toutes les « dévotions », nous ne retiendrons que la principale d’entre elles : le Rosaire. Que le Rosaire soit l’œuvre de saint Dominique, ou qu’il ait été mis au point par ses successeurs, peu importe. Sa richesse doctrinale et son aspect méthodique font de lui la première des dévotions.
-
-[…]
-
-	Le Rosaire nous apparaît comme la dévotion par excellence de l’Église latine. Saint Dominique a répandu le Rosaire et a contribué à lui donner sa forme actuelle ; son origine remonte aux croisades : les croisés ont rapporté d’Orient des rosaires musulmans sur lesquels ils ont dit des « Pater noster », d’où le nom de « Patenôtre » qui leur fut d’abord donné ; par la suite, on récita des formules en l’honneur de la Vierge, d’abord « Ave Maria », puis « Ave Maria gratia plena », et finalement la formule entière à laquelle s’ajouta la seconde partie de la salutation quand l’usage en fut répandu dans l’Église. Enfin, s’ajoutèrent les « méditations » sur les « mystères » du Christ et de la Vierge.
-
-[…]
-
-	Le rythme est ce qui donne au Rosaire sa forme même.
-
-[…]
-
-	Les nombres sur lesquels est bâti le Rosaire sont 1, 2, 3, 5, 10, 15, 50, 150, 153. La signification en est donnée par l’abbé Bertaud.
-
-[…]
-
-	S’il est vrai que Dieu a tout créé avec « poids, nombre et mesure » (Sap. 11, 20), il en résulte, comme le pensaient les pythagoriciens, que le nombre est à la base du monde, soit matériel, soit spirituel. Il est seulement évident que dans le monde spirituel, ces nombres représentent des « qualités » et non des « quantités ».
-
-[…]
-
-	Le rythme est une vibration qui met l’âme en accord avec la vibration de l’univers ; l’âme résonnant au rythme de ce dernier est alors semblable au « chaos primitif » ébranlé par la « Parole » divine « Fiat Lux » : les vibrations de cette « Parole éternelle » se font alors sentir dans l’âme quand celle-ci a mis en accord son « microcosme » avec le « macrocosme » pour finalement être réintégrée dans le « métacosme ». Le « microcosme » c’est l’homme ; le « macrocosme » c’est l’univers créé ; le « métacosme » c’est le divin non créé.
-
-[…]
-
-	Le corps n’est pas l’âme, mais faisant partie de l’individu, il doit être intégré à l’activité spirituelle de ce dernier, sinon il sera comme un élément aberrant et il se révoltera contre cette activité. Cette question du rôle du corps et de son attitude dans la prière est d’une importance très grande. Les positions hiératiques de la prière liturgique peuvent être utilisées dans la prière privée, mais il existe aussi une « liturgie intime » qui s’inspire des postures des âsanas du hatha-yoga.
-
-[…]
-
-	« Dieu et son Nom sont identiques ». Pour celui qui ne comprend cela à aucun degré, le Rosaire ne peut avoir aucun sens. Il est évident que le « simple » qui récite son Rosaire le comprend déjà à un certain degré. C’est l’incroyant qui ne comprend rien, car un Nom divin n’est rien pour lui. Les paroles du Christ sont formelles : il faut prier en son Nom, demander en son Nom, se réunir en son Nom. Le Nom divin n’est pas « manifestation de Dieu », mais il est « Dieu dans sa manifestation », car il est d’abord « Dieu » avant d’être autre chose. Le nom divin est inexprimable dans son essence, mais dans sa Miséricorde, Dieu révèle un Nom qui est sa Présence au milieu des hommes : ce Nom est le support de toutes les qualités divines que nous pouvons connaître et il réalise en nous ces qualités dans la mesure où nous rendons présent à nous-mêmes ce Nom par l’invocation.
-
-[…]
-
-	Il faut donc accepter la « technique » de l’invocation des Noms sacrés. Jésus-Christ lui-même a dit : « Tout ce que vous demandez à mon Père en mon Nom, il vous l’accordera » (Jean, 15, 16). […] Le Nom divin est donc laissé après l’Ascension, comme un « mémorial », un rappel et une véritable « présence » du Seigneur.
-
-[…]
-
-	L’invocation du Nom de Jésus s’est d’abord développée dans les déserts de l’Orient chrétien en utilisant de courtes formules où était inséré le Nom divin. Par la suite, la prière d’invocation a été transportée au Mont Athos où a pris naissance la spiritualité appelée « hésychasme ».
-
-[…]
-
-	Le Moyen Age latin a connu certaines formes d’invocation, ne serait-ce que le Kyrie eleison à la messe et dans les litanies ; mais il n’a pas connu ce que l’Orient appelle la « Prière de Jésus », formule indéfiniment répétée, et susceptible de produire de merveilleux effets spirituels, à condition que la récitation soit accompagnée d’une ascèse convenable et soit fait sous la direction d’un guide spirituel expérimenté.
-
-[…]
-
-	Le Rosaire est par excellence une méthode d’invocation et un résumé de la doctrine métaphysique.
-
-[…]
-
-	Le Rosaire se compose essentiellement de Pater et d’Ave. Le Pater est la prière révélée par Jésus-Christ lui-même, et l’Ave est la prière apportée du Ciel par l’Ange.
-
-[…]
-
-	Le Pater est une formule de louange et de purification, car il demande pardon des offenses. L’Ave est la formule d’invocation des Noms sacrés.
-
-[…]
-
-	Par la salutation « Ave Maria », l’âme entre en relation avec la Vierge ou Substance universelle, dont elle veut réaliser les perfections, grâce au nom sacré de Maria qui est efficace.
-
-	Maria, ou la Substance, est « gratia plena ». Immaculée dès sa conception, Marie est remplie de la grâce d’en haut. L’âme désire recevoir cette grâce et se conformer le plus possible à la perfection de la Vierge.
-
-	Dominus tecum : le Seigneur est toujours présent dans la Substance, puisque c’est lui qui agit en elle, ou par elle, et la fait produire. De même, la présence divine est acquise à l’âme qui se conforme en tant que substance individuelle aux qualités de la Substance universelle dont elle est séparée par la chute originelle.
-
-	Benedicta tu in mulieribus : Quand la Substance se manifeste, elle est bénie entre toutes les femmes. La même bénédiction est acquise à l’âme en laquelle Dieu reconnaît l’image divine imprimée en elle par sa présence. En réalité,Dieu seul peut être dit « béni » et c’est sa présence dans la Substance qui vaut à celle-ci la bénédiction.
-
-	Et benedictus fructus ventris tui : la Substance est rendue féconde par la présence divine, et le fruit qu’elle engendre est dit « béni ». De même, l’âme individuelle doit engendrer en elle l’image du Verbe et ce fruit d’elle sera béni. En réalité, lorsque l’âme produit, c’est qu’elle meurt en Dieu. Le fruit de l’âme est ainsi plus réel qu’elle même, puisqu’elle s’éteint dans ce fruit divin par réintégration essentielle.
-
-[…]
-
-	Le Rosaire est à la fois prière, invocation, et méditation. De nos jours, la méditation et l’oraison sont des exercices séparés, faits souvent sans ordre et sans progression méthodique. La méditation se perd dans la ratiocination et n’est plus qu’une discussion du mental avec lui-même ; l’oraison se perd dans des effusions sentimentales et s’essouffle à la recherche de « pieuses affections », sans prendre appui sur la doctrine. La vie spirituelle devient subjective ; le « moi » devient la principale des considérations, et le péché serait presque la matière première de la vie spirituelle.
-
-	Le Rosaire n’a pas ces inconvénients : il est centré sur les mystères christiques et les mystères marials ; il est « objectif » et le « moi » doit s’effacer devant ce qu’il contemple. Mais surtout le Rosaire est méthodique : l’invocation est facilitée par la méditation, et la méditation est rendue féconde par l’invocation ; de plus les mystères retracent le cycle spirituel que doit parcourir l’âme et ils constituent une puissante synthèse doctrinale qu’il s’agit de réaliser dans la vie spirituelle. La méditation seule n’est pas féconde ; l’invocation seule risque de s’égarer, surtout au début de la vie spirituelle ; lorsqu’on invoque un Nom divin dans le mystère qu’on médite, on permet à ce Nom de réaliser en nous le contenu du mystère.
-
-	La nature humaine est dispersion, faiblesse et pauvreté. Pour aller à Dieu, l’homme a besoin de se concentrer et de s’unifier. Par le rythme, le corps participe à la prière, mais l’homme est aussi « pensée » ; s’il doit aller à Dieu avec tout ce qu’il est, il lui faut aller à Dieu avec sa pensée.
-
-	En méditant les mystères du Rosaire, l’homme utilise dans la mesure du possible son mental pour aller à Dieu. Mais le mental est faible et il se disperse aisément : l’invocation par les formules du Rosaire facilite la méditation en opérant la concentration de l’être et met en valeur cette méditation. A son tour, la méditation facilité l’invocation.
-
-	Mais il faut insister ici : la méditation n’a aucun pouvoir par elle-même car la ratiocination n’avance à rien : c’est la grâce – par le support du Nom divin dans sa matérialité – qui réalise le contenu du mystère que l’on médite. L’homme est incapable de se concentrer : seul le Nom divin unifie l’être, mais le mental a pour fonction d’écarter les obstacles.
-
-[…]
-
-	L’âme réalise le contenu du mystère, mais cette réalisation est au-delà du domaine psychologique. Nous voulons dire par là que les représentations imaginatives ou émotionnelles peuvent parfois être utiles mais parfois aussi nuisibles.
-
-
-
-
-
-Le sein virginal
-p. 176
-
-	Si nous parlons ici de symbolisme chrétien, il faut entendre l’expression chrétienne du symbolisme, ou encore, le symbolisme appliqué au christianisme, car il va de soi que le symbolisme est universel, puisqu’il repose sur la nature même des choses et non sur l’invention de l’arbitraire humain. De même, la doctrine à laquelle ce symbolisme sert de support peut être chrétienne dans son expression, mais dans sa signification la plus profonde, qui est d’ordre métaphysique, elle est universelle, puisqu’elle ne fait que traduire dans les limites contingentes du temps et de l’espace, les principes métaphysiques, qui, eux, sont éternels et immuables.
-
-[...]
-
-	Les vérités métaphysiques et religieuses peuvent être méditées selon trois perspectives qui relèvent des trois grandes voies qui conduisent les âmes à Dieu. Ces trois voies sont la voie d’action, la voie d’amour, et la voie de connaissance. Ce sont les trois voies fondamentales qui correspondent aux éléments actifs, affectifs et cognitifs de la nature humaine. Chez l’homme concret nous trouvons un mélange variable de ces trois éléments ; l’élement qui prédomine colore la mentalité de cet homme et explique la voie spirituelle qui lui est assignée par sa nature individuelle.
-
-	Chaque voie est à son tour divisée en trois degrés qui contiennent symboliquement les trois voies. La voie d’action se divise en voie du travail, voie des œuvres et voie d’ascèse ou de sacrifice. SI le travail peut, en principe, être sanctifié, il n’est ni saint, ni sanctifiant par lui-même ; c’est pourquoi il ne constitue pas par lui-même une voie spirituelle, mais peut cependant être intégré aux deux autres voies, ou aux deux degrés supérieurs de la voie d’action. La voie d’amour se divise en voie de confiance, voie d’amour héroïque et voie d’amour suprême. La voie de connaissance se divise en voie d’étude ou de science, en voie de méditation spéculative et voie de concentration contemplative.
-
-[…]
-
-	Rappelons encore une fois que selon son étymologie, le mystère est l’inexprimable, et non l’incompréhensible. Le mystère est l’inexprimable, d’abord parce que l’on ne doit pas « jeter les perles aux pourceaux » ni « profaner » le sacré, mais surtout parce que les paroles humaines sont impuissantes à traduire d’une façon adéquate les vérités « sur-naturelles ». Celles-ci ne peuvent être qu’assenties dans une instruction initiatique faite de bouche à oreille (il faut souligner ici le rôle du « maître » dans la voie spirituelle : le « guru » des hindous, le « starets » de l’Église orthodoxe russe) à l’aide de « symboles » appropriés, et parce qu’enfin, ces vérités doivent être « réalisées » ontologiquement, et pas seulement perçues spéculativement, et cela à l’aide des mêmes symboles.
+>Notons au passage la contradiction entre cette dernière affirmation et celle commune à Saint Thomas et à Aristote, selon laquelle « la métaphysique n’est pas une science humaine ». […]
+>
+>Nous pensons que le Père Gardeil veut dire par là que la sagesse ne doit pas seulement être le fruit du raisonnement humain, mais s’appuyer sur la Révélation. […]
+>
+>C’est cette « sagesse intégrale » que nous appelons métaphysique. Il ne peut y avoir séparation totale entre l’étude théorique et la réalisation spirituelle ; si un stade préliminaire d’étude et de spéculation est nécessaire, il ne peut être question de limiter la métaphysique à ce stade, sous peine de la frapper de stérilité. C’est d’ailleurs, à notre sens, le « rabaissement » de la métaphysique à une science purement humaine et rationnelle d’une part, et la « limitation » de son objet à la « cause première » d’autre part, qui ont provoqué la décadence de la métaphysique dans la philosophie occidentale. […]
+>
+>La philosophie est un mode de pensée strictement rationnel : n’utilisant que la raison, organe individuel de la pensée, elle se limite forcément à l’individu et ne peut atteindre la véritable connaissance qui est d’ordre supra-individuel et universel. La raison laissée à elle-même ne veut que tourner indéfiniment dans des pétitions de principe et s’épuiser à bâtir des « systèmes » de plus en plus limités et incohérents, jusqu’à se renier elle-même. Certes les conséquences du « point de vue philosophique » dans la recherche de la vérité ne sont apparues que peu à peu. Le germe de la décadence existait déjà dans le système issu d’Aristote, ce qui justifiait le rejet total du point de vue philosophique par saint Paul.
+>
+>C’est surtout à partir de Descartes que la philosophie, une fois rejetée la lumière de la Révélation, est en quelque sorte livrée à elle-même et apparaît sous son vrai jour. Le rationalisme ne connaît que la raison et il estime qu’une bonne « méthode » est la condition suffisante pour atteindre la vérité. Que le rationalisme admette encore la Révélation, comme Descartes, ou qu’il la rejette, son attitude pratique reste la même ; la raison le porte vers l’étude de ce qui est concret, de ce qui tombe sous les sens, en un mot vers l’étude de la « physique » proprement dite. Le rationaliste ne sait plus ce qu’est la métaphysique, ou bien il la déclare inutile, ce qui revient au même. Parfois il bâtit un système qu’il appelle « métaphysique », mais qui n’a plus rien de commun avec ce que nous avons décrit plus haut.
+>
+>L’empirisme succède au rationalisme. Las de voir la raison ne rien trouver de définitif dans l’ordre des principes, l’homme ne se fit qu’à l’expérience et il apprend d’elle que beaucoup de choses relatives. De là à se proclamer « relativiste » ou « agnostique » il n’y a qu’un pas. Si l’Absolu existe, il est inconnaissable ; la raison n’atteint que le relatif à travers les sens. C’est en quelque sorte la négation de la raison elle-même.
+>
+>Pour Kant, la métaphysique est l’ensemble des connaissances qui se tirent de la Raison seule, c’est-à-dire de la faculté de connaître a priori par concepts, sans faire appel aux données de l’expérience, ni aux intuitions de temps et d’espace. La Raison pratique nous garantit la réalité du « noumène » (au-delà du phénomène) mais sans nous en donner l’intuition. Il ne reste pas d’autre voie possible, dit Kant, que d’attribuer au « phénomène » seul l’existence d’une chose, en tant qu’elle est déterminée dans le temps (et par conséquent aussi la causalité suivant les lois de la nécessité naturelle) et d’attribuer la liberté à ce même être en tant que chose en soi. Nous sommes loin de la métaphysique de saint Thomas, mais nous recevons là l’aveu le plus sincère et le plus clair de l’impossibilité pour la raison humaine livrée à ses seules forces d’élaborer une métaphysique. […]
+>
+>Bien qu’au départ de toute recherche métaphysique il y ait une action du mental et un effort de la raison en tant qu’instrument de connaissance analytique, la véritable connaissance exige de dépasser les modes de la raison. C’est pourquoi la foi, véritable connaissance intuitive bien qu’obscure, est une préparation à la Sagesse infiniment supérieure à tous les systèmes rationnels de connaissance. […]
+>
+>Pour qu’un individu humain puisse sortir des limites de son individualité empirique, il faut qu’il y ait en lui quelque chose de « non humain » ou de « supra-humain », ou du moins qu’il ait en lui la possibilité de recevoir quelque chose de supra-humain comme le don de la Sagesse qui est le premier des dons du Saint-Esprit. Pour les scolastiques l’organe de la connaissance métaphysique, c’est l’intellect. Saint Augustin distinguait la « raison supérieure » tournée vers les réalités éternelles et la « raison inférieure » tournée vers les choses temporelles, mais il ajoutait que ces deux raisons ne se distinguaient en fait que par leurs fonctions. En effet, les choses temporelles sont pour nous le « moyen » de connaître les réalités éternelles ; l’une et l’autre raison ne sont donc qu’une seule et même « puissance » ; c’est la même faculté qui est concernée par les « moyens » et par les « fins ». […]
+>
+>L’existence d’un intellect agent dans chaque homme n’exclut pas mais exige l’existence d’un Intellect supérieur séparé auquel l’intellect agent soit relié par une certaine participation. L’âme humaine, en effet, « n’est pas tout entière intellective, mais en partie seulement. Elle atteint l’intelligence de la vérité à l’aide du discours et par le mouvement de l’argumentation. Elle a même une intelligence imparfaite, puisque d’une part elle ne comprend pas tout, et que d’autre part, dans ce qu’elle comprend, elle procède par le passage de la puissance à l’acte. Il faut donc qu’il existe un intellect supérieur qui aide l’âme à comprendre ». Saint Thomas d’Aquin. Cet intellect parfait est l’Intellect divin. L’intelligence humaine accède aux idées de la façon suivante : le réel est considéré comme de l’idée reçue dans la matière. L’intellect dégage cette idée par un processus qui « désindividualise » en quelque sorte l’idée hors de la matière, et qui est appelé « abstraction » ou « extraction ». […]
+>
+>Le débat entre les « thomistes » et les partisans d’autres formes de la « métalangue philosophique » dure depuis plusieurs siècles. Il ne faut cependant pas durcir les oppositions ni, par vanité d’école, rendre inconciliables des positions qui sont plutôt des « points de vue » sur une même et unique vérité :
+>
+>« Connaissons-nous les vérité dans la lumière de notre intellect propre, ou la connaissons-nous dans une lumière divine ajoutée à celle de l’intellect ? Le moyen âge a connu d’interminables controverses sur ce point et, bien entendu, Thomas d’Aquin a pris position sur la question. Il estime que l’homme connaît la vérité, même le vérités éternelles, dans la lumière de son propre intellect agent, mais quand on lui objecte que saint Augustin exige une intervention de la lumière divine, Thomas répond qu’il n’y a pas grande différence entre dire que nous connaissons le vrai dans la lumière divine, ou dire que nous le connaissons dans celle de notre propre intellect qui est en nous la marque laissée par Dieu sur sa créature. En dernière analyse, c’est toujours dans la lumière divine que l’homme connaît la vérité. La différence philosophique qui sépare les deux thèses perd beaucoup de son importance lorsqu’elle est vue du haut de la sagesse théologique ». Gilson, Les tribulations de Sophie. […]
+>
+>L’intelligence siège dans le coeur, c’est pourquoi on l’appelle « l’oeil du coeur » ; la raison en est le reflet passif qui siège dans le cerveau. C’est pourquoi, après la saisie rationnelle des données, doit avoir lieu l’assimilation par l’intelligence pour qu’éclate le « fulgur veritatis ». C’est sur cette base théorique que pourra débuter ensuite le travail personnel qui conduit à ce que nous avons appelé la « réalisation métaphysique ». Mais l’évidence est le point de départ : on peut l’éveiller en autrui, mais non la donner à celui qui ne la possède pas. Dans une terminologie empruntée à la logique moderne nous dirions volontiers que la métaphysique est une métalangue commune aux diverses traditions spirituelles de l’humanité. Il s’agit toujours de commenter des textes sacrés ou révélés à l’aide de concepts propres à en fait percevoir la richesse spirituelle.
+
+### Essence et substance
+
+>Le panthéisme est proprement la doctrine qui admet une « continuité substantielle » entre le Principe (ici Dieu puisqu’il s’agit de théisme) et sa manifestation (ici le monde créé). Le panthéisme suppose donc une conception substantielle de la divinité : Dieu n’est pas différent du monde, et le monde n’est pas différent de Dieu. Or la métaphysique ne peut admettre qu’une conception « essentielle » de la divinité, ici l’Etre pur. Et quand l’Etre manifeste les possibilités contenues en lui il n’est nullement affecté par cette manifestation. Dieu, manifeste le monde, mais Dieu n’est pas le monde ; il n’est même pas dans le monde, car l’Infini ne peut être contenu dans le fini. Néanmoins le monde tire toute sa réalité de Dieu, car s’il avait une réalité propre, il limiterait l’Infini. C’est pourquoi, sous le rapport de l’essence, le monde est « essentiellement » Dieu, car il manifeste les « qualités » contenues dans l’Essence divine ; mais sous le rapport de l’existence, il se trouve séparé de Dieu. Il y a donc discontinuité entre Dieu et le monde, non pas discontinuité absolue, ce qui est impensable puisque le monde tire sa réalité de Dieu, mais discontinuité relative en ce sens qu’il y a à la fois continuité dans la discontinuité et discontinuité dans la continuité. […]
+>
+>Rappelons enfin les versets 4 et 5 du chapitre IX de la Bhagavad Gitâ :
+>
+>4. Cet univers a été déployé par ma forme non manifestée ; Tous les êtres sont en Moi, mais je ne suis pas en eux.
+>
+>5. Et pourtant les êtres ne demeurent pas en Moi, vois mon divin yoga ; mon Soi est la source et le soutien des êtres, mais il ne réside pas en eux.
+>
+>Le début du second verset est antinomique par rapport au premier ; la manifestation est dans le Principe, mais le Principe n’est pas contenu dans sa manifestation et limitée par elle ; cependant la manifestation n’est pas dans le Principe comme une partie d’un tout. […]
+>
+>Le verbe « créer » signifie simplement « faire » et la théologique enseigne que Dieu a crée la monde « ex nihilo ». Elle a voulu éviter par là la conception d’un Dieu « démiurge » qui « organiserait » le monde à partir d’une « matière » préexistante et en quelque sorte éternelle. La conception « démiurgique » était propre à la mentalité grecque, et l’importance que l’Occident a toujours attaché à la matière montre que le danger n’était pas illusoire.
+>
+>Pourtant, il ne faudrait pas donner à l’expression « ex nihilo » la même signification démiurgique que celle qu’elle veut éviter. Il ne faut pas en effet considérer le « rien » (nihil) comme un « quelque chose » éternel dont Dieu tirerait le monde. Le néant n’existe pas lui-même ; il n’est même pas une « possibilité d’être » dont Dieu pourrait tirer quelque chose. Puisque rien n’existe en dehors du Principe qui est infini par définition, Dieu ne peut pas tirer le monde d’ailleurs que de lui-même ; mais ce faisant, il n’est nullement affecté, diminué ou modifié comme nous l’avons déjà expliqué. Dieu étend le monde selon les multiples possibilités contenues en lui, mais le monde ne se soutient pas devant lui. Pour désigner cela, le mot « manifestation » semble préférable au mot « création ». Néanmoins il faut se garder de confondre la notion de « manifestation » avec les théories « émanationnistes » qui relèvent, elles, du panthéisme. Le danger est évité lorsqu’on maintient une conception « essentielle » de la divinité et la transcendance du Principe à l’égard de sa manifestation. […]
+>
+>Pourquoi le monde alors existe-t-il ? Métaphysiquement, la réponse est simple : l’Infini, pour être véritablement « infini » doit comporter en quelque sorte la négation ou la limitation de soi-même. La manifestation est donc à la fois affirmation et négation du Principe suprême, mais il s’agit là d’un mystère qui dépasse l’Etre conçu comme cause. […]
+>
+>Après ces quelques explications sur la façon de considérer l’Etre en lui-même et dans ses relations avec sa manifestation, il faut maintenant expliquer comme l’Etre manifeste les possibilités contenues en lui. La manifestation universelle procède d’un double Principe, autrement dit d’une « polarisation » qui s’effectue au sein de l’Etre. L’un des principes est considéré comme actif ou masculin et il est appelé « Essence universelle », l’autre est considéré comme passif ou féminin et il est appelé « Substance universelle ». Toute manifestation procède donc de ce double Principe masculin et féminin. […]
+>
+>La polarisation Essence-Substance est la première des dualités, et toutes les autres dualités en dérivent. Cette dualité n’est pas du « dualisme », car elle n’affecte en rien l’Unité de l’Etre, et elle n’est nullement irréductible (comme l’est le dualisme), puisque précisément elle se résout dans l’unité de l’Etre. […]
+>
+>Le Principe masculin est actif, mais il ne produit pas. Le Principe féminin est passif et il produit sous l’influence du Principe masculin. Ce dernier, bien qu’actif, agit par son « non-agir » et rend fécond le Principe féminin auquel doit être rapporté tout ce qui est production, changement et multiplicité dans la manifestation universelle. Ces deux principes masculin et féminin sont Purusha et Prakritti de la tradition hindoue, Yang et Yinn de la tradition chinoise.
+>
+>« Sache que Prakriti (la Nature ou Substance universelle) et Purusha (l’Essence universelle) sont l’une et l’autre sans origine ; sache aussi que les formes (vikâra) et les modes (guna) sont nés de Prakriti ». Gitâ XIII.
+>
+>Nous reproduisons ci-dessous le début du Tao-Te-King, Traité du Principe et de son Action, ou encore Traité de la Voie et de la Vertu, attribué à Lao-Tseu. La traduction et le résumé des commentaires sont du R.P. Léon Wieger : les Pères du Système taoïste.
+>
+>>I-A – Le principe qui peut être énoncé, n’est pas celui qui fut toujours. L’être qui peut être nommé, n’est pas celui qui fut de tout temps. Avant les temps, fut un être ineffable, innommable.
+>>
+>>I-B – Alors qu’il était encore innommable, il conçut le ciel et la terre. Après qu’il fut ainsi devenu nommable, il donna naissance à tous les êtres.
+>
+>Commentaire :
+>
+>>Avant les temps, et de tout temps, fut un être existant de lui-même, éternel, infini, complet, omniprésent. Impossible de le nommer, d’en parler, parce que les termes humains ne s’appliquent qu’aux êtres sensibles. Or l’être primordial fut primitivement, et est encore essentiellement non sensible. En dehors de cet être, avant l’origine, il n’y eut rien. On appelle sien-t’ien, avant le ciel, l’époque où il n’y avait encore aucun être sensible, où l’essence du principe existait seule. Cette essence possédait deux propriétés immanentes, le yinn concentration et le yang expansion, lesquelles furent extériorisées un jour, sous les formes sensibles ciel (yang) et terre (yinn). Ce jour fut le commencement du temps. De ce jour le principe put être nommé par le terme double ciel-terre. Le binôme ciel-terre émit tous les êtres sensibles existant. On appelle you être sensible, ce binôme ciel-terre produisant par tei la vertu du principe, et tous ses produits qui remplissent le monde. On appelle heou-t’ien après le ciel, les temps postérieurs à l’extériorisation du ciel-terre. L’état yinn de concentration et de repos, d’imperceptibilité, qui fut celui du principe avant le temps, est son état propre. L’état yang d’expansion et d’action, de manifestation dans les êtres sensibles, est son état dans le temps, en quelque sorte d’impropre. […]
+>
+>La Substance universelle est en somme la « racine », la « mère » de la manifestation universelle. Prakriti est parfois désignée par « Mûla-Prakriti » car « mûla » signifie « racine » de tous les êtres. On notera d’autre part l’étymologie commune des mots « mater », « materia », « matrice », Prakriti étant également appelée « matrice de tous les êtres ». Comme la mère dans la génération humaine, elle est rendue féconde par le Principe masculin ou Essence universelle, lequel doit être considéré comme la cause réelle de tout ce qui est produit. […]
+>
+>La première production de l’Essence et de la Substance est l’Intellect universel qui fait partie de la manifestation informelle et qui est le reflet direct de l’Intellect divin. R. Guenon, L’homme et son devenir selon le Vêdânta. Buddhi, l’Intellect universel, est la première des productions de Prakriti. Buddhi est le principe immédiat, mais transcendant, de l’individualité humaine (ou des autres états individuels) ; elle est l’expression de la personnalité dans la manifestation et elle unifie l’être à travers la multiplicité de ses états individuels.
+>
+>La manifestation informelle est celle qui n’est pas soumise à la forme. C’est le cas des anges de la tradition judéo-chrétienne, que la tradition de l’Église, orthodoxe appelle d’ailleurs « les incorporels ». Dans la terminologie du Vedânta, les être du domaine corporel et du domaine subtil (le corporel étant un mode « condensé » du subtil) sont soumis au « Nom et à la Forme » (nâma-rûpa), alors que les êtres spirituels sont seulement caractérisés par le « Nom » qui correspond à leur essence. Dans la terminologie de saint Thomas, les êtres spirituels sont des « formes sans matière » ou « formes pures » ; pour saint Bonaventure, par contre, il existe une « matière spirituelle » chez les anges qui sont ainsi composés de matière et de forme et multipliables au sein d’une même espèce. […]
+>
+>A partir de la conception biblique du Dieu Créateur et du concept de « cause », la théologie chrétienne enseigne que l’âme est créée. Notons déjà que le « moment » de cette création et la « préexistence » éventuelle de l’âme à son « incarnation » ont soulevé au cours des siècles de nombreux problèmes. Cette âme créée est « immortelle », ce qui peut se traduire approximativement par la proposition suivante : l’âme « commence » avec le corps, mais elle ne « meurt » jamais. Si l’on conçoit l’éternité, ou même seulement l’immortalité comme une « indéfinité temporelle », on arrive à des problèmes du type « que faisait Dieu avant la Création ? ». Si l’on conçoit l’éternité comme la parfaite simultanéité du non-temps que signifie alors un problème comme : « quand est le commencement de l’âme ? ». Maître Eckhart aborde le problème de la façon la plus « métaphysique » et la plus « védântique » possible :
+>
+>>« D’après mon mode de naissance éternelle, j’ai été éternellement, je suis maintenant et je demeurerai éternellement. Ce que je suis comme créature temporelle mourra et s’anéantir, car cela est dévolu au temps et doit pourrir avec le temps. Mais dans ma naissance éternelle naquirent toutes choses ; ici je fus cause de toutes choses et de moi-même. Si je l’avais voulu alors, le monde et moi-même ne serions pas ; et si je n’étais pas, Dieu ne serait pas non plus ; que Dieu soit Dieu j’en suis une cause. Si je n’étais pas, Dieu ne serait pas non plus ».
+>
+>Ce passage, nullement condamné par la Bulle de Jean XXII, montre que pour comprendre le mystère de l’âme, il faut aller « au-delà » de la cause et du Dieu créateur conçu comme Dieu-cause. […]
+>
+>Mais même sur le simple plan théologique, il est impossible de soutenir que nous avons été « autrefois » dans le « néant ». Nous sommes, comme toutes choses d’ailleurs, éternellement dans la « pensée divine » (le Verbe conçu comme Intellect divin). En d’autres termes, l’effet est toujours contenu « éminemment » dans la cause. Donc, même si l’on adopte une perspective « théiste » ou « théologique », il faut maintenant que l’âme créée n’est pas un « petit absolu » posé en face du Créateur et qui lui échapperait en quelque sorte après sa création. Il reste toujours, surtout dans cette perspective, la relation de cause à effet. Dans le domaine spirituel on parle de « grâces », de « dons » qui sont des liens véritables, et les mystiques parlent de la « fine pointe de l’âme » comme le « lieu » où Dieu opère. Si l’on adopte une perspective métaphysique et si l’on soutient que l’effet n’est pas essentiellement différent de la cause, il reste à rendre compte de la « discontinuité » au sein de la « continuité », à expliquer l’âme individuelle et à ne pas confondre l’identité métaphysique ou « essentielle » avec l’identité cosmologique ou « substantielle » qui n’est autre que le panthéisme. Cette confusion est très fréquente de la part des occidentaux, alors que la métaphysique des Upanishads ne peut à coup sur être confondue avec les rêveries panthéistes de certains auteurs modernes.
+
+### Mater Dei
+
+>Nous appellerons « Non-Etre », d’un mot emprunté à la Tradition chinoise, ce qui est non manifesté, mais il faut bien comprendre que le Non-Etre, loin d’être le néant, est au contraire la plénitude suprême puisque la détermination relative de l’Etre se trouve à son tour niée pour affirmer l’Absolu. […]
+>
+>Lorsque la philosophie occidentale parle de Dieu, elle l’envisage à peu près toujours comme l’Etre. Pourtant le Principe Suprême, que nous pouvons appeler l’Infini puisqu’il contient tout en lui-même sans limitation aucune, est au-delà de l’Etre, puisqu’il est à la fois Etre et Non-Etre si l’on peut dire. […]
+>
+>Pour aller plus loin dans l’explication, il faut recourir maintenant à la terminologie hindoue. Quand nous utilisons ainsi des terminologies étrangères à la Tradition chrétienne, il faut bien comprendre qu’il s’agit là de principes métaphysiques et non de dieux ou de déesses du panthéon hindou. Appelons « Infini » le Principe suprême. Il contient tout en lui, et ne peut être limité par rien, sous peine de ne plus être l’Infini ; tout doit donc être considéré comme possible pour l’Infini, sois comme possibilité de manifestation, soit comme possibilité de non-manifestation. Appelons « Toute-possibilité » cette fécondité infinie de l’Infini. Nous avons ainsi défini un couple masculin-féminin : l’Infini et sa Toute-Possibilité. Encore une fois, cette distinction, c’est nous qui la faisons ; elle correspond à quelque chose de réel sous peine d’être fausse et inexistante, mais elle ne correspond pas à une « séparation », encore moins à une dualité, puisque nous sommes au-delà de l’Unité.
+>
+>L’Infini est Brahma et sa Toute-Possibilité est Mâyâ, la Shakti (ou aspect féminin) de Brahma. Nous concevons donc dans le Principe suprême un aspect féminin et un aspect masculin, un aspect maternel et un aspect paternel. Cet aspect maternel est proprement la Mère de Dieu. L’aspect féminin du Principe suprême (ou la Perfection passive) est évidemment la raison dernière de la Substance universelle dont nous avons parlé plus haut. Mais avant d’être cela, cette Perfection passive est la raison d’être de la Personne divine, c’est pourquoi elle est véritablement la Mère de Dieu. L’Impersonnalité divine, féconde dans sa non-dualité, « engendre » la Personnalité divine, ou Etre divin qui se polarise en Essence et Substance, cette dernière étant la Mère universelle de toute la manifestation. Mais si la Mère de Dieu, aspect féminin de la Déité, engendre la Divinité, et si la Substance universelle « produit » la manifestation universelle, un processus analogue préside à la manifestation du Principe Créateur (envisagé alors comme Verbe divin) au sein de la manifestation universelle.
+
+### La manifestation temporelle
+
+>Un symbole est par définition une « chose » chargée de « signifier » et de « représenter » autre chose. Le symbolisme est le langage constitué par les symboles. Un symbole peut être verbal, graphique, plastique, etc. peu importe pouvoir qu’il ait « par nature » la vertu de représenter et de signifier quelque chose de plus haut que lui. Il faut d’abord éliminer du symbolisme métaphysique tel que nous l’entendons tout ce qui a reçu le nom de symbolisme dans l’art et dans la littérature profanes. Ce symbolisme conventionnel et superficiel est une invention humaine alors que le symbolisme métaphysique tient, comme nous l’avons souligné, à la nature même des choses. Il ne peut donc être inventé par la volonté de l’homme, mais il doit être reconnu et compris. Le symbolisme n’est pas l’allégorie ; celle-ci est une invention de l’homme et parfois la délimitation est difficile à établir entre le deux langages, surtout après les abus de la fin du Moyen Age. Mais les abus ou les erreurs individuelles, qui ont tant contribué à déprécier le symbolisme dans la conscience chrétienne jusqu’à le faire pendre pour un simple jeu de l’esprit, ne doivent pas faire oublier que le symbolisme est le seul langage adéquat à l’expression des vérités métaphysiques. Le monde créé reflète les qualités divines puisqu’il vient du Principe. Les choses créées peuvent donc suggérer ces qualités divines ; elles en sont des symboles. L’univers tout entier devient donc un grand livre où peuvent lire le message divin ceux dont le cœur est purifié et qui ont retrouvé l’innocence d’Adam au Paradis, selon la parole « Bienheureux les cœurs purs car ils verront Dieu ». […]
+>
+>Aborder les Pères ou le Moyen Age sans connaître le symbolisme, c’est se condamner à ne rien comprendre à cet univers si particulier que l’homme rationnel tend à rejeter en bloc parce qu’il a perdu à la fois le sens du mystère et la clef de l’énigme. Sans remonter au Moyen Age nous ne voyons pas comment sans un minimum de symbolisme admis et vécu, il est possible de pénétrer les rites chrétiens (sacrements et liturgie). Les difficultés qu’éprouve l’homme moderne vis-à-vis des rites viennent de sa fermeture au monde des symboles.
+>
+>« Le véritable fondement du symbolisme, c’est comme nous l’avons dit, la correspondance qui existe entre tous les ordres de réalité, qui les relie l’un à l’autre, et qui s’étend, par conséquent, de l’ordre naturel pris dans son ensemble à l’ordre surnaturel lui-même ; en vertu de cette correspondance, la nature tout entière n’est elle-même qu’un symbole, c’est-à-dire qu’elle ne reçoit sa vraie signification que si on la regarde comme un support pour nous élever à la connaissance des vérités surnaturelles, ou « métaphysiques » au sens propre et étymologique de ce mot, ce qui est précisément la fonction essentielle du symbolisme, et ce qui est aussi la raison d’être profonde de toute science traditionnelle. Par là même, il y a nécessairement dans le symbolisme quelque chose dont l’origine remonte plus haut et plus loin que l’humanité, et que l’on pourrait dire que cette origine est dans l’œuvre même du Verbe divin : elle est tout d’abord dans la manifestation universelle elle-même, et elle est ensuite, plus spécialement par rapport à l’humanité, dans la Tradition primordiale qui est bien, elle aussi, « révélation » du Verbe ; cette Tradition dont toutes les autres ne sont que des formes dérivées, s’incorpore pour ainsi dire dans des symboles qui se sont transmis d’âge en âg sans qu’on puisse leur assigner aucune origine « historique », et le processus de cette sorte d’incorporation symbolique est encore analogue, dans son ordre, à celui de la manifestation ». Guenon, Aperçus sur l’initiation. […]
+>
+>Certes, et nous insistons beaucoup sur ce point, il ne faut pas confondre le symbolisme dont nous parlons, avec ce que C.G. Jung appelle les « archétypes », mais l’œuvre de Jung donne, au niveau psychologique où elle se place, des ouvertures précieuses sur le symbole : elle peut faire saisir à l’homme moderne que penser, sentir et s’exprimer par symboles est une très haute fonction du mental. Si l’homme moderne se rend compte qu’il pense et s’exprime par symbole même à son insu, il sera plus ouvert au symbolisme métaphysique qui lui semblera moins étranger à sa mentalité et à ses préoccupations courantes. […]
+>
+>Mais tous les symboles ne sont pas à mettre sur le même plan. Dans les symboles chrétiens certains sont plus « efficaces » et agissent « par eux-mêmes » (ex opere operato) ; ces « symboles efficaces » sont les sacrements, signes sensibles (matériels) qui produisent la grâce, chacun selon sa vertu propre. A côté des sacrements, l’Église connaît les sacramentaux qui produisent eux aussi la grâce, mais selon les dispositions du sujet (ex opere operantis). Ces sacramentaux sont de nature très diverse : eau bénite, objets bénits, rites divers, formules récitées, gestes, etc. On conçoit qu’à la limite tout objet créé puisse devenir un sacramental pour celui qui a le coeur aussi pur que celui de l’homme sorti des mains du Créateur. C’est le cas de saint François d’Assise dont le Cantique des créatures est loin d’être la poésie sentimental qu’on y voit très souvent. Au contraire ce Cantique témoigne d’une haute « intellectualité », d’une haute intelligence des choses divines, autrement dit, d’un degré élevé de contemplation. Le symbolisme du Cantique des créateures est très proche de celui des Indiens d’Amérique du Nord, pour lesquels la nature est le temple sacré par excellence. Voir Schuon, Aperçus sur la Tradition des Indiens d’Amérique du Nord dans Etudes traditionnelles. […]
+>
+>C’est pourquoi Jésus-Christ, le Fils de Dieu incarné est le symbole parfait, le Symbole par excellence. Il réunit en lui tous les symboles possibles, et comme tout véritable symbole est efficace à quelque degré, il est le Symbole efficace par excellence puisque c’est par lui que nous vient la grâce divine dans sa plénitude. C’est pourquoi, appelé « Fils de l’homme », il peut aussi être appelé l’Homme Universel, car il est l’Homme parfait, synthèse parfaite du « métacosme », du « macrocosme » et du « microcosme », à la fois Créateur et Sauveur de l’Univers tout entier.
+
+### La sagesse
+
+>« Au commencement, Dieu créa le ciel et la terre ». Par « Ciel » et « Terre », il faut entendre les Principes masculins et féminin non-manifestés de la manifestation universelle, ceux-ci pouvant d’ailleurs s’appliquer à différents niveaux ou degrés d’existence. La terminologie chinoise à laquelle nous avons déjà fait allusion appelle aussi ces principes Ciel (Tien) et Terre (Ti). La terre est féconde, elle produit tous les êtres créés, mais sous l’influence du Ciel qui féconde la Terre par la pluie et la lumière du soleil. […]
+>
+>« Dieu dit : Que la lumière soit ». Le « Fiat Lux » ébranle le chaos des ténèbres, analogue à celui des eaux ténébreuses, et c’est la même vibration, à la fois sonore et lumineuse, qui est perçue lors de l’illumination du baptême, du moins quand le sujet est dans l’état requis pour cela. […]
+>
+>« Dieu fit le firmament et il sépara les eaux qui sont en dessous du firmament et celles qui sont au-dessus ». Les eaux inférieures symbolisent la « manifestation formelle », c’est-à-dire celle où la « forme » est caractéristique de l’individu ; les eaux supérieurs symbolisent la manifestation informelle ou supra-individuelle, autrement dit le monde angélique, caractérisé par l’absence de forme. La « marche sur les eaux » signifie proprement que celui qui l’effectue a dépassé les états individuels. Cette façon d’interpréter les premiers versets de la Genèse ne contredit par les interprétations plus littérales ou plus morales. Elle est très éloignée des théories « concordistes », mais elle se refuse énergiquement à ne voir dans la Genèse qu’un récit poétique sans signification métaphysique. Pour être clair, nous dirons que le récit de la Genèse est un « mythe », mais un mythe au sens fort et précis du mot, et pas du tout une fiction littéraire. Un mythe est un « symbole verbal » capable de transmettre à l’initié qui l’écoute de très hautes vérités d’ordre métaphysique. Le récit de la Genèse contient les symboles fondamentaux de l’homme créé à l’image de Dieu sur le rythme des « six jours » et ce n’est pas sans raison que ce récit est repris à la veillée pascale, au moment où le néophyte va renaître à une « vie nouvelle » et devenir une « créature nouvelle ». […]
+>
+>Le rôle du Prophète dans l’Islam est analogue et symboliquement identique à celui de la Vierge dans la Tradition chrétienne : « De même que la Sainte Vierge, fécondée par le Saint-Epsrit, est « Corédemptrice » et « Reine du Ciel », créée avant le reste de la Création, de même le Prophète, inspiré par le même Esprit paraclétique, est « Envoyé de Miséricorde » (Rasûl Er-Rahmah) et « Seigneur des deux existences » (de l’ici-bas et de l’au-delà), et il est « également » créé avant tous les autres êtres. Cette « création antérieure » signifie que la Vierge et le Prophète « incarnent » une Réalité principielle ou « métacosmique » ; ils s’identifient – dans leur rôle réceptif, non dans leur Connaissance divine ni, pour ce qui est de Mohammed, dans sa fonction prophétique – à l’aspect passif de l’Existence universelle (Prakriti, en arabe El-Lawh el-mahfûzh, « la Table Gardée »), et c’est pour cela que la Vierge est « immaculée » et, au point de vue simplement physique, « vierge », tandis que le Prophète est « illettré » (ummî), comme l’étaient du reste aussi les Apôtres, c’est-à-dire « pur » de la « souillure » d’un savoir humain, ou d’un savoir acquis humainement. » Schuon, De l’unité transcendante des religions. […]
+>
+>Les symboles de la Vierge dans l’Ancien Testament sont nombreux ; les Pères et les auteurs spirituels se sont plu à les recenser et à les interpréter. Marie l’Arbre de Vie qui porte le véritable fruit seul capable de rendre les hommes immortels et divins, est le vrai « Jardin d’Eden » c’est-à-dire l’Église mère des croyants, symbole du « Monde nouveau » de l’Apocalypse.
+
+### Les privilèges
+
+>En termes métaphysiques, lorsque le principe féminin non manifesté de la manifestation universelle se manifeste dans le monde, il n’est pas affecté par les limites de ce monde. C’est ce que la théologie traduit dans son langage par le mot « privilège ». Or précisément, dans l’ordre historique, ce privilège a été réservé au Christ et à la Vierge. Tous deux sont exempts du péché originel, qui est certes un péché d’origine puisqu’il affecte toute l’humanité dès l’origine, mais qui est « en fait » aussi un péché de « nature » puisqu’en fait toute la race humaine y est soumise depuis la faute d’Adam et d’Eve. […]
+>
+>Adam est Eve ont engendré l’humanité pécheresse. Le Christ et la Vierge engendrent l’humanité nouvelle. Comme Adam et Eve président à la génération charnelle, le Christ et la Vierge président à la « re-naissance spirituelle ». De même qu’ils sont principes de « manifestation », ils sont principes de « régénération » ou de salut. […]
+>
+>Le fait que Marie a conçu et mis au monde le Fils de Dieu lui donne le titre de « Mère de Dieu ». On peut chercher la raison pour laquelle Dieu a choisi une femme pour s’incarner.
+
+### Ecce mater tua
+
+>La théologie explique que la Vierge a mis au monde le Fils de Dieu incarné en lui fournissant la nature humaine. Mais, malgré la dualité des natures, la Personne de Jésus-Christ est unique. C’est pourquoi Marie a véritablement mis au monde la Personne du Fils de Dieu – ou de Jésus Christ – et pas seulement sa nature humaine ; elle peut donc être appelée à juste titre Mère de Dieu. […]
+>
+>A vrai dire, c’est le Christ « seul » qui nous sauve. C’est lui qui est le Médiateur universel. « Pour aller à Jésus il faut aller à Marie, c’est notre médiatrice d’intercession ; pour aller au Père éternel, il faut aller à Jésus, c’est notre médiateur de rédemption », Saint Louis-Marie de Montfort, Traité de la vraie dévotion à la Sainte-Vierge. La médiation de Marie, pour nécessaire qu’elle soit, n’en est pas moins « subordonnée » à celle de son Fils. La théologie s’efforce de distinguer et de préciser ces deux médiations. La difficulté est résolue si l’on se souvient que ces deux médiations sont celles de l’Essence et de la Substance par rapport à la manifestation. Elles sont donc toutes les deux nécessaires, mais pas identiques, et l’une peut véritablement être dite la « cause » de l’autre. Marie est donc véritablement « Mère », à la fois de Dieu, du Christ et des hommes. Mais elle demeure « toujours vierge », comme nous l’avons expliqué. Marie est aussi « épouse », épouse de saint Joseph par son mariage avec lui, mais surtout l’épouse de l’Esprit-Saint dont elle a conçu. Marie est donc la seule femme qui soit à la fois et pleinement, Mère, Vierge et Epouse.
+
+### Les noms et les symboles
+
+>L’adjectif « mystique » précise ici la haute portée spirituelle. Il faut traduire « mystique » par « mystérieux » ou tout au moins préciser qu’il ne faut pas entendre le mot « mystique » avec la nuance assez spéciale que lui a donné l’Occident chrétien. « Mystique » se dit étymologiquement des « mystères », c’est-à-dire de ce qui a rapport à la mystérieuse transformation de l’âme en Dieu par son ascension spirituelle, transformation qui est proprement « inexprimable » parce que dépassant le domaine de la « forme ». Le mystère est donc l’inexprimable, et non l’incompréhensible, et ce que nous avons dit du symbolisme laisse entendre que ce qui peut être dit du « Mystère de la Vierge » ne peut l’être que d’une façon symbolique. […]
+>
+>Le prototype des icônes est censé remonter à saint Luc, l’Evangéliste, qui l’aurait exécuté avec l’aide des Anges. Bien que de toute évidence ce prototype n’ait pas été conservé, il faut admettre que les icônes sont venues du Ciel et qu’elles ont en définitive une origine non humaine. Les icônes sont les images traditionnelles de la Vierge. En effet, les principes qui président à la confection des icônes se transmettent en Orient dans des confréries religieuses analogues aux anciennes corporations de l’Occident, et l’artiste n’est pas libre de faire ce qu’il veut. Il doit de toute façon se soumettre aux canons définis par les conciles et aux règles édictées par les Pères. L’ordre et la disposition du sujet sont ainsi réglés ; à lui revient l’exécution. […]
+>
+>L’icône répand ainsi son influence spirituelle ici-bas car elle traduit en langage visuel humain les réalités célestes, mais pour que celles-ci puissent exercer leur influence, il faut un « support » adéquat, d’où la sévérité de l’Église d’Orient dans le contrôle qu’elle exerce sur la représentation iconographique. […]
+>
+>Une icône, la Vierge, par exemple, doit avoir une beauté en quelque sorte surhumaine, en ce sens qu’elle doit être exempte des laideurs et des souillures de la nature déchue. C’est pourquoi une icône est tendre, mais nullement sentimentale ; elle est bonne mais point familière ; elle est belle, mais pas selon les goûts du jour. Une icône est en définitive un « type », le type de l’humanité rachetée et glorifiée, telle qu’elle est associée à la contemplation de Dieu au Paradis. C’est pourquoi une icône est sereine et majestueuse, tout en restant proche de nous ; elle est un modèle à réaliser, non un objet à exploiter sentimentalement, voire commercialement. […]
+>
+>Quand l’artiste exécute une icône, il le fait en imitant les règles mêmes, ou les lois, qui ont présidé à la création du monde. L’artiste devient ainsi un « créateur » et l’art imite bien la nature, mais non pas en elle-même (ce qui serait une copie satanique), mais selon « son mode d’opération » comme dit saint Thomas. L’artiste se sert ainsi de son métier comme d’un support pour sa vie spirituelle, en même temps qu’il offre ce support aux autres. Ceci suppose évidemment que l’artiste soit chrétien et qu’il ait été initié à l’iconographie.
+
+### Le culte
+
+>Le culte est rendu à la Vierge principalement par la liturgie. Il existe un cycle marial étroitement associé au cycle christique ; c’est le culte public, nous n’en parlerons pas ici. Le culte privé est parfois appelé « dévotion ». Il faudrait donner à ce mot son sens étymologique et le débarrasser de l’aspect sentimental qui s’attache à lui depuis l’époque moderne. Saint Louis-Marie de Montfort est par excellence le docteur de la vraie dévotion à la Vierge. Nous renvoyons à ses ouvrages. Pourtant le style et les images de l’époque sont désagréables aux lecteurs modernes ; il est donc nécessaire de dépasser la forme et de pénétrer jusqu’à la doctrine. […]
+>
+>Le culte privé se manifeste de façons très diverses. Parmi toutes les « dévotions », nous ne retiendrons que la principale d’entre elles : le Rosaire. Que le Rosaire soit l’œuvre de saint Dominique, ou qu’il ait été mis au point par ses successeurs, peu importe. Sa richesse doctrinale et son aspect méthodique font de lui la première des dévotions. […]
+>
+>Le Rosaire nous apparaît comme la dévotion par excellence de l’Église latine. Saint Dominique a répandu le Rosaire et a contribué à lui donner sa forme actuelle ; son origine remonte aux croisades : les croisés ont rapporté d’Orient des rosaires musulmans sur lesquels ils ont dit des « Pater noster », d’où le nom de « Patenôtre » qui leur fut d’abord donné ; par la suite, on récita des formules en l’honneur de la Vierge, d’abord « Ave Maria », puis « Ave Maria gratia plena », et finalement la formule entière à laquelle s’ajouta la seconde partie de la salutation quand l’usage en fut répandu dans l’Église. Enfin, s’ajoutèrent les « méditations » sur les « mystères » du Christ et de la Vierge. […]
+>
+>Le rythme est ce qui donne au Rosaire sa forme même. […]
+>
+>Les nombres sur lesquels est bâti le Rosaire sont 1, 2, 3, 5, 10, 15, 50, 150, 153. La signification en est donnée par l’abbé Bertaud. […]
+>
+>S’il est vrai que Dieu a tout créé avec « poids, nombre et mesure » (Sap. 11, 20), il en résulte, comme le pensaient les pythagoriciens, que le nombre est à la base du monde, soit matériel, soit spirituel. Il est seulement évident que dans le monde spirituel, ces nombres représentent des « qualités » et non des « quantités ». […]
+>
+>Le rythme est une vibration qui met l’âme en accord avec la vibration de l’univers ; l’âme résonnant au rythme de ce dernier est alors semblable au « chaos primitif » ébranlé par la « Parole » divine « Fiat Lux » : les vibrations de cette « Parole éternelle » se font alors sentir dans l’âme quand celle-ci a mis en accord son « microcosme » avec le « macrocosme » pour finalement être réintégrée dans le « métacosme ». Le « microcosme » c’est l’homme ; le « macrocosme » c’est l’univers créé ; le « métacosme » c’est le divin non créé. […]
+>
+>Le corps n’est pas l’âme, mais faisant partie de l’individu, il doit être intégré à l’activité spirituelle de ce dernier, sinon il sera comme un élément aberrant et il se révoltera contre cette activité. Cette question du rôle du corps et de son attitude dans la prière est d’une importance très grande. Les positions hiératiques de la prière liturgique peuvent être utilisées dans la prière privée, mais il existe aussi une « liturgie intime » qui s’inspire des postures des âsanas du hatha-yoga. […]
+>
+>« Dieu et son Nom sont identiques ». Pour celui qui ne comprend cela à aucun degré, le Rosaire ne peut avoir aucun sens. Il est évident que le « simple » qui récite son Rosaire le comprend déjà à un certain degré. C’est l’incroyant qui ne comprend rien, car un Nom divin n’est rien pour lui. Les paroles du Christ sont formelles : il faut prier en son Nom, demander en son Nom, se réunir en son Nom. Le Nom divin n’est pas « manifestation de Dieu », mais il est « Dieu dans sa manifestation », car il est d’abord « Dieu » avant d’être autre chose. Le nom divin est inexprimable dans son essence, mais dans sa Miséricorde, Dieu révèle un Nom qui est sa Présence au milieu des hommes : ce Nom est le support de toutes les qualités divines que nous pouvons connaître et il réalise en nous ces qualités dans la mesure où nous rendons présent à nous-mêmes ce Nom par l’invocation. […]
+>
+>Il faut donc accepter la « technique » de l’invocation des Noms sacrés. Jésus-Christ lui-même a dit : « Tout ce que vous demandez à mon Père en mon Nom, il vous l’accordera » (Jean, 15, 16). […] Le Nom divin est donc laissé après l’Ascension, comme un « mémorial », un rappel et une véritable « présence » du Seigneur. […]
+>
+>L’invocation du Nom de Jésus s’est d’abord développée dans les déserts de l’Orient chrétien en utilisant de courtes formules où était inséré le Nom divin. Par la suite, la prière d’invocation a été transportée au Mont Athos où a pris naissance la spiritualité appelée « hésychasme ». […]
+>
+>Le Moyen Age latin a connu certaines formes d’invocation, ne serait-ce que le Kyrie eleison à la messe et dans les litanies ; mais il n’a pas connu ce que l’Orient appelle la « Prière de Jésus », formule indéfiniment répétée, et susceptible de produire de merveilleux effets spirituels, à condition que la récitation soit accompagnée d’une ascèse convenable et soit fait sous la direction d’un guide spirituel expérimenté. […]
+>
+>Le Rosaire est par excellence une méthode d’invocation et un résumé de la doctrine métaphysique. […]
+>
+>Le Rosaire se compose essentiellement de Pater et d’Ave. Le Pater est la prière révélée par Jésus-Christ lui-même, et l’Ave est la prière apportée du Ciel par l’Ange. […]
+>
+>Le Pater est une formule de louange et de purification, car il demande pardon des offenses. L’Ave est la formule d’invocation des Noms sacrés. […]
+>
+>Par la salutation « Ave Maria », l’âme entre en relation avec la Vierge ou Substance universelle, dont elle veut réaliser les perfections, grâce au nom sacré de Maria qui est efficace. 
+>
+>Maria, ou la Substance, est « gratia plena ». Immaculée dès sa conception, Marie est remplie de la grâce d’en haut. L’âme désire recevoir cette grâce et se conformer le plus possible à la perfection de la Vierge.
+>
+>Dominus tecum : le Seigneur est toujours présent dans la Substance, puisque c’est lui qui agit en elle, ou par elle, et la fait produire. De même, la présence divine est acquise à l’âme qui se conforme en tant que substance individuelle aux qualités de la Substance universelle dont elle est séparée par la chute originelle.
+>
+>Benedicta tu in mulieribus : Quand la Substance se manifeste, elle est bénie entre toutes les femmes. La même bénédiction est acquise à l’âme en laquelle Dieu reconnaît l’image divine imprimée en elle par sa présence. En réalité,Dieu seul peut être dit « béni » et c’est sa présence dans la Substance qui vaut à celle-ci la bénédiction.
+>
+>Et benedictus fructus ventris tui : la Substance est rendue féconde par la présence divine, et le fruit qu’elle engendre est dit « béni ». De même, l’âme individuelle doit engendrer en elle l’image du Verbe et ce fruit d’elle sera béni. En réalité, lorsque l’âme produit, c’est qu’elle meurt en Dieu. Le fruit de l’âme est ainsi plus réel qu’elle même, puisqu’elle s’éteint dans ce fruit divin par réintégration essentielle. […]
+>
+>Le Rosaire est à la fois prière, invocation, et méditation. De nos jours, la méditation et l’oraison sont des exercices séparés, faits souvent sans ordre et sans progression méthodique. La méditation se perd dans la ratiocination et n’est plus qu’une discussion du mental avec lui-même ; l’oraison se perd dans des effusions sentimentales et s’essouffle à la recherche de « pieuses affections », sans prendre appui sur la doctrine. La vie spirituelle devient subjective ; le « moi » devient la principale des considérations, et le péché serait presque la matière première de la vie spirituelle.
+>
+>Le Rosaire n’a pas ces inconvénients : il est centré sur les mystères christiques et les mystères marials ; il est « objectif » et le « moi » doit s’effacer devant ce qu’il contemple. Mais surtout le Rosaire est méthodique : l’invocation est facilitée par la méditation, et la méditation est rendue féconde par l’invocation ; de plus les mystères retracent le cycle spirituel que doit parcourir l’âme et ils constituent une puissante synthèse doctrinale qu’il s’agit de réaliser dans la vie spirituelle. La méditation seule n’est pas féconde ; l’invocation seule risque de s’égarer, surtout au début de la vie spirituelle ; lorsqu’on invoque un Nom divin dans le mystère qu’on médite, on permet à ce Nom de réaliser en nous le contenu du mystère. La nature humaine est dispersion, faiblesse et pauvreté. Pour aller à Dieu, l’homme a besoin de se concentrer et de s’unifier. Par le rythme, le corps participe à la prière, mais l’homme est aussi « pensée » ; s’il doit aller à Dieu avec tout ce qu’il est, il lui faut aller à Dieu avec sa pensée.
+>
+>En méditant les mystères du Rosaire, l’homme utilise dans la mesure du possible son mental pour aller à Dieu. Mais le mental est faible et il se disperse aisément : l’invocation par les formules du Rosaire facilite la méditation en opérant la concentration de l’être et met en valeur cette méditation. A son tour, la méditation facilité l’invocation. Mais il faut insister ici : la méditation n’a aucun pouvoir par elle-même car la ratiocination n’avance à rien : c’est la grâce – par le support du Nom divin dans sa matérialité – qui réalise le contenu du mystère que l’on médite. L’homme est incapable de se concentrer : seul le Nom divin unifie l’être, mais le mental a pour fonction d’écarter les obstacles. […]
+>
+>L’âme réalise le contenu du mystère, mais cette réalisation est au-delà du domaine psychologique. Nous voulons dire par là que les représentations imaginatives ou émotionnelles peuvent parfois être utiles mais parfois aussi nuisibles.
+
+### Le sein virginal
+
+>Si nous parlons ici de symbolisme chrétien, il faut entendre l’expression chrétienne du symbolisme, ou encore, le symbolisme appliqué au christianisme, car il va de soi que le symbolisme est universel, puisqu’il repose sur la nature même des choses et non sur l’invention de l’arbitraire humain. De même, la doctrine à laquelle ce symbolisme sert de support peut être chrétienne dans son expression, mais dans sa signification la plus profonde, qui est d’ordre métaphysique, elle est universelle, puisqu’elle ne fait que traduire dans les limites contingentes du temps et de l’espace, les principes métaphysiques, qui, eux, sont éternels et immuables. […]
+>
+>Les vérités métaphysiques et religieuses peuvent être méditées selon trois perspectives qui relèvent des trois grandes voies qui conduisent les âmes à Dieu. Ces trois voies sont la voie d’action, la voie d’amour, et la voie de connaissance. Ce sont les trois voies fondamentales qui correspondent aux éléments actifs, affectifs et cognitifs de la nature humaine. Chez l’homme concret nous trouvons un mélange variable de ces trois éléments ; l’élement qui prédomine colore la mentalité de cet homme et explique la voie spirituelle qui lui est assignée par sa nature individuelle. Chaque voie est à son tour divisée en trois degrés qui contiennent symboliquement les trois voies. La voie d’action se divise en voie du travail, voie des œuvres et voie d’ascèse ou de sacrifice. SI le travail peut, en principe, être sanctifié, il n’est ni saint, ni sanctifiant par lui-même ; c’est pourquoi il ne constitue pas par lui-même une voie spirituelle, mais peut cependant être intégré aux deux autres voies, ou aux deux degrés supérieurs de la voie d’action. La voie d’amour se divise en voie de confiance, voie d’amour héroïque et voie d’amour suprême. La voie de connaissance se divise en voie d’étude ou de science, en voie de méditation spéculative et voie de concentration contemplative. […]
+>
+>Rappelons encore une fois que selon son étymologie, le mystère est l’inexprimable, et non l’incompréhensible. Le mystère est l’inexprimable, d’abord parce que l’on ne doit pas « jeter les perles aux pourceaux » ni « profaner » le sacré, mais surtout parce que les paroles humaines sont impuissantes à traduire d’une façon adéquate les vérités « sur-naturelles ». Celles-ci ne peuvent être qu’assenties dans une instruction initiatique faite de bouche à oreille (il faut souligner ici le rôle du « maître » dans la voie spirituelle : le « guru » des hindous, le « starets » de l’Église orthodoxe russe) à l’aide de « symboles » appropriés, et parce qu’enfin, ces vérités doivent être « réalisées » ontologiquement, et pas seulement perçues spéculativement, et cela à l’aide des mêmes symboles.
