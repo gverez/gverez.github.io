@@ -96,7 +96,7 @@ Toute l’œuvre de Dieu est de nous conduire à goûter la joie du ciel, c’es
 
 ### 1.2 Le Verbe, la relation filiale et la vie <a name="p1-2"></a>
 
-[Genèse 1, 26] (/pages/ancientestament.html#genese-1-3-31) :
+[Genèse 1, 26](/pages/ancientestament.html#genese-1-3-31) :
 >Et Dieu dit: "Faisons les hommes (adam) dans notre image comme notre ressemblance [...]"
 
 Faisons : le sujet de ce verbe est au pluriel dans l’original. Cela a donné lieu à beaucoup de commentaires, tant juifs que chrétiens. En effet, même si le mot pour Dieu (elohim) est grammaticalement un pluriel en hébreu, il s’accorde avec un verbe au singulier dans le reste du chapitre, comme lorsqu’il est dit: "elohim créa". L’interprétation chrétienne a toujours vu une annonce de la Trinité dans ce pluriel et aussi dans l’évocation de la Parole créatrice de Dieu et de l’Esprit qui vivifie et plane sur les eaux [[Giovanni Polito](/references/giovannipolito.html#genese-1-3-30)]. Au verbe “faisons” au pluriel s’ajoute aussi l’adjectif possessif "notre" dans "notre image et ressemblance".
