@@ -1,9 +1,12 @@
+---
+title: Daniel Maurin
+---
 [<img src="/images/accueil.png">](/)
 [<img src="/images/ancientestament.png">](/pages/ancientestament.html)
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Hildegarde de Bingen
+# Daniel Maurin
 
 [<img src="/images/danielmaurin.png">](https://www.babelio.com/auteur/Daniel-Maurin/49581)
 

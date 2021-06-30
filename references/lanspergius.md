@@ -1,3 +1,6 @@
+---
+title: Lanspergius
+---
 [<img src="/images/accueil.png">](/)
 [<img src="/images/ancientestament.png">](/pages/ancientestament.html)
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
@@ -7,7 +10,7 @@
 
 [<img src="/images/lanspergius.png">](https://fr.wikipedia.org/wiki/Lanspergius)
 
-**1489\-1539**, moine chartreux allemand, dit aussi Lansperge le Chartreux.
+**1489-1539**, moine chartreux allemand, dit aussi Lansperge le Chartreux.
 
 
 ## Commentaire sur Jean 12, 44-50 <a name="jean-12-44-50"></a>

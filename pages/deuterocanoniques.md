@@ -1,3 +1,6 @@
+---
+title: Deutérocanoniques
+---
 [<img src="/images/accueil.png">](/)
 [<img src="/images/ancientestament.png">](/pages/ancientestament.html)
 [<img src="/images/deuterocanonique.png">](/pages/deuterocanonique.html)

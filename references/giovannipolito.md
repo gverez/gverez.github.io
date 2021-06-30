@@ -1,3 +1,6 @@
+---
+title: Giovanni Polito
+---
 [<img src="/images/accueil.png">](/)
 [<img src="/images/ancientestament.png">](/pages/ancientestament.html)
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)

@@ -1,7 +1,6 @@
 ---
 title: Foi
 ---
-
 [<img src="/images/accueil.png">](/)
 [<img src="/images/ancientestament.png">](/pages/ancientestament.html)
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
@@ -38,11 +37,38 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 
 ### Sur l'origine de la création
 
-[Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31),:
->Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: “Que soit une lumière” et lumière fut.
+[Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31) :
+>Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: "Que soit une lumière" et lumière fut.
 
 **Bereshit**
-Commentaire sur le premier mot, Bereshit : Abravanel
+Commentaire sur le premier mot, Bereshit : Aristote, Abravanel
+
+
+Arkhế: Apparaissant dans la traduction grecque de la Septante ce mot peut, selon le contexte, peut assumer différentes significations :
+- commencement (dans le temps)
+- début (du chemin)
+- origine (de ce qui est engendré)
+- fondement (de ce qui est construit)
+- modèle (de ce qui est formé)
+- principe
+- élément
+- point de départ (de ce qui est appris)
+Nous retrouvons, donc, dans le Commentaire à l’évangile selon Jean, une des premières identifications de arkhế avec la Sagesse divine exprimée par le lógos créateur.
+
+Génesis: Le mot génesis, genèse, vient de la racine gen que nous retrouvons dans les mots français générer, gène, engendrer. Le mot ἐγένετο egéneto è l’aoriste 2 medio-passif du verbe gígnomai, formé sur la racine gen, avec la signification de venir à l’être, naître, être engendré, devenir. D’où la traduction de egéneto, proche étymologiquement de la racine gen par “fut généré” au sens de vint à l’être, advint, fut. Ce verbe peut aussi être traduit tout simplement par le verbe être. Ce mot est récurant dans la traduction grecque de la Genèse de la Septante où il traduit l’hébreu וַיְהִי-כֵן (vayehy-ken) “… et cela fut” dans les séquences où tous les êtres sont créées comme, par exemple : “Dieu dit que la lumière soit et la lumière fut” (Genèse 1, 3). Aussi l’évangile de Jean (1, 3) rappelle que “tout a été généré par Lui”, πάντα δι’ αὐτοῦ ἐγένετο (pánta di’autoũ egéneto).
+
+Principium: ce mot est utilisé dans la traduction latine de la bible, appelée Vulgata, pour traduire le mot grec arkhế. En latin aussi on essayera de reporter sur ce mot les spéculations sur les différentes significations du mot grec arkhế. On conservera surtout celles qui nous parlent d’un commencement dans le temps ou d’un commencement logique, d’un principe dans les actions, de principes dans la conception du monde et de la vie, comme dans le cas de principes moraux. Mais, aussi on pourra conserver la nuance qui se réfère à quelque chose de principal, de premier et prioritaire dans une hiérarchie aussi bien d’ordre logique que dans la société. En latin on peut utiliser un mot de même racine “principia” (pluriel de principium) pour parler des principes qui gouvernent nos pensées et des princes (principes pluriel de princeps) qui gouvernent ce monde. Tous se réfère à l’idée de principal, premier dans l’importance et l’origine et première place dans le temps et la causalité.
+
+
+Lógos: Le mot lógos provient de la racine leg/log qui signifiait à l’origine rassembler, cueillir, choisir et a ensuite évolué vers le sens de raconter, parler. Ainsi, à l’idée de proférer une parole est associé le fait que cette parole manifeste un certain choix, une énumération qui est le résultat d’un procédé qui a rassemblé, choisi, réuni, une liste de choses. Cette parole est donc l’expression d’une opération, d’une certaine raison et logique. Ce qui est logique, relatif donc au lógos, est en même temps un énoncé et un énoncé qui soit conforme à la raison. C’est ainsi que dans la philosophie grecque et chez d’autres Pères de l’Eglise, on a pu parler de spermatikoi logoi, c’est à dire ce qui exprime la raison d’être d’une chose, ce qui la détermine à être ce qu’elle est et en constitue donc l’origine et la cause. Le mot lógos est donc expression de la σοφία, du savoir, de la sagesse. La Parole de Dieu est engendrée par lui, éternellement, comme le Père engendre le Fils, mais un Fils coéternel à lui et de même substance (ousia) que lui, nous expliquent les pères grecs et les conciles. D’après l’évangile selon saint Jean, c’est par le lógos que tout a été créé, ce lógos, s’est fait chair et nous avons vu sa gloire en Jésus Christ, Fils de Dieu, Parole, Verbum, éternellement engendré par lui.
+
+
+Verbum est le mot latin utilisé pour traduire lógos. Ce mot qui signifie verbe, parole, comme déjà expliqué au sujet de lógos, doit être compris dans le contexte comme parole qui est expression de la sagesse, du savoir de Dieu, parole en qui se trouve la raison et le principe de tout ce qui est, car par lui tout est venu à l’être.
+
+
+
+
+
 
 
 
@@ -61,6 +87,12 @@ Selon Rabbi Moses ben Nahman (Nahmanide) (citation par Abravanel), à partir du 
 Selon Ibn Rushd (Averroès) (citation par Abravanel), les formes matérielles étaient contenues dans des matières en puissance. De plus, il affirmait l'acte créateur tout en soutenant l'opinion d'Aristote à propros de l'éternité du monde car même si le monde (et donc la matière) existe éternelle, cela n'enlève rien à l’acte créateur qui la créé et la maintient dans la création depuis toute éternité (commentaires de Polito sur Abravanel). Abravanel argumente contre cette hypothèse en soutenant que la matière peut procéder de la matière et en dériver, mais non pas l’esprit, l’âme, qui provident d'un substrat différent. L'esprit, comme l'intellect, ne peut pas provenir d’une matière, mais doit son existence à un acte créateur, car elle répond à d’autres lois. Tout ceci fait dire à Abravanel que le monde n'est pas venu à l'existence à partir de quelque chose, mais après le néant total, et qu'il ne peut soutenir une "hylé" avant la première création.
 
 
+Pas de matière préformée : augustin
+
+
+
+
+
 
 
 
@@ -73,20 +105,12 @@ Prendre toutes les références bibliques, toutes les mettres à la fin de ce ch
 
 Tout ceci parait extrême pour un seul mot, mais en vérité, c'est une manière de décrire Dieu.
 
-Arkhế: Ce mot est aussi le premier mot du livre de la Genèse dans la traduction grecque de la Septante. Comme nous le verrons, la signification du mot arkhế est complexe et beaucoup d’auteurs nous fournissent des exemples de son utilisation dans plusieurs domaines. Arkhế, selon le contexte, peut donc assumer différentes significations: commencement (dans le temps), début (du chemin), origine (de ce qui est engendré), fondement (de ce qui est construit), modèle (de ce qui est formé), principe, élément, point de départ (de ce qui est appris), etc. Nous retrouvons, donc, dans le Commentaire à l’évangile selon Jean, une des premières identifications de arkhế avec la Sagesse divine exprimée par le lógos créateur.
 
-Lógos: Le mot lógos provient de la racine leg/log qui signifiait à l’origine rassembler, cueillir, choisir et a ensuite évolué vers le sens de raconter, parler. Ainsi, à l’idée de proférer une parole est associé le fait que cette parole manifeste un certain choix, une énumération qui est le résultat d’un procédé qui a rassemblé, choisi, réuni, une liste de choses. Cette parole est donc l’expression d’une opération, d’une certaine raison et logique. Ce qui est logique, relatif donc au lógos, est en même temps un énoncé et un énoncé qui soit conforme à la raison. C’est ainsi que dans la philosophie grecque et chez d’autres Pères de l’Eglise, on a pu parler de spermatikoi logoi, c’est à dire ce qui exprime la raison d’être d’une chose, ce qui la détermine à être ce qu’elle est et en constitue donc l’origine et la cause. Le mot lógos est donc expression de la σοφία, du savoir, de la sagesse.
-La Parole de Dieu est engendrée par lui, éternellement, comme le Père engendre le Fils, mais un Fils coéternel à lui et de même substance (ousia) que lui, nous expliquent les pères grecs et les conciles. D’après l’évangile selon saint Jean, c’est par le lógos que tout a été créé, ce lógos, s’est fait chair et nous avons vu sa gloire en Jésus Christ, Fils de Dieu, Parole, Verbum, éternellement engendré par lui.
 
-Génesis: Le mot génesis, genèse, vient de la racine gen que nous retrouvons dans les mots français générer, gène, engendrer. Le mot ἐγένετο egéneto è l’aoriste 2 medio-passif du verbe gígnomai, formé sur la racine gen, avec la signification de venir à l’être, naître, être engendré, devenir. D’où la traduction de egéneto, proche étymologiquement de la racine gen par “fut généré” au sens de vint à l’être, advint, fut. Ce verbe peut aussi être traduit tout simplement par le verbe être. Ce mot est récurant dans la traduction grecque de la Genèse de la Septante où il traduit l’hébreu וַיְהִי-כֵן (vayehy-ken) “… et cela fut” dans les séquences où tous les êtres sont créées comme, par exemple : “Dieu dit que la lumière soit et la lumière fut” (Genèse 1, 3). Aussi l’évangile de Jean (1, 3) rappelle que “tout a été généré par Lui”, πάντα δι’ αὐτοῦ ἐγένετο (pánta di’autoũ egéneto).
 
-Principium: ce mot est utilisé dans la traduction latine de la bible, appelée Vulgata, pour traduire le mot grec arkhế. En latin aussi on essayera de reporter sur ce mot les spéculations sur les différentes significations du mot grec arkhế. On conservera surtout celles qui nous parlent d’un commencement dans le temps ou d’un commencement logique, d’un principe dans les actions, de principes dans la conception du monde et de la vie, comme dans le cas de principes moraux. Mais, aussi on pourra conserver la nuance qui se réfère à quelque chose de principal, de premier et prioritaire dans une hiérarchie aussi bien d’ordre logique que dans la société. En latin on peut utiliser un mot de même racine “principia” (pluriel de principium) pour parler des principes qui gouvernent nos pensées et des princes (principes pluriel de princeps) qui gouvernent ce monde. Tous se réfère à l’idée de principal, premier dans l’importance et l’origine et première place dans le temps et la causalité.
 
-Verbum est le mot latin utilisé pour traduire lógos. Ce mot qui signifie verbe, parole, comme déjà expliqué au sujet de lógos, doit être compris dans le contexte comme parole qui est expression de la sagesse, du savoir de Dieu, parole en qui se trouve la raison et le principe de tout ce qui est, car par lui tout est venu à l’être.
 
-voir Aristote sur Arkhé
 
-Pas de matière préformée : augustin
 
 
 

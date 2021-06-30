@@ -1,9 +1,12 @@
+---
+title: Bonaventure de Bagnoregio
+---
 [<img src="/images/accueil.png">](/)
 [<img src="/images/ancientestament.png">](/pages/ancientestament.html)
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# François d'Assise
+# Bonaventure de Bagnoregio
 
 [<img src="/images/bonaventuredebagnoregio.png">](https://fr.wikipedia.org/wiki/Bonaventure_de_Bagnoregio)
 
