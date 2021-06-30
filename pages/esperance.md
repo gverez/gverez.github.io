@@ -6,7 +6,7 @@ title: Espérance
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu théologal de l'espérance <a name="esperance"></a>
+# Vertu théologale de l'espérance <a name="esperance"></a>
 
 
 Dans la doctrine de l'Église catholique romaine, l'espérance est la confiance d’obtenir dans l’avenir ce que Dieu a promis : d'une part sa grâce sur la Terre, d'autre part le salut éternel
@@ -15,13 +15,20 @@ Selon les premiers chrétiens, l'espérance diffère de la foi du fait qu'elle �
 
 Le catéchisme décrit ainsi l’espérance : « L’espérance est la vertu théologale par laquelle nous désirons comme notre bonheur le Royaume des cieux et la Vie éternelle, en mettant notre confiance dans les promesses du Christ et en prenant appui, non sur nos forces, mais sur le secours de la grâce du Saint-Esprit. « Gardons indéfectible la confession de l’espérance, car celui qui a promis est fidèle » (He 10, 23). « Cet Esprit, il l’a répandu sur nous à profusion, par Jésus Christ notre Sauveur, afin que, justifiés par la grâce du Christ, nous obtenions en espérance l’héritage de la vie éternelle » (Tt 3, 6-7). »[1]
 
-Selon le Catéchisme de l'Église catholique2, la vertu d’espérance répond à l’aspiration au bonheur placée par Dieu dans le cœur de tout homme. Elle assume les espoirs qui inspirent les activités des hommes et les purifie pour les ordonner au Royaume des cieux. Elle protège du découragement et soutient en tout délaissement ; elle dilate le cœur dans l’attente de la béatitude éternelle. L’élan de l’espérance préserve de l’égoïsme et conduit au bonheur de la charité.
+Selon le Catéchisme de l'Église catholique, la vertu d’espérance répond à l’aspiration au bonheur placée par Dieu dans le cœur de tout homme. Elle assume les espoirs qui inspirent les activités des hommes et les purifie pour les ordonner au Royaume des cieux. Elle protège du découragement et soutient en tout délaissement ; elle dilate le cœur dans l’attente de la béatitude éternelle. L’élan de l’espérance préserve de l’égoïsme et conduit au bonheur de la charité.
 
 
 les croyants attendent de Dieu, avec confiance, sa grâce en ce monde et une vie éternelle après la mort.
 
 
 L’espérance n’est donc pas un sentiment, comme pourra l'être plus tard l'espoir, mais un acte habituel de la volonté. Elle porte sur un avenir ni probable ni plausible mais certain. Cet avenir n’est pas l'avenir souhaité ou désiré par le sujet de l'espérance, mais il est celui promis par Dieu.
+
+
+
+
+
+
+
 
 
 
@@ -47,7 +54,7 @@ Eve enfante Caïn (celui qui acquiert tout pour lui même) et Abel (celui qui re
 
 
 
-### A RANGER
+### A RANGER directement dans les fichiers des auteurs
 
 /pages/references/gregoiredenysse.html#genese-3-1-24
 
@@ -71,11 +78,11 @@ Ambroise de Milan
 
 ## Au jardin d'Eden, Adam-Jésus et Eve-Eglise
 
-La partie de la Genèse au Jardin d'Eden peut être vue de façon allégorique. Le paradis est une terre fertile, ce qui est l'âme féconde, planté en Eden, qui est un certain plaisir ou bien une terre qui a été cultivée, dans laquelle se trouve la délectation de l’âme. La source qui irriguait le paradis peut être vue comme Jésus Christ [[Genèse 2, 4-10](/pages/nouveautestament.html#genese-2-4-10)]. De plus, la relation entre Adam et Eve [[Genèse 2, 15-25](/pages/nouveautestament.html#genese-2-15-25)] peut être comprise commme celle entre Jésus et son Eglise : le dernier Adam est le Christ, la côte du Christ est la vie de l’Eglise. La "mère des vivants", c’est l’Eglise que Dieu a bâti. Comprendre batir la femme : l’une comme aide d’Adam, l’autre, en vérité, comme aide du Christ. Non que le Christ ait besoin d’une aide, mais afin que nous cherchions et désirions parvenir à la grâce du Christ à travers l’Eglise [[Ambroise de Milan](/references/ambroisedemilan.html#genese)]. Comme Adam dort afin qu’Ève soit faite, le Christ meurt afin que l’Eglise soit faite. Ève a été faite du côté d’Adam endormi, le Christ mort, son côté est percuté par une lance, afin que les sacrements, par lesquels l’Eglise est formée, en coulent [[Augustin d'Hippone](augustindhippone.html#genese-2-15-25)]
+La partie de la Genèse au Jardin d'Eden peut être vue de façon allégorique. Le paradis est une terre fertile, ce qui est l'âme féconde, planté en Eden, qui est un certain plaisir ou bien une terre qui a été cultivée, dans laquelle se trouve la délectation de l’âme. La source qui irriguait le paradis peut être vue comme Jésus Christ [[Genèse 2, 4-10](/pages/nouveautestament.html#genese-2-4-10)]. De plus, la relation entre Adam et Eve [[Genèse 2, 15-25](/pages/nouveautestament.html#genese-2-15-25)] peut être comprise commme celle entre Jésus et son Eglise : le dernier Adam est le Christ, la côte du Christ est la vie de l’Eglise. La "mère des vivants", c’est l’Eglise que Dieu a bâti. Comprendre batir la femme : l’une comme aide d’Adam, l’autre, en vérité, comme aide du Christ. Non que le Christ ait besoin d’une aide, mais afin que nous cherchions et désirions parvenir à la grâce du Christ à travers l’Eglise [[Ambroise de Milan](/references/ambroisedemilan.html#genese)]. Comme Adam dort afin qu’Ève soit faite, le Christ meurt afin que l’Eglise soit faite. Ève a été faite du côté d’Adam endormi, le Christ mort, son côté est percuté par une lance, afin que les sacrements, par lesquels l’Eglise est formée, en coulent [[Augustin d'Hippone](augustindhippone.html#genese-2-15-25)].
 
 
 
-### A RANGER
+### A RANGER directement dans les fichiers des auteurs
 
 Ambroise de Milan
 

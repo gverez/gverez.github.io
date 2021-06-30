@@ -111,7 +111,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 - Apocalypse
 
 # A faire :
-- J'ai lu les commentaires de Giovanni sur la Genèse mais pas ajouté ses références des Pères dans "Commentaires"
+- J'ai lu les commentaires de Giovanni sur la Genèse mais pas ajouté ses références des Pères dans "Commentaires" -> ajouter ceux de esperance.md
 - Ensuite faire le même travail sur les evangiles et l'apocalypse
 - Enfin seulement terminer par les thèmes, de manière à tout relier
 

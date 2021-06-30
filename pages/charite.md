@@ -6,7 +6,7 @@ title: Charité
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu théologal de la charité <a name="charite"></a>
+# Vertu théologale de la charité <a name="charite"></a>
 
 TODO
 

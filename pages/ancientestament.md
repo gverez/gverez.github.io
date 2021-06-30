@@ -25,22 +25,7 @@ title: Ancien Testament
 
 >ENTÊTE Elohims créait les ciels et la terre. (Trad. : Chouraqui)
 
-[[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)]
-
-[[Origène](/references/origene.html#genese-1-1)]
-
-[[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)]
-
-[[Grégoire de Nysse](/references/gregpiredenysse.html#genese-1-1)]
-
-[Ambroise de Milan](/references/ambroisedemilan.html#genese-1-1)
-
-[Augustin d'Hippone](/references/augustindhippone.html#genese-1-1)
-
-[Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1)
-
-[[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
-
+[[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)] - [[Origène](/references/origene.html#genese-1-1)] - [[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)] - [[Grégoire de Nysse](/references/gregpiredenysse.html#genese-1-1)] - [[Ambroise de Milan](/references/ambroisedemilan.html#genese-1-1)] - [[Augustin d'Hippone](/references/augustindhippone.html#genese-1-1)] - [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) - [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
@@ -51,11 +36,7 @@ title: Ancien Testament
 
 >La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit (רוּחַ ruaḥ) de Dieu planant (מְרַחֶפֶת meraḥefet) au-dessus des eaux. (Trad. : Polito de l'hébreu)
 
-[[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]
-
-[[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)]
-
-[Augustin d'Hippone](/references/augustindhippone.html#genese-1-2)
+[[Giovanni Polito](/references/giovannipolito.html#genese-1-2)] - [[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)] - [[Augustin d'Hippone](/references/augustindhippone.html#genese-1-2)]
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
