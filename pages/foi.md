@@ -90,20 +90,27 @@ Mot latin utilisé pour traduire lógos. Ce mot qui signifie verbe, parole, comm
 
 **Chronologie vs Ordre**
 
-Les deux premiers mots de la Genèse peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" [Giovanni Polito](/references/itshaqabravanel.html#genese-1-1). En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis. Pour Abravenel, comme avant lui pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), les jours de la création rendent compte de l’ordre et non pas d’une succession de temps.
+Les deux premiers mots de la Genèse peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" [[Giovanni Polito](/references/itshaqabravanel.html#genese-1-1)]. En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis. Pour Abravenel, comme avant lui pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), les jours de la création rendent compte de l’ordre et non pas d’une succession de temps.
 
 
 
 
 
-**Sur la matière**
+**Sur la matière et le néant préalable**
 
-Selon Rabbi Moses ben Nahman (Nahmanide) (citation par Abravanel), à partir du néant, Dieu a créé deux matières en puissance et sans forme et à partir de l'une d'elle il a fait le ciel et à partir de l'autre la terre. Les philosophes de l’antiquité parlaient d’une matière (hylé) préexistante et éternelle qui aurait été modelée par Dieu (commentaires de Polito sur Abravanel). Aristote notamment parle de cette matière en puissance qui ne peut qu'inconnaissable jusqu'à ce qu'elle devienne en acte, soit effectivement en puissance. Toujours selon Aristote : "ce qui est en puissance ne peut se distinguer ni se reconnaître de ce qui est en puissance". Ceci fait dire à Abravanel que la conception de Rabbi Moses ben Nahman n'est pas possible car il ne pouvait y avoir deux matières en puissance distinctes.
+Selon Rabbi Moses ben Nahman (Nahmanide) [[cf Abravanel](/references/itshaqabravanel.html#genese-1-1)], à partir du néant, Dieu a créé deux matières en puissance et sans forme et à partir de l'une d'elle il a fait le ciel et à partir de l'autre la terre. Les philosophes de l’antiquité parlaient d’une matière (hylé) préexistante et éternelle qui aurait été modelée par Dieu [[cf Polito](/references/itshaqabravanel.html#genese-1-1)]. Aristote notamment parle de cette matière en puissance qui ne peut qu'inconnaissable jusqu'à ce qu'elle devienne en acte, soit effectivement en puissance. Toujours selon Aristote : "ce qui est en puissance ne peut se distinguer ni se reconnaître de ce qui est en puissance". Ceci fait dire à Abravanel que la conception de Rabbi Moses ben Nahman n'est pas possible car il ne pouvait y avoir deux matières en puissance distinctes.
 
-Selon Ibn Rushd (Averroès) (citation par Abravanel), les formes matérielles étaient contenues dans des matières en puissance. De plus, il affirmait l'acte créateur tout en soutenant l'opinion d'Aristote à propros de l'éternité du monde car même si le monde (et donc la matière) existe éternelle, cela n'enlève rien à l’acte créateur qui la créé et la maintient dans la création depuis toute éternité (commentaires de Polito sur Abravanel). Abravanel argumente contre cette hypothèse en soutenant que la matière peut procéder de la matière et en dériver, mais non pas l’esprit, l’âme, qui provident d'un substrat différent. L'esprit, comme l'intellect, ne peut pas provenir d’une matière, mais doit son existence à un acte créateur, car elle répond à d’autres lois. Tout ceci fait dire à Abravanel que le monde n'est pas venu à l'existence à partir de quelque chose, mais après le néant total, et qu'il ne peut soutenir une "hylé" avant la première création.
+Selon Ibn Rushd (Averroès) [[cf Abravanel](/references/itshaqabravanel.html#genese-1-1)], les formes matérielles étaient contenues dans des matières en puissance. De plus, il affirmait l'acte créateur tout en soutenant l'opinion d'Aristote à propros de l'éternité du monde car même si le monde (et donc la matière) existe éternelle, cela n'enlève rien à l’acte créateur qui la créé et la maintient dans la création depuis toute éternité [[cf Polito](/references/itshaqabravanel.html#genese-1-1)]. Abravanel argumente contre cette hypothèse en soutenant que la matière peut procéder de la matière et en dériver, mais non pas l’esprit, l’âme, qui provident d'un substrat différent. L'esprit, comme l'intellect, ne peut pas provenir d’une matière, mais doit son existence à un acte créateur, car elle répond à d’autres lois. Tout ceci fait dire à Abravanel que le monde n'est pas venu à l'existence à partir de quelque chose, mais après le néant total, et qu'il ne peut soutenir une "hylé" avant la première création.
+
+[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1) décrit Dieu à la manière d'un architecte voulant édifier une ville, qui pense d'abord les modèles de celle-ci, la ville étant projetée dans son esprit, imprimée dans sa psykhế, n'ayant pas d'endroit à l'extérieur, puis réalise le monde sensible en utilisant comme modèle ce monde intelligibile, qui est soustrait aux sens. Le
+
+
 
 
 Pas de matière préformée : augustin
+
+
+
 
 
 

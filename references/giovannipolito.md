@@ -12,6 +12,7 @@ title: Giovanni Polito
 
 **?-**, prêtre aumônier catholique.
 
+[Découvrir son site et ses nombreux travaux de traduction](http://bible.art-sacre.net/)
 
 ## Commentaire sur Genèse 1, 1 <a name="genese-1-1"></a>
 
