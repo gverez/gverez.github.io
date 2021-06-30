@@ -25,7 +25,7 @@ title: Ancien Testament
 
 >ENTÊTE Elohims créait les ciels et la terre. (Trad. : Chouraqui)
 
-[[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)] - [[Origène](/references/origene.html#genese-1-1)] - [[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)] - [[Grégoire de Nysse](/references/gregpiredenysse.html#genese-1-1)] - [[Ambroise de Milan](/references/ambroisedemilan.html#genese-1-1)] - [[Augustin d'Hippone](/references/augustindhippone.html#genese-1-1)] - [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) - [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
+[[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1)] - [[Origène](/references/origene.html#genese-1-1)] - [[Basile de Césarée](/references/basiledecesaree.html#genese-1-1)] - [[Grégoire de Nysse](/references/gregpiredenysse.html#genese-1-1)] - [[Ambroise de Milan](/references/ambroisedemilan.html#genese-1-1)] - [[Augustin d'Hippone](/references/augustindhippone.html#genese-1-1)] - [[Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1)] - [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
