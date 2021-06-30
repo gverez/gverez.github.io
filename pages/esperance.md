@@ -8,32 +8,15 @@ title: Espérance
 
 # Vertu théologale de l'espérance <a name="esperance"></a>
 
+## Définition
 
-Dans la doctrine de l'Église catholique romaine, l'espérance est la confiance d’obtenir dans l’avenir ce que Dieu a promis : d'une part sa grâce sur la Terre, d'autre part le salut éternel
+Dans la doctrine de l'Église catholique romaine, l'espérance est la confiance d’obtenir dans l’avenir ce que Dieu a promis : d'une part sa grâce sur la Terre, d'autre part le salut éternel.  Le catéchisme décrit l’espérance comme la vertu théologale par laquelle nous désirons comme notre bonheur le Royaume des cieux et la Vie éternelle, en mettant notre confiance dans les promesses du Christ et en prenant appui, non sur nos forces, mais sur le secours de la grâce du Saint-Esprit. Cette vertu répond à l’aspiration au bonheur placée par Dieu dans le coeur de tout homme. Elle assume les espoirs qui inspirent les activités des hommes et les purifie pour les ordonner au Royaume des cieux. Elle protège du découragement et soutient en tout délaissement ; elle dilate le cœur dans l’attente de la béatitude éternelle. L’élan de l’espérance préserve de l’égoïsme et conduit au bonheur de la charité. L’espérance n’est donc pas un sentiment, comme pourra l'être plus tard l'espoir, mais un acte habituel de la volonté. Elle porte sur un avenir ni probable ni plausible mais certain. Cet avenir n’est pas l'avenir souhaité ou désiré par le sujet de l'espérance, mais il est celui promis par Dieu. Selon les premiers chrétiens, l'espérance diffère de la foi du fait qu'elle émane "de l'intérieur", de l’âme, quand la foi est inspirée "de l'extérieur", par l'Esprit Saint
 
-Selon les premiers chrétiens, l'espérance diffère de la foi du fait qu'elle émane "de l'intérieur", de l’âme, quand la foi est inspirée "de l'extérieur", par l'Esprit Saint. 
+Hebreux 10, 23 :
+>Gardons indéfectible la confession de l’espérance, car celui qui a promis est fidèle.
 
-Le catéchisme décrit ainsi l’espérance : « L’espérance est la vertu théologale par laquelle nous désirons comme notre bonheur le Royaume des cieux et la Vie éternelle, en mettant notre confiance dans les promesses du Christ et en prenant appui, non sur nos forces, mais sur le secours de la grâce du Saint-Esprit. « Gardons indéfectible la confession de l’espérance, car celui qui a promis est fidèle » (He 10, 23). « Cet Esprit, il l’a répandu sur nous à profusion, par Jésus Christ notre Sauveur, afin que, justifiés par la grâce du Christ, nous obtenions en espérance l’héritage de la vie éternelle » (Tt 3, 6-7). »[1]
-
-Selon le Catéchisme de l'Église catholique, la vertu d’espérance répond à l’aspiration au bonheur placée par Dieu dans le cœur de tout homme. Elle assume les espoirs qui inspirent les activités des hommes et les purifie pour les ordonner au Royaume des cieux. Elle protège du découragement et soutient en tout délaissement ; elle dilate le cœur dans l’attente de la béatitude éternelle. L’élan de l’espérance préserve de l’égoïsme et conduit au bonheur de la charité.
-
-
-les croyants attendent de Dieu, avec confiance, sa grâce en ce monde et une vie éternelle après la mort.
-
-
-L’espérance n’est donc pas un sentiment, comme pourra l'être plus tard l'espoir, mais un acte habituel de la volonté. Elle porte sur un avenir ni probable ni plausible mais certain. Cet avenir n’est pas l'avenir souhaité ou désiré par le sujet de l'espérance, mais il est celui promis par Dieu.
-
-
-
-
-
-
-
-
-
-
-
-
+>Tite 3, 6-7
+>Cet Esprit, il l’a répandu sur nous à profusion, par Jésus Christ notre Sauveur, afin que, justifiés par la grâce du Christ, nous obtenions en espérance l’héritage de la vie éternelle.
 
 ## Aux origines du péché
 
