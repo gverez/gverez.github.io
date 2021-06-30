@@ -8,9 +8,9 @@ title: Giovanni Polito
 
 # Giovanni Polito
 
-[<img src="/images/giovannipolito.png">](INSERT A LINK)
+[<img src="/images/giovannipolito.png">](https://people.epfl.ch/giovanni.polito)
 
-Détails
+**?-**, prêtre aumônier catholique.
 
 
 ## Commentaire sur Genèse 1, 1 <a name="genese-1-1"></a>
