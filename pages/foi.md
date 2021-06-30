@@ -11,10 +11,10 @@ title: Foi
 **Table des matières**
 
 1. [Au commencement](#p1)
-	1. [1 Sur l'origine de la création](#p1-1)
-	1. [2 Compléments sur la trinité](#p1-2)
-	1. [3 Un Esprit maternel, l'amour](#p1-3)
-	1. [4 Dessein supposé](#p1-4)
+	1. [Sur l'origine de la création](#p1-1)
+	1. [Compléments sur la trinité](#p1-2)
+	1. [Un Esprit maternel, l'amour](#p1-3)
+	1. [Dessein supposé](#p1-4)
 
 
 ## 1. Au commencement <a name="p1"></a>
@@ -46,28 +46,6 @@ title: Foi
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)]
 
 
-
-
-### Références bibliques
-
-Arkhé comme fondation (basile de césarée) : 
-Proverbes 1, 7 : Arkhế de la sagesse est la crainte du Seigneur
-
-Arkhé en tant que genèse (origène)
-Proverbes 8, 22 : Dieu m’a engendrée en tant que arkhé de ses chemins pour ses œuvres
-
-Arkhé en tant que premier mouvement (basile de césarée) : 
-Proverbes 16,7 : Faire ce qui est juste est arkhế du bon chemin 
-
-Arkhé dans ce qui se réfère au fait d’apprendre, les lettres comme arkhés de l'écriture (origène) :
-Hébreux 5, 12 : À cause du temps, vous devriez être des maîtres, mais vous avez encore besoin que nous vous enseignions certains éléments de l’arkhế des paroles de Dieu.
-
-Arkhé en référence à la venue de l'être (origène) :
-Psaume 148, 5 : il commanda et ils furent créés
-
-
-
-
 ### 1.1 Sur l'origine de la création <a name="p1-1"></a>
 
 **Bereshit**
@@ -87,6 +65,22 @@ Apparaissant dans la traduction grecque de la Septante ce mot peut, selon le con
 Ce mot est particulièrement commenté par [Aristote](/references/aristote.html#arkhe), [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), [Origène](/references/origene.html#genese-1-1), [Basile de Césarée](/references/basiledecesaree.html#genese-1-1)
 
 Nous retrouvons, donc, dans le Commentaire à l’évangile selon Jean, une des premières identifications de arkhế avec la Sagesse divine exprimée par le lógos créateur.
+
+Arkhé comme fondation (basile de césarée) : 
+Proverbes 1, 7 : Arkhế de la sagesse est la crainte du Seigneur
+
+Arkhé en tant que genèse (origène)
+Proverbes 8, 22 : Dieu m’a engendrée en tant que arkhé de ses chemins pour ses œuvres
+
+Arkhé en tant que premier mouvement (basile de césarée) : 
+Proverbes 16,7 : Faire ce qui est juste est arkhế du bon chemin 
+
+Arkhé dans ce qui se réfère au fait d’apprendre, les lettres comme arkhés de l'écriture (origène) :
+Hébreux 5, 12 : À cause du temps, vous devriez être des maîtres, mais vous avez encore besoin que nous vous enseignions certains éléments de l’arkhế des paroles de Dieu.
+
+Arkhé en référence à la venue de l'être (origène) :
+Psaume 148, 5 : il commanda et ils furent créés
+
 
 **Génesis**
 
@@ -229,35 +223,36 @@ Selon la doctrine trinitaire le Fils de Dieu est la Parole éternelle de Dieu, q
 
 [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]
 
-A côté de l’autorité paternelle, la Bible introduit tout de suite en Dieu son affection maternelle à travers le mot Esprit et le verbe planer dans [Genèse 1, 2](/pages/ancientestament.html#genese-2-1):
+Dieu est au-delà de nos distinctions de genre et cependant, la multiplicité de nos mots et de nos réalités nous permet de nous approcher un peu plus de lui. Si nous considérons que Dieu est Père, c’est que nous voulons affirmer qu’il a eu l’initiative de l’acte créateur ; mais si nous parlons de son Esprit, de la façon qu’il a de nous aimer, nous sommes obligés de prendre l’image de l’amour maternel, un amour qui ne peut se séparer du fruit de ses entrailles. Il s’agit d’un attachement et d’une communion profonde entre la mère et l’enfant qu’elle porte [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]. A côté de l’autorité paternelle, la Bible introduit tout de suite en Dieu son affection maternelle à travers le mot Esprit et le verbe planer dans [Genèse 1, 2](/pages/ancientestament.html#genese-2-1):
 
->La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit (רוּחַ ruaḥ) de Dieu planant (מְרַחֶפֶת meraḥefet) au-dessus des eaux. (Trad. : Polito de l'hébreu)
+>La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit (ruaḥ) de Dieu planant (meraḥefet) au-dessus des eaux.
 
-Dieu est au-delà de nos distinctions de genre et cependant, la multiplicité de nos mots et de nos réalités nous permet de nous approcher un peu plus de lui. Si nous considérons que Dieu est Père, c’est que nous voulons affirmer qu’il a eu l’initiative de l’acte créateur ; mais si nous parlons de son Esprit, de la façon qu’il a de nous aimer, nous sommes obligés de prendre l’image de l’amour maternel, un amour qui ne peut se séparer du fruit de ses entrailles. Il s’agit d’un attachement et d’une communion profonde entre la mère et l’enfant qu’elle porte. (polito genese-1-2)
+[Basile de Césarée](/references/basiledecesaree.html#genese-1-2) et [Augustin d'Hippone](/references/augustindhippone.html#genese-1-2) sont attentif à la traduction du mot (meraḥefet) qui se rapporte à l’Esprit de Dieu (ruaḥ : souffle, esprit de genre féminin en hébreu) et rappellent la tradition syriaque, langue proche de l’hébreu, qui traduit ce mot par réchauffer, couver, évoquant justement le geste de l’oiseau qui se tient au-dessus de ses petits, qui infuse sa chaleur et son énergie vitale aux oeufs [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]. Basile réaffirme l'enseignement traditionnel chrétien pour qui la création est l'oeuvre de la Trinité. Ici l'action de l'Esprit est celle d’infuser la vie de Dieu en ses créature. Dans le récit de la création, Augustin contemple l’oeuvre de la Trinité: "Dieu dit" donc Dieu engendre la Parole, il est Père, et sa Parole, le Verbe divin, est son Fils, la Parole qui exprime parfaitement ce qu’il est, sa volonté : dans le Fils on voit le Père. Ensuite, c’est l’Esprit Saint qu’il contemple dans "Dieu vit que cela est bon" car la création est l’oeuvre de sa bonté, un reflet de sa bonté et la bonté de Dieu est son souffle, son Esprit qui donne vie, qui infuse la vie à la création et la conduit à sa perfection. Chaque être, conduit à sa perfection, renvoie à la bonté créatrice de l’esprit divin.
+
 
 Dieu se compare à un aigle qui porte ses petits sur ses ailes :
 
->Exode 19, 4 : Vous avez vu ce que j’ai fait à l’Égypte, comment je vous ai portés sur les ailes des aigles et vous ai conduit jusqu’à moi
+>Exode 19, 4 : Vous avez vu ce que j’ai fait à l’Égypte, comment je vous ai portés sur les ailes des aigles et vous ai conduit jusqu’à moi.
 >
->Deutéronome 32, 11 : Tel un aigle qui éveille son nid et plane au-dessus de ses petits, il déploie ses ailes, il le prend, il le porte sur ses ailes robustes
+>Deutéronome 32, 11 : Tel un aigle qui éveille son nid et plane au-dessus de ses petits, il déploie ses ailes, il le prend, il le porte sur ses ailes robustes.
 
-Les explication à ce sujet du rabbin Rachi (Rabbi Chlomo ben Itzhak HaTzarfati 1040-1105) dont les commentaires accompagnent souvent les bibles hébraïques: "Il les a conduits avec miséricorde (raḥmim) et compassion (ḥemlah), comme un aigle qui est plein de miséricorde pour ses enfants". Il emploie les mots bibliques (raḥmim) et compassion (ḥemlah) qui nous disent l’attachement d’une mère qui porte ses enfants. Le mot raḥmim vient de reḥem, le ventre maternel, l’utérus et le mot ḥemlah de la racine ḥamal porter, qui, en arabe, sert aussi à dire la femme enceinte, qui porte, et se trouve dans la Bible pour dire la compassion (polito).
+Les explication à ce sujet du rabbin Rachi (Rabbi Chlomo ben Itzhak HaTzarfati 1040-1105) dont les commentaires accompagnent souvent les bibles hébraïques: "Il les a conduits avec miséricorde (raḥmim) et compassion (ḥemlah), comme un aigle qui est plein de miséricorde pour ses enfants". Il emploie les mots bibliques (raḥmim) et compassion (ḥemlah) qui nous disent l’attachement d’une mère qui porte ses enfants. Le mot raḥmim vient de reḥem, le ventre maternel, l’utérus et le mot ḥemlah de la racine ḥamal porter, qui, en arabe, sert aussi à dire la femme enceinte, qui porte, et se trouve dans la Bible pour dire la compassion [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)].
 
 Dans l'Evangile, l'image de la colombe figure l'Esprit Saint :
 >Luc 3, 22 : "L’Esprit Saint, sous une apparence corporelle, comme une colombe, descendit sur Jésus, et il y eut une voix venant du ciel : « Toi, tu es mon Fils bien-aimé ; en toi, je trouve ma joie. »"
 
 Jésus s'adresse à Jérusalem :
 >Luc 13, 34 : Combien de fois ai-je voulu rassembler tes enfants comme la poule rassemble ses poussins sous ses ailes 
-Cette affection véritable – qui ne voit que la beauté de ses petits – est bien féminine, comme celle de la mère qui ne se séparera jamais de son propre enfant, même si aux yeux de la société c’est un criminel. Pour elle, même adulte et coupable, il reste le fruit des ses entrailles, l’enfant bien-aimé (polito genese-1-2)
 
-Basile de Césarée et Augustin **AJOUTER CITATIONS** sont aussi attentif à la traduction du mot (meraḥefet) qui se rapporte à l’Esprit de Dieu (ruaḥ : souffle, esprit de genre féminin en hébreu) et rappellent la tradition syriaque, langue proche de l’hébreu, qui traduit ce mot par réchauffer, couver, évoquant justement le geste de l’oiseau qui se tient au-dessus de ses petits, qui infuse sa chaleur et son énergie vitale aux oeufs (polito).
+Cette affection véritable – qui ne voit que la beauté de ses petits – est bien féminine, comme celle de la mère qui ne se séparera jamais de son propre enfant, même si aux yeux de la société c’est un criminel. Pour elle, même adulte et coupable, il reste le fruit des ses entrailles, l’enfant bien-aimé [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)].
+
+
 
 Aussi bien la Bible ("reḥem") que le Qur’an ("raḥmān", "raḥīm") nous parlent de l’amour de Dieu pour nous, sa miséricorde en utilisant le même mot qui évoque la mère qui porte son enfant en elle, dans son utérus. En latin on a traduit cette racine par "miséricorde" et "miséricordieux" qui évoquent le mot coeur (cor, cordis), mais dans les langues sémitiques l’idée de l’attachement et de la compassion est liée au mot reḥem : utérus. Le savant juif André Chouraqui nous a proposé de traduire l’omniprésent "Dieu, le miséricordieux", par "Dieu, le matriciel".
 
 
-la création est l’oeuvre de la Trinité et Basile, tient à réaffirmer ici qui l’action de l’Esprit est celle d’infuser la vie de Dieu en ses créature, le souffle de Dieu donne et transmet la vie divine à ses créatures.
 
-Dans le récit de la création, Augustin contemple l’oeuvre de la Trinité: “Dieu dit” donc Dieu engendre la Parole, il est Père, et sa Parole, le Verbe divin, est son Fils, la Parole qui exprime parfaitement ce qu’il est, sa volonté: dans le Fils on voit le Père. Ensuite, c’est l’Esprit Saint qu’il contemple dans “Dieu vit que cela est bon” car la création est l’oeuvre de sa bonté, un reflet de sa bonté et la bonté de Dieu est son souffle, son Esprit qui donne vie, qui infuse la vie à la création et la conduit à sa perfection. Chaque être, conduit à sa perfection, renvoie à la bonté créatrice de l’esprit divin.
+
 
 
 
@@ -293,13 +288,3 @@ lien Niels Bohr
 
 
 
-
-[Siracide](#siracide)
-
-
-## Siracide <a name="siracide"></a>
-
-### Siracide 3, 17-24 <a name="siracide-3-17-24"></a>
->Mon fils, agis avec douceur en tout ce que tu fais et tu seras aimé de l’homme agréable à Dieu. Plus tu es grand, plus il faut t’humilier, et devant le Seigneur tu trouveras grâce. Car grande est la puissance du Seigneur, et il est glorifié par les humbles. Ce qui est trop difficile pour toi, ne le recherche pas, ce qui est au-dessus de tes forces, ne l’examine pas. Réfléchis sur les commandements qui t’ont été donnés, tu n’as pas besoin des choses cachées. Ne t’acharne pas à des œuvres qui te dépassent ; ce qui t’a déjà été montré est plus que ne peut concevoir l’esprit humain. Car beaucoup ont été égarés par leurs spéculations, leur imagination perverse a faussé leurs pensées. (TOB)
-
-<sub>[Retour à Deutérocanoniques](#deuterocanoniques) — [Retour à Siracide](#siracide)</sub>
