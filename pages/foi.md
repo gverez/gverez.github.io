@@ -41,7 +41,7 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 >Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: "Que soit une lumière" et lumière fut.
 
 [Jean 1, 1-3](/pages/nouveautestament.html#jean-1-1-18) :
->Dans arkhế était le lógos et le lógos était auprès de Dieu et le lógos était Dieu. Celui-ci était dans arkhế auprès de Dieu. Toutes choses sont venues à l’être par lui, et en dehors de lui pas une seule [chose] de ce qui est venu à l’être n’est venue à l’être
+>Dans arkhế était le lógos et le lógos était auprès de Dieu et le lógos était Dieu. Celui-ci était dans arkhế auprès de Dieu. Toutes choses sont venues à l’être par lui, et en dehors de lui pas une seule [chose] de ce qui est venu à l’être n’est venue à l’être.
 
 **Bereshit**
 
@@ -50,9 +50,9 @@ Commentaire sur le premier mot, Bereshit : Aristote, Abravanel
 
 **Arkhế**
 
-Apparaissant dans la traduction grecque de la Septante ce mot peut, selon le contexte, peut assumer différentes significations :
+Apparaissant dans la traduction grecque de la Septante ce mot peut, selon le contexte, peut assumer différentes significations [[Aristote](/references/aristote.html#arkhe)] :
 - commencement (dans le temps)
-- début (du chemin)
+- début (du chemin) 
 - origine (de ce qui est engendré)
 - fondement (de ce qui est construit)
 - modèle (de ce qui est formé)
@@ -90,10 +90,8 @@ Mot latin utilisé pour traduire lógos. Ce mot qui signifie verbe, parole, comm
 
 **Chronologie vs Ordre**
 
-Les deux premiers mots peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" (Polito sur Abravanel). En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi Itshaq Abravanel n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis.
+Les deux premiers mots de la Genèse peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" [Giovanni Polito](/references/itshaqabravanel.html#genese-1-1). En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis. Pour Abravenel, comme avant lui pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), les jours de la création rendent compte de l’ordre et non pas d’une succession de temps.
 
-Compréhension des trois premiers verset plutôt comme une chronologie : Rabbi Chlomo ben Itzhak HaTzarfati, Rabbi Abraham Ibn Ezrah, Rabbi Levi ben Geshon (citation par Abravanel)
-Pas une chronologie mais une relation d'ordre : Abravanel
 
 
 
