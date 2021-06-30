@@ -10,9 +10,26 @@ title: Foi
 
 **Table des matières**
 
-TODO, avec numérotation, donc à la fin de la rédaction.
+[1. Au commencement](#p1)
 
-## Au commencement
+	[1.1 Sur l'origine de la création](#p1-1)
+
+	[1.2 Compléments sur la trinité](#p1-2)
+	
+	[1.3 Un Esprit maternel, l'amour](#p1-3)
+	
+	[1.4 Dessein supposé](#p1-4)
+
+
+## 1. Au commencement <a name="p1"></a>
+
+
+[Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31) :
+>Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: "Que soit une lumière" et lumière fut.
+
+[Jean 1, 1-3](/pages/nouveautestament.html#jean-1-1-18) :
+>Dans arkhế était le lógos et le lógos était auprès de Dieu et le lógos était Dieu. Celui-ci était dans arkhế auprès de Dieu. Toutes choses sont venues à l’être par lui, et en dehors de lui pas une seule [chose] de ce qui est venu à l’être n’est venue à l’être.
+
 
 
 [[Aristote](/references/aristote.html#arkhe)]
@@ -35,30 +52,45 @@ TODO, avec numérotation, donc à la fin de la rédaction.
 
 
 
-### Sur l'origine de la création
 
-[Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31) :
->Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: "Que soit une lumière" et lumière fut.
+### Références bibliques
 
-[Jean 1, 1-3](/pages/nouveautestament.html#jean-1-1-18) :
->Dans arkhế était le lógos et le lógos était auprès de Dieu et le lógos était Dieu. Celui-ci était dans arkhế auprès de Dieu. Toutes choses sont venues à l’être par lui, et en dehors de lui pas une seule [chose] de ce qui est venu à l’être n’est venue à l’être.
+Arkhé comme fondation (basile de césarée) : 
+Proverbes 1, 7 : Arkhế de la sagesse est la crainte du Seigneur
+
+Arkhé en tant que genèse (origène)
+Proverbes 8, 22 : Dieu m’a engendrée en tant que arkhé de ses chemins pour ses œuvres
+
+Arkhé en tant que premier mouvement (basile de césarée) : 
+Proverbes 16,7 : Faire ce qui est juste est arkhế du bon chemin 
+
+Arkhé dans ce qui se réfère au fait d’apprendre, les lettres comme arkhés de l'écriture (origène) :
+Hébreux 5, 12 : À cause du temps, vous devriez être des maîtres, mais vous avez encore besoin que nous vous enseignions certains éléments de l’arkhế des paroles de Dieu.
+
+Arkhé en référence à la venue de l'être (origène) :
+Psaume 148, 5 : il commanda et ils furent créés
+
+
+
+
+### 1.1 Sur l'origine de la création <a name="p1-1"></a>
 
 **Bereshit**
-
-Commentaire sur le premier mot, Bereshit : Aristote, Abravanel
 
 
 **Arkhế**
 
-Apparaissant dans la traduction grecque de la Septante ce mot peut, selon le contexte, peut assumer différentes significations [[Aristote](/references/aristote.html#arkhe)] :
+Apparaissant dans la traduction grecque de la Septante ce mot peut, selon le contexte, peut assumer différentes significations :
 - commencement (dans le temps)
 - début (du chemin) 
 - origine (de ce qui est engendré)
 - fondement (de ce qui est construit)
 - modèle (de ce qui est formé)
-- principe
-- élément
+- principe (d'une action vers sa finalité)
 - point de départ (de ce qui est appris)
+
+Ce mot est particulièrement commenté par [Aristote](/references/aristote.html#arkhe), [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), [Origène](/references/origene.html#genese-1-1), [Basile de Césarée](/references/basiledecesaree.html#genese-1-1)
+
 Nous retrouvons, donc, dans le Commentaire à l’évangile selon Jean, une des premières identifications de arkhế avec la Sagesse divine exprimée par le lógos créateur.
 
 **Génesis**
@@ -70,9 +102,16 @@ Le mot génesis, genèse, vient de la racine gen que nous retrouvons dans les mo
 
 Ce mot est utilisé dans la traduction latine de la bible, appelée Vulgata, pour traduire le mot grec arkhế. En latin aussi on essayera de reporter sur ce mot les spéculations sur les différentes significations du mot grec arkhế. On conservera surtout celles qui nous parlent d’un commencement dans le temps ou d’un commencement logique, d’un principe dans les actions, de principes dans la conception du monde et de la vie, comme dans le cas de principes moraux. Mais, aussi on pourra conserver la nuance qui se réfère à quelque chose de principal, de premier et prioritaire dans une hiérarchie aussi bien d’ordre logique que dans la société. En latin on peut utiliser un mot de même racine "principia" (pluriel de principium) pour parler des principes qui gouvernent nos pensées et des princes (principes pluriel de princeps) qui gouvernent ce monde. Tous se réfère à l’idée de principal, premier dans l’importance et l’origine et première place dans le temps et la causalité [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)].
 
+**Kephalaioi
+
+les interprètes (ἑρμηνευταί herméneutes) qui veulent redonner un sens plus proche de l’original, traduisent le premier mot du texte hébreu (bereshit) par «ἐν κεφαλαίῳ» (en kephalaioi). Effectivement ce mot traduit littéralement le mot hébreu bereshit (בְּרֵאשִׁית) car la première syllabe “be” (בְּ) signifie “dans”, la deuxième “resh” (רֵאש) est formée à partir du mot “rosh” (רֹאש) “tête” qui s’écrit avec les mêmes consonnes en hébreu et à la fin le suffixe “it” pour nous dire ce qui est relatif à. Le grec «ἐν κεφαλαίῳ» (en kephalaioi) est donc parfaitement symétrique à cette lecture du mot hébreu: «ἐν» (en) signifiant «dans», «κεφᾰλή» kephalê la tête et «κεφ᾵λαιον» (kephálaion) ce qui est relatif à la tête. Cette expression “en kephalaioi” peut aussi signifier, comme le dit Basile, tout ensemble ou en peu de mots, en résumé: kephálaion étant la tête, est donc le point principal, celui qu’il faut mentionner lorsqu’on fait un résumé. [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)].
+
+
 **Lógos**
 
 Le mot lógos provient de la racine leg/log qui signifiait à l’origine rassembler, cueillir, choisir et a ensuite évolué vers le sens de raconter, parler. Ainsi, à l’idée de proférer une parole est associé le fait que cette parole manifeste un certain choix, une énumération qui est le résultat d’un procédé qui a rassemblé, choisi, réuni, une liste de choses. Cette parole est donc l’expression d’une opération, d’une certaine raison et logique. Ce qui est logique, relatif donc au lógos, est en même temps un énoncé et un énoncé qui soit conforme à la raison. C’est ainsi que dans la philosophie grecque et chez d’autres Pères de l’Eglise, on a pu parler de spermatikoi logoi, c’est à dire ce qui exprime la raison d’être d’une chose, ce qui la détermine à être ce qu’elle est et en constitue donc l’origine et la cause. Le mot lógos est donc expression de la σοφία, du savoir, de la sagesse. La Parole de Dieu est engendrée par lui, éternellement, comme le Père engendre le Fils, mais un Fils coéternel à lui et de même substance (ousia) que lui, nous expliquent les pères grecs et les conciles. D’après l’évangile selon saint Jean, c’est par le lógos que tout a été créé, ce lógos, s’est fait chair et nous avons vu sa gloire en Jésus Christ, Fils de Dieu, Parole, Verbum, éternellement engendré par lui [[Giovanni Polito](/references/giovannipolito.html#genese-1-1)].
+
+
 
 
 **Verbum**
@@ -90,7 +129,16 @@ Mot latin utilisé pour traduire lógos. Ce mot qui signifie verbe, parole, comm
 
 **Chronologie vs Ordre**
 
-Les deux premiers mots de la Genèse peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" [[Giovanni Polito](/references/itshaqabravanel.html#genese-1-1)]. En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis. Pour Abravenel, comme avant lui pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), les jours de la création rendent compte de l’ordre et non pas d’une succession de temps.
+Les deux premiers mots de la Genèse peuvent se lire : "au commencement il créa" ou en les liant entre eux, selon Rabbi Chlomo ben Itzhak HaTzarfati (Rachi) et Rabbi Abraham Ibn Ezrah, ils peuvent aussi se lire : "au commencement de l’acte de créer" [[Giovanni Polito](/references/itshaqabravanel.html#genese-1-1)]. En utilisant cette dernière manière, Rabbi Levi ben Gershon (Gershonide) propose que le premier mot du récit de la Genèse, "bereshit" au commencement, se trouve directement uni par le sens à "Que la lumière soit" de façon à comprendre : "Au commencement de la création … Dieu dit: 'Que la lumière soit'". Cependant Rabbi [Itshaq Abravanel](/references/itshaqabravanel.html#genese-1-1) n’est pas d’accord avec cette lecture car alors le propos fondamental de la Bible, l'annonce de la création, est omis. Pour Abravenel, comme avant lui pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), les jours de la création rendent compte de l’ordre et non pas d’une succession de temps. A ce sujet, [Basile de Césarée](/references/basiledecesaree.html#genese-1-1) donne une définition d'arkhé, comme commencement de quelque chose, dans une notion d'ordre qui n’inclut pas nécessairement une antécédence temporelle, mais plutôt logique : "nous sommes en mouvement vers la vie bienheureuse premièrement par nos oeuvres justes".
+
+
+
+
+**Le temps et donc éternité de Dieu**
+
+
+Pour [Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1), le temps n'existait pas avant le monde mais il est venu à être avec lui ou après lui, car le mouvement, dont le temps est l'intervalle, ne peut pas venir avant ce qui est mû. Ainsi, il décrit Dieu comme l'Etre séparé, éternel et immobile, qui préside à l'ordre du cosmos (kosmos en grec signifie ce qui est bien ordonné, bien disposé), ce qui est proche de la vision du monde d'Aristote [cf. Polito](/references/philondalexandrie.html#genese-1-1). [Origène](/references/origene.html#genese-1-1) distingue également la vision et l’ordre de la création qui se trouve dans le lógos divin, hors du temps et la venue à l’existence des choses dans le temps.
+
 
 
 
@@ -98,11 +146,13 @@ Les deux premiers mots de la Genèse peuvent se lire : "au commencement il créa
 
 **Sur la matière et le néant préalable**
 
-Selon Rabbi Moses ben Nahman (Nahmanide) [[cf Abravanel](/references/itshaqabravanel.html#genese-1-1)], à partir du néant, Dieu a créé deux matières en puissance et sans forme et à partir de l'une d'elle il a fait le ciel et à partir de l'autre la terre. Les philosophes de l’antiquité parlaient d’une matière (hylé) préexistante et éternelle qui aurait été modelée par Dieu [[cf Polito](/references/itshaqabravanel.html#genese-1-1)]. Aristote notamment parle de cette matière en puissance qui ne peut qu'inconnaissable jusqu'à ce qu'elle devienne en acte, soit effectivement en puissance. Toujours selon Aristote : "ce qui est en puissance ne peut se distinguer ni se reconnaître de ce qui est en puissance". Ceci fait dire à Abravanel que la conception de Rabbi Moses ben Nahman n'est pas possible car il ne pouvait y avoir deux matières en puissance distinctes.
+[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1) décrit Dieu à la manière d'un architecte voulant édifier une ville, qui pense d'abord les modèles de celle-ci, la ville étant projetée dans son esprit, imprimée dans sa psykhế, n'ayant pas d'endroit à l'extérieur, puis réalise le monde sensible en utilisant comme modèle ce monde intelligibile, qui est soustrait aux sens. Le monde intelligible n'est autre que le logos de Dieu qui déjà crée le monde, lorsqu’il l’intellige.
 
-Selon Ibn Rushd (Averroès) [[cf Abravanel](/references/itshaqabravanel.html#genese-1-1)], les formes matérielles étaient contenues dans des matières en puissance. De plus, il affirmait l'acte créateur tout en soutenant l'opinion d'Aristote à propros de l'éternité du monde car même si le monde (et donc la matière) existe éternelle, cela n'enlève rien à l’acte créateur qui la créé et la maintient dans la création depuis toute éternité [[cf Polito](/references/itshaqabravanel.html#genese-1-1)]. Abravanel argumente contre cette hypothèse en soutenant que la matière peut procéder de la matière et en dériver, mais non pas l’esprit, l’âme, qui provident d'un substrat différent. L'esprit, comme l'intellect, ne peut pas provenir d’une matière, mais doit son existence à un acte créateur, car elle répond à d’autres lois. Tout ceci fait dire à Abravanel que le monde n'est pas venu à l'existence à partir de quelque chose, mais après le néant total, et qu'il ne peut soutenir une "hylé" avant la première création.
+Selon Rabbi Moses ben Nahman (Nahmanide) [[cf. Abravanel](/references/itshaqabravanel.html#genese-1-1)], à partir du néant, Dieu a créé deux matières en puissance et sans forme et à partir de l'une d'elle il a fait le ciel et à partir de l'autre la terre. Les philosophes de l’antiquité parlaient d’une matière (hylé) préexistante et éternelle qui aurait été modelée par Dieu [[cf. Polito](/references/itshaqabravanel.html#genese-1-1)]. Aristote notamment parle de cette matière en puissance qui ne peut qu'inconnaissable jusqu'à ce qu'elle devienne en acte, soit effectivement en puissance. Toujours selon Aristote : "ce qui est en puissance ne peut se distinguer ni se reconnaître de ce qui est en puissance". Ceci fait dire à Abravanel que la conception de Rabbi Moses ben Nahman n'est pas possible car il ne pouvait y avoir deux matières en puissance distinctes.
 
-[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1) décrit Dieu à la manière d'un architecte voulant édifier une ville, qui pense d'abord les modèles de celle-ci, la ville étant projetée dans son esprit, imprimée dans sa psykhế, n'ayant pas d'endroit à l'extérieur, puis réalise le monde sensible en utilisant comme modèle ce monde intelligibile, qui est soustrait aux sens. Le
+Selon Ibn Rushd (Averroès) [[cf. Abravanel](/references/itshaqabravanel.html#genese-1-1)], les formes matérielles étaient contenues dans des matières en puissance. De plus, il affirmait l'acte créateur tout en soutenant l'opinion d'Aristote à propros de l'éternité du monde car même si le monde (et donc la matière) existe éternelle, cela n'enlève rien à l’acte créateur qui la créé et la maintient dans la création depuis toute éternité [[cf. Polito](/references/itshaqabravanel.html#genese-1-1)]. Abravanel argumente contre cette hypothèse en soutenant que la matière peut procéder de la matière et en dériver, mais non pas l’esprit, l’âme, qui provident d'un substrat différent. L'esprit, comme l'intellect, ne peut pas provenir d’une matière, mais doit son existence à un acte créateur, car elle répond à d’autres lois. Tout ceci fait dire à Abravanel que le monde n'est pas venu à l'existence à partir de quelque chose, mais après le néant total, et qu'il ne peut soutenir une "hylé" avant la première création.
+
+
 
 
 
@@ -112,9 +162,17 @@ Pas de matière préformée : augustin
 
 
 
+** Forme (et miroir ?)**
+
+Polito chez Philon : 
+
+On retrouvera chez Augustin une idée semblable: il parlera de la création de la “formalité” d’abord, de créatures spirituelles et corporelles qui doivent recevoir leur forme après s’être tournées vers Dieu, contemplant en lui leur modèle et se conformant à celui-ci.
 
 
-
+[Origène](/references/origene.html#genese-1-1)
+>le lógos est le Fils qui est dit arkhế à cause de son être dans le Père
+>
+>si l’image (εἰκὼν eikōn) du Dieu invisible est le premier-né de toute créature, son arkhế est le Père. De la même façon, aussi le Christ est arkhế de ceux qui sont engendrés d’après l’image de Dieu. Si, en effet, les hommes sont selon l’image, l’image est d’après le Père, ainsi le Père est l’arkhế, ce d’après quoi est le Christ et le Christ est ce d’après quoi sont les hommes qui ne sont pas engendrés d’après ce dont lui [le Christ] est l’image, mais d’après l’image: À ce modèle se conforme le “Dans l’arkhế était le lógos“
 
 
 
@@ -156,7 +214,7 @@ Psaume 18, 1 : les cieux racontent la gloire de Dieu et le firmament annonce l�
 
 Averroès (Ibn Rushd), lorsqu’il défend les idées des philosophes et d’Aristote en particulier sur l’éternité du monde, en expliquant que le fait d’affirmer un monde éternel n’enlève rien à l’acte créateur de Dieu qui veut éternellement ce monde et lui donne vie. Le monde reste donc une créature et non un dieu, au sens de dieu créateur.
 
-### Compléments sur la trinité
+### 1.2 Compléments sur la trinité <a name="p1-2"></a>
 
 Genèse 1, 26
 >Et Dieu dit: "Faisons les hommes (adam) dans notre image comme notre ressemblance [...]"
@@ -168,7 +226,7 @@ Faisons: Le sujet de ce verbe est au pluriel dans l’original. Cela a donné li
 Selon la doctrine trinitaire le Fils de Dieu est la Parole éternelle de Dieu, qui coexiste éternellement avec lui, en est l’expression et l’image parfaite et en cette parole, en Dieu est la forme parfaite de tout ce qui existe, de tout ce que cette parole appèle à l’être.
 
 
-### Un Esprit maternel, l'amour
+### 1.3 Un Esprit maternel, l'amour <a name="p1-3"></a>
 
 [[Basile de Césarée](/references/basiledecesaree.html#genese-1-2)]
 
@@ -209,14 +267,11 @@ Dans le récit de la création, Augustin contemple l’oeuvre de la Trinité: �
 
 
 
-### Dessein supposé
+### 1.4 Dessein supposé <a name="p1-4"></a>
 Toute l’œuvre de Dieu est de nous conduire à goûter la joie du ciel, c’est à dire la joie qui provient du parfait échange d’amour. L’image que les apôtres donnent de cette harmonie est celle du corps humain et de ses membres qui collaborent tous au bien commun. Saint Augustin aussi nous dit que l’oeuvre de Dieu est de nous conduire à la pleine ressemblance avec lui, c’est-à-dire à cette unité parfaite dans l’amour dont nous parle Jésus: "Soyez un, comme moi et mon père nous sommes un" [[Giovanni Polito](/references/giovannipolito.html#genese-4-1-15)].
 
-
-
-
-
-
+[Philon d'Alexandrie](/references/philondalexandrie.html#genese-1-1) :
+>La puissance créatrice du monde est celle qui a comme source le bien qui est près de la vérité.
 
 
 
