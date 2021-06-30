@@ -7,7 +7,7 @@ title: Accueil
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Les vertus, dans une perspective chrétienne
+# Les vertus chrétiennes
 
 [<img src="/images/justice_raphael.png">](/pages/justice.html)
 
