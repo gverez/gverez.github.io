@@ -54,7 +54,7 @@ title: Ancien Testament
 ### Genèse 2, 4-10 <a name="genese-2-4-10"></a>
 >Ceux-ci sont les engendrements des cieux et de la terre dans leur être créés le jour où le Seigneur Dieu fit la terre et les cieux. Et il n’y avait encore aucune plante des champs sur la terre et aucune herbe des champs n’avait poussé puisque le Seigneur Dieu n’avait pas encore fait pleuvoir sur la terre et il n’y avait pas d’homme pour travailler le sol. Et une source montait de la terre et irriguait toute la surface du sol. Alors le Seigneur Dieu modela l’homme poussière du sol; il insuffla dans ses narines un souffle de vie, et l’homme devint une âme vivante. Le Seigneur Dieu planta un jardin-Éden (jardin-plaisir), depuis l’orient, et plaça la-bas l’homme qu’il avait modelé. Le Seigneur Dieu fit pousser du sol tout arbre loué pour son aspect et bon à manger et l’arbre de la vie au milieu du jardin et l’arbre de la connaissance du bien et du mal. Un fleuve sortait d’Éden pour irriguer le jardin et de la-bas il se divisait et devenait quatre têtes… (Trad. : Polito de l'hébreu)
 
-ambroisedemilan.html#genese-2-4-10  _ dans esperance pour l'instant
+[[Ambroise de Milan](/references/ambroisedemilan.html#genese-2-4-10)]
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
@@ -67,9 +67,7 @@ ambroisedemilan.html#genese-2-4-10  _ dans esperance pour l'instant
 
 <sub><b id="f2-genese-2-15-25">2</b>[Polito ↵](#a2-genese-2-15-25) Le mot neged en hébreu signifie en face, devant, en vis-à-vis et aussi contre. Donc, Adam ne trouve aucune aide qui puisse se tenir devant lui, être son vis-à-vis, mais cette présence à laquelle il peut se confronter peut aussi être contraire à lui.</sub>
 
-ambroisedemilan.html#genese-2-15-25   _ dans esperance pour l'instant
-
-augustindhippone.html#genese-2-15-25  _ dans esperance pour l'instant
+[[Ambroise de Milan](/references/ambroisedemilan.html#genese-2-15-25)] - [[Augustin d'Hippone](/references/augustindhippone.html#genese-2-15-25)]
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Genèse](#genese)</sub>
 
@@ -86,8 +84,7 @@ augustindhippone.html#genese-2-15-25  _ dans esperance pour l'instant
 ### Genèse 4, 1-15  <a name="genese-4-1-15"></a>
 >L’homme connu Ève, sa femme, et elle conçut, et elle enfanta Caïn et elle dit: "J’ai acquis un homme avec le Seigneur !" Elle ajouta en enfantant son frère Abel et Abel devint berger de brebis et Caïn fur travailleur du sol. A partir de la limite des jours, Caïn apporta des fruits du sol en offrande au Seigneur. Et Abel aussi apporta les premiers-nés de son troupeau et de leur graisse et le Seigneur regarda vers Abel et son offrande, mais vers Caïn et son offrande, il ne regarda pas et Caïn se fâcha et son visage tomba. Et le Seigneur dit à Caïn : "Pourquoi es-tu fâché, pourquoi ton visage est tombé ? N’est-ce pas que si tu fais du bien tu t’élèveras et si tu n’agis pas bien le péché est en bas de la porte et son désir est dirigé vers toi et toi tu le domineras." Et Caïn parla à son frère Abel et, quand ils furent dans le champs, Caïn se leva contre son frère Abel et le tua. Le Seigneur dit à Caïn: "Où est ton frère Abel?" Et il dit: "Je ne sais pas. Est-ce que je suis le gardien de mon frère, moi ?" Et il dit : "Qu’as-tu fait ? La voix du sang de ton frère crie vers moi depuis le sol. Maintenant, sois maudit du sol qui a ouvert la bouche pour prendre le sang de ton frère de ta main. Car tu travailleras le sol, mais il ne te donnera plus sa force, tu seras instable et tu seras errant sur la terre." Alors Caïn dit au Seigneur : "Ma faute est plus grande que ce que je peux porter ! Voici qu’aujourd’hui tu m’as éloigné de la surface du sol et de ta face je me cacherai et je serai instable et errant sur la terre et celui qui me trouvera me tuera." Le Seigneur lui dit: "C’est pourquoi celui qui tue Caïn, sera vengé sept fois." Et le Seigneur mit un signe à Caïn pour que celui qui le trouve ne le frappe pas. (Trad. : Polito de l'hébreu)
 
-[[Giovanni Polito](/references/giovannipolito.html#genese-4-1-15)] - [[Ambroise de Milan](/pages/references/ambroisedemilan.html#genese-4-1-15)
-
+[[Giovanni Polito](/references/giovannipolito.html#genese-4-1-15)] - [[Ambroise de Milan](/pages/references/ambroisedemilan.html#genese-4-1-15)]
 
 Commentaire du Pape François Fratteli Tutti sur "suis-je le gardien de mon frère, moi ?"
 
