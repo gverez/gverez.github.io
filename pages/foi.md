@@ -6,23 +6,18 @@ title: Foi
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu théologal de la foi <a name="foi"></a>
+# Vertu théologale de la foi <a name="foi"></a>
 
 **Table des matières**
 
-[1. Au commencement](#p1)
-
-	[1.1 Sur l'origine de la création](#p1-1)
-
-	[1.2 Compléments sur la trinité](#p1-2)
-	
-	[1.3 Un Esprit maternel, l'amour](#p1-3)
-	
-	[1.4 Dessein supposé](#p1-4)
+1. [Au commencement](#p1)
+	1. [1 Sur l'origine de la création](#p1-1)
+	1. [2 Compléments sur la trinité](#p1-2)
+	1. [3 Un Esprit maternel, l'amour](#p1-3)
+	1. [4 Dessein supposé](#p1-4)
 
 
 ## 1. Au commencement <a name="p1"></a>
-
 
 [Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31) :
 >Bereshit (dans ce qui est dans la tête) créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: "Que soit une lumière" et lumière fut.
