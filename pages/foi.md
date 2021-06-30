@@ -6,7 +6,7 @@ title: Foi
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu théologale de la foi <a name="foi"></a>
+# La foi <a name="foi"></a>
 
 **Table des matières**
 

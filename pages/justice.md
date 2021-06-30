@@ -6,7 +6,7 @@ title: Justice
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu cardinale de la justice <a name="justice"></a>
+# La justice <a name="justice"></a>
 
 La justice habilite à rendre à chacun son dû.
 

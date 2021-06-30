@@ -6,7 +6,7 @@ title: Prudence
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu cardinale de la prudence <a name="prudence"></a>
+# La prudence <a name="prudence"></a>
 
 La prudence indique la conduite raisonnée.
 

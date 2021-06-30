@@ -6,7 +6,7 @@ title: Force
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu cardinale de la force <a name="force"></a>
+# La force <a name="force"></a>
 
 Le courage ou force d'âme habilite à surmonter la peur et à braver les dangers.
 

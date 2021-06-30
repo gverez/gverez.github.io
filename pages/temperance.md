@@ -6,7 +6,7 @@ title: Tempérance
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu cardinale de la tempérance <a name="temperance"></a>
+# La tempérance <a name="temperance"></a>
 
 La tempérance habilite à user de la mesure qui convient dans la jouissance des biens délectables.
 

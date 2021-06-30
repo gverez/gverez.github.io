@@ -6,7 +6,7 @@ title: Espérance
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# Vertu théologale de l'espérance <a name="esperance"></a>
+# L'espérance <a name="esperance"></a>
 
 ## Définition
 
