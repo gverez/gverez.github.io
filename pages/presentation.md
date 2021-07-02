@@ -9,7 +9,7 @@ title: Présentation
 
 # Charité <a name="charite"></a>
 
-[<img src="/images/charite_presentation.png">]((/pages/charite.html)
+[<img src="/images/charite_presentation.png">](/pages/charite.html)
 
 La charité est la vertu théologale par laquelle nous aimons Dieu par-dessus toute chose pour Lui-même, et notre prochain comme nous-mêmes pour l’amour de Dieu [[Catéchisme, 1822](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Or, demeurer dans l'amour de Dieu c'est garder ses commandements [[Jean 15, 12](/pages/nouveautestament#jean-15-1-17)] et ainsi la charité anime et inspire l’exercice de toutes les vertus. Elle les articule et les ordonne entre elles ; elle est source et terme de leur pratique chrétienne. La charité assure et purifie notre puissance humaine d’aimer. Elle l’élève à la perfection surnaturelle de l’amour divin [[Catéchisme, 1827](https://www.vatican.va/archive/FRA0013/__P60.HTM)].
 
