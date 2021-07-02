@@ -16,19 +16,6 @@ title: Foi
 	1. [L'Esprit, l'amour maternel](#p1-3)
 
 
-
-## Définition
-
-1814 La foi est la vertu théologale par laquelle nous croyons en Dieu et à tout ce qu’Il nous a dit et révélé, et que la Sainte Église nous propose à croire, parce qu’Il est la vérité même. Par la foi " l’homme s’en remet tout entier librement à Dieu " (DV 5). C’est pourquoi le croyant cherche à connaître et à faire la volonté de Dieu. " Le juste vivra de la foi " (Rm 1, 17). La foi vivante " agit par la charité " (Ga 5, 6).
-
-1815 Le don de la foi demeure en celui qui n’a pas péché contre elle (cf. Cc. Trente : DS 1545). Mais " sans les œuvres, la foi est morte " (Jc 2, 26) : privée de l’espérance et de l’amour, la foi n’unit pas pleinement le fidèle au Christ et n’en fait pas un membre vivant de son Corps.
-
-1816 Le disciple du Christ ne doit pas seulement garder la foi et en vivre, mais encore la professer, en témoigner avec assurance et la répandre : " Tous doivent être prêts à confesser le Christ devant les hommes et à le suivre sur le chemin de la Croix, au milieu des persécutions qui ne manquent jamais à l’Église " (LG 42 ; cf. DH 14). Le service et le témoignage de la foi sont requis pour le Salut : " Quiconque se déclarera pour moi devant les hommes, je me déclarerai, moi aussi, pour lui devant mon Père qui est aux cieux ; mais celui qui me reniera devant les hommes, je le renierai, moi aussi, devant mon Père qui est aux cieux " (Mt 10, 32-33).
-
-
-
-
-
 ## 1. Au commencement <a name="p1"></a>
 
 [Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31) :
