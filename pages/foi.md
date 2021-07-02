@@ -10,13 +10,13 @@ title: Foi
 
 **Table des matières**
 
-1. [Au commencement](#p1)
-	1. [Dieu, l'amour paternel](#p1-1)
-	1. [Le Verbe, la relation filiale et la vie](#p1-2)
-	1. [L'Esprit, l'amour maternel](#p1-3)
+1. [Au commencement](#bereshit)
+	1. [Dieu, l'amour paternel](#dieu-pere)
+	1. [Le Verbe, la relation filiale et la vie](#verbe-fils)
+	1. [L'Esprit, l'amour maternel](#esprit-mere)
 
 
-## 1. Au commencement <a name="p1"></a>
+## 1. Au commencement <a name="bereshit"></a>
 
 <img src="/images/bereshit.png">
 
@@ -26,7 +26,7 @@ title: Foi
 [Jean 1, 1-3](/pages/nouveautestament.html#jean-1-1-18) :
 >Dans arkhế était le lógos et le lógos était auprès de Dieu et le lógos était Dieu. Celui-ci était dans arkhế auprès de Dieu. Toutes choses sont venues à l’être par lui, et en dehors de lui pas une seule [chose] de ce qui est venu à l’être n’est venue à l’être.
 
-### 1.1 Dieu, l'amour paternel <a name="p1-1"></a>
+### 1.1 Dieu, l'amour paternel <a name="dieu-pere"></a>
 
 #### L'entête
 
@@ -97,7 +97,7 @@ Toute l’œuvre de Dieu est de nous conduire à goûter la joie du ciel, c’es
 
 
 
-### 1.2 Le Verbe, la relation filiale et la vie <a name="p1-2"></a>
+### 1.2 Le Verbe, la relation filiale et la vie <a name="verbe-fils"></a>
 
 [Genèse 1, 26](/pages/ancientestament.html#genese-1-3-31) :
 >Et Dieu dit: "Faisons les hommes (adam) dans notre image comme notre ressemblance [...]"
@@ -122,7 +122,7 @@ En ce qui concerne le mot grec lógos, il s’agit aussi d’une réalité compl
 
 
 
-### 1.3 L'Esprit, l'amour maternel <a name="p1-3"></a>
+### 1.3 L'Esprit, l'amour maternel <a name="esprit-mere"></a>
 
 Dieu est au-delà de nos distinctions de genre et cependant, la multiplicité de nos mots et de nos réalités nous permet de nous approcher un peu plus de lui. Si nous considérons que Dieu est Père, c’est que nous voulons affirmer qu’il a eu l’initiative de l’acte créateur ; mais si nous parlons de son Esprit, de la façon qu’il a de nous aimer, nous sommes obligés de prendre l’image de l’amour maternel, un amour qui ne peut se séparer du fruit de ses entrailles. Il s’agit d’un attachement et d’une communion profonde entre la mère et l’enfant qu’elle porte [[Giovanni Polito](/references/giovannipolito.html#genese-1-2)]. A côté de l’autorité paternelle, la Bible introduit tout de suite en Dieu son affection maternelle à travers le mot Esprit et le verbe planer dans [Genèse 1, 2](/pages/ancientestament.html#genese-2-1):
 

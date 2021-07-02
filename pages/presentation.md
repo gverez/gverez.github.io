@@ -77,7 +77,6 @@ Col 4, 1
 
 La foi est la vertu théologale par laquelle nous croyons en Dieu et à tout ce qu’Il nous a dit et révélé, et que la Sainte Église nous propose à croire, parce qu’Il est la vérité même [[Catéchisme, 1814](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Par la foi l’homme s’en remet tout entier librement à Dieu et ainsi le croyant cherche à connaître et à faire la volonté de Dieu, ce qui relie la foi à la charité et à la justice. En effet, la foi vivante "agit par la charité" (Ga 5, 6) et "le juste vivra de la foi" (Rm 1, 17). "Sans les œuvres, la foi est morte" (Jc 2, 26) et plus avant, privée de l’espérance et de l’amour, la foi n’unit pas pleinement le fidèle au Christ et n’en fait pas un membre vivant de son Corps. Le disciple du Christ ne doit pas seulement garder la foi et en vivre, mais encore la professer, en témoigner avec assurance sans la renier [Mt 10, 32-33] et la répandre [[Catéchisme, 1816](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. 
 
-[Plus de détails sur la foi](/pages/foi.html)
 
 ## Références bibliques
 
@@ -86,6 +85,12 @@ Rm 1, 17
 Jc 2, 26
 Mt 10, 32-33
 
+## Thèmes
+
+1. [Au commencement](/pages/foi.html#bereshit)
+	1. [Dieu, l'amour paternel](/pages/foi.html#dieu-pere)
+	1. [Le Verbe, la relation filiale et la vie](/pages/foi.html#verbe-fils)
+	1. [L'Esprit, l'amour maternel](/pages/foi.html#esprit-mere)
 
 
 # Espérance <a name="esperance"></a>
@@ -115,7 +120,15 @@ Hebreux 10, 23 :
 Tite 3, 6-7 :
 >Cet Esprit, il l’a répandu sur nous à profusion, par Jésus Christ notre Sauveur, afin que, justifiés par la grâce du Christ, nous obtenions en espérance l’héritage de la vie éternelle.
 
+L'espérance permet la paix et la maitrise de soi : d'où prudence, tempérance et force
 
+## Thèmes
+
+1. [Aux origines du péché](/pages/esperance.html#peche-originel)
+1. [Au jardin d'Eden, Adam-Jésus et Eve-Eglise](/pages/esperance.html#jardin-eden)
+1. [Prière](/pages/esperance.html#priere)
+	1. [Hésychasme](/pages/esperance.html#hesychasme)
+	1. [Dans les autres religions](/pages/esperance.html#priere-autrereligions)
 
 
 ## Prudence <a name="prudence"></a>
