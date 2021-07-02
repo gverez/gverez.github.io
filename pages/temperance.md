@@ -18,6 +18,9 @@ La tempérance assure la maîtrise de la volonté sur les instincts et maintient
 
 >sôphrosunê (la tempérance) : Modération de l’âme envers les désirs et les plaisirs conformes à la nature ; harmonie et discipline de l’âme en ce qui concerne les plaisirs et les peines conformes à la nature ; accord de l’âme pour commander et obéir; indépendance d’action conforme à la nature ; le bon ordonnancement de l’âme sous l’égide de la raison ; habitude de l’âme à distinguer entre ce qui est convenable et ce qui est déplacé ; état qui amène celui qui le possède à être attentif et prudent à l’égard de ce qu’il faut faire. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
+Catéchisme 1809 :
+>La tempérance est la vertu morale qui modère l’attrait des plaisirs et procure l’équilibre dans l’usage des biens créés. Elle assure la maîtrise de la volonté sur les instincts et maintient les désirs dans les limites de l’honnêteté. La personne tempérante oriente vers le bien ses appétits sensibles, garde une saine discrétion et " ne se laisse pas entraîner pour suivre les passions de son cœur " (Si 5, 2 ; cf. 37, 27-31). La tempérance est souvent louée dans l’Ancien Testament : " Ne te laisse pas aller à tes convoitises, réprime tes appétits " (Si 18, 30). Dans le Nouveau Testament, elle est appelée " modération " ou " sobriété ". Nous devons " vivre avec modération, justice et piété dans le monde présent " (Tt 2, 12).
+
 
 
 

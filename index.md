@@ -9,15 +9,7 @@ title: Accueil
 
 # Les vertus chrétiennes
 
-[<img src="/images/justice_raphael.png">](/pages/justice.html)
-
-[<img src="/images/force_raphael.png">](/pages/force.html)
-[<img src="/images/charite_raphael.png">](/pages/charite.html)
-[<img src="/images/prudence_raphael.png">](/pages/prudence.html)
-[<img src="/images/esperance_raphael.png">](/pages/esperance.html)
-[<img src="/images/temperance_raphael.png">](/pages/temperance.html)
-[<img src="/images/foi_raphael.png">](/pages/foi.html)
-
+[<img src="/images/charite.png">](/pages/charite.html)
 
 ## Définition
 >ἀρετή (*aretê*, la vertu) : La disposition la meilleure ; l’état du vivant mortel, digne en soi de recevoir des louanges ; disposition qui permet à l’être qui la possède d’être qualifié de "bon" ; observance des lois qui assurent la justice ; disposition qui permet à l’être qui en est pourvu d’être qualifié de "sage accompli" ; état qui produit le bonheur. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
