@@ -98,9 +98,12 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/peterharvey.png">](/references/peterharvey.md)
 [<img src="/images/giovannipolito.png">](/references/giovannipolito.md)
 
+D'abord prendre les commentaires avant de ranger !
 
 **345-399**
 [<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
+
+Macaire de Sceté
 
 
 

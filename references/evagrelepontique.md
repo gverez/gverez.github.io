@@ -13,7 +13,7 @@ title: Évagre le Pontique
 **345-399**, philosophe et polymathe grec de l'Antiquité.
 
 
-## Philocalie <a name="arkhe"></a>
+## Philocalie <a name="philocalie"></a>
 *Petite Philocalie de la prière du coeur, Seuil, 1979*
 
 >La purification de l’âme par la plénitude des vertus rend l’attitude de l’intelligence inébranlable et apte à recevoir l’état cherché.
