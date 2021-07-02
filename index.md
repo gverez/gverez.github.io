@@ -100,14 +100,20 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 
 D'abord prendre les commentaires avant de ranger !
 
-**345-399**
-[<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
 
 **?-391**
 Macaire de Sceté, déjà intégré
 
-**v.400 - v. 470**
+**345-399**
+[<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
+
+**v.360-v.430**
+[<img src="/images/marclermite.png">](/references/marclermite.md)
+
+**v.400 - v.470**
 [<img src="/images/diadoquedephotice.png">](/references/diadoquedephotice.md)
+
+
 
 
 

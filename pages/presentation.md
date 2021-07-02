@@ -65,7 +65,15 @@ Lv 19, 15
 Col 4, 1
 
 
+Si Ambroise évoque l'histoire de Naboth, mis à mort pour qu'Achab puisse s'emparer de sa vigne (1 R 21, 1-4), la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexion des auteurs de ce dossier sont tirés du Nouveau Testament :
+- la rencontre de Jésus et du jeune homme riche (Mc 10, 17-30) : Clément, Basile, Chrysostome
+- la parabole du bon Samaritain (Lc 10) : Nysse
+- la parabole du riche qui veut agrandir ses greniers (Lc 12) : Basile
+- la parabole du riche et de Lazare (Lc 16, 19-31) : Chrysostome
+- la parabole du Jugement dernier (Mt 25) : Clément, Nysse
+- l'hymne de Paul à la charité (1 Co 12-13) : Clément, Chrysostome
 
+Enfin, l'homélie de Basile contre les usuriers utilise quelques verts de l'Ancien Testament contre la pratique de l'usure : Dt 23, 20 ; Ps 14, 5 ; Ps 54, 12.
 
 
 
