@@ -8,6 +8,10 @@ title: Foi
 
 # La foi <a name="foi"></a>
 
+<img src="/images/bereshit.png">
+
+
+
 **Table des matières**
 
 1. [Au commencement](#p1)
