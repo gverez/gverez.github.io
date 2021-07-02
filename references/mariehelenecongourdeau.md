@@ -28,7 +28,7 @@ Si Ambroise évoque l'histoire de Naboth, mis à mort pour qu'Achab puisse s'emp
 
 Enfin, l'homélie de Basile contre les usuriers utilise quelques verts de l'Ancien Testament contre la pratique de l'usure : Dt 23, 20 ; Ps 14, 5 ; Ps 54, 12.
 
-## Les riches et les pauvres : EXTRAIRE TOUS LES TEXTES POUR AVOIR UN BON REFERENCEMENT
+## Les riches et les pauvres
 
 ### Les riches
 
