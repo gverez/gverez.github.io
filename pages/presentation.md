@@ -1,16 +1,16 @@
 ---
-title: Charité
+title: Présentation
 ---
 [<img src="/images/accueil.png">](/)
 [<img src="/images/ancientestament.png">](/pages/ancientestament.html)
 [<img src="/images/deuterocanoniques.png">](/pages/deuterocanoniques.html)
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
-# La charité <a name="charite"></a>
 
-## Définitions
+[<img src="/images/charite_presentation.png">]
 
-### La vertu théologale de charité
+# Charité <a name="charite"></a>
+
 La charité est la vertu théologale par laquelle nous aimons Dieu par-dessus toute chose pour Lui-même, et notre prochain comme nous-mêmes pour l’amour de Dieu [[Catéchisme, 1822](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Or, demeurer dans l'amour de Dieu c'est garder ses commandements [[Jean 15, 12](/pages/nouveautestament#jean-15-1-17)] et ainsi la charité anime et inspire l’exercice de toutes les vertus. Elle les articule et les ordonne entre elles ; elle est source et terme de leur pratique chrétienne. La charité assure et purifie notre puissance humaine d’aimer. Elle l’élève à la perfection surnaturelle de l’amour divin [[Catéchisme, 1827](https://www.vatican.va/archive/FRA0013/__P60.HTM)].
 
 
@@ -33,9 +33,10 @@ L’apôtre saint Paul a donné un incomparable tableau de la charité [[1 Co 13
 
 L’achèvement de toutes nos œuvres, c’est la dilection. Là est la fin ; c’est pour l’obtenir que nous courons, c’est vers elle que nous courons ; une fois arrivés, c’est en elle que nous nous reposerons (S. Augustin, ep. Jo. 10, 4).
 
+## Justice <a name="justice"></a>
 
 
-# Références bibliques à la charité
+## Références bibliques à la charité
 
 Jn 13, 34
 Jn 13, 1
@@ -52,3 +53,32 @@ Mt 25, 40.45
 1 Co 13, 1-4
 1 Co 13, 13
 Col 3, 14
+
+
+
+
+
+
+
+
+[<img src="/images/foi_presentation.png">]
+
+# Foi <a name="foi"></a>
+
+blabla
+
+
+
+
+[<img src="/images/esperance_presentation.png">]
+
+# Espérance <a name="esperance"></a>
+
+blabla
+
+## Prudence <a name="prudence"></a>
+
+## Tempérance <a name="temperance"></a>
+
+## Force <a name="force"></a>
+
