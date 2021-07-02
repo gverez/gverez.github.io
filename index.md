@@ -99,6 +99,10 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/giovannipolito.png">](/references/giovannipolito.md)
 
 
+**345-399**
+[<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
+
+
 
 
 
@@ -112,11 +116,10 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 - Apocalypse
 
 # A faire :
-- J'ai lu les commentaires de Giovanni sur la Genèse mais pas ajouté ses références des Pères dans "Commentaires" -> ajouter ceux de esperance.md
-- Ensuite faire le même travail sur les evangiles et l'apocalypse
+
+- Giovanni:  faire le même travail sur les evangiles et l'apocalypse
 - Enfin seulement terminer par les thèmes, de manière à tout relier
 
-- Finir d'importer mes propres références théologiques
 - Reprendre les textes un par un pour remplir dans les Vertus
 - Commencer le travail sur la justice et la charité:
 	- D'abord reprendre le plan ET reparcourir le texte de la doctrine sociale
@@ -124,6 +127,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 	- Riches et Pauvres
 	- Ajouter finalement mes citations bibliques qui n'ont pas encore été utilisées
 - Ajouter toute référence utile du cathéchisme de l'eglise catholique
+- Relire les commentaires de la petite philocalie, il y a des choses sur l'esprit 'noûs', etc.
 
 - Importer mes références ontologiques
 - Importer tout le texte ontologique dans Ontologie
