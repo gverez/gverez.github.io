@@ -10,16 +10,19 @@ title: Espérance
 
 **Table des matières**
 
-1. [Aux origines du péché](#peche-originel)
-1. [Au jardin d'Eden, Adam-Jésus et Eve-Eglise](#jardin-eden)
+1. [Au jardin d'Eden](#jardin-eden)
+	1. [Origines du péché](#peche-originel)
+	1. [Adam-Jésus et Eve-Eglise](#adam-jesus)
 1. [Prière](#priere)
 	1. [Hésychasme](#hesychasme)
 	1. [Dans les autres religions](#priere-autrereligions)
 
 
-## Aux origines du péché <a name="peche-originel"></a>
+## Au Jardin d'Eden <a name="jardin-eden"></a>
 
 <img src="/images/peche_originel.png">
+
+### Origines du péché <a name="peche-originel"></a>
 
 Le lógos de la création du monde témoigne que tout ce que Dieu a fait était très beau, l'homme en faisant parti. Parce qu'il était beau, la mort n'était pas dans l'homme. Le commandement de Dieu était une loi de vie qui ordonnait de ne pas mourir. L’homme, par le fait d’avoir prêté écoute à ce qui était erroné, se remplit du fruit qui produit la corruption, immédiatement il mourut au mode de vie plus élevé. Notre vie est morte à l’instant même où elle a été privée de l’immortalité [[Grégoire de Nysse](/references/gregoiredenysse.html#genese-3-1-24)].
 
@@ -31,11 +34,13 @@ Vivre le lien de confiance dans l’action de grâce c’est l’attitude d’Ab
 Eve enfante Caïn (celui qui acquiert tout pour lui même) et Abel (celui qui rend grâce à Dieu), Rebecca engendre Esaü (représente la malice) et Jacob (figure de la bonté). La même âme engendre le bien et le mal, puisque tous les deux descendent de la même source de l’âme. [Ambroise de Milan](/references/ambroisedemilan.html#genese-4-1-15) appelle donc au jugement lucide : de répudier le mal afin de nourrir et fortifier ce qui est bon.
 
 
-## Au jardin d'Eden, Adam-Jésus et Eve-Eglise <a name="jardin-eden"></a>
+### Adam-Jésus et Eve-Eglise <a name="adam-jesus"></a>
 
 La partie de la Genèse au Jardin d'Eden peut être vue de façon allégorique. Le paradis est une terre fertile, ce qui est l'âme féconde, planté en Eden, qui est un certain plaisir ou bien une terre qui a été cultivée, dans laquelle se trouve la délectation de l’âme. La source qui irriguait le paradis peut être vue comme Jésus Christ [[Genèse 2, 4-10](/pages/ancientestament.html#genese-2-4-10)]. De plus, la relation entre Adam et Eve [[Genèse 2, 15-25](/pages/ancientestament.html#genese-2-15-25)] peut être comprise commme celle entre Jésus et son Eglise : le dernier Adam est le Christ, la côte du Christ est la vie de l’Eglise. La "mère des vivants", c’est l’Eglise que Dieu a bâti. Comprendre batir la femme : l’une comme aide d’Adam, l’autre, en vérité, comme aide du Christ. Non que le Christ ait besoin d’une aide, mais afin que nous cherchions et désirions parvenir à la grâce du Christ à travers l’Eglise [[Ambroise de Milan](/references/ambroisedemilan.html#genese)]. Comme Adam dort afin qu’Ève soit faite, le Christ meurt afin que l’Eglise soit faite. Ève a été faite du côté d’Adam endormi, le Christ mort, son côté est percuté par une lance, afin que les sacrements, par lesquels l’Eglise est formée, en coulent [[Augustin d'Hippone](/references/augustindhippone.html#genese-2-15-25)].
 
 ## Prière <a name="priere"></a>
+
+<img src="/images/priere.png">
 
 ### Hésychasme <a name="hesychasme"></a>
 
