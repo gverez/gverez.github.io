@@ -8,10 +8,6 @@ title: Foi
 
 # La foi <a name="foi"></a>
 
-<img src="/images/bereshit.png">
-
-
-
 **Table des matières**
 
 1. [Au commencement](#p1)
@@ -21,6 +17,8 @@ title: Foi
 
 
 ## 1. Au commencement <a name="p1"></a>
+
+<img src="/images/bereshit.png">
 
 [Genèse 1, 1](/pages/ancientestament.html#genese-1-1), [Genèse 1, 2](/pages/ancientestament.html#genese-1-2), [Genèse 1, 3](/pages/ancientestament.html#genese-1-3-31) :
 >Bereshit créa Elohim le ciel et la terre. La terre était tohu va vohu, les ténèbres étaient au-dessus de l’abîme et l’Esprit de Dieu planant au-dessus des eaux. Et Dieu dit: "Que soit une lumière" et lumière fut.
