@@ -12,20 +12,6 @@ title: Jean Gouillard
 
 **1910-**, docteur ès lettres, directeur d'études à l'École pratique des hautes études.
 
-
-
-Philocalie signifie "amour de la beauté", de celle qui se confond avec le bien. [...] [La] "Philocalie des Saint Nêptiques [de *nêpsis* : la sobriété, un terme qui reviendra sans cesse dans ces pages. La sobriété, c'est ce jeûne de l'âme, attentive à sa dépouiller de ses pensées ; c'est l'état qui en résulte, la vigilance, la condition d'*éveillé*] recueillie parmi les Saints Pères théophores, où l'on voit comment, par la philosophie de la vie active et de la contemplation [Action et contemplation, les deux volets complémentaires de la vie spirituelle. L'action, c'est la purification des passions mais c'est également la pratique des vertus, les austérités, la prière vocale (la psalmodie suivant sa désignation habituelle) etc. La contemplation n'en dispense pas. Il y a simultanité, à cela près que l'action se simplifie de plus en plus], l'esprit se purifie, est illumé et rendu parfait..."
-
-La prière du coeur est essentiellement cette interprétation contemplative de la "vie cachée dans le Christ"
-
- La psalmodie, cette sorte de prière manuelle, discursive, qui n'arrête pas de décomposer l'esprit et l'attention ; prière debout de l'ascète encore imparfait en regard de la prière assise du contemplatif. C'est une prière vocale, entendu comme une trève accordée à la faiblesse d'un esprit malaisé à fixer.
-
-
-
-
-
-
-
 ## Petite Philocalie de la prière du coeur <a name="titre"></a>
 *Seuil, 1979*
 

@@ -129,3 +129,6 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 - Importer mes références ontologiques
 - Importer tout le texte ontologique dans Ontologie
 - Le retravailler pour le résumer en français
+
+----
+Contact : admin@vertus.ch
