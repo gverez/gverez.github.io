@@ -103,8 +103,11 @@ D'abord prendre les commentaires avant de ranger !
 **345-399**
 [<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
 
-Macaire de Sceté
+**?-391**
+Macaire de Sceté, déjà intégré
 
+**v.400 - v. 470**
+[<img src="/images/diadoquedephotice.png">](/references/diadoquedephotice.md)
 
 
 
