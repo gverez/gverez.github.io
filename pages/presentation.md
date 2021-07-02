@@ -7,7 +7,7 @@ title: Présentation
 [<img src="/images/nouveautestament.png">](/pages/nouveautestament.html)
 
 
-[<img src="/images/charite_presentation.png">]
+<img src="/images/charite_presentation.png">
 
 # Charité <a name="charite"></a>
 
@@ -61,7 +61,7 @@ Col 3, 14
 
 
 
-[<img src="/images/foi_presentation.png">]
+<img src="/images/foi_presentation.png">
 
 # Foi <a name="foi"></a>
 
@@ -70,7 +70,7 @@ blabla
 
 
 
-[<img src="/images/esperance_presentation.png">]
+<img src="/images/esperance_presentation.png">
 
 # Espérance <a name="esperance"></a>
 
