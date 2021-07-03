@@ -116,6 +116,9 @@ Macaire de Sceté, déjà intégré
 **?-v.540**
 [<img src="/images/barsanuphedegaza.png">](/references/barsanuphedegaza.md)
 
+**v.640-v.700**
+[<img src="/images/isaacdeninive.png">](/references/isaacdeninive.md)
+
 
 
 
