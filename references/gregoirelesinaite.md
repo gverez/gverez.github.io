@@ -10,7 +10,7 @@ title: Grégoire le Sinaïte
 
 [<img src="/images/gregoirelesinaite.png">](https://fr.wikipedia.org/wiki/Gr%C3%A9goire_le_Sina%C3%AFte)
 
-**v.1255-v.1346**, moine.
+**v.1255-1346**, moine.
 
 
 ## Philocalie <a name="philocalie"></a>
