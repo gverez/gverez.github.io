@@ -101,8 +101,11 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 D'abord prendre les commentaires avant de ranger !
 
 
-**?-391**
+Déjà intégrés, à lire :
 Macaire de Sceté, déjà intégré
+Syméon le Nouveau Théologien
+
+
 
 **345-399**
 [<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
@@ -130,6 +133,9 @@ Macaire de Sceté, déjà intégré
 
 **VIIIe**
 [<img src="/images/nopicture.png">](/references/philotheelesinaite.md)
+
+**v.1000-v.1090**
+[<img src="/images/nopicture.png">](/references/nicetasstethatos.md)
 
 **XIIe**
 [<img src="/images/nopicture.png">](/references/elielecdicos.md)
