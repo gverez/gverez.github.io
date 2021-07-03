@@ -140,6 +140,9 @@ Syméon le Nouveau Théologien
 **XIIe**
 [<img src="/images/nopicture.png">](/references/elielecdicos.md)
 
+**XIIIe**
+[<img src="/images/nopicture.png">](/references/nicephorelesolitaire.md)
+
 
 
 # Lexique à constituer :
