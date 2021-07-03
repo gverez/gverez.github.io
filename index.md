@@ -119,6 +119,9 @@ Macaire de Sceté, déjà intégré
 **v.579-v.649**
 [<img src="/images/jeanclimaque.png">](/references/jeanclimaque.md)
 
+**580-662**
+[<img src="/images/maximeleconfesseur.png">](/references/maximeleconfesseur.md)
+
 **VIIe**
 [<img src="/images/nopicture.png">](/references/hesychioshieros.md)
 
