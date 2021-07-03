@@ -149,8 +149,8 @@ Syméon le Nouveau Théologien
 **1250-1326**
 [<img src="/images/theoleptedephiladelphie.png">](/references/theoleptedephiladelphie.md)
 
-
-
+**v.1255-v.1346**
+[<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.md)
 
 
 # Lexique à constituer :
