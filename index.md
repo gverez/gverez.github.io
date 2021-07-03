@@ -113,7 +113,8 @@ Macaire de Sceté, déjà intégré
 **v.400 - v.470**
 [<img src="/images/diadoquedephotice.png">](/references/diadoquedephotice.md)
 
-
+**?-v.540**
+[<img src="/images/barsanuphedegaza.png">](/references/barsanuphedegaza.md)
 
 
 
