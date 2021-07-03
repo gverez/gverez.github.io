@@ -8,7 +8,7 @@ title: Elie l’Ecdicos
 
 # Elie l’Ecdicos
 
-[<img src="/images/nopicture.png">]
+<img src="/images/nopicture.png">
 
 **XIIe**, moine.
 

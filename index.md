@@ -64,10 +64,20 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/macairedescete.png">](/references/macairedescete.md)
 [<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.md)
 [<img src="/images/ambroisedemilan.png">](/references/ambroisedemilan.md)
+[<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
 [<img src="/images/jeanchrysostome.png">](/references/jeanchrysostome.md)
 [<img src="/images/augustindhippone.png">](/references/augustindhippone.md)
+[<img src="/images/marclermite.png">](/references/marclermite.md)
 [<img src="/images/nopicture.png">](/references/basiledeseleucie.md)
+[<img src="/images/diadoquedephotice.png">](/references/diadoquedephotice.md)
+[<img src="/images/barsanuphedegaza.png">](/references/barsanuphedegaza.md)
+[<img src="/images/jeanclimaque.png">](/references/jeanclimaque.md)
+[<img src="/images/maximeleconfesseur.png">](/references/maximeleconfesseur.md)
+[<img src="/images/nopicture.png">](/references/hesychioshieros.md)
+[<img src="/images/isaacdeninive.png">](/references/isaacdeninive.md)
+[<img src="/images/nopicture.png">](/references/philotheelesinaite.md)
 [<img src="/images/symeonlenouveautheologien.png">](/references/symeonlenouveautheologien.md)
+[<img src="/images/nopicture.png">](/references/nicetasstethatos.md)
 [<img src="/images/hildegardedebingen.png">](/references/hildegardedebingen.md)
 [<img src="/images/francoisdassise.png">](/references/francoisdassise.md)
 [<img src="/images/bonaventuredebagnoregio.png">](/references/bonaventuredebagnoregio.md)
@@ -102,40 +112,33 @@ D'abord prendre les commentaires avant de ranger !
 
 
 Déjà intégrés, à lire :
-Macaire de Sceté, déjà intégré
+
+Macaire de Sceté
+
 Syméon le Nouveau Théologien
 
+(/references/evagrelepontique.md)
+
+(/references/marclermite.md)
+
+(/references/diadoquedephotice.md)
+
+(/references/barsanuphedegaza.md)
+
+(/references/jeanclimaque.md)
+
+(/references/maximeleconfesseur.md)
+
+(/references/hesychioshieros.md)
+
+(/references/isaacdeninive.md)
+
+(/references/philotheelesinaite.md)
+
+(/references/nicetasstethatos.md)
 
 
-**345-399**
-[<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
 
-**v.360-v.430**
-[<img src="/images/marclermite.png">](/references/marclermite.md)
-
-**v.400 - v.470**
-[<img src="/images/diadoquedephotice.png">](/references/diadoquedephotice.md)
-
-**?-v.540**
-[<img src="/images/barsanuphedegaza.png">](/references/barsanuphedegaza.md)
-
-**v.579-v.649**
-[<img src="/images/jeanclimaque.png">](/references/jeanclimaque.md)
-
-**580-662**
-[<img src="/images/maximeleconfesseur.png">](/references/maximeleconfesseur.md)
-
-**VIIe**
-[<img src="/images/nopicture.png">](/references/hesychioshieros.md)
-
-**v.640-v.700**
-[<img src="/images/isaacdeninive.png">](/references/isaacdeninive.md)
-
-**VIIIe**
-[<img src="/images/nopicture.png">](/references/philotheelesinaite.md)
-
-**v.1000-v.1090**
-[<img src="/images/nopicture.png">](/references/nicetasstethatos.md)
 
 **XIIe**
 [<img src="/images/nopicture.png">](/references/elielecdicos.md)

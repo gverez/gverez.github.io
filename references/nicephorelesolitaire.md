@@ -8,7 +8,7 @@ title: Nicéphore le Solitaire
 
 # Nicéphore le Solitaire
 
-[<img src="/images/nopicture.png">]
+<img src="/images/nopicture.png">
 
 **XIIIe**, moine.
 
