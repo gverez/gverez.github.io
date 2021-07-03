@@ -146,6 +146,11 @@ Syméon le Nouveau Théologien
 **XIIIe**
 [<img src="/images/nopicture.png">](/references/nicephorelesolitaire.md)
 
+**1250-1326**
+[<img src="/images/theoleptedephiladelphie.png">](/references/theoleptedephiladelphie.md)
+
+
+
 
 
 # Lexique à constituer :
