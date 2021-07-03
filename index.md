@@ -131,6 +131,10 @@ Macaire de Sceté, déjà intégré
 **VIIIe**
 [<img src="/images/nopicture.png">](/references/philotheelesinaite.md)
 
+**XIIe**
+[<img src="/images/nopicture.png">](/references/elielecdicos.md)
+
+
 
 # Lexique à constituer :
 - Caïn signifie acquisition, parce qu’il acquiert tout pour lui-même.
