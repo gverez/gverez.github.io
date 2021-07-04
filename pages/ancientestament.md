@@ -111,7 +111,7 @@ Commentaire du Pape François Fratteli Tutti sur "suis-je le gardien de mon frè
 ## Premier Livre des Rois <a name="1rois"></a>
 
 ### 1 Rois 21, 1-4 <a name="1rois-21-1-4"></a>
->Voici ce qui arriva après ces événements. Naboth d’Izréel avait une vigne à Izréel ; elle était à côté du palais d’Akhab, roi de Samarie. Akhab parla à Naboth : « Cède-moi ta vigne pour qu’elle me serve de jardin potager, car elle est juste à côté de ma maison ; et je te donnerai à sa place une vigne meilleure. Mais si cela te convient, je puis te donner son prix en argent. » Naboth dit à Akhab : « Que le SEIGNEUR m’ait en abomination si je te cède l’héritage de mes pères. » Akhab rentra chez lui sombre et contrarié à cause de ce que lui avait dit Naboth d’Izréel : « Je ne te céderai pas l’héritage de mes pères. » Il se coucha sur son lit, tourna son visage contre le mur, et ne voulut pas manger. (Trad. : TOB)
+>Voici ce qui arriva après ces événements. Naboth d’Izréel avait une vigne à Izréel ; elle était à côté du palais d’Akhab, roi de Samarie. Akhab parla à Naboth : « Cède-moi ta vigne pour qu’elle me serve de jardin potager, car elle est juste à côté de ma maison ; et je te donnerai à sa place une vigne meilleure. Mais si cela te convient, je puis te donner son prix en argent. » Naboth dit à Akhab : « Que le SEIGNEUR m’ait en abomination si je te cède l’héritage de mes pères. » Akhab rentra chez lui sombre et contrarié à cause de ce que lui avait dit Naboth d’Izréel : « Je ne te céderai pas l’héritage de mes pères. » Il se coucha sur son lit, tourna son visage contre le mur, et ne voulut pas manger. (TOB)
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à 1 Rois](#1rois)</sub>
 
