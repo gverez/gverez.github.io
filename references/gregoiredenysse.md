@@ -92,3 +92,70 @@ Ce thème est très important pour Grégoire et pour les pères grecs à la suit
 >Le lógos de la création du monde témoigne que tout ce que Dieu a fait était très beau (Genèse 1, 31). L’homme était aussi l’une des choses très belles et même il était paré de beauté encore plus que les autres choses. Quoi d’autre, en effet, aurait pu être autant beau que la ressemblance de la pure beauté  ? Si donc tout était très beau et dans ce tout ou plutôt avant tout était l’homme, la mort n’était pas du tout dans l’homme. En effet, l’homme n’aurait pas été quelque chose de beau, s’il avait eu en lui la triste marque de l’affliction de la mort. Mais, étant l’image et la ressemblance de la vie éternelle, il était vraiment beau et très beau embelli par la marque rayonnante de la vie. Aussi le divin paradis était à lui (Gen.2,9) qui faisait jaillir la vie par la fertilité de ses arbres, et le commandement de Dieu était une loi de vie qui ordonnait de ne pas mourir (Gen.2,16-17). La plante du bois qui faisait jaillir la vie étant au milieu du paradis, comment faut-il comprendre celui-là dont le fruit était la vie? Et [au milieu du paradis était aussi la plante] du bois qui porte la mort, dont le lógos [la parole de l’Ecriture] déclare que le fruit était en même temps bon et mauvais, et celui-ci étant aussi au milieu du paradis, il est impossible qu’il y ait dans ce qui est l’exacte centre la place pour deux bois; En effet, si nous donnons à l’un ou l’autre des deux de se trouver au milieu, de toute nécessité l’autre sera entièrement exclu de la place du milieu: en effet, la place précise du centre se comprend en relation à la circonférence, lorsque il se trouve à égales distances de tous les points du périmètre. Chaque fois, donc, il n’y aura qu’un seul milieu du cercle, d’après le calcul il n’est pas possible pour un seul cercle que deux centres trouvent place au milieu: Si, en effet, on plaçait un autre centre à côté de celui de départ, nécessairement le cercle se transformerait par rapport à celui-ci, le premier centre sera en dehors du milieu et la circonférence se dessine autour du deuxième centre. Mais [l’écriture] dit que celui-ci et celui-là étaient au milieu du paradis, et qu’ils avaient une puissance contraire l’un par rapport à l’autre, je dis qu’un arbre produisait la vie et le fruit de l’autre était la mort, fruit que justement Paul appela péché disant que le fruit du péché est la mort. Il faut, donc, considérer cette déclaration à travers une étude approfondie de ce qui a été dit: ce que Dieu a planté et ce qui se trouve précisément au milieu est la vie, la mort, par contre, n’a pas été plantée et n’a pas de racines, n’ayant nulle part de lieu qui lui appartienne en propre, c’est dans la privation de la vie qu’elle s’implante, lorsque s’affaiblit dans les vivants la participation au meilleur bien. Puisque, donc, la vie est au milieu des plantes divines, c’est dans la dégradation de celle-ci que la nature de la mort prend place, c’est pour cela que celui qui expose un enseignement à travers des énigmes fait cette déclaration que le bois porteur de mort était aussi dans le milieu du paradis, et dit que son fruit avait une puissance formée de contraires: en effet, le même fruit est défini à la fois beau et mauvais, faisant allusion par cela, je pense, à la nature du péché. Puisqu’en effet, un certain plaisir dirige tout ce qui est opéré par une mauvaise inclinaison et qu’en tout cas il n’est pas possible de trouver un péché qui soit séparé du plaisir, que ce soit les passions engendrées par la colère ou par le désir, c’est à cause de cela que le fruit est appelé beau à cause du jugement erroné sur ce qui est beau car il apparaît ainsi à ceux qui placent le beau dans le plaisir. Mais après cela, on le trouve mauvais dans la digestion amère de la nourriture, selon la parole proverbiale (Proverbes 5, 3-4): "Le miel coule goutte après goutte des lèvres qui ont une mauvaise intention, pour un moment il induit d’huile la gorge, mais après cela il est trouvé plus amer que la bile par celui qui a goûté de la douceur en faisant le mal." Ensuite, donc, s’étant détourné de l’abondance de tous ces fruits, l’homme par le fait d’avoir prêté écoute à ce qui était erroné, il se remplit du fruit qui produit la corruption (le nom de ce fruit est le péché qui produit la mort), immédiatement il mourut au mode de vie plus élevé, prenant à la place de la condition de vie plus divine, la condition de vie des bêtes privées de parole. Et une fois que la mort fut mélangée à la nature, la mortalité fut transmise de l’un à l’autre à ceux qui furent engendrés successivement. A partir de là, nous avons reçu les uns des autres une vie morte, car d’une certaine façon notre vie elle-même a été tuée: en effet, notre vie est morte à l’instant même où elle a été privée de l’immortalité. C’est pour cela que celui "qui est reconnu au milieu des deux vies" (Habacuc 3, 2) est un médiateur entre ces deux vies, afin que par la destruction de celle qui est inférieure, il confère le prix de la victoire à celle qui est pure [ἀκηράτῳ intacte, non touchée par la mort]. De même, donc, que l’homme, par le fait de mourir à la vraie vie, est tombé dans celle qui est morte, ainsi, lorsqu’il meurt à celle qui est morte et à la vie bestiale, il est transféré auprès de la vie qui vit toujours, ainsi il n’y a pas de doute qu’il n’est pas engendré dans la vie bienheureuse, s’il ne devient pas mort au péché. C’est grâce à cela que par la parole nous a été enseigné avec philosophie que chacun des deux bois est dans le même milieu, dans le sens où l’un s’y trouve par nature, l’autre c’est par la privation qu’il a été engendré sur celui qui y était. L’échange entre la vie et la mort s’opère sur le même être à partir du même être, par participation et par privation : Celui qui est mort au bien vit au mal et le mort plongé dans le mal retrouve la vie en se tournant vers la vertu.
 
 [[Retour à Genèse 3, 1-24](/pages/ancientestament.html#genese-3-1-24)]
+
+
+
+## De la bienfaisance <a name="bienfaisance"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Matthieu Cassin*
+
+2-6 Le jeûne qui plait à Dieu, c'est l'amour des pauvres 
+
+5 énumère la cohorte des "gens nus et sans abri, prisonniers, étrangers, déplacés"
+
+7 que chacun prenne soin de ses voisins
+
+8 donne en fonction de ce que tu as
+
+9 ces pauvres qui sont le Christ 
+
+10 Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement
+
+11-13 En faisant le bien, l'homme imite Dieu 
+
+16-17 son luxe et son gaspillage
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+## Sur "Dans la mesure où vous l'avez fait" <a name="mesure"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Matthieu Cassin*
+
+4-16 Une catégorie de pauvres est particulièrement pitoyable : il s'agit des mendiants lépreux, abandonnés de tous, exclus des cités, alors qu'ils sont nos frères
+
+10 nous devons devenir "la bête de somme du Christ en nous liant avec les courroies de la charité")
+
+16 utilise son argent pour se faire des amis et des intercesseurs auprès de Dieu 
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+## "Contre ceux qui pratiquent l'usure" <a name="contre-usure"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Matthieu Cassin*
+
+3-4.8 l'hypocrisie du créancier qui se donne des airs de philanthrope parce qu'ils prête son argent aux pauvres, alors qu'il ne cherche que son profit 
+
+4-5 le débiteur misérable qui emprunte pour survivre et nourrir ses enfants 
+
+5 descriptions saisissantes de la cruauté des créanciers sans coeur
+
+6 Mais c'est un mauvais calcul, car le créancier, qui n'est pas sûr d'être remboursé, est rempli d'angoisses : c'est le cas en particulier pour celui qui pratique le prêt maritime 
+
+7 la stérilité naturelle de l'or qui est un simple caillou, contrairement à la graine que plante un agriculteur 
+
+10-11 pour le créancier non plus, l'argent ne fait pas le bonheur car il ne l'emportera pas au paradis
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+[[Grégoire de Nysse](/references/gregoiredenysse.html#bienfaisance)]
+
+[[Grégoire de Nysse](/references/gregoiredenysse.html#mesure)]
+
+[[Grégoire de Nysse](/references/gregoiredenysse.html#contre-usure)]
+
+
+
+

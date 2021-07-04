@@ -119,34 +119,33 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/peterharvey.png">](/references/peterharvey.html "Peter Harvey")
 [<img src="/images/giovannipolito.png">](/references/giovannipolito.html "Giovanni Polito")
 
-D'abord prendre les commentaires avant de ranger !
 
 
-Déjà intégrés, à lire :
+Déjà intégrés, à lire par rapport à la prière :
 
 Macaire de Sceté
 
 Syméon le Nouveau Théologien
 
-(/references/evagrelepontique.html)
+evagrelepontique
 
-(/references/marclermite.html "Aristote")
+marclermite
 
-(/references/diadoquedephotice.html "Aristote")
+diadoquedephotice
 
-(/references/barsanuphedegaza.html "Aristote")
+barsanuphedegaza
 
-(/references/jeanclimaque.html "Aristote")
+jeanclimaque
 
-(/references/maximeleconfesseur.html "Aristote")
+maximeleconfesseur
 
-(/references/hesychioshieros.html "Aristote")
+hesychioshieros
 
-(/references/isaacdeninive.html "Aristote")
+isaacdeninive
 
-(/references/philotheelesinaite.html "Aristote")
+philotheelesinaite
 
-(/references/nicetasstethatos.html "Aristote")
+nicetasstethatos
 
 elielecdicos
 
