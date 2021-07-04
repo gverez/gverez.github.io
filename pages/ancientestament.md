@@ -9,7 +9,7 @@ title: Ancien Testament
 
 # Ancien Testament <a name="ancientestament"></a>
 
-[Genèse](#genese) - [Exode](#exode) - [Job](#job) - [Lévitique](#levitique) - [Deutéronome](#deuteronome) - [Proverbes](#proverbes)
+[Genèse](#genese) - [Exode](#exode) - [Premier Livre des Rois](#1rois) - [Job](#job) - [Lévitique](#levitique) - [Deutéronome](#deuteronome) - [Proverbes](#proverbes)
 
 
 ## Genèse <a name="genese"></a>
@@ -98,7 +98,7 @@ Commentaire du Pape François Fratteli Tutti sur "suis-je le gardien de mon frè
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Exode](#exode)</sub>
 
-###  Exode 22, 20 <a name="exode-22-20"></a>
+### Exode 22, 20 <a name="exode-22-20"></a>
 >Tu n’exploiteras ni n’opprimeras l’émigré, car vous avez été des émigrés au pays d’Egypte. (TOB)
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Exode](#exode)</sub>
@@ -107,6 +107,19 @@ Commentaire du Pape François Fratteli Tutti sur "suis-je le gardien de mon frè
 >Tu n’opprimeras pas l’émigré ; vous connaissez vous-mêmes la vie de l’émigré, car vous avez été émigrés au pays d’Egypte. (TOB)
 
 <sub>[Retour à l'A.T.](#ancientestament) — [Retour à Exode](#exode)</sub>
+
+## Premier Livre des Rois <a name="1rois"></a>
+
+### 1 Rois 21, 1-4 <a name="1rois-21-1-4"></a>
+>Voici ce qui arriva après ces événements. Naboth d’Izréel avait une vigne à Izréel ; elle était à côté du palais d’Akhab, roi de Samarie. Akhab parla à Naboth : « Cède-moi ta vigne pour qu’elle me serve de jardin potager, car elle est juste à côté de ma maison ; et je te donnerai à sa place une vigne meilleure. Mais si cela te convient, je puis te donner son prix en argent. » Naboth dit à Akhab : « Que le SEIGNEUR m’ait en abomination si je te cède l’héritage de mes pères. » Akhab rentra chez lui sombre et contrarié à cause de ce que lui avait dit Naboth d’Izréel : « Je ne te céderai pas l’héritage de mes pères. » Il se coucha sur son lit, tourna son visage contre le mur, et ne voulut pas manger. (Trad. : TOB)
+
+<sub>[Retour à l'A.T.](#ancientestament) — [Retour à 1 Rois](#1rois)</sub>
+
+
+
+
+
+
 
 ## Job <a name="job"></a>
 

@@ -51,11 +51,23 @@ aide du prochain, pas que financière
 
 <img src="/images/denier_cesar.png">
 
-## Dossier scripturaire
+## Références
 
-Si Ambroise évoque l'histoire de Naboth, mis à mort pour qu'Achab puisse s'emparer de sa vigne (1 R 21, 1-4), la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexion des auteurs de ce dossier sont tirés du Nouveau Testament :
-- la rencontre de Jésus et du jeune homme riche (Mc 10, 17-30) : Clément, Basile, Chrysostome
+Ambroise évoque l'histoire de Naboth, mis à mort pour qu'Achab puisse s'emparer de sa vigne [[1 Rois 21, 1-4](/pages/ancientestament.html#1rois-21-1-4)]:
+
+>Naboth d’Izréel avait une vigne à Izréel ; elle était à côté du palais d’Akhab, roi de Samarie. Akhab parla à Naboth : « Cède-moi ta vigne pour qu’elle me serve de jardin potager, car elle est juste à côté de ma maison ; et je te donnerai à sa place une vigne meilleure. Mais si cela te convient, je puis te donner son prix en argent. » Naboth dit à Akhab : « Que le Seigneur m’ait en abomination si je te cède l’héritage de mes pères. » Akhab rentra chez lui sombre et contrarié à cause de ce que lui avait dit Naboth d’Izréel : « Je ne te céderai pas l’héritage de mes pères. » Il se coucha sur son lit, tourna son visage contre le mur, et ne voulut pas manger. (Trad. : TOB)
+
+Toutefois, la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexion des Pères de l'Eglise sont tirés du Nouveau Testament :
+- la rencontre de Jésus et du jeune homme riche [[Marc 10, 17-31](/pages/nouveautestament.html#marc-10-17-31)] : (**Clément, Basile, Chrysostome**)
+
+>« Bon Maître, que dois-je faire pour recevoir la vie éternelle en partage ? » Jésus lui dit : « Pourquoi m’appelles-tu bon ? Nul n’est bon que Dieu seul. Tu connais les commandements : Tu ne commettras pas de meurtre, tu ne commettras pas d’adultère, tu ne voleras pas, tu ne porteras pas de faux témoignage, tu ne feras de tort à personne, honore ton père et ta mère. » L’homme lui dit : « Maître, tout cela, je l’ai observé dès ma jeunesse. » Jésus le regarda et se prit à l’aimer ; il lui dit : « Une seule chose te manque ; va, ce que tu as, vends-le, donne-le aux pauvres et tu auras un trésor dans le ciel ; puis viens, suis-moi. » Mais à cette parole, il s’assombrit et il s’en alla tout triste, car il avait de grands biens.
+
 - la parabole du bon Samaritain (Lc 10) : Nysse
+
+
+
+
+
 - la parabole du riche qui veut agrandir ses greniers (Lc 12) : Basile
 - la parabole du riche et de Lazare (Lc 16, 19-31) : Chrysostome
 - la parabole du Jugement dernier (Mt 25) : Clément, Nysse
