@@ -63,3 +63,68 @@ Le saint père syrien dont il est question ici, réagit donc à la traduction gr
 D’après l’enseignement traditionnel, en effet, la création est l’oeuvre de la Trinité et Basile, tient à réaffirmer ici qui l’action de l’Esprit est celle d’infuser la vie de Dieu en ses créature, le souffle de Dieu donne et transmet la vie divine à ses créatures.
 
 [[Retour à Genèse 1, 2](/pages/ancientestament.html#genese-1-2)]
+
+
+
+## Homélie 2 sur le psaume 14 <a name="homelie-2"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Monique Devailly*
+
+? Contre les usuriers
+
+1 créanciers sans coeur
+
+2 le débiteur insouciant qui emprunte pour maintenir un train de vie au dessus de ses moyens
+
+3 la stérilité naturelle de l'or qui est un simple caillou, contrairement à la graine que plante un agriculteur 
+
+4 il vaut mieux travailler qu'emprunter 
+
+5 prêter sans intérêt ou donner aux pauvres, c'est avoir Dieu lui-même pour débiteur
+
+passion : les dettes sont un fléau
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+## Homélie 6 sur l'accumulation des biens <a name="homelie-6"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Michel Poirier*
+
+2 L'or crée plus de soucis que de bonheur à ceux qui lui sont attachés 
+
+4 Les pauvres sont parfois contraints de vendre leurs enfants pour survivre
+
+4-5 cruauté du mauvais riche 
+
+5-6 Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement
+
+7 "ont été préparés pour l'usage de tous. ... Si chacun ne se réservait que ce qui satisfait ses nécessités, et laissait le surplus aux indigents, personne ne serait riche, personne ne serait pauvre. ... à l'affamé le pain que tu gardes. A l'homme nu, le manteau que tu conserves dans tes coffres..." 
+
+7 certains de nos textes accusent le mauvais riche (celui qui ne partage pas) d'être un voleur
+
+8 le refus du partage
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+## Homélie 7 sur ceux qui vivent dans la richesse <a name="homelie-7"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Michel Poirier*
+
+2-3 Le diable fait croire que le superflu est nécessaire et qu'il faut faire des réserves "au cas où", souci qui annonce les assurances modernes mais sert surtout de prétexte pour ne pas donner aux pauvres 
+
+4 luxe et son gaspillage
+
+5 le riche n'est jamais satisfait, toujours il lui manque quelque chose
+
+7 l'or n'est qu'un cailloux, la richesse est trompeuse
+
+7 la richesse est la cause de tous les maux : haine, guerres, jalousies, vols, piraterie 
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+
+
+

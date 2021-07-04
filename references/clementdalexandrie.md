@@ -25,3 +25,5 @@ title: Clément d'Alexandrie
 33-35 Il ne faut pas juger sur l'apparence ni choisir quels pauvres doivent être aidés
 
 35 que chacun utilise son argent pour se faire des amis et des intercesseurs auprès de Dieu
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
