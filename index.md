@@ -164,6 +164,8 @@ Syméon le Nouveau Théologien
 **1748-1809**
 [<img src="/images/nicodemelhagiorite.png">](/references/nicodemelhagiorite.html "Nicodème l'Hagiorite")
 
+**?-1914**
+[<img src="/images/nopicture.png">](/references/muhammadaminalkurdi.html "Muhammad Amîn al-Kurdî")
 
 
 # Lexique à constituer :
