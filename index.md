@@ -161,6 +161,10 @@ Syméon le Nouveau Théologien
 **XIVe**
 [<img src="/images/nopicture.png">](/references/calliste2.html "Calliste II")
 
+**1748-1809**
+[<img src="/images/nicodemelhagiorite.png">](/references/nicodemelhagiorite.html "Nicodème l'Hagiorite")
+
+
 
 # Lexique à constituer :
 - Caïn signifie acquisition, parce qu’il acquiert tout pour lui-même.
