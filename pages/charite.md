@@ -70,11 +70,16 @@ Toutefois, la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexi
 
 >Il y avait un homme riche dont la terre avait bien rapporté. Et il se demandait : "Que vais-je faire ? car je n’ai pas où rassembler ma récolte." Puis il se dit : "Voici ce que je vais faire : je vais démolir mes greniers, j’en bâtirai de plus grands et j’y rassemblerai tout mon blé et mes biens.
 
+- [La parabole du riche et de Lazare, Luc 16, 19-31](/pages/nouveautestament.html#luc-16-19-31) [**Chrysostome**] :
+>Il y avait un homme riche qui s’habillait de pourpre et de linge fin et qui faisait chaque jour de brillants festins. Un pauvre du nom de Lazare gisait couvert d’ulcères au porche de sa demeure. Il aurait bien voulu se rassasier de ce qui tombait de la table du riche ; mais c’étaient plutôt les chiens qui venaient lécher ses ulcères.
 
 
-- la parabole du riche et de Lazare (Lc 16, 19-31) : Chrysostome
-- la parabole du Jugement dernier (Mt 25) : Clément, Nysse
-- l'hymne de Paul à la charité (1 Co 12-13) : Clément, Chrysostome
+- [La parabole du Jugement dernier, Matthieu 25, 31-46](/pages/nouveautestament.html#matthieu-25-31-46) [**Clément, Nysse**] :
+> J’ai eu faim et vous m’avez donné à manger ; j’ai eu soif et vous m’avez donné à boire ; j’étais un étranger et vous m’avez recueilli ; nu, et vous m’avez vêtu ; malade, et vous m’avez visité ; en prison, et vous êtes venus à moi.
+
+- [L'hymne de Paul à la charité, 1 Corinthiens 13, 1-13](/pages/nouveautestament.html#1corinthiens-13-1-13) [**Clément, Chrysostome**] :
+
+>Quand je parlerais en langues, celle des hommes et celle des anges, s’il me manque l’amour, je suis un métal qui résonne, une cymbale retentissante. Quand j’aurais le don de prophétie, la science de tous les mystères et de toute la connaissance, quand j’aurais la foi la plus totale, celle qui transporte les montagnes, s’il me manque l’amour, je ne suis rien. Quand je distribuerais tous mes biens aux affamés, quand je livrerais mon corps aux flammes, s’il me manque l’amour, je n’y gagne rien. L’amour prend patience, l’amour rend service, il ne jalouse pas, il ne plastronne pas, il ne s’enfle pas d’orgueil, il ne fait rien de laid, il ne cherche pas son intérêt, il ne s’irrite pas, il n’entretient pas de rancune, il ne se réjouit pas de l’injustice, mais il trouve sa joie dans la vérité. Il excuse tout, il croit tout, il espère tout, il endure tout. L’amour ne disparaît jamais.
 
 Enfin, l'homélie de Basile contre les usuriers utilise quelques verts de l'Ancien Testament contre la pratique de l'usure : Dt 23, 20 ; Ps 14, 5 ; Ps 54, 12.
 
