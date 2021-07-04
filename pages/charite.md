@@ -57,7 +57,7 @@ aide du prochain, pas que financière
 >Naboth d’Izréel avait une vigne à Izréel ; elle était à côté du palais d’Akhab, roi de Samarie. Akhab parla à Naboth : "Cède-moi ta vigne pour qu’elle me serve de jardin potager, car elle est juste à côté de ma maison ; et je te donnerai à sa place une vigne meilleure. Mais si cela te convient, je puis te donner son prix en argent." Naboth dit à Akhab : "Que le Seigneur m’ait en abomination si je te cède l’héritage de mes pères." Akhab rentra chez lui sombre et contrarié à cause de ce que lui avait dit Naboth d’Izréel : "Je ne te céderai pas l’héritage de mes pères." Il se coucha sur son lit, tourna son visage contre le mur, et ne voulut pas manger.
 
 Toutefois, la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexion des Pères de l'Eglise sont tirés du Nouveau Testament :
-- [La rencontre de Jésus et du jeune homme riche, Marc 10, 17-31](/pages/nouveautestament.html#marc-10-17-31) [**Clément, Basile, Chrysostome**] :
+- [La rencontre de Jésus et du jeune homme riche, Marc 10, 17-31](/pages/nouveautestament.html#marc-10-17-31) [[Clément d'Alexandrie](/references/clementdalexandrie.html#quel-riche)] [**Basile, Chrysostome**] :
 >"Bon Maître, que dois-je faire pour recevoir la vie éternelle en partage ?" Jésus lui dit : "Pourquoi m’appelles-tu bon ? Nul n’est bon que Dieu seul. Tu connais les commandements : Tu ne commettras pas de meurtre, tu ne commettras pas d’adultère, tu ne voleras pas, tu ne porteras pas de faux témoignage, tu ne feras de tort à personne, honore ton père et ta mère." L’homme lui dit : "Maître, tout cela, je l’ai observé dès ma jeunesse." Jésus le regarda et se prit à l’aimer ; il lui dit : « Une seule chose te manque ; va, ce que tu as, vends-le, donne-le aux pauvres et tu auras un trésor dans le ciel ; puis viens, suis-moi." Mais à cette parole, il s’assombrit et il s’en alla tout triste, car il avait de grands biens.
 
 - [La parabole du bon Samaritain, Luc 10, 29-37](/pages/nouveautestament.html#luc-10-29-37) [**Nysse**] :
@@ -69,10 +69,10 @@ Toutefois, la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexi
 - [La parabole du riche et de Lazare, Luc 16, 19-31](/pages/nouveautestament.html#luc-16-19-31) [**Chrysostome**] :
 >Il y avait un homme riche qui s’habillait de pourpre et de linge fin et qui faisait chaque jour de brillants festins. Un pauvre du nom de Lazare gisait couvert d’ulcères au porche de sa demeure. Il aurait bien voulu se rassasier de ce qui tombait de la table du riche ; mais c’étaient plutôt les chiens qui venaient lécher ses ulcères.
 
-- [La parabole du Jugement dernier, Matthieu 25, 31-46](/pages/nouveautestament.html#matthieu-25-31-46) [**Clément, Nysse**] :
+- [La parabole du Jugement dernier, Matthieu 25, 31-46](/pages/nouveautestament.html#matthieu-25-31-46) [[Clément d'Alexandrie](/references/clementdalexandrie.html#quel-riche)] [**Nysse**] :
 >J’ai eu faim et vous m’avez donné à manger ; j’ai eu soif et vous m’avez donné à boire ; j’étais un étranger et vous m’avez recueilli ; nu, et vous m’avez vêtu ; malade, et vous m’avez visité ; en prison, et vous êtes venus à moi.
 
-- [L'hymne de Paul à la charité, 1 Corinthiens 13, 1-13](/pages/nouveautestament.html#1corinthiens-13-1-13) [**Clément, Chrysostome**] :
+- [L'hymne de Paul à la charité, 1 Corinthiens 13, 1-13](/pages/nouveautestament.html#1corinthiens-13-1-13) [[Clément d'Alexandrie](/references/clementdalexandrie.html#quel-riche)] [**Chrysostome**] :
 >Quand je parlerais en langues, celle des hommes et celle des anges, s’il me manque l’amour, je suis un métal qui résonne, une cymbale retentissante. Quand j’aurais le don de prophétie, la science de tous les mystères et de toute la connaissance, quand j’aurais la foi la plus totale, celle qui transporte les montagnes, s’il me manque l’amour, je ne suis rien. Quand je distribuerais tous mes biens aux affamés, quand je livrerais mon corps aux flammes, s’il me manque l’amour, je n’y gagne rien. L’amour prend patience, l’amour rend service, il ne jalouse pas, il ne plastronne pas, il ne s’enfle pas d’orgueil, il ne fait rien de laid, il ne cherche pas son intérêt, il ne s’irrite pas, il n’entretient pas de rancune, il ne se réjouit pas de l’injustice, mais il trouve sa joie dans la vérité. Il excuse tout, il croit tout, il espère tout, il endure tout. L’amour ne disparaît jamais.
 
 - Enfin, **l'homélie de Basile contre les usuriers** utilise quelques verts de l'Ancien Testament contre la pratique de l'usure : 
@@ -92,7 +92,7 @@ La figure du riche est majoritairement négative. Les Pères stigmatisent l'égo
 
 #### Le bon riche
 
-Mais la richesse n'est pas forcément mauvaise. Bien utilisée, elle contribue au salut du riche. Certes, il est plus difficile à un riche d'être sauvé, comme le dit Jésus par l'image du chameau et du chas de l'aiguille (Lc 18, 25) : Clément 2. Mais le riche ne doit pas désespérer : ce n'est pas la richesse qui est mauvaise, mais l'attachement à la richesse (Clément, 11-13 ; Augustin 36, 5) et surtout le refus du partage (Basile 6, 8). Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien (Clément 14 ; Chrysostome 34, 6-7 ; Augustin 36, 6.9 ; Augustin 41, 6).
+Mais la richesse n'est pas forcément mauvaise. Bien utilisée, elle contribue au salut du riche. Certes, il est plus difficile à un riche d'être sauvé, comme le dit Jésus par l'image du chameau et du chas de l'aiguille (Lc 18, 25) : [[Clément d'Alexandrie 2](/references/clementdalexandrie.html#quel-riche)]. Mais le riche ne doit pas désespérer : ce n'est pas la richesse qui est mauvaise, mais l'attachement à la richesse [[Clément d'Alexandrie 11-13](/references/clementdalexandrie.html#quel-riche)] ; Augustin 36, 5) et surtout le refus du partage (Basile 6, 8). Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien ([[Clément d'Alexandrie 14](/references/clementdalexandrie.html#quel-riche)] ; Chrysostome 34, 6-7 ; Augustin 36, 6.9 ; Augustin 41, 6).
 
 #### Les riches ont besoin des pauvres
 
@@ -114,7 +114,7 @@ Pour Augustin en effet, pauvreté et richesse ne renvoient pas principalement à
 
 ## Eloge de la charité
 
-Tous ces textes sont de vibrants plaidoyers en faveur de la charité et du partage. En faisant le bien, l'homme imite Dieu (Nazianze 27 ; Nysse 1, 11-13). Il faut venir en aide aux pauvres, non par de belles paroles mais de façon concrète (Nazianze 27 ; Nysse 2, 10 : nous devons devenir "la bête de somme du Christ en nous liant avec les courroies de la charité"). L'aumône, reine des vertus (Chrysostome 2, 4) efface les péchés (Nazianze 36-40). Le jeûne qui plait à Dieu, c'est l'amour des pauvres (Nysse 1, 2-6), ces pauvres qui sont le Christ (Nysse 1, 9). Ainsi, que chacun prenne soin de ses voisins (Nysse 1, 7) et utilise son argent pour se faire des amis et des intercesseurs auprès de Dieu (Clément 35 ; Nysse 2, 16 ; "faites vous des amis avec l'argent trompeur").
+Tous ces textes sont de vibrants plaidoyers en faveur de la charité et du partage. En faisant le bien, l'homme imite Dieu (Nazianze 27 ; Nysse 1, 11-13). Il faut venir en aide aux pauvres, non par de belles paroles mais de façon concrète (Nazianze 27 ; Nysse 2, 10 : nous devons devenir "la bête de somme du Christ en nous liant avec les courroies de la charité"). L'aumône, reine des vertus (Chrysostome 2, 4) efface les péchés (Nazianze 36-40). Le jeûne qui plait à Dieu, c'est l'amour des pauvres (Nysse 1, 2-6), ces pauvres qui sont le Christ (Nysse 1, 9). Ainsi, que chacun prenne soin de ses voisins (Nysse 1, 7) et utilise son argent pour se faire des amis et des intercesseurs auprès de Dieu ([[Clément d'Alexandrie 35](/references/clementdalexandrie.html#quel-riche)] ; Nysse 2, 16 ; "faites vous des amis avec l'argent trompeur").
 
 ## Dénonciation de l'usure
 
@@ -162,7 +162,7 @@ Certains riches, pour se disculper de ne pas venir en aide aux pauvres, avancent
 
 ### Tous les pauvres sont dignes d'être secourus
 
-Contre ces sophismes, les Pères grecs insistent sur la dignité de tous les pauvres et leur droit au partage des richesses. Il ne faut pas juger sur l'apparence ni choisir quels pauvres doivent être aidés (Clément, 33-35). Il faut aimer tous les pauvres et tous les malheureux quelle que soit leur souffrance (Nazianze 6). De toutes façons, les pauvres sont nos frères (Nazianze 14-15).
+Contre ces sophismes, les Pères grecs insistent sur la dignité de tous les pauvres et leur droit au partage des richesses. Il ne faut pas juger sur l'apparence ni choisir quels pauvres doivent être aidés [[Clément d'Alexandrie 33-35](/references/clementdalexandrie.html#quel-riche)]. Il faut aimer tous les pauvres et tous les malheureux quelle que soit leur souffrance (Nazianze 6). De toutes façons, les pauvres sont nos frères (Nazianze 14-15).
 
 ### La richesse est un piège
 
