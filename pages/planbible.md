@@ -608,38 +608,595 @@ Psautier « élohiste », harmonisation des noms divins :
 - [145-150]     Doxologie Alléluia
 
 ### Job <a name="job"></a>
+
+|---------|-------------------------------------------------------------------------|
+| [1]     | L’homme pieux est mis à l’épreuve, il perd tout mais ne maudit Dieu     |
+| [3-27]  | Dialogue entre Job et ses trois amis : Éliphaz, Bildad et Tsophar       |
+| [28]    | Eloge de la sagesse                                                     |
+| [29-31] | Dernier discours de Job, il termine en mettant Dieu au défi de répondre |
+| [32-37] | Discours d’Elihou                                                       |
+| [38-40] | Discours de Dieu                                                        |
+| [40]    | Acquiescement de Job                                                    |
+| [40-41] | Discours de Dieu                                                        |
+| [42]    | Acquiescement de Job puis il est rétabli                                |
+
 ### Proverbes <a name="proverbes"></a>
+
+|---------|------------------------------------------------------------------------|
+| [1-9]   | Salomon : 10 discours père/fils, 3 discours de la sagesse personnifiée |
+| [10-22] | Salomon : 376 sentences concernant la vie morale                       |
+| [22-24] | Sages : liens avec la sagesse d’Aménémopé                              |
+| [25-29] | Salomon : 127 sentences concernant la vie morale                       |
+| [30]    | Paroles d’Agour : collection émanant d’un sage non israélite           |
+| [30]    | Proverbes numériques                                                   |
+| [31]    | Paroles de Lemouël, collection émanant d’un autre sage non israélite   |
+| [31]    | Poème alphabétique sur la femme vaillante et parfaite, la Sagesse      |
+
 ### Ruth <a name="ruth"></a>
+
+|-----|------------------------------------------------------------------------|
+| [1] | Elimélech, mari de Naomi, fuit famine en Israël pour Moab              |
+| [1] | Fils Mahlôn et Kilyôn se marient à moabites : Ruth pour Mahlôn         |
+| [1] | Hommes meurent, Ruth se rend avec Naomi à Bethléem                     |
+| [2] | Ruth glane dans champs de Boaz (riche propriétaire parent d’Elimélech) |
+| [3] | Ruth se rapproche de Boaz sur conseils de Naomi                        |
+| [4] | Mariage de Ruth et Boaz, héritage d’Elimélech                          |
+| [4] | Ils ont un fils nommé Obed, père de Jessé, grand-père de David         |
+
 ### Cantique des cantiques <a name="cantiquedescantiques"></a>
+
+|-------|---------------------------------------------------------------------------|
+| [1]   | Prologue, la bien-aimée                                                   |
+| [1]   | I, la bien-aimée « Je suis noire et pourtant belle, filles de Jérusalem » |
+| [1]   | I, récitants « Si tu l’ignore, ô la plus belle des femmes »               |
+| [1]   | I, le bien-aimé « A ma cavale, attelée au char de Pharaon »               |
+| [1-2] | I, duo « Tandis que le roi est dans son enclos »                          |
+| [2]   | II, la bien-aimée « J’entends mon bien-aimé »                             |
+| [3]   | III, la bien-aimée « Sur ma couche, la nuit, j’ai cherché »               |
+| [3]   | III, le bien-aimé « Je vous en conjure, filles de Jérusalem »             |
+| [3]   | IV, récitants « Qu’est-ce là qui monte du désert »                        |
+| [4]   | V, le bien-aimé « Que tu es belle, ma bien-aimée »                        |
+| [4-5] | V, la bien-aimée et les récitants « Lève-toi, aquilon »                   |
+| [5]   | VI, la bien-aimée « Je dors, mais mon cœur veille »                       |
+| [5]   | VII, récitants « Qu’a donc ton bien-aimé de plus que les autres ? »       |
+| [5]   | VII, la bien-aimée « Mon bien-aimé est frais et vermeil »                 |
+| [6]   | VII, récitants « Où est parti ton bien-aimé ? »                           |
+| [6]   | VII, la bien-aimée « Mon bien-aimé est descendu à son jardin »            |
+| [6]   | VIII, le bien-aimé « Tu es belle, mon amie, comme Tirça »                 |
+| [6]   | IX, la bien-aimée « Au jardin des noyers je suis descendue »              |
+| [7]   | IX, récitants « Reviens, reviens, Sulamite »                              |
+| [7]   | IX, le bien-aimé « Ah, vous la regardez, la Sulamite »                    |
+| [7]   | IX, la bien-aimée « Il va droit à mon bien-aimé »                         |
+| [7-8] | X, la bien-aimée « Viens, mon bien-aimé »                                 |
+| [8]   | Epilogue, récitants « Qui est celle-ci qui monte du désert ? »            |
+| [8]   | Epilogue, la bien-aimée « Sous le pommier, je t’ai réveillé »             |
+| [8]   | Additions diverses                                                        |
+
 ### Qohéleth (l’Ecclésiaste) <a name="qoheleth"></a>
+
+|-------|------------------------------------------------------------------|
+| [1]   | L’éternel recommencement                                         |
+| [1-2] | L’insatisfaction du roi Salomon                                  |
+| [2]   | La mort commune au sage et au sot                                |
+| [2]   | L’homme dont la peine n’est pas récompensée                      |
+| [3]   | Le temps qui s’impose                                            |
+| [3]   | Ce qui est bon pour l’homme                                      |
+| [3]   | L’absence de justice                                             |
+| [4]   | Les faibles opprimés, au point que la mort vaut mieux que la vie |
+| [4]   | Jalousie et désir effréné                                        |
+| [4]   | La vie solitaire                                                 |
+| [4]   | Perte des illusions concernant un changement de règne            |
+| [4-5] | Au sujet de la pratique cultuelle                                |
+| [5]   | L’Etat                                                           |
+| [5-6] | Les richesses                                                    |
+| [6-7] | Considérations variées                                           |
+| [7]   | Au sujet de la femme                                             |
+| [8]   | Autres maximes : profiter de la vie tant qu’il est temps         |
+| [9]   | Vanité de la sagesse et de la vertu                              |
+| [10]  | Autres considérations                                            |
+| [11]  | Prudence et audace                                               |
+| [12]  | Penser à Dieu avant d’être mort                                  |
+| [12]  | Conclusion                                                       |
+
 ### Lamentations <a name="lamentations"></a>
+
+[1]     La ville sans amour. Le premier poème décrit Jérusalem comme une princesse abandonnée, punie à cause de l’abondance de ses transgressions.
+
+[2]     L’ennemi divin. Le second poème parle des conséquences de la famine : des enfants défaillent, des femmes mangent leurs propres enfants, les cadavres jonchent les rues.
+
+[3]     L’homme de douleurs. Le troisième poème annonce l’espoir de Sion en la miséricorde divine.
+
+[4]     Misère de la politique. Le quatrième poème déplore la gloire passée du temple de Jérusalem, maintenant détruit.
+
+[5]     La grâce de la conversion. Le dernier poème débute par une supplique demandant à Dieu de se souvenir de son peuple.
+
 ### Esther <a name="esther"></a>
+
+|-------|------------------------------------------------------------|
+| [1]   | Destitution de la reine perse Vasti                        |
+| [2]   | Esther devient reine perse                                 |
+| [2]   | Mardochée déjoue un complot                                |
+| [3]   | Début du conflit entre Haman et Mardochée                  |
+| [4]   | Réaction de Mardochée, implication d’Esther                |
+| [4]   | Jeûne de tous les Juifs de Suse                            |
+| [5]   | Premier banquet d’Esther                                   |
+| [5]   | Aggravation du conflit entre Haman et Mardochée            |
+| [6]   | Première élévation de Mardochée, retournement de situation |
+| [7-8] | Deuxième banquet d’Esther                                  |
+| [8]   | Le contre-décret                                           |
+| [9]   | Massacres des ennemis des Juifs                            |
+| [9]   | Institution de la fête de Pourim                           |
+| [10]  | Mardochée gère l’empire perse                              |
+
 ### Daniel <a name="daniel"></a>
+
+|---------|--------------------------------------------------------------------------|
+| [1]     | Présentation de la situation des quatre personnages, épreuve alimentaire |
+| [2]     | Le songe de la statue, Daniel plus fort que les magiciens                |
+| [3]     | Les trois compagnons de Daniel dans la fournaise, sauvé par un ange      |
+| [3-4]   | Le songe de Nabuchodonosor d’un grand arbre                              |
+| [5]     | L’écriture sur le mur lors du banquet de Balthazar                       |
+| [6]     | Daniel dans la fosse aux lions car fonction importante sous Darius       |
+| [7]     | La vision des quatre bêtes énormes                                       |
+| [8]     | La vision du bélier et du bouc                                           |
+| [9]     | Les 70 semaines d’années                                                 |
+| [10-12] | Grande vision finale                                                     |
+| [13]    | Histoire de Suzanne et des vieillards malhonnêtes qui l’observent        |
+| [14]    | Daniel et les prêtres de Bel, faux dieu protecteur de Babylone           |
+| [14]    | Daniel aux lions pour avoir tué le dragon vénéré par babyloniens         |
+
 ### Esdras <a name="esdras"></a>
+
+|-------|-----------------------------------------------------------------------------|
+| [1]   | Edit de Cyrus, possibilité du retour                                        |
+| [2]   | Liste des personnes revenant de l’Exil, conduites par Zorobabel             |
+| [3]   | Reconstruction de l’autel, pose des fondations du temple                    |
+| [4]   | Conflit avec les « gens du pays » sur la participation à la reconstruction  |
+| [4-6] | Correspondance avec la cour perse au sujet de la reconstruction             |
+| [6]   | Inauguration du deuxième temple (515), célébration de la Pâque              |
+| [7]   | Esdras, scribe juif, chargé d’affaires par le roi perse, arrive à Jérusalem |
+| [7-8] | Liste de personnes revenant avec Esdras de Babylone                         |
+| [8]   | Rapport du voyage                                                           |
+| [9]   | Confession de péchés d’Esdras                                               |
+| [10]  | Dissolution des mariages mixtes, liste des personnes concernées             |
+
 ### Néhémie <a name="nehemie"></a>
+
+|---------|---------------------------------------------------------------------|
+| [1-2]   | Néhémie, échanson d’Artaxerxès, en voyage à Jérusalem               |
+| [2-6]   | Reconstruction du mur malgré la résistance des Samaritains          |
+| [7]     | Liste de personnes rentrées de l’exil sous la conduite de Zorobabel |
+| [8]     | Lecture de la Loi au peuple par Esdras                              |
+| [9]     | Confession des péchés par des lévites (résumé historique)           |
+| [10]    | Engagement du peuple avec liste des engagés                         |
+| [11-12] | Listes diverses : habitants de Jérusalem, prêtres et lévites        |
+| [12]    | Inauguration des murs de Jérusalem                                  |
+| [13]    | Réformes de Néhémie : les « étrangers » chassés, Sabbat respecté,…  |
+
 ### Premier livre des Chroniques <a name="1chroniques"></a>
+
+|---------|----------------------------------------------------------------------|
+| [1]     | D’Adam à Israël                                                      |
+| [2]     | Juda, Caleb                                                          |
+| [3]     | Les Davidides                                                        |
+| [4]     | Juda, Siméon                                                         |
+| [5]     | Ruben, Gad, Manassé-Est                                              |
+| [5-6]   | Lévi                                                                 |
+| [7-8]   | Issakar, Benjamin, Nephtali, Manassé-Ouest, Ephraïm, Asher, Benjamin |
+| [9]     | Liste des habitants de Jérusalem                                     |
+| [10]    | Mort de Saül                                                         |
+| [11-12] | David devient roi à Jérusalem                                        |
+| [13-16] | Transfert de l’arche et victoire sur les Philistins                  |
+| [17]    | Oracle de Nathan                                                     |
+| [18-20] | Exploits militaires                                                  |
+| [21]    | Recensement, fléau, découverte de l’emplacement du temple            |
+| [22]    | Préparatifs pour la construction (David instruit Salomon)            |
+| [23-26] | Organisation du personnel cultuel                                    |
+| [27]    | Liste des militaires et des fonctionnaires                           |
+| [28]    | Introduction de Salomon comme successeur                             |
+| [29]    | Derniers dons de David pour le temple, prière et mort                |
+
 ### Deuxième livre des Chroniques <a name="2chroniques"></a>
+
+|---------|-------------------------------------------------------------------------|
+| [1]     | Introduction : sagesse et richesse de Salomon                           |
+| [2-4]   | Construction du Temple                                                  |
+| [5-6]   | Inauguration du Temple                                                  |
+| [7]     | L’acceptation divine                                                    |
+| [8]     | Constructions et sacrifices de Salomon                                  |
+| [9]     | Visite de la reine de Saba, conclusion : gloire de Salomon              |
+| [10]    | Schisme du royaume du Nord                                              |
+| [11-12] | Roboam : péché, punition (le pharaon Shéshonq), conversion              |
+| [13]    | Abiya : victoire contre Jéroboam I                                      |
+| [14-16] | Asa : victoire sur les Koushites, réforme cultuelle, maladie            |
+| [17-20] | Josaphat : établit un nouveau droit, puni pour son alliance avec Akhab  |
+| [21]    | Yoram : roi mauvais                                                     |
+| [22]    | Akhazias : tué à la suite d’une alliance avec Yoram d’Israël            |
+| [23]    | Athalie : usurpatrice, tuée par des prêtres et des lévites              |
+| [24]    | Joas : répare le temple, mais est vaincu par les Araméens               |
+| [25]    | Amasias : victoires lorsqu’il obéit et défaites en cas de désobéissance |
+| [26]    | Ozias : lépreux pour avoir voulu s’approprier les droits des prêtres    |
+| [27]    | Yotam : roi pieux                                                       |
+| [28]    | Akhaz : roi impie, demande secours aux Assyriens                        |
+| [29-32] | Ezékias : rétablit le culte yahwiste, fêtes et impôts ecclésiastiques   |
+| [33]    | Manassé est impie, son long règne est expliqué par sa conversion        |
+| [34-35] | Josias : commence sa réforme avant la découverte du Livre               |
+| [36]    | Yoakhaz, Yoyaqim, Yoyakin, Sédécias, invasion des Babyloniens, chute    |
+
 ### Esther grec <a name="esthergrec"></a>
+
+|-------|------------------------------------------------------------|
+| [1]   | Destitution de la reine perse Vasti                        |
+| [2]   | Esther devient reine perse                                 |
+| [2]   | Mardochée déjoue un complot                                |
+| [3]   | Début du conflit entre Haman et Mardochée                  |
+| [4]   | Réaction de Mardochée, implication d’Esther                |
+| [4]   | Jeûne de tous les Juifs de Suse                            |
+| [5]   | Premier banquet d’Esther                                   |
+| [5]   | Aggravation du conflit entre Haman et Mardochée            |
+| [6]   | Première élévation de Mardochée, retournement de situation |
+| [7-8] | Deuxième banquet d’Esther                                  |
+| [8]   | Le contre-décret                                           |
+| [9]   | Massacres des ennemis des Juifs                            |
+| [9]   | Institution de la fête de Pourim                           |
+| [10]  | Mardochée gère l’empire perse                              |
+
 ### Judith <a name="judith"></a>
+
+|---------|------------------------------------------------------------------------|
+| [1-2]   | Nabuchodonosor charge son général Holopherne d’une expédition          |
+| [2-3]   | Holopherne vainqueur de tous les pays sur sa route et arrive en Judée  |
+| [4]     | Achior, des Ammonites, consulté comme agent de renseignement           |
+| [5]     | Achior explique comment Dieu protège ou puni Israël                    |
+| [6]     | Holopherne mécontent se débarrasse d’Achior en le livrant aux Juifs    |
+| [7]     | Les Juifs de Béthulie lui font bon accueil, Holopherne les assiège     |
+| [8]     | Présentation de Judith, propose son plan aux autorités de la ville     |
+| [9]     | Prière de Judith                                                       |
+| [10]    | Judith se rend extrêmement séduisant et se rend au camp d’Holopherne   |
+| [11]    | Holopherne tombe sous son charme et lui propose de rester au camp      |
+| [12]    | Festin organisé par Holopherne, elle séduit le général et le rend ivre |
+| [13]    | Judith décapite Holopherne et ramène sa tête à Béthulie                |
+| [14]    | Tête du général au rempart, Achior comprend la puissance de Dieu       |
+| [14-15] | Les Assyriens paniqués se dispersent                                   |
+| [15]    | Action de grâce des habitants de Béthulie                              |
+| [16]    | Judith chante un cantique de louange                                   |
+
 ### Tobit <a name="tobit"></a>
+
+|---------|------------------------------------------------------------------------|
+| [1]     | Tobit, Juif pieux vivant en exil à Ninive, garde les commandements     |
+| [2]     | Tobit devient aveugle après s’être endormi sous un nid d’oiseau        |
+| [3]     | Tobit prie pour être délivré de son mal ou pouvoir mourir              |
+| [3]     | Présentation par l’auteur de Sara, parente de Tobit victime d’un démon |
+| [3]     | Le démon Asmodée tue les prétendants de Sara, Raphaël à la rescousse   |
+| [4-5]   | Tobit envoie son fils Tobie chercher une créance, engage un guide      |
+| [5-6]   | Cheminement avec secrètement pour guide l’ange Raphaël, poisson        |
+| [6-9]   | Tobie tombe amoureux de Sara, mariage, prière de protection            |
+| [10-11] | Retour de Tobie avec Sara à Ninive, Tobit retrouve la vue              |
+| [12-14] | Raphaël, dont le poisson a été utile deux fois, révèle sa vraie nature |
+
 ### Premier livre des Maccabées <a name="1maccabees"></a>
+
+|---------|----------------------------------------------------------------------------|
+| [1]     | Mort d’Alexandre, division de son royaume, culture grecque en Israël       |
+| [2]     | Mattathias se lamente devant le pillage de Jérusalem par Antiochos         |
+| [2]     | Mattathias assassine un fonctionnaire, fuit et constitue une résistance    |
+| [3]     | Mort de Mattathias, remplacé par son fils Judas, victoires et ripostes     |
+| [4]     | Judas reprend le contrôle de Jérusalem, purifie le Temple et reconsacre    |
+| [5]     | Opérations militaires dans régions voisines pour éliminer cultes païens    |
+| [6]     | Le roi grec affronte Judas, accord donnant aux Juifs la liberté religieuse |
+| [7]     | Nouveau roi grec, nouveaux combats, Judas vainqueur                        |
+| [8]     | Alliance de Judas avec les romains                                         |
+| [9]     | Judas meurt au combat, remplacé par son frère Jonathan, batailles          |
+| [10-12] | Batailles et jeux de pouvoir, Jonathan capturé                             |
+| [13]    | Simon, autre frère de Judas, prend la relève, meurtre de Jonathan          |
+| [13-14] | Reprise de Jérusalem, paix avec Rome et Sparte                             |
+| [15]    | Simon nommé grand-prêtre                                                   |
+| [16]    | Simon assassiné et son fils Jean Hyrkan lui succède                        |
+
 ### Deuxième livre des Maccabées <a name="2maccabees"></a>
+
+|---------|-------------------------------------------------------------------------|
+| [1]     | Lettre des Juifs de Jérusalem aux frères habitant en Egypte             |
+| [2]     | Matériel de Jérémie caché avant la chute de Jérusalem                   |
+| [2]     | Bibliothèque de Néhémie dont les livres ont été conservés par Judas     |
+| [3]     | Conflit entre l’administrateur du Temple Simon et le grand-prêtre Onias |
+| [4]     | Jason, frère d’Onias, s’empare de la direction du Temple, hellénisme    |
+| [4]     | Jason dépossédé par Mélénas, frère de Simon, qui fait assassiner Onias  |
+| [4]     | Emeutes à Jérusalem, Ménélas corrompt la justice                        |
+| [5]     | Jason attaque Jérusalem mais ne la prend pas, meurt en fuite en Egypte  |
+| [5]     | Pillage du Temple par les grecs, gouverneur hostiles aux Juif           |
+| [6-9]   | Judas regroupe des partisans contre l’hellénisation, affrontements      |
+| [10-11] | Guerre et paix avec les grecs, quatre lettres sont écrites              |
+| [12-14] | Vengeances, nouveaux affrontements, alliances                           |
+| [15]    | Judas gagne au combat contre Nicanor envoyé par le roi grec             |
+
 ### Sagesse <a name="sagesse"></a>
+
+|---------|----------------------------------------------------------------------------|
+| [1]     | Invitation à rechercher la Sagesse                                         |
+| [1-2]   | Résumé de la manière de penser des impies                                  |
+| [2]     | Affirmation de l’erreur de ce raisonnement                                 |
+| [3]     | Les justes seront récompensés et les impies punis                          |
+| [3-4]   | Les apparences sont trompeuses                                             |
+| [4-5]   | Il y aura un jugement dernier                                              |
+| [6]     | La Sagesse est nécessaire pour échapper au jugement                        |
+| [6]     | Le roi sage domine éternellement, la Sagesse n’est pas difficile à trouver |
+| [6]     | Description de la Sagesse par Salomon                                      |
+| [7]     | Salomon prie pour obtenir la Sagesse                                       |
+| [7]     | Résultat : Salomon tient la Sagesse en haute estime                        |
+| [7]     | Salomon va décrire la Sagesse grâce à l’inspiration divine                 |
+| [7-8]   | Description de la Sagesse                                                  |
+| [8]     | La Sagesse est nécessaire aux rois et Salomon va la demander à Dieu        |
+| [9]     | Prière pour demander la Sagesse                                            |
+| [10]    | Des origines à Moïse                                                       |
+| [10-11] | La sortie d’Egypte et la marche dans le désert                             |
+| [11-12] | Comparaison entre les Juifs et les Egyptiens, Dieu est indulgent           |
+| [12]    | Même indulgence de Dieu envers les Cananéens                               |
+| [12]    | Il faudrait que l’homme comprenne cette modération                         |
+| [12]    | Egyptiens n’en tiennent pas compte, Dieu doit intervenir avec rigueur      |
+| [13-15] | Les Egyptiens sont coupables à cause de leur idolâtrie                     |
+| [16]    | Les animaux que les Egyptiens adoraient se sont retournés contre eux       |
+| [16-18] | Les éléments se déchaînent contre Egyptiens alors qu’ils sauvent Juifs     |
+| [18]    | La mort des premiers nés d’Egypte                                          |
+| [19]    | La mer engloutit les Egyptiens et sauve Israël                             |
+| [19]    | La fin de l’histoire                                                       |
+
 ### Siracide (l’Ecclésiastique) <a name="siracide"></a>
+
+|---------|----------------------------------------------------------------------------|
+| [1-2]   | Sagesse : patience, crainte et confiance en Dieu                           |
+| [3]     | Sagesse : devoirs envers parents, humilité, orgueil, aumône                |
+| [4-6]   | Sagesse : riches et pauvres, justice, prudence, mensonge, orgueil, amitiés |
+| [7-9]   | Sagesse : parents, enfants, clergé, pauvres, relations hommes femmes       |
+| [10-11] | Sagesse : chefs, orgueils, dignité, humilité, vérité, prudence             |
+| [12-13] | Sagesse : hommes de biens, attention aux riches et puissants               |
+| [14-16] | Sagesse : justes, avarice, profiter de la vie, bonheur, liberté, punition  |
+| [16-17] | Dieu et Création : alliance, miséricorde, don, prudence                    |
+| [18-20] | Dieu et Création : désirs, bavardage, sagesse, bavardages                  |
+| [21-22] | Dieu et Création : péché, sages, paresseux, amitié, vigilance              |
+| [23]    | Dieu et Création : prière, serments, luxure                                |
+| [24-26] | Sagesse et loi : désirs, vieillards, bonheur, vertus, commerce             |
+| [27]    | Sagesse et loi : la parole, justice, sots, indiscrétion, pécheur           |
+| [28-29] | Sagesse et loi : rancune, querelle, mauvaise langue, prêts, hospitalité    |
+| [30-32] | Sagesse et loi : enfants, santé, joie, richesse, vin, banquets             |
+| [32-33] | Sagesse et loi : crainte de Dieu, Dieu seul maître du temps                |
+| [33-34] | Gouverner sa vie : ses biens, esclaves, songes, voyages, culte             |
+| [35-36] | Gouverner sa vie : prière, païens, discernement, choix d’une femme         |
+| [37]    | Gouverner sa vie : amis, conseillers, sagesse, tempérance                  |
+| [38-39] | Gouverner sa vie : médecin, deuil, scribe et artisan                       |
+| [39]    | Gouverner sa vie : hymne à la sagesse de Dieu                              |
+| [40]    | Gouverner sa vie : misère de l’homme, biens, mendicité                     |
+| [41-42] | Gouverner sa vie : mort, impies, réputation, honte, paternité, femmes      |
+| [42-43] | Action de Dieu : Dieu créateur                                             |
+| [44-50] | Action de Dieu : éloge des pères, action de grâce, contre trois nations    |
+| [51]    | Action de Dieu : action de grâce, invitation à rechercher la sagesse       |
+
 ### Baruch <a name="baruch"></a>
+
+|-------|----------------------------------------------------------------------|
+| [1]   | Les Juifs réunis à Babylone (1,1-9)                                  |
+| [1]   | Envoi du livre et de l’argent à Jérusalem pour offrir des sacrifices |
+| [1]   | Confession des péchés                                                |
+| [2-3] | Supplication                                                         |
+| [3-4] | La sagesse donnée à Israël                                           |
+| [4-5] | Plainte et consolation d’Israël                                      |
+
 ### Lettre de Jérémie <a name="lettrejeremie"></a>
+
+|-----|----------------------------------------------------------------------|
+| [1] | Lettre de Jérémie envoyé de Jérusalem aux captifs de Babylone        |
+| [1] | Dieu demande à vivre une vie normale en captivité et à se multiplier |
+| [1] | Il faut continuer à prier, et dans 70 ans, Dieu les délivrera        |
+| [1] | Il faut développer l’espérance et continuer à chercher Dieu          |
+| [1] | La colère de Dieu s’abattra sur Babylone à cause de sa débauche      |
+
 ### Troisième livre d’Esdras <a name="3esdras"></a>
+
+|-------|------------------------------------------------------------------------|
+| [1]   | Fin du règne de Josias et derniers rois de Juda                        |
+| [2]   | Edit de Cyrus et opposition des Samaritains                            |
+| [3]   | Darius et ses trois pages                                              |
+| [3-4] | Discours des trois pages : sur le vin, le roi, les femmes et la vérité |
+| [4]   | Lettre de Darius pour la reconstruction du temple                      |
+| [5]   | Retour de captivité, rétablissement du culte, fondations du temple     |
+| [6-7] | Reconstruction du temple et sa dédicace                                |
+| [8-9] | Actes d’Esdras arrivé à Jérusalem, prière pour le peuple infidèle      |
+| [9]   | Renvoi des femmes étrangères, lecture solennelle de la Loi             |
+
 ### Quatrième livre d’Esdras <a name="4esdras"></a>
+
+|---------|----------------------------------------------------------------------------|
+| [1-2]   | Appel d’Esdras, message de Dieu pour son peuple, vision                    |
+| [3-5]   | Vision I : le péché, ses origines, ses conséquences, sa fin à venir        |
+| [5-6]   | Vision II : sort des générations successives, signes de la fin des temps   |
+| [6-9]   | Vision III : Israël dominée par nations impies, le salut d’un petit nombre |
+| [9-10]  | Vision IV : la femme en deuil                                              |
+| [11-12] | Vision V : l’aigle                                                         |
+| [13]    | Vision VI : l’homme sortant de la mer                                      |
+| [14]    | Vision VII : la mise par écrit des Ecritures                               |
+| [15]    | Proclamation et mise par écrit des prophéties                              |
+| [15-16] | Venue imminente du jugement divin, promesse de délivrance des élus         |
+
 ### Troisième livre des Maccabées <a name="3maccabees"></a>
+
+|-------|------------------------------------------------------------------------|
+| [1]   | Victoire de Ptolémée IV, visite de Philopator à Jérusalem              |
+| [1-2] | Philopator veut pénétrer le temple, le peuple s’interpose              |
+| [2]   | Le grand-prêtre Simon prie, Dieu frappe Philopator qui abandonne       |
+| [2-3] | Philopator persécute les Juifs, qui ont le soutien de la population    |
+| [3-4] | Arrestation et déportation de tous les Juifs à Alexandrie              |
+| [5]   | Philopator ordonne le massacre des Juifs, intervention divine          |
+| [6]   | Prière d’Eléazar, Juifs sauvés par des anges, Philopator se repent     |
+| [6-7] | Lettre de Philopator en faveur des Juifs                               |
+| [7]   | Les Juifs exécutent ceux d’entre eux qui ont transgressé la loi divine |
+
 ### Quatrième livre des Maccabées <a name="4maccabees"></a>
+
+|---------|---------------------------------------------------------------------|
+| [1-3]   | La raison face aux passions, à la loi et l’ignorance                |
+| [3-4]   | Apollonius dans le temple de Jérusalem, Antiochos persécute Judéens |
+| [5-7]   | Eléazar devant Antiochos et son martyre                             |
+| [8-14]  | Les sept frères devant Antiochos et leur martyre                    |
+| [14-17] | Le martyre de la mère, témoin de celui de ses enfants               |
+| [17-18] | Péroraison                                                          |
+
 ### Prière de Manassé <a name="prieremanasse"></a>
+
+Seigneur souverain, Dieu de nos pères, d’Abraham, d’Isaac, de Jacob et de leur juste descendance, toi qui as fait le ciel et la terre avec toute leur beauté, toi qui as entravé la mer par la parole de ton commandement, toi qui as fermé l’abîme et l’as scellé par ton nom redoutable et glorieux, et devant qui tout frémit et tremble face à ta puissance !
+
+En effet la magnificence de ta gloire est insoutenable et irrésistible est ta colère qui menace les pécheurs, mais incommensurable et insondable est la miséricorde de ta promesse, car c’est toi le Seigneur Très-Haut, compatissant, lent à la colère et plein de miséricorde, qui se repent des maux qui frappent les hommes.
+
+Toi donc, Seigneur, Dieu des justes, tu n’as pas établi le repentir pour les justes, pour Abraham et Isaac et Jacob qui n’ont pas péché contre toi, mais tu as établi le repentir pour moi pécheur, parce que j’ai commis des péchés plus nombreux que le sable de la mer.
+
+Mes transgressions se sont multipliées, Seigneur, elles se sont multipliées, et je ne suis pas digne de lever les yeux pour voir la hauteur du ciel à cause de la foule de mes péchés. Je suis trop accablé sous le grand poids de mes chaînes pour relever la tête à cause de mes péchés. Il n’est pas pour moi de pardon car j’ai provoqué ta colère, et j’ai fait ce qui est mal à tes yeux en commettant des abominations et en multipliant des objets d’horreur.
+
+Mais maintenant je plie le genou de mon cœur en implorant ta bonté : j’ai péché, Seigneur, j’ai péché, et mes transgressions, moi je les connais. Je te supplie et je t’implore : pardonne-moi, Seigneur, pardonne-moi, ne m’anéantis pas à cause de mes transgressions, ne garde pas de ressentiment pour l’éternité face au mal que j’ai fait, ne me condamne pas jusque dans les profondeurs de la terre !
+
+Car tu es, Seigneur, le Dieu de ceux qui se repentent et en moi tu montreras ta bonté. Car, tout indigne que je sois, tu me sauveras dans ta grande miséricorde, et je te louerai sans cesse tous les jours de ma vie. Car toute la puissance des cieux te loue et la gloire t’appartient pour l’éternité.
+
+Amen.
+
 ### Evangile selon saint Matthieu <a name="matthieu"></a>
+
+Commentaires de la Bible de Jérusalem. La Royauté de Dieu sur le peuple, élu, et par lui sur le monde, est au centre de la prédication de Jésus, comme elle l’était de l’idéal théocratique de l’Ancien Testament. Elle comporte un Royaume de « saints » dont Dieu sera vraiment le Roi parce que son règne sera reconnu d’eux dans la connaissance et l’amour. Compromise par la révolte du péché, cette Royauté doit être rétablie par une intervention souveraine de Dieu et de son Messie (Dn 2,28). C’est cette intervention que Jésus, après Jean Baptiste (Mt 3,2), annonce comme imminente (Mt 4,17.23 ; Lc 4,43), et qu’il réalise, non par un triomphe guerrier et nationaliste comme l’attendaient les foules (Mc 11,10 ; Lc 19,11 ; Ac 1,6), mais d’une façon toute spirituelle (Mc 1,34 ; Jn 18,36), comme « Fils de l’homme » (Mt 8,20) et « Serviteur » (Mt 8,17 ; 20,28 ; 26,28) par son œuvre de rédemption qui arrache les hommes au règne adverse de Satan (Mt 4,8 ; 8,29 ; 12,25-26). Avant sa réalisation eschatologique définitive, où les élus vivront près du Père dans la joie du festin céleste (Mt 8,11 ; 13,43 ; 46,29) le Royaume apparaît avec des débuts humbles (Mt 13,31-33), mystérieux (Mt 13,11) et contredits (Mt 13,24-30) comme une réalité déjà commencée (Mt 12,28 ; Lc 17,20-21) et qui se développe lentement sur la terre (Mc 4,26-29) par l’Eglise (Mt 16,18). Instauré avec puissance comme Règne du Christ par le jugement de Dieu sur Jérusalem (Mt 16,28 ; Lc 21,31) et prêché dans l’univers, par la mission apostolique (Mt 10,7 ; 24,14 ; Ac 1,3), il sera définitivement établi et remis au Père (1 Co 15,24) par le retour glorieux du Christ (Mt 16,27 ; 25,31), lors du Jugement dernier (Mt 13,37-43.47-50 ; 25,31-46). En attendant, il se présente comme une pure grâce (Mt 20,1-16 ; 22,9-10 ; Lc 12,32), acceptée par les humbles (Mt 5,3 ; 18,3-4 ; 19,14.23-24) et les renoncés (Mt 13,44-46 ; 19,12 ; Mc 9,47 ; Lc 9,62 ; 18,29s), rejetée par les superbes et les égoïstes (Mt 21,31-32.43 ; 22,2-8 ; 23,13). On n’y entre qu’avec la robe nuptiale (Mt 22,11-13) de la vie nouvelle (Jn 3,3.5) ; il y a des exclus (Mt 8,12 ; 1 Co 6,9-10 ; Ga 5, 21). Il faut veiller pour être prêt quand il viendra à l’improviste (Mt 25,1-13).
+
+|---------|--------------------------------------------------------------------------|
+| [1-2]   | Préparations de la venue du Royaume dans la personne du Messie enfant    |
+| [3-7]   | Annonce du programme propre au Royaume, Discours sur la Montagne         |
+| [8-10]  | Prédication du Royaume par des missionnaires ; les miracles de Jésus     |
+| [11-13] | Les obstacles que rencontrera le Royaume de la part des hommes           |
+| [13-18] | Les débuts du Royaume dans un groupe de disciples, Pierre pour chef      |
+| [19-25] | Crise qui prépare l’avènement définitif du Royaume, opposition des juifs |
+| [26-28] | Avènement du Royaume, dans la souffrance et le triomphe                  |
+
 ### Evangile selon saint Marc <a name="marc"></a>
+
+En Israël, le roi était appelé « fils de Dieu », mais il ne l’était pas au sens fort. C’était un homme comme tout le monde, mais Dieu s’était rendu particulièrement proche de lui pour l’aider à bien accomplir la mission particulière à laquelle il l’appelait. Ici, pour Saint Marc, Jésus est « Fils de Dieu » au sens fort, et tout l’Evangile sera un cheminement vers la découverte de ce mystère. Au moment du baptême et au moment de la Transfiguration (1,11 et 9,7), une voix viendra du ciel et dira : « Tu es mon Fils Bien-Aimé » ou « Celui-çi est mon Fils bien-Aimé ». Jésus aussi se présentera indirectement comme le Fils Bien Aimé envoyé par le propriétaire de la vigne dans la Parabole des vignerons homicides (12,6). Et pendant sa Passion, devant le Grand Prêtre, pour la première et seule fois dans tout l’Evangile, il dira publiquement et clairement qu’Il est Fils de Dieu : « Es-tu le Christ, le Fils du Béni? »… « Je le suis » (14,62). Et en disant, dans le grec des Evangiles, « Egô eimi », il va implicitement bien plus loin puisqu’il reprend le Nom divin autrefois révélé à Moïse dans l’épisode du Buisson ardent (Ex 3,14). Enfin, en voyant comment Jésus venait de mourir, un centurion romain dira : « Vraiment, cet homme était Fils de Dieu » (15,39). Toute la deuxième partie de cet évangile, de 8,31 jusqu’à la fin du ch 15, est donc une révélation progressive du « comment Jésus sera effectivement le Christ, le Messie », et aussi que le mystère de sa Personne va bien au-delà des apparences : Il est vraiment le Fils Unique de Dieu, et le centurion l’a perçu dans sa façon de souffrir et de mourir.
+
+|---------|---------------------------------------------------------------|
+| [1-3]   | Jésus cherche à manifester sa vraie mission devant les foules |
+| [3-6]   | Jésus fait des disciples pour étendre sa mission              |
+| [6-8]   | La reconnaissance de Jésus comme Messie est un sommet         |
+| [8-10]  | Annonces de la Passion                                        |
+| [11-13] | Jésus à Jérusalem                                             |
+| [14-15] | La passion                                                    |
+| [16]    | Le tombeau vide, apparitions et envoi en mission              |
+
 ### Evangile selon saint Luc <a name="luc"></a>
+
+[1-2]     Les récits de l’enfance de Jésus
+>Annonciation, visitation, nativité, présentation, recouvrement
+
+[3-4]     Le prélude de la mission de Jésus
+>La mission de Jean-le-Baptiste, le baptême, victoire sur le Tentateur
+
+[4]     Débuts de Jésus en Galilée
+>Echec de la prédiction de Jésus dans la synagogue de Jérusalem
+
+[4-6]     Jésus libère, guérit et affronte les Pharisiens
+>Guérisons, pêche miraculeuse, appel des premiers disciples, épis
+
+[6-7]     Choix des douze, Jésus enseigne le sermon dans la plaine
+>Béatitudes et Malédictions, amour des ennemis, trois paraboles	(paille et poutre), guérison de l’esclave d’un centurion, résurrection (Naïm), pécheresse pardonnée
+
+[8-9]     Jésus associe les Douze à sa mission
+>Paraboles (semence, lampe), tempête, guérisons, résurrection (Jaïre), envoi des Douze en mission, multiplication des pains, foi de Pierre, transfiguration, annonces de la passion
+
+[9-13]     Début de la montée de Jésus vers Jérusalem
+>Mauvais accueil en Samarie, trois cas de vocation, mission des 72 disciples, bon Samaritain, Marthe et Marie, Notre Père, ami importun, riche insensé, serviteurs vigilants, Jésus apporte la division
+
+[13-17]     Jésus poursuit sa route vers Jérusalem
+>La porte étroite, plainte sur Jérusalem, guérison d’un hydropique, choisir la dernière place, inviter les pauvres, construire une tour, partir en guerre, brebis, pièce, fils retrouvés, intendant débrouillard, parabole du riche et de Lazare, serviteurs inutiles
+
+[17-19]     Jésus arrive à Jérusalem
+>Guérison de dix lépreux, venue du Royaume, juge inique, pharisien et publicain, Zachée, parabole des mines
+
+[19]     Le prophète-roi fait son entrée et chasse vendeurs du Temple
+
+[20-21]     Jésus enseigne dans le Temple
+>Question-piège (la femme aux sept maris), signes avant-coureurs de la fin, offrande de la veuve pauvre
+
+[22-23]     La Passion
+>La Cène, le mont des Oliviers, trahison par Judas, reniement de Pierre, réunion du grand Conseil, Pilate, Hérode, la Croix, la sépulture
+
+[24]     La Résurrection
+>Les femmes premières témoins de la Résurrection, sur la route d’Emmaüs, l’apparition aux Onze, l’Ascension, la promesse de l’Esprit-Saint
+
 ### Evangile selon saint Jean <a name="jean"></a>
+
+|---------|-------------------------------------------------|
+| [1]     | Christ, le Verbe éternel et le Verbe fait chair |
+| [1]     | Témoignage de Jean et l’appel des disciples     |
+| [2-4]   | Les signes inauguraux du ministère de Jésus     |
+| [5]     | La guérison le jour du Sabbat                   |
+| [6]     | Le pain de vie                                  |
+| [7-8]   | La fête des tabernacles et les fils d’Abraham   |
+| [9]     | La lumière du monde                             |
+| [10]    | Le bon pasteur                                  |
+| [11]    | La résurrection de Lazare                       |
+| [12]    | L’entrée triomphale et le rejet de Jésus        |
+| [13]    | Le lavement des pieds                           |
+| [13-16] | La Cène                                         |
+| [17]    | La prière sacerdotale                           |
+| [18-19] | Le récit de la Passion                          |
+| [20]    | La résurrection et les apparitions              |
+| [21]    | L’apparition finale et le miracle de Jésus      |
+| [21]    | Questions et commissions de Jésus à Pierre      |
+
 ### Les Actes des Apôtres <a name="actesdesapotres"></a>
+
+|-------------------|----------------------------------------------------------------|
+| [1]               | Prologue de Luc, introduction, ascension                       |
+| **Cycle de Pierre :** | l’Eglise s’organise                                            |
+| [1-2]             | Les Apôtres et la Pentecôte                                    |
+| [3-4]             | La guérison de l’infirme de la Belle Porte                     |
+| [4-5]             | Le partage des biens                                           |
+| [5]               | Arrestation et délivrance des Apôtres                          |
+| [6-7]             | Le cycle d’Etienne, premier diacre, lapidation pour blasphème  |
+| [8]               | L’expansion de la première communauté, Philippe et l’éthiopien |
+| [9]               | Vocation de Saul, premier « acte » de Paul                     |
+| [10-11]           | La vision du centurion Corneille, son baptême                  |
+| [12]              | Exécution de Jacques et délivrance de Pierre                   |
+| **Cycle de Paul :**   | l’Eglise missionnaire, la fondation de nouvelles Eglises       |
+| [13-14]           | Première mission de Paul                                       |
+| [15]              | Le problème de la circoncision (15, T-35)                      |
+| [15-18]           | Seconde mission de Paul (T 5, 36 - 18, 23)                     |
+| [18-20]           | Troisième mission de Paul (18, 24 - 20, 38)                    |
+| [21-28]           | La « passion » de Paul, Jérusalem, procès à Césarée, Rome      |
+
 ### Epîtres catholiques <a name="epitrescatholiques"></a>
+
+13 de saint Paul, suivent d’autres attribuées à saint Pierre, saint Jacques, saint Jean et saint Jude
+
 ### L’Apocalypse de Jean <a name="apocalypse"></a>
+
+|---------|---------------------------------------------------------------|
+| [1]     | Prologue, ouverture avec louange, promesse et réponse divine  |
+| [1]     | Vision inaugurale : le Fils de l’homme                        |
+| [2-3]   | Sept lettres aux sept Eglises                                 |
+| [4-5]   | Vision de la cour céleste : l’Unique sur le trône et l’Agneau |
+| [6-8]   | Sept sceaux                                                   |
+| [8-11]  | Sept trompettes                                               |
+| [12-14] | Visions du dragon, des bêtes et de l’Agneau                   |
+| [15-16] | Sept fléaux des sept coupes                                   |
+| [17-18] | La chute de Babylone                                          |
+| [19-20] | La victoire du Christ ressuscité sur les forces du mal        |
+| [21-22] | Épilogue avec bénédiction de conclusion                       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
