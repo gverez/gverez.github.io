@@ -78,10 +78,17 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/nopicture.png">](/references/philotheelesinaite.html "Philothée le Sinaïte")
 [<img src="/images/symeonlenouveautheologien.png">](/references/symeonlenouveautheologien.html "Syméon le Nouveau Théologien")
 [<img src="/images/nopicture.png">](/references/nicetasstethatos.html "Nicétas Stéthatos")
+[<img src="/images/nopicture.png">](/references/elielecdicos.html "Elie l'Ecdicos")
 [<img src="/images/hildegardedebingen.png">](/references/hildegardedebingen.html "Hildegarde de Bingen")
 [<img src="/images/francoisdassise.png">](/references/francoisdassise.html "François d’Assise")
 [<img src="/images/bonaventuredebagnoregio.png">](/references/bonaventuredebagnoregio.html "Bonaventure de Bagnoregio")
+[<img src="/images/nopicture.png">](/references/nicephorelesolitaire.html "Nicéphore le Solitaire")
+[<img src="/images/theoleptedephiladelphie.png">](/references/theoleptedephiladelphie.html "Théolepte de Philadelphie")
+[<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.html "Grégoire le Sinaïte")
 [<img src="/images/eckhartdehochheim.png">](/references/eckhartdehochheim.html "Eckhart de Hochheim")
+[<img src="/images/gregoirepalamas.png">](/references/gregoirepalamas.html "Grégoire Palamas")
+[<img src="/images/nopicture.png">](/references/callistexanthopoulos.html "Calliste Xanthopoulos")
+[<img src="/images/nopicture.png">](/references/calliste2.html "Calliste II")
 [<img src="/images/henrisuso.png">](/references/henrisuso.html "Henri Suso")
 [<img src="/images/jeantauler.png">](/references/jeantauler.html "Jean Tauler")
 [<img src="/images/catherinedesienne.png">](/references/catherinedesienne.html "Catherine de Sienne")
@@ -91,6 +98,8 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/jeandelacroix.png">](/references/jeandelacroix.html "Jean de la Croix")
 [<img src="/images/angelussilesius.png">](/references/angelussilesius.html "Angelus Silesius")
 [<img src="/images/louismariegrigniondemontfort.png">](/references/louismariegrigniondemontfort.html "Louis-Marie Grignion de Montfort")
+[<img src="/images/nicodemelhagiorite.png">](/references/nicodemelhagiorite.html "Nicodème l'Hagiorite")
+[<img src="/images/nopicture.png">](/references/muhammadaminalkurdi.html "Muhammad Amîn al-Kurdî")
 [<img src="/images/ambroisegardeil.png">](/references/ambroisegardeil.html "Ambroise Gardeil")
 [<img src="/images/reneguenon.png">](/references/reneguenon.html "René Guénon")
 [<img src="/images/alaindanielou.png">](/references/alaindanielou.html "Alain Daniélou")
@@ -137,35 +146,25 @@ Syméon le Nouveau Théologien
 
 (/references/nicetasstethatos.html "Aristote")
 
+elielecdicos
+
+nicephorelesolitaire
+
+theoleptedephiladelphie
+
+gregoirelesinaite
+
+gregoirepalamas
+
+callistexanthopoulos
+
+calliste2
+
+nicodemelhagiorite
+
+muhammadaminalkurdi
 
 
-
-**XIIe**
-[<img src="/images/nopicture.png">](/references/elielecdicos.html "Elie l'Ecdicos")
-
-**XIIIe**
-[<img src="/images/nopicture.png">](/references/nicephorelesolitaire.html "Nicéphore le Solitaire")
-
-**1250-1326**
-[<img src="/images/theoleptedephiladelphie.png">](/references/theoleptedephiladelphie.html "Théolepte de Philadelphie")
-
-**v.1255-1346**
-[<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.html "Grégoire le Sinaïte")
-
-**1296-1359**
-[<img src="/images/gregoirepalamas.png">](/references/gregoirepalamas.html "Grégoire Palamas")
-
-**XIVe**
-[<img src="/images/nopicture.png">](/references/callistexanthopoulos.html "Calliste Xanthopoulos")
-
-**XIVe**
-[<img src="/images/nopicture.png">](/references/calliste2.html "Calliste II")
-
-**1748-1809**
-[<img src="/images/nicodemelhagiorite.png">](/references/nicodemelhagiorite.html "Nicodème l'Hagiorite")
-
-**?-1914**
-[<img src="/images/nopicture.png">](/references/muhammadaminalkurdi.html "Muhammad Amîn al-Kurdî")
 
 
 # Lexique à constituer :
