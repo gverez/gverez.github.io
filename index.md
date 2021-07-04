@@ -152,9 +152,14 @@ Syméon le Nouveau Théologien
 **v.1255-1346**
 [<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.html "Grégoire le Sinaïte")
 
-
 **1296-1359**
 [<img src="/images/gregoirepalamas.png">](/references/gregoirepalamas.html "Grégoire Palamas")
+
+**XIVe**
+[<img src="/images/nopicture.png">](/references/callistexanthopoulos.html "Calliste Xanthopoulos")
+
+**XIVe**
+[<img src="/images/nopicture.png">](/references/calliste2.html "Calliste II")
 
 
 # Lexique à constituer :
