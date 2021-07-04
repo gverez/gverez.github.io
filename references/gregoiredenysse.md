@@ -150,12 +150,6 @@ Ce thème est très important pour Grégoire et pour les pères grecs à la suit
 
 
 
-[[Grégoire de Nysse](/references/gregoiredenysse.html#bienfaisance)]
-
-[[Grégoire de Nysse](/references/gregoiredenysse.html#mesure)]
-
-[[Grégoire de Nysse](/references/gregoiredenysse.html#contre-usure)]
-
 
 
 
