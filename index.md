@@ -52,12 +52,12 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 
 
 ## Thèmes
-[<img src="/images/spiritualite.png">](/pages/spiritualite.html) [<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html) [<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html) [<img src="/images/planbible.png">](/pages/planbible.html)
 
 
 # Extraits de textes
 
-[<img src="/images/aristote.png">](/references/aristote.md)
+[<img src="/images/aristote.png">](/references/aristote.md "Aristote")
 [<img src="/images/philondalexandrie.png">](/references/philondalexandrie.md)
 [<img src="/images/origene.png">](/references/origene.md)
 [<img src="/images/basiledecesaree.png">](/references/basiledecesaree.md)
