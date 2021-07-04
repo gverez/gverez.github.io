@@ -58,55 +58,55 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 # Extraits de textes
 
 [<img src="/images/aristote.png">](/references/aristote.html "Aristote")
-[<img src="/images/philondalexandrie.png">](/references/philondalexandrie.md)
-[<img src="/images/origene.png">](/references/origene.md)
-[<img src="/images/basiledecesaree.png">](/references/basiledecesaree.md)
-[<img src="/images/macairedescete.png">](/references/macairedescete.md)
-[<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.md)
-[<img src="/images/ambroisedemilan.png">](/references/ambroisedemilan.md)
-[<img src="/images/evagrelepontique.png">](/references/evagrelepontique.md)
-[<img src="/images/jeanchrysostome.png">](/references/jeanchrysostome.md)
-[<img src="/images/augustindhippone.png">](/references/augustindhippone.md)
-[<img src="/images/marclermite.png">](/references/marclermite.md)
-[<img src="/images/nopicture.png">](/references/basiledeseleucie.md)
-[<img src="/images/diadoquedephotice.png">](/references/diadoquedephotice.md)
-[<img src="/images/barsanuphedegaza.png">](/references/barsanuphedegaza.md)
-[<img src="/images/jeanclimaque.png">](/references/jeanclimaque.md)
-[<img src="/images/maximeleconfesseur.png">](/references/maximeleconfesseur.md)
-[<img src="/images/nopicture.png">](/references/hesychioshieros.md)
-[<img src="/images/isaacdeninive.png">](/references/isaacdeninive.md)
-[<img src="/images/nopicture.png">](/references/philotheelesinaite.md)
-[<img src="/images/symeonlenouveautheologien.png">](/references/symeonlenouveautheologien.md)
-[<img src="/images/nopicture.png">](/references/nicetasstethatos.md)
-[<img src="/images/hildegardedebingen.png">](/references/hildegardedebingen.md)
-[<img src="/images/francoisdassise.png">](/references/francoisdassise.md)
-[<img src="/images/bonaventuredebagnoregio.png">](/references/bonaventuredebagnoregio.md)
-[<img src="/images/eckhartdehochheim.png">](/references/eckhartdehochheim.md)
-[<img src="/images/henrisuso.png">](/references/henrisuso.md)
-[<img src="/images/jeantauler.png">](/references/jeantauler.md)
-[<img src="/images/catherinedesienne.png">](/references/catherinedesienne.md)
-[<img src="/images/itshaqabravanel.png">](/references/itshaqabravanel.md)
-[<img src="/images/lanspergius.png">](/references/lanspergius.md)
-[<img src="/images/theresedavila.png">](/references/theresedavila.md)
-[<img src="/images/jeandelacroix.png">](/references/jeandelacroix.md)
-[<img src="/images/angelussilesius.png">](/references/angelussilesius.md)
-[<img src="/images/louismariegrigniondemontfort.png">](/references/louismariegrigniondemontfort.md)
-[<img src="/images/ambroisegardeil.png">](/references/ambroisegardeil.md)
-[<img src="/images/reneguenon.png">](/references/reneguenon.md)
-[<img src="/images/alaindanielou.png">](/references/alaindanielou.md)
-[<img src="/images/frithjofschuon.png">](/references/frithjofschuon.md)
-[<img src="/images/jeangouillard.png">](/references/jeangouillard.md)
-[<img src="/images/nopicture.png">](/references/henrydumery.md)
-[<img src="/images/francoischenique.png">](/references/francoischenique.md)
-[<img src="/images/jeanborella.png">](/references/jeanborella.md)
-[<img src="/images/philippesellier.png">](/references/philippesellier.md)
-[<img src="/images/papefrancois.png">](/references/papefrancois.md)
-[<img src="/images/mariehelenecongourdeau.png">](/references/mariehelenecongourdeau.md)
-[<img src="/images/danielmaurin.png">](/references/danielmaurin.md)
-[<img src="/images/alaindelibera.png">](/references/alaindelibera.md)
-[<img src="/images/jeanyvesleloup.png">](/references/jeanyvesleloup.md)
-[<img src="/images/peterharvey.png">](/references/peterharvey.md)
-[<img src="/images/giovannipolito.png">](/references/giovannipolito.md)
+[<img src="/images/philondalexandrie.png">](/references/philondalexandrie.html "Philon d'Alexandrie")
+[<img src="/images/origene.png">](/references/origene.html "Origène")
+[<img src="/images/basiledecesaree.png">](/references/basiledecesaree.html "Basile de Césarée")
+[<img src="/images/macairedescete.png">](/references/macairedescete.html "Macaire de Sceté")
+[<img src="/images/gregoiredenysse.png">](/references/gregoiredenysse.html "Grégoire de Nysse")
+[<img src="/images/ambroisedemilan.png">](/references/ambroisedemilan.html "Ambroise de Milan")
+[<img src="/images/evagrelepontique.png">](/references/evagrelepontique.html "Evagre le Pontique")
+[<img src="/images/jeanchrysostome.png">](/references/jeanchrysostome.html "Jean Chrysostome")
+[<img src="/images/augustindhippone.png">](/references/augustindhippone.html "Augustin d'Hippone")
+[<img src="/images/marclermite.png">](/references/marclermite.html "Marc l'Ermite")
+[<img src="/images/nopicture.png">](/references/basiledeseleucie.html "Basile de Séleucie")
+[<img src="/images/diadoquedephotice.png">](/references/diadoquedephotice.html "Diadoque de Photicé")
+[<img src="/images/barsanuphedegaza.png">](/references/barsanuphedegaza.html "Barsanuphe de Gaza")
+[<img src="/images/jeanclimaque.png">](/references/jeanclimaque.html "Jean Climaque")
+[<img src="/images/maximeleconfesseur.png">](/references/maximeleconfesseur.html "Maxime le Confesseur")
+[<img src="/images/nopicture.png">](/references/hesychioshieros.html "Hésychios Hiéros")
+[<img src="/images/isaacdeninive.png">](/references/isaacdeninive.html "Isaac de Ninive")
+[<img src="/images/nopicture.png">](/references/philotheelesinaite.html "Philothée le Sinaïte")
+[<img src="/images/symeonlenouveautheologien.png">](/references/symeonlenouveautheologien.html "Syméon le Nouveau Théologien")
+[<img src="/images/nopicture.png">](/references/nicetasstethatos.html "Nicétas Stéthatos")
+[<img src="/images/hildegardedebingen.png">](/references/hildegardedebingen.html "Hildegarde de Bingen")
+[<img src="/images/francoisdassise.png">](/references/francoisdassise.html "François d’Assise")
+[<img src="/images/bonaventuredebagnoregio.png">](/references/bonaventuredebagnoregio.html "Bonaventure de Bagnoregio")
+[<img src="/images/eckhartdehochheim.png">](/references/eckhartdehochheim.html "Eckhart de Hochheim")
+[<img src="/images/henrisuso.png">](/references/henrisuso.html "Henri Suso")
+[<img src="/images/jeantauler.png">](/references/jeantauler.html "Jean Tauler")
+[<img src="/images/catherinedesienne.png">](/references/catherinedesienne.html "Catherine de Sienne")
+[<img src="/images/itshaqabravanel.png">](/references/itshaqabravanel.html "Itshaq Abravanel")
+[<img src="/images/lanspergius.png">](/references/lanspergius.html "Lanspergius")
+[<img src="/images/theresedavila.png">](/references/theresedavila.html "Thérèse d’Avila")
+[<img src="/images/jeandelacroix.png">](/references/jeandelacroix.html "Jean de la Croix")
+[<img src="/images/angelussilesius.png">](/references/angelussilesius.html "Angelus Silesius")
+[<img src="/images/louismariegrigniondemontfort.png">](/references/louismariegrigniondemontfort.html "Louis-Marie Grignion de Montfort")
+[<img src="/images/ambroisegardeil.png">](/references/ambroisegardeil.html "Ambroise Gardeil")
+[<img src="/images/reneguenon.png">](/references/reneguenon.html "René Guénon")
+[<img src="/images/alaindanielou.png">](/references/alaindanielou.html "Alain Daniélou")
+[<img src="/images/frithjofschuon.png">](/references/frithjofschuon.html "Frithjof Schuon")
+[<img src="/images/jeangouillard.png">](/references/jeangouillard.html "Jean Gouillard")
+[<img src="/images/nopicture.png">](/references/henrydumery.html "Henry Duméry")
+[<img src="/images/francoischenique.png">](/references/francoischenique.html "François Chenique")
+[<img src="/images/jeanborella.png">](/references/jeanborella.html "Jean Borella")
+[<img src="/images/philippesellier.png">](/references/philippesellier.html "Philippe Sellier")
+[<img src="/images/papefrancois.png">](/references/papefrancois.html "Pape François")
+[<img src="/images/mariehelenecongourdeau.png">](/references/mariehelenecongourdeau.html "Marie-Hélène Congourdeau")
+[<img src="/images/danielmaurin.png">](/references/danielmaurin.html "Daniel Maurin")
+[<img src="/images/alaindelibera.png">](/references/alaindelibera.html "Alain de Libera")
+[<img src="/images/jeanyvesleloup.png">](/references/jeanyvesleloup.html "Jean-Yves Leloup")
+[<img src="/images/peterharvey.png">](/references/peterharvey.html "Peter Harvey")
+[<img src="/images/giovannipolito.png">](/references/giovannipolito.html "Giovanni Polito")
 
 D'abord prendre les commentaires avant de ranger !
 
@@ -117,40 +117,40 @@ Macaire de Sceté
 
 Syméon le Nouveau Théologien
 
-(/references/evagrelepontique.md)
+(/references/evagrelepontique.html)
 
-(/references/marclermite.md)
+(/references/marclermite.html "Aristote")
 
-(/references/diadoquedephotice.md)
+(/references/diadoquedephotice.html "Aristote")
 
-(/references/barsanuphedegaza.md)
+(/references/barsanuphedegaza.html "Aristote")
 
-(/references/jeanclimaque.md)
+(/references/jeanclimaque.html "Aristote")
 
-(/references/maximeleconfesseur.md)
+(/references/maximeleconfesseur.html "Aristote")
 
-(/references/hesychioshieros.md)
+(/references/hesychioshieros.html "Aristote")
 
-(/references/isaacdeninive.md)
+(/references/isaacdeninive.html "Aristote")
 
-(/references/philotheelesinaite.md)
+(/references/philotheelesinaite.html "Aristote")
 
-(/references/nicetasstethatos.md)
+(/references/nicetasstethatos.html "Aristote")
 
 
 
 
 **XIIe**
-[<img src="/images/nopicture.png">](/references/elielecdicos.md)
+[<img src="/images/nopicture.png">](/references/elielecdicos.html "Elie l'Ecdicos")
 
 **XIIIe**
-[<img src="/images/nopicture.png">](/references/nicephorelesolitaire.md)
+[<img src="/images/nopicture.png">](/references/nicephorelesolitaire.html "Nicéphore le Solitaire")
 
 **1250-1326**
-[<img src="/images/theoleptedephiladelphie.png">](/references/theoleptedephiladelphie.md)
+[<img src="/images/theoleptedephiladelphie.png">](/references/theoleptedephiladelphie.html "Théolepte de Philadelphie")
 
 **v.1255-1346**
-[<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.md)
+[<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.html "Grégoire le Sinaïte")
 
 
 # Lexique à constituer :
