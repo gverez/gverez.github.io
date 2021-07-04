@@ -153,6 +153,10 @@ Syméon le Nouveau Théologien
 [<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.html "Grégoire le Sinaïte")
 
 
+**1296-1359**
+[<img src="/images/gregoirepalamas.png">](/references/gregoirepalamas.html "Grégoire Palamas")
+
+
 # Lexique à constituer :
 - Caïn signifie acquisition, parce qu’il acquiert tout pour lui-même.
 - Abel signifie vanité. La racine du nom signifie souffle d'air, vacuité d'où la traduction de vanité au sens de quelque chose qui n'a pas de consistance et cela décrit le regard d’Abel sur les bien terrestres que le vent et le temps emportent, sans y attacher son coeur car il met son espérance dans la vie éternelle.
