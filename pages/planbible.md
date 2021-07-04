@@ -12,7 +12,6 @@ title: Plan de la Bible
 
 ### Genèse
 
-
 |---------|--------------------------------------------------------------------------|
 | [1-2]   | Récit de la création                                                     |
 | [2-4]   | Adam et Eve, arbre de la connaissance du bien et du mal, arbre de vie    |
@@ -46,4 +45,63 @@ title: Plan de la Bible
 | [42-45] | Rencontres de Joseph et ses frères, réconciliation                       |
 | [46-50] | Famille de Jacob s’installe en Égypte                                    |
 
-Abraham engendre Isaac engendre Esaü et Jacob (Israël) engendre douze fils. Les douze fils sont les ancêtres éponymes des douze tribus d’Israël, à l’exception de Lévi, ancêtre des Lévites, dispersés dans les autres tribus, et de Joseph, dédoublé selon ses fils Éphraïm et Manassé.
+**Abraham** engendre **Isaac** engendre Esaü et **Jacob** (Israël) engendre douze fils. Les douze fils sont les ancêtres éponymes des douze tribus d’Israël, à l’exception de Lévi, ancêtre des Lévites, dispersés dans les autres tribus, et de Joseph, dédoublé selon ses fils Éphraïm et Manassé.
+
+### Exode
+
+|---------|--------------------------------------------------------------------------|
+| [1]     | Multiplication du peuple juif et oppression de celui-ci                  |
+| [2-4]   | Naissance de Moïse, fuite, vocation à l’Horeb, circoncision              |
+| [5-6]   | Echec de Moïse et Aaron devant le Pharaon, confirmation de la vocation   |
+| [7-11]  | Moïse et Pharaon, 9 premières plaies et annonce de la 10ème              |
+| [12-13] | Pâque, permet à Israël d’échapper à la 10ème plaie (premiers nés)        |
+| [13-14] | Passage de la Mer                                                        |
+| [15]    | Hymne conclusif                                                          |
+| [15-16] | Eaux amères de Mara, murmure du peuple                                   |
+| [16]    | Manne et Sabbat                                                          |
+| [17]    | Eaux de Massa et Meriba, murmure du peuple                               |
+| [17]    | Guerre contre Amaleq, intercession de Moïse et victoire                  |
+| [18]    | Jéthro et administration du droit                                        |
+| [19]    | Annonce de l’Alliance, un royaume de prêtres                             |
+| [20]    | Décalogue                                                                |
+| [21-23] | Le Code de l’Alliance                                                    |
+| [24]    | Conclusion de l’Alliance, les jeunes sacrifient                          |
+| [25-31] | Projet du sanctuaire                                                     |
+| [32-34] | Rupture de l’Alliance, intercession de Moïse, restauration de l’Alliance |
+| [35-40] | Construction du sanctuaire, présence de Dieu                             |
+
+### Lévitique
+
+|---------|-------------------------------------------------------------------|
+| [1-7]   | Ordonnances du sacrifice                                          |
+| [8-10]  | Rituel observé lors de la consécration des sacrificateurs         |
+| [11]    | Ce que l’on peut ou ne peut pas manger et ce qui est pur ou impur |
+| [12]    | Etat des femmes après l’enfantement                               |
+| [13]    | Lois relatives à l’impureté cérémonielle                          |
+| [13]    | Lèpre humaine, tumeur, dartre et tache                            |
+| [14]    | Purification du lépreux                                           |
+| [15]    | Impuretés sexuelles                                               |
+| [16]    | Rituel à respecter pour la fête de Yom Kippour, démon Azazel      |
+| [17-26] | Code de lois traitant des observances religieuses et sociales     |
+| [27]    | Le Seigneur commande à Israël de lui consacrer récoltes et bétail |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
