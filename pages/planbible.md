@@ -325,27 +325,291 @@ title: Plan de la Bible
 | [22]    | Notice sur Akhazias                                                   |
 
 ### Deuxième livre des Rois <a name="2rois"></a>
+
+|---------|--------------------------------------------------------------------------|
+| [1-2]   | Mort d’Akhazias, ascension d’Elie succédé par Elisée                     |
+| [3]     | Campagnes contre Moab                                                    |
+| [4-6]   | Miracles d’Elisée, lèpre de Naaman                                       |
+| [6-13]  | Guerres, conspirations, successions, massacres                           |
+| [13]    | Mort d’Elisée                                                            |
+| [14-16] | Successions de rois                                                      |
+| [17]    | Osée et la chute de Samarie, déportations                                |
+| [18-20] | Règne d’Ezékias, maladie et guérison, ambassade babylonienne             |
+| [21]    | Notices sur Manassé et Amôn                                              |
+| [22-23] | Règne de Josias, découverte du livre de la Loi, réforme cultuelle, Pâque |
+| [23-24] | Notices sur Yoakhaz, Yoyaqim et Yoyakîn, prise de Jérusalem              |
+| [24-25] | Sédécias le dernier roi, deuxième prise de Jérusalem et déportation      |
+| [25]    | Guedalias, gouverneur et son assassinat                                  |
+| [25]    | Fuite en Égypte d’une partie de la population                            |
+| [25]    | Yoyakîn mange avec le roi de Babylone, espérance                         |
+
 ### Esaïe <a name="esaie"></a>
+
+|---------|--------------------------------------------------------------------------|
+| [1-2]   | Oracles contre Juda et Jérusalem                                         |
+| [2]     | (1-5) Jésus : Jérusalem au centre du monde                               |
+| [2]     | (6-22) Jésus : Le jour du Seigneur                                       |
+| [6]     | Vocation du prophète                                                     |
+| [7-9]   | Le livret de l’Emmanuel                                                  |
+| [7]     | (10-25) Jésus : Le signe de l’Emmanuel                                   |
+| [8-9]   | (8,21-9,6) Jésus : De la détresse à la libération grâce à un enfant      |
+| [9-10]  | Jugement de Samarie, oracles contre l’Assyrie                            |
+| [11-12] | Perspectives d’avenir                                                    |
+| [13-23] | Oracles sur les nations païennes                                         |
+| [24-27] | Le Seigneur ravage la terre, châtiments et actions de grâce              |
+| [28-32] | Oracles variés                                                           |
+| [32-33] | Futur règne de justice et de paix, gloire de Sion, secours du Seigneur   |
+| [34-35] | Petite apocalypse d’Isaïe                                                |
+| [36-39] | Autour du siège de Jérusalem en 701                                      |
+| [40-42] | La toute-puissance du Dieu créateur, présentation de Cyrus               |
+| [42-49] | L’annonce de la chute de Babylone et du retour d’exil                    |
+| [50-51] | Certitude de la délivrance, la colère de Dieu passe sur d’autres peuples |
+| [52-54] | Le peuple de Dieu va être libéré très bientôt, la Jérusalem future       |
+| [55-56] | Le salut offert, promesses à ceux qui pourraient se sentir exclus        |
+| [57]    | La raréfaction des justes, l’idolâtrie, la consolation des affligés      |
+| [58]    | La question du jeûne                                                     |
+| [59]    | Le retard du jugement à cause du péché des hommes                        |
+| [60]    | Gloire de la future Jérusalem                                            |
+| [61]    | Le Messie et l’annonce de la bonne nouvelle                              |
+| [62]    | La nouvelle Sion                                                         |
+| [63-64] | Le jugement de Dieu, lamentation                                         |
+| [65-66] | La venue du salut                                                        |
+
+La plupart des exigences textuelles concernant le Messie et ses réalisations proviennent du Livre d’Esaïe, dans lequel la majorité des références renvoient à un Messie qui ne concerne pas un peuple spécifique et cela, bien qu’il s’y trouve désigné comme descendant de Jessé, ancêtre de David.
+
 ### Jérémie <a name="jeremie"></a>
+
+|---------|----------------------------------------------------------------------------|
+| [1]     | L’appel de Jérémie                                                         |
+| [2-10]  | Trois oracles contre Judas, panorama général du jugement du peuple         |
+| [11-20] | Quatre oracles contre Judas, jugements et confessions de Jérémie           |
+| [21-25] | Trois oracles contre Judas, thèmes généraux et moins personnels            |
+| [26-29] | Les conflits de Jérémie, les faux prophètes Hanania et Schemaeja           |
+| [30-31] | Livre de consolations et d’espérance : nouvelle Alliance                   |
+| [32]    | Illustration avec le rachat du champ d’Hanameel                            |
+| [33]    | Livre de consolations et d’espérance : nouveau David                       |
+| [34]    | Annonces de la captivité                                                   |
+| [35]    | Rançon de l’infidélité du peuple, contraste avec la fidélité des Récabites |
+| [36-39] | Confrontation de Jérémie avec Yoyaqim puis Sédécias                        |
+| [40-43] | Conséquences de la destruction de Jérusalem                                |
+| [43]    | Arrivée de Jérémie avec le reste du peuple en Égypte                       |
+| [44]    | Dénonciations de l’idolâtrie du peuple en Égypte                           |
+| [45]    | Message d’espoir à Baruc                                                   |
+| [46-51] | Oracles de Jérémie à dix nations dont Babylone confié au frère de Baruc    |
+| [52]    | La fin de Jérusalem et le relèvement de Yoyakîn                            |
+
 ### Ezéchiel <a name="ezechiel"></a>
+
+|---------|---------------------------------------------------------------|
+| [1-3]   | Récit de vocation d’Ezékiel, grande vision initiale           |
+| [4-7]   | Premières prophéties contre Jérusalem                         |
+| [8-11]  | Vision de la gloire divine quittant le sanctuaire             |
+| [12-14] | Annonce de l’exil, réflexion sur la prophétie vraie ou fausse |
+| [15-19] | Paroles métaphoriques sur le thème du jugement d’Israël       |
+| [20]    | Grande rétrospective historique à propos de l’Exode           |
+| [21-23] | Série d’oracles de jugements                                  |
+| [24]    | Destin inéluctable de Jérusalem                               |
+| [25]    | Oracles contre Ammon, Moab, Edom et la Philistie              |
+| [26-28] | Oracles contre Tyr et Sidon                                   |
+| [29-32] | Oracles contre l’Egypte, déchéance de Pharaon                 |
+| [33-39] | Oracles de restauration du peuple et du pays                  |
+| [40-43] | Description du nouveau Temple                                 |
+| [44-46] | Règles liées aux institutions du Temple                       |
+| [47-48] | Temple et pays                                                |
+
 ### Osée <a name="osee"></a>
+
+|--------|--------------------------------------------------------------------------|
+| [1]    | Osée engendre trois fils à sa femme prostituée                           |
+| [2]    | Procès contre la femme adultère, conduite au désert                      |
+| [3]    | Osée achète une prostituée, la prive d’homme et se prive de femme        |
+| [4-5]  | Accusation, le jugement des prêtres et de la maison royale               |
+| [5-7]  | Oracles contre la politique d’Ephraïm et sa rupture de l’Alliance divine |
+| [8]    | Critique du veau de Samarie, sa destruction                              |
+| [9-11] | Le jugement est arrivé, oracles sur les infidélités d’Israël             |
+| [11]   | Annonce de restauration d’Ephraïm                                        |
+| [12]   | Critique de Jacob et mise en évidence du prophète depuis l’Egypte        |
+| [13]   | Annonce de la mort d’Ephraïm                                             |
+| [14]   | Annonce du retour et de la restauration                                  |
+
 ### Joël <a name="joel"></a>
+
+|-----|------------------------------------------------------------------------|
+| [1] | Un fléau catastrophique de sauterelles ravage les ressources agricoles |
+| [1] | Appel au jeûne et à la lamentation dans le cadre d’une réunion sacrée  |
+| [1] | Lamentation concernant la catastrophe agricole et supplication         |
+| [2] | Description du jour de Dieu, déferlement eschatologique d’une armée    |
+| [2] | Appel au retour vers Dieu par le jeûne, la lamentation et le culte     |
+| [2] | Annonce de la fin du fléau et rétablissement de la prospérité agricole |
+| [3] | Effusion de l’Esprit, bouleversement eschatologique et salut           |
+| [4] | Restauration de Juda et jugement eschatologique des nations            |
+| [4] | Abondance paradisiaque en terre de Juda                                |
+
 ### Amos <a name="amos"></a>
+
+|-------|-------------------------------------------------------------------------------|
+| [1]   | Oracles contre Damas, Gaza, Tyr, Edom et Ammon                                |
+| [2]   | Oracles contre Moab, Juda, Israël                                             |
+| [3-6] | Oracles contre Isräel : critique de Béthel, injustices sociales, orgueil      |
+| [7]   | Visions I-III : les sauterelles, le feu, l’étain, puis Amos expulsé de Béthel |
+| [8]   | Vision IV : la fin de l’été, oracles de condamnation et de malheur            |
+| [9]   | Vision V : le sanctuaire ébranlé, jugement d’Israël                           |
+| [9]   | Finale, la restauration et le salut                                           |
+
 ### Abdias <a name="abdias"></a>
+
+|---------|---------------------------------------------------------------|
+| [1]     | Annonce de la destruction d’Edom, appel au combat             |
+| [2-4]   | Annonce du jugement de Dieu, critique de l’arrogance          |
+| [5-7]   | Description précise du pillage d’Edom                         |
+| [8-9]   | Disparition des habitants d’Edom                              |
+| [10-14] | Edom détruite car passive face aux malheurs de Jacob et Juda  |
+| [15-18] | Le jour de Dieu, malheur des nations, rétablissement d’Israël |
+| [19-21] | Annexe en prose, renouveau d’Israël                           |
+
 ### Jonas <a name="jonas"></a>
+
+|-----|---------------------------------------------------------------------|
+| [1] | Appel, Jonas se lève, fuit à Tarsis                                 |
+| [1] | Dieu agit (tempête)                                                 |
+| [1] | Préoccupation de la volonté de Dieu                                 |
+| [1] | La tempête s’apaise                                                 |
+| [2] | Jonas sauvé par le poisson, il prie dans le poisson                 |
+| [2] | Dieu répond et le poisson vomit                                     |
+| [3] | Appel, Jonas se lève, va à Ninive                                   |
+| [3] | Dieu agit (annonce de la destruction)                               |
+| [3] | Préoccupation de la volonté de Dieu, les ninivites se convertissent |
+| [3] | Dieu renonce à la destruction                                       |
+| [4] | Jonas prie et demande la mort                                       |
+| [4] | Dieu répond par l’exemple d’une plante                              |
+
 ### Michée <a name="michee"></a>
+
+|-------|------------------------------------------------------------------------|
+| [1]   | Oracle contre Samarie, annonce de sa destruction                       |
+| [1]   | Lamentations à propos de malheurs survenus en des lieux judéens        |
+| [2]   | Oracle de jugement contre les exploiteurs                              |
+| [2]   | Controverse entre Michée et ses opposants                              |
+| [2]   | Oracle de salut, le rassemblement du troupeau                          |
+| [3]   | Oracle de jugement contre la classe dirigeante et les prophètes        |
+| [3]   | Oracle contre Jérusalem, annonce de sa destruction                     |
+| [4-5] | Oracles de salut pour Jérusalem, rassemblement, délivrances            |
+| [5]   | Souverain messianique, destruction des cultes idolâtres, ennemis punis |
+| [6]   | Paroles de jugement, condamnation de la ville à cause des injustices   |
+| [7]   | Lamentations sur les désordres sociaux, liturgie prophétique de salut  |
+
 ### Nahoum <a name="nahoum"></a>
+
+|-------|-------------------------------------------------------------------------|
+| [1]   | Psaume semi-alphabétique décrivant la puissance de la colère divine     |
+| [1-2] | Annonces de jugement et promesses de délivrance                         |
+| [2]   | Destruction et pillage de Ninive, métaphore du lion vaincu par Dieu     |
+| [3]   | Lamentation ironique sur la ville sanguinaire comparée à une prostituée |
+| [3]   | Série d’oracles contre Ninive, comparée à Thèbes détruite               |
+
 ### Habaquq <a name="habaquq"></a>
+
+|-----|----------------------------------------------------------------------|
+| [1] | Appel prophétique de détresse face aux injustices sociales           |
+| [1] | Réponse divine annonçant l’arrivée punitive de l’armée babylonienne  |
+| [1] | Appel de détresse face à l’oppression de celui qui domine le monde   |
+| [3] | Réponse divine annonçant le triomphe du juste et la perte du méchant |
+| [2] | Cinq sentences de lamentation visant les mauvaises actions           |
+| [3] | Psaume, lamentations, hymne théophanique, paroles de confiances      |
+
 ### Sophonie <a name="sophonie"></a>
+
+|-----|----------------------------------------------------------------------------|
+| [1] | Dieu supprimera hommes et animaux de la surface de la terre                |
+| [1] | Annonces de jugement contre Juda et Jérusalem, idolâtrie, injustices       |
+| [2] | Appel à la repentance et à la justice pour les humbles                     |
+| [2] | Jugements de nations : Philistins, Ammon, Moab, Kushites, Assyrie          |
+| [3] | Jugement de Jérusalem et des nations, dévastation de la terre entière      |
+| [3] | Promesses de salut pour les nations et Israël, disparition des orgueilleux |
+
 ### Aggée <a name="aggee"></a>
+
+|-----|-------------------------------------------------------------------------|
+| [1] | Exhortation à reconstruire la maison de Dieu, négligence du temple      |
+| [1] | Le peuple entend la parole de Dieu, ils commencent le travail           |
+| [2] | Encouragements, la splendeur future du temple, la paix sera établie     |
+| [2] | Discussion sur le pur et l’impur, à peuple impur construction impure    |
+| [2] | Négligence du temple explique la disette mais Dieu va bénir aujourd’hui |
+| [2] | La force des nations sera anéantie, Zorobabel est élu pour « cacheter » |
+
 ### Zacharie <a name="zacharie"></a>
+
+|---------|----------------------------------------------------------------|
+| [1]     | Notice chronologique, appel à la conversion                    |
+| [1]     | Vision I : les cavaliers, paroles de salut pour Jérusalem      |
+| [2]     | Vision II : les cornes et les forgerons                        |
+| [2-3]   | Vision III : le cordeau à mesurer, invitation à quitter l’exil |
+| [4]     | Vision IV : le chandelier à sept lampes et les deux oliviers   |
+| [4]     | Vision V : le livre volant                                     |
+| [5]     | Vision VI : le boisseau                                        |
+| [6]     | Vision VII : les quatre chars, couronnement de Josué           |
+| [7-8]   | Livret des discours : la question du jeûne, paroles de salut   |
+| [9]     | Jugement des peuples, annonce du roi de paix monté sur un âne  |
+| [9]     | Libération des captifs                                         |
+| [10]    | Les idoles vaines, salut pour Israël, nouvel Exode             |
+| [11]    | Jugement des peuples, allégorie des deux bergers               |
+| [12-13] | Jérusalem est préservée et purifiée                            |
+| [14]    | Lutte eschatologique pour Jérusalem                            |
+
 ### Malachie <a name="malachie"></a>
+
+|-------|------------------------------------------------------------------------|
+| [1]   | Controverse I : Dieu aime Jacob-Israël mais haït Esaü-Edom             |
+| [1-2] | Controverse II : le culte authentique                                  |
+| [2]   | Controverse III : l’infidélité de Juda et l’infidélité conjugale       |
+| [2-3] | Controverse IV : le jugement de Dieu                                   |
+| [3]   | Controverse V : la dîme                                                |
+| [3]   | Controverse VI : la différence entre juste et injuste lors du jugement |
+| [3]   | Conclusion générale, la Loi de Moïse, Elie le jour du Seigneur         |
+
 ### Psaumes <a name="psaumes"></a>
+
+Ils sont très souvent attribués à un personnage :
+- David (73 Psaumes)
+- Salomon (Ps 72 ; 127)
+- Moïse (Ps 90)
+- Coré (Ps 42-43 ; Ps 44-49 ; Ps 84-88)
+- Asaf (Ps 50 ; Ps 73-83)
+- Héman (Ps 88)
+- Yedoutoun (Ps 39 ;  Ps 62 ; Ps 77)
+- Etan (Ps 89)
+- Les Psaumes de pèlerinage (120-134) 
+
+- [1- 119]     Torah
+- [1]     Torah
+- [2-118]     Royauté - messie
+- [2]     Royauté
+- [3-41]     De David
+
+Psautier « élohiste », harmonisation des noms divins :
+	- [42-49]     Coré
+	- [50]     Asaf
+	- [51-72]     De David
+	- [73-83]     Asaf
+
+- [84-85]     Asaf
+- [86]     David
+- [87-88]     Asaf
+- [89]     Royauté
+- [90-99]     Règne
+- [100-109]     Alléluia
+- [110]     Royauté
+- [111-118]     Alléluia
+- [119]     Torah
+- [120-134]     Psaumes de pèlerinage
+- [135-144]     Psaumes de David
+- [145-150]     Doxologie Alléluia
+
 ### Job <a name="job"></a>
 ### Proverbes <a name="proverbes"></a>
 ### Ruth <a name="ruth"></a>
 ### Cantique des cantiques <a name="cantiquedescantiques"></a>
-### Qohéleth (l’Ecclésiaste"></a> <a name="qoheleth"></a>
+### Qohéleth (l’Ecclésiaste) <a name="qoheleth"></a>
 ### Lamentations <a name="lamentations"></a>
 ### Esther <a name="esther"></a>
 ### Daniel <a name="daniel"></a>
@@ -359,7 +623,7 @@ title: Plan de la Bible
 ### Premier livre des Maccabées <a name="1maccabees"></a>
 ### Deuxième livre des Maccabées <a name="2maccabees"></a>
 ### Sagesse <a name="sagesse"></a>
-### Siracide (l’Ecclésiastique"></a> <a name="siracide"></a>
+### Siracide (l’Ecclésiastique) <a name="siracide"></a>
 ### Baruch <a name="baruch"></a>
 ### Lettre de Jérémie <a name="lettrejeremie"></a>
 ### Troisième livre d’Esdras <a name="3esdras"></a>
