@@ -580,6 +580,8 @@ Ils sont très souvent attribués à un personnage :
 - Etan (Ps 89)
 - Les Psaumes de pèlerinage (120-134) 
 
+Dans l'ordre numérologique :
+
 - [1- 119]     Torah
 - [1]     Torah
 - [2-118]     Royauté - messie
@@ -587,10 +589,10 @@ Ils sont très souvent attribués à un personnage :
 - [3-41]     De David
 
 Psautier « élohiste », harmonisation des noms divins :
-	- [42-49]     Coré
-	- [50]     Asaf
-	- [51-72]     De David
-	- [73-83]     Asaf
+- [42-49]     Coré
+- [50]     Asaf
+- [51-72]     De David
+- [73-83]     Asaf
 
 - [84-85]     Asaf
 - [86]     David
