@@ -78,7 +78,7 @@ Col 4, 1
 
 ### Références
 
-- [[Ambroise de Milan](/references/ambroisedemilan.html#naboth)] évoque [L'histoire de Naboth, mis à mort pour qu'Achab puisse s'emparer de sa vigne, 1 Rois 21, 1-4](/pages/ancientestament.html#1rois-21-1-4) :
+- [Ambroise de Milan](/references/ambroisedemilan.html#naboth) évoque [L'histoire de Naboth, mis à mort pour qu'Achab puisse s'emparer de sa vigne, 1 Rois 21, 1-4](/pages/ancientestament.html#1rois-21-1-4) :
 >Naboth d’Izréel avait une vigne à Izréel ; elle était à côté du palais d’Akhab, roi de Samarie. Akhab parla à Naboth : "Cède-moi ta vigne pour qu’elle me serve de jardin potager, car elle est juste à côté de ma maison ; et je te donnerai à sa place une vigne meilleure. Mais si cela te convient, je puis te donner son prix en argent." Naboth dit à Akhab : "Que le Seigneur m’ait en abomination si je te cède l’héritage de mes pères." Akhab rentra chez lui sombre et contrarié à cause de ce que lui avait dit Naboth d’Izréel : "Je ne te céderai pas l’héritage de mes pères." Il se coucha sur son lit, tourna son visage contre le mur, et ne voulut pas manger.
 
 Toutefois, la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexion des Pères de l'Eglise sont tirés du Nouveau Testament :
@@ -100,7 +100,7 @@ Toutefois, la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexi
 - [L'hymne de Paul à la charité, 1 Corinthiens 13, 1-13](/pages/nouveautestament.html#1corinthiens-13-1-13) [[Clément d'Alexandrie](/references/clementdalexandrie.html#quel-riche)][[Jean Chrysostome](/references/jeanchrysostome.html#homelie-1)] :
 >Quand je parlerais en langues, celle des hommes et celle des anges, s’il me manque l’amour, je suis un métal qui résonne, une cymbale retentissante. Quand j’aurais le don de prophétie, la science de tous les mystères et de toute la connaissance, quand j’aurais la foi la plus totale, celle qui transporte les montagnes, s’il me manque l’amour, je ne suis rien. Quand je distribuerais tous mes biens aux affamés, quand je livrerais mon corps aux flammes, s’il me manque l’amour, je n’y gagne rien. L’amour prend patience, l’amour rend service, il ne jalouse pas, il ne plastronne pas, il ne s’enfle pas d’orgueil, il ne fait rien de laid, il ne cherche pas son intérêt, il ne s’irrite pas, il n’entretient pas de rancune, il ne se réjouit pas de l’injustice, mais il trouve sa joie dans la vérité. Il excuse tout, il croit tout, il espère tout, il endure tout. L’amour ne disparaît jamais.
 
-- Enfin, l'homélie de [Basile de Césarée ](/references/basiledecesaree.html#homelie-2) contre les usuriers utilise quelques verts de l'Ancien Testament contre la pratique de l'usure [Dt 23, 20][Ps 14, 5][Ps 55 (54), 12] : 
+- Enfin, l'homélie de [Basile de Césarée](/references/basiledecesaree.html#homelie-2) contre les usuriers utilise quelques verts de l'Ancien Testament contre la pratique de l'usure [Dt 23, 20][Ps 14, 5][Ps 55 (54), 12] : 
 >Tu ne feras à ton frère aucun prêt à intérêt : ni prêt d’argent, ni prêt de nourriture, ni prêt de quoi que ce soit qui puisse rapporter des intérêts. 
 
 >Et voilà qu’ils se sont mis à trembler, car Dieu était dans le camp des justes. 
