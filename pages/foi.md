@@ -160,3 +160,12 @@ Cette affection véritable – qui ne voit que la beauté de ses petits – est 
 
 
 
+
+
+
+## Références bibliques, à enlever et à citer dans un texte plutôt, avec lien.
+
+Ga 5, 6
+Rm 1, 17
+Jc 2, 26
+Mt 10, 32-33

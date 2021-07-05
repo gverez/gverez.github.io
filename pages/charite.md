@@ -46,6 +46,29 @@ aide du prochain, pas que financière
 aide du prochain, pas que financière
 
 
+**La charité**
+Jn 13, 34
+Jn 13, 1
+Jn 15, 9
+Jn 15, 12
+Jn 15, 9-10
+Mt 22, 40
+Rm 13, 8-10
+Mt 5, 44
+Lc 10, 27-37
+Mc 9, 37
+Mt 25, 40.45
+1 Co 13, 4-7
+1 Co 13, 1-4
+1 Co 13, 13
+Col 3, 14
+1 Jn 4, 19
+1 P 4, 8
+
+**La justice**
+Lv 19, 15
+Col 4, 1
+
 
 ## L'argent <a name="argent"></a>
 
