@@ -8,13 +8,13 @@ title: Présentation
 
 **Table des matières**
 
-* [Charité](#charite)
-	* [Justice](#justice)
-* [Foi](#foi)
-* [Espérance](#esperance)
-	* [Prudence](#prudence)
-	* [Tempérance](#temperance)
-	* [Force](#force)
+- [Charité](#charite)
+	- [Justice](#justice)
+- [Foi](#foi)
+- [Espérance](#esperance)
+	- [Prudence](#prudence)
+	- [Tempérance](#temperance)
+	- [Force](#force)
 
 # Charité <a name="charite"></a>
 
@@ -117,19 +117,17 @@ Proverbes 14, 15 :
 
 >**sôphrosunê** : Modération de l’âme envers les désirs et les plaisirs conformes à la nature ; harmonie et discipline de l’âme en ce qui concerne les plaisirs et les peines conformes à la nature ; accord de l’âme pour commander et obéir; indépendance d’action conforme à la nature ; le bon ordonnancement de l’âme sous l’égide de la raison ; habitude de l’âme à distinguer entre ce qui est convenable et ce qui est déplacé ; état qui amène celui qui le possède à être attentif et prudent à l’égard de ce qu’il faut faire. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
-La sophrosynè (en grec ancien σωφροσύνη / sophrosúnê), est ce qui permet toute maîtrise de soi, toute sagesse, toute modération et donc désigne la tempérance. Platon explique dans *La République* que la sophrosynè contrôle le penchant pour la concupiscence. De même, Aristote, dans l’*Éthique à Nicomaque*, explique que la fonction de la sophrosynè consiste à modérer les plaisirs sensuels en accord avec les impératifs de la juste raison. Ariston de Chios, philosophe stoïcien, a défini la sophrosynè comme la "mesure de l’âme à l’égard des désirs et des plaisirs conformes à la nature". Ainsi, en régulant la sensibilité jouissive, la tempérance assure la maîtrise de la volonté sur les instincts et maintient les désirs dans les limites de l'honnêteté, procurant ainsi l'équilibre dans l'usage des biens [[Catéchisme, 1809](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)]
-
-[Siracide 5, 2] :
+La sophrosynè (en grec ancien σωφροσύνη / sophrosúnê), est ce qui permet toute maîtrise de soi, toute sagesse, toute modération et donc désigne la tempérance. Platon explique dans *La République* que la sophrosynè contrôle le penchant pour la concupiscence. De même, Aristote, dans l’*Éthique à Nicomaque*, explique que la fonction de la sophrosynè consiste à modérer les plaisirs sensuels en accord avec les impératifs de la juste raison. Ariston de Chios, philosophe stoïcien, a défini la sophrosynè comme la "mesure de l’âme à l’égard des désirs et des plaisirs conformes à la nature". Ainsi, en régulant la sensibilité jouissive, la tempérance assure la maîtrise de la volonté sur les instincts [Siracide 5, 2][Siracide 18, 30-32]:
 >Ne te laisse pas entraîner par ton instinct et ta force à suivre les passions de ton coeur.
-
-[Siracide 18, 30-32] :
+>
 >Ne te laisse pas entraîner par tes désirs, et refrène tes convoitises. Si tu t’accordes la satisfaction de tes désirs, cela fera de toi la risée de tes ennemis. Ne mets pas ta joie dans une vie de plaisir, et ne t’oblige pas à en faire les frais.
 
-[Tite 2, 11-12] :
->Car elle s’est manifestée, la grâce de Dieu, source de salut pour tous les hommes. Elle nous enseigne à renoncer à l’impiété et aux désirs de ce monde, pour que nous vivions dans le temps présent avec réserve, justice et piété .
+Egalement, elle maintient les désirs dans les limites de l'honnêteté [[Catéchisme, 1809](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)], procurant ainsi l'équilibre dans l'usage des biens [Tite 2, 11-12] :
+>Car elle s’est manifestée, la grâce de Dieu, source de salut pour tous les hommes. Elle nous enseigne à renoncer à l’impiété et aux désirs de ce monde, pour que nous vivions dans le temps présent avec réserve, justice et piété.
+
 
 [[Grégoire de Nysse](/pages/references/gregoiredenysse.html#genese-3-1-24)] :
->Il n’est pas possible de trouver un péché qui soit séparé du plaisir, que ce soit les passions engendrées par la colère ou par le désir .
+>Il n’est pas possible de trouver un péché qui soit séparé du plaisir, que ce soit les passions engendrées par la colère ou par le désir.
 
 
 ## Force <a name="force"></a>
