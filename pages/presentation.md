@@ -122,11 +122,9 @@ La sophrosynè (en grec ancien σωφροσύνη / sophrosúnê), est ce qui pe
 >
 >Ne te laisse pas entraîner par tes désirs, et refrène tes convoitises. Si tu t’accordes la satisfaction de tes désirs, cela fera de toi la risée de tes ennemis. Ne mets pas ta joie dans une vie de plaisir, et ne t’oblige pas à en faire les frais.
 
-Egalement, elle maintient les désirs dans les limites de l'honnêteté [[Catéchisme, 1809](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)], procurant ainsi l'équilibre dans l'usage des biens [Tite 2, 11-12] :
+Egalement, elle maintient les désirs dans les limites de l'honnêteté [[Catéchisme, 1809](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)], procurant ainsi l'équilibre dans l'usage des biens [Tite 2, 11-12][[Grégoire de Nysse](/pages/references/gregoiredenysse.html#genese-3-1-24)]:
 >Car elle s’est manifestée, la grâce de Dieu, source de salut pour tous les hommes. Elle nous enseigne à renoncer à l’impiété et aux désirs de ce monde, pour que nous vivions dans le temps présent avec réserve, justice et piété.
-
-
-[[Grégoire de Nysse](/pages/references/gregoiredenysse.html#genese-3-1-24)] :
+>
 >Il n’est pas possible de trouver un péché qui soit séparé du plaisir, que ce soit les passions engendrées par la colère ou par le désir.
 
 
