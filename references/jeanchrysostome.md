@@ -21,3 +21,47 @@ title: Jean Chrysostome
 >Combien de gens disent aujourd'hui : « Je voudrais voir le Christ en personne, son visage, ses vêtements, ses chaussures ». Eh bien, dans l'eucharistie c'est lui que tu vois, que tu touches, lui que tu reçois ! Tu désirais voir ses vêtements ; et c'est lui-même qui se donne à toi non seulement pour le voir, mais pour le toucher, le manger, l'accueillir dans ton cœur. Que personne donc ne s'approche avec indifférence ou avec mollesse ; mais que tous viennent à lui animés d'un amour brûlant.
 
 [[Retour au texte](/pages/nouveautestament.html#jean-6-60-69)]
+
+
+## Homélie 1 sur Lazare <a name="homelie-1"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Christian Bouchet*
+
+7 stigmatisent l'égoïsme et la cruauté du mauvais riche 
+7-8 luxe et son gaspillage
+11 Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+
+## Homélie 2 sur la parole de David <a name="homelie-2"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Christian Bouchet*
+
+2 arrogance
+3 Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+
+## Homélie 63 sur Matthieu <a name="homelie-63"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Christian Bouchet*
+
+3-4 le riche n'est jamais satisfait, toujours il lui manque quelque chose
+
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+## Homélie 34 sur 1 Corinthiens <a name="homelie-34"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Christian Bouchet*
+
+4 Les pauvres sont nécessaires aux riches car ils sont pour eux le moyen d'être sauvés par le partage
+5 les riches ne peuvent vivre sans le travail des pauvres
+6-7 Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien 
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
