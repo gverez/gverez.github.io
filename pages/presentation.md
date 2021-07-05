@@ -25,13 +25,11 @@ La charité est la vertu théologale par laquelle nous aimons Dieu par-dessus to
 L’apôtre saint Paul a donné un incomparable tableau de la charité [[1 Co 13, 1-13](/pages/nouveautestament#1corinthiens-13-1-13)] :
 >Quand je parlerais en langues, celle des hommes et celle des anges, s’il me manque l’amour, je suis un métal qui résonne, une cymbale retentissante. Quand j’aurais le don de prophétie, la science de tous les mystères et de toute la connaissance, quand j’aurais la foi la plus totale, celle qui transporte les montagnes, s’il me manque l’amour, je ne suis rien. Quand je distribuerais tous mes biens aux affamés, quand je livrerais mon corps aux flammes, s’il me manque l’amour, je n’y gagne rien. L’amour prend patience, l’amour rend service, il ne jalouse pas, il ne plastronne pas, il ne s’enfle pas d’orgueil, il ne fait rien de laid, il ne cherche pas son intérêt, il ne s’irrite pas, il n’entretient pas de rancune, il ne se réjouit pas de l’injustice, mais il trouve sa joie dans la vérité. Il excuse tout, il croit tout, il espère tout, il endure tout. L’amour ne disparaît jamais. Les prophéties ? Elles seront abolies. Les langues ? Elles prendront fin. La connaissance ? Elle sera abolie. Car notre connaissance est limitée, et limitée notre prophétie. Mais quand viendra la perfection, ce qui est limité sera aboli. Lorsque j’étais enfant, je parlais comme un enfant, je pensais comme un enfant, je raisonnais comme un enfant. Devenu homme, j’ai mis fin à ce qui était propre à l’enfant. A présent, nous voyons dans un miroir et de façon confuse, mais alors, ce sera face à face. A présent, ma connaissance est limitée, alors, je connaîtrai comme je suis connu. Maintenant donc ces trois-là demeurent, la foi, l’espérance et l’amour, mais l’amour est le plus grand.
 
-La pratique de la vie morale animée par la charité donne au chrétien la liberté spirituelle des **enfants** de Dieu [[Catéchisme, 1828](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Il ne se tient plus devant Dieu comme un esclave, dans la crainte servile, ni comme le mercenaire en quête de salaire, mais comme un fils qui répond à l’amour de "celui qui nous a aimés le premier" (1 Jn 4, 19) :
+La pratique de la vie morale animée par la charité donne au chrétien la liberté spirituelle des **enfants** de Dieu [[Catéchisme, 1828](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Il ne se tient plus devant Dieu comme un esclave, dans la crainte servile, ni comme le mercenaire en quête de salaire, mais comme un fils qui répond à l’amour de "celui qui nous a aimés le premier" (1 Jn 4, 19) [S. Basile, reg. fus. prol. 3 : PG 31, 896B]:
+>Ou bien nous nous détournons du mal par crainte du châtiment, et nous sommes dans la disposition de l’esclave. Ou bien nous poursuivons l’appât de la récompense et nous ressemblons aux mercenaires. Ou enfin c’est pour le bien lui-même et l’amour de celui qui commande que nous obéissons ... et nous sommes alors dans la disposition des enfants.
 
->Ou bien nous nous détournons du mal par crainte du châtiment, et nous sommes dans la disposition de l’esclave. Ou bien nous poursuivons l’appât de la récompense et nous ressemblons aux mercenaires. Ou enfin c’est pour le bien lui-même et l’amour de celui qui commande que nous obéissons ... et nous sommes alors dans la disposition des enfants (S. Basile, reg. fus. prol. 3 : PG 31, 896B).
-
-La charité a pour fruits la joie, la paix et la miséricorde [[Catéchisme, 1829](https://www.vatican.va/archive/FRA0013/__P60.HTM)]; elle exige la bienfaisance et la correction fraternelle ; elle est bienveillance ; elle suscite la réciprocité, demeure désintéressée et libérale ; elle est amitié et communion :
-
->L’achèvement de toutes nos œuvres, c’est la dilection. Là est la fin ; c’est pour l’obtenir que nous courons, c’est vers elle que nous courons ; une fois arrivés, c’est en elle que nous nous reposerons (S. Augustin, ep. Jo. 10, 4).
+La charité a pour fruits la joie, la paix et la miséricorde [[Catéchisme, 1829](https://www.vatican.va/archive/FRA0013/__P60.HTM)]; elle exige la bienfaisance et la correction fraternelle ; elle est bienveillance ; elle suscite la réciprocité, demeure désintéressée et libérale ; elle est amitié et communion [S. Augustin, ep. Jo. 10, 4]:
+>L’achèvement de toutes nos œuvres, c’est la dilection. Là est la fin ; c’est pour l’obtenir que nous courons, c’est vers elle que nous courons ; une fois arrivés, c’est en elle que nous nous reposerons.
 
 ## Justice <a name="justice"></a>
 
@@ -62,29 +60,24 @@ La foi est la vertu théologale par laquelle nous croyons en Dieu et à tout ce 
 [<img src="/images/esperance_presentation.png">](/pages/esperance.html)
 
 L’espérance est la vertu théologale par laquelle nous désirons comme notre bonheur le Royaume des cieux et la Vie éternelle, en mettant notre confiance dans les promesses du Christ [[Catéchisme, 1817](https://www.vatican.va/archive/FRA0013/__P60.HTM)] et en prenant appui, non sur nos forces, mais sur le secours de la grâce du Saint-Esprit [Hebreux 10, 23][Tite 3, 6-7]:
-
 >Gardons indéfectible la confession de l’espérance, car celui qui a promis est fidèle.
 
 >Cet Esprit, il l’a répandu sur nous à profusion, par Jésus Christ notre Sauveur, afin que, justifiés par la grâce du Christ, nous obtenions en espérance l’héritage de la vie éternelle.
 
 La vertu d’espérance répond à l’aspiration au bonheur placée par Dieu dans le coeur de tout homme ; elle assume les espoirs qui inspirent les activités des hommes ; elle les purifie pour les ordonner au Royaume des cieux ; elle protège du découragement ; elle soutient en tout délaissement ; elle dilate le coeur dans l’attente de la béatitude éternelle. L’élan de l’espérance préserve de l’égoïsme et conduit au bonheur de la charité [[Catéchisme, 1818](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. L’espérance chrétienne reprend et accomplit l’espérance du peuple élu [[Catéchisme, 1819](https://www.vatican.va/archive/FRA0013/__P60.HTM)] qui trouve son origine et son modèle dans l’espérance d’Abraham comblé en Isaac des promesses de Dieu et purifié par l’épreuve du sacrifice (cf. Gn 17, 4-8 ; 22, 1-18) [Romains 4, 18] :
-
 >Espérant contre toute espérance, il crut et devint ainsi le père d’un grand nombre de peuples, selon la parole : *Telle sera ta descendance*.
 
 L’espérance chrétienne se déploie dès le début de la prédication de Jésus dans l’annonce des béatitudes. Les béatitudes élèvent notre espérance vers le Ciel comme vers la nouvelle Terre promise ; elles en tracent le chemin à travers les épreuves qui attendent les disciples de Jésus, lui-même précuseur par sa passion [Romains 5, 5][Hébreux 6, 18-20] :
-
 >L’espérance ne trompe pas, car l’amour de Dieu a été répandu dans nos coeurs par l’Esprit Saint qui nous a été donné. 
 
 >Ainsi, deux actes irrévocables, dans lesquels il ne peut y avoir de mensonge de la part de Dieu, nous apportent un encouragement puissant, à nous qui avons tout laissé pour saisir l’espérance proposée. Elle est pour nous comme une ancre de l’âme, bien fermement fixée, qui pénètre au-delà du voile, là où est entré pour nous, en précurseur, Jésus, devenu grand prêtre pour l’éternité dans la ligne de Melkisédeq .
 
 Elle est aussi une arme qui nous protège dans le combat du salut, qui nous procure la joie dans l’épreuve même [1 Thessaloniciens 5, 8][Romains 12, 12] :
-
 >Soyons sobres, revêtus de la cuirasse de la foi et de l’amour, avec le casque de l’espérance du salut.
 
 >Soyez joyeux dans l’espérance, patients dans la détresse, persévérants dans la prière. 
 
 L’espérance s’exprime et se nourrit dans la prière, tout particulièrement dans celle du Pater, résumé de tout ce que l’espérance nous fait désirer [[Catéchisme, 1820](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Nous pouvons donc espérer la gloire du ciel promise par Dieu à ceux qui l’aiment (cf. Rm 8, 28-30) et font sa volonté (cf. Mt 7, 21). En toute circonstance, chacun doit espérer, avec la grâce de Dieu, et obtenir la joie du ciel [[Catéchisme, 1821](https://www.vatican.va/archive/FRA0013/__P60.HTM)], comme l’éternelle récompense de Dieu pour les bonnes oeuvres accomplies avec la grâce du Christ [Matthieu 10, 22][Ste. Thérèse de Jésus, excl. 15, 3]:
-
 >Vous serez haïs de tous à cause de mon nom. Mais celui qui tiendra jusqu’à la fin, celui-là sera sauvé.
 
 >Espère, ô mon âme, espère. Tu ignores le jour et l’heure. Veille soigneusement, tout passe avec rapidité, quoique ton impatience rende douteux ce qui est certain, et long un temps bien court. Songe que plus tu combattras, plus tu prouveras l’amour que tu portes à ton Dieu, et plus tu te réjouiras un jour avec ton Bien-Aimé, dans un bonheur et un ravissement qui ne pourront jamais finir.
