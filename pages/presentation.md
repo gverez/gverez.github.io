@@ -61,31 +61,33 @@ La foi est la vertu théologale par laquelle nous croyons en Dieu et à tout ce 
 
 [<img src="/images/esperance_presentation.png">](/pages/esperance.html)
 
-L’espérance est la vertu théologale par laquelle nous désirons comme notre bonheur le Royaume des cieux et la Vie éternelle, en mettant notre confiance dans les promesses du Christ et en prenant appui, non sur nos forces, mais sur le secours de la grâce du Saint-Esprit [[Catéchisme, 1817](https://www.vatican.va/archive/FRA0013/__P60.HTM)] 
+L’espérance est la vertu théologale par laquelle nous désirons comme notre bonheur le Royaume des cieux et la Vie éternelle, en mettant notre confiance dans les promesses du Christ [[Catéchisme, 1817](https://www.vatican.va/archive/FRA0013/__P60.HTM)] et en prenant appui, non sur nos forces, mais sur le secours de la grâce du Saint-Esprit [Hebreux 10, 23][Tite 3, 6-7]:
 
->Gardons indéfectible la confession de l’espérance, car celui qui a promis est fidèle [Hebreux 10, 23].
+>Gardons indéfectible la confession de l’espérance, car celui qui a promis est fidèle.
 
->Cet Esprit, il l’a répandu sur nous à profusion, par Jésus Christ notre Sauveur, afin que, justifiés par la grâce du Christ, nous obtenions en espérance l’héritage de la vie éternelle [Tite 3, 6-7].
+>Cet Esprit, il l’a répandu sur nous à profusion, par Jésus Christ notre Sauveur, afin que, justifiés par la grâce du Christ, nous obtenions en espérance l’héritage de la vie éternelle.
 
-La vertu d’espérance répond à l’aspiration au bonheur placée par Dieu dans le coeur de tout homme ; elle assume les espoirs qui inspirent les activités des hommes ; elle les purifie pour les ordonner au Royaume des cieux ; elle protège du découragement ; elle soutient en tout délaissement ; elle dilate le coeur dans l’attente de la béatitude éternelle. L’élan de l’espérance préserve de l’égoïsme et conduit au bonheur de la charité [[Catéchisme, 1818](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. L’espérance chrétienne reprend et accomplit l’espérance du peuple élu qui trouve son origine et son modèle dans l’espérance d’Abraham comblé en Isaac des promesses de Dieu et purifié par l’épreuve du sacrifice (cf. Gn 17, 4-8 ; 22, 1-18) [[Catéchisme, 1819](https://www.vatican.va/archive/FRA0013/__P60.HTM)]
+La vertu d’espérance répond à l’aspiration au bonheur placée par Dieu dans le coeur de tout homme ; elle assume les espoirs qui inspirent les activités des hommes ; elle les purifie pour les ordonner au Royaume des cieux ; elle protège du découragement ; elle soutient en tout délaissement ; elle dilate le coeur dans l’attente de la béatitude éternelle. L’élan de l’espérance préserve de l’égoïsme et conduit au bonheur de la charité [[Catéchisme, 1818](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. L’espérance chrétienne reprend et accomplit l’espérance du peuple élu [[Catéchisme, 1819](https://www.vatican.va/archive/FRA0013/__P60.HTM)] qui trouve son origine et son modèle dans l’espérance d’Abraham comblé en Isaac des promesses de Dieu et purifié par l’épreuve du sacrifice (cf. Gn 17, 4-8 ; 22, 1-18) [Romains 4, 18] :
 
->Espérant contre toute espérance, il crut et devint ainsi le père d’un grand nombre de peuples, selon la parole : *Telle sera ta descendance* [Romains 4, 18].
+>Espérant contre toute espérance, il crut et devint ainsi le père d’un grand nombre de peuples, selon la parole : *Telle sera ta descendance*.
 
-L’espérance chrétienne se déploie dès le début de la prédication de Jésus dans l’annonce des béatitudes. Les béatitudes élèvent notre espérance vers le Ciel comme vers la nouvelle Terre promise ; elles en tracent le chemin à travers les épreuves qui attendent les disciples de Jésus, lui-même précuseur par sa passion. Elle est aussi une arme qui nous protège dans le combat du salut, qui nous procure la joie dans l’épreuve même.
+L’espérance chrétienne se déploie dès le début de la prédication de Jésus dans l’annonce des béatitudes. Les béatitudes élèvent notre espérance vers le Ciel comme vers la nouvelle Terre promise ; elles en tracent le chemin à travers les épreuves qui attendent les disciples de Jésus, lui-même précuseur par sa passion [Romains 5, 5][Hébreux 6, 18-20] :
 
->L’espérance ne trompe pas, car l’amour de Dieu a été répandu dans nos cœurs par l’Esprit Saint qui nous a été donné [Romains 5, 5]. 
+>L’espérance ne trompe pas, car l’amour de Dieu a été répandu dans nos coeurs par l’Esprit Saint qui nous a été donné. 
 
->Ainsi, deux actes irrévocables, dans lesquels il ne peut y avoir de mensonge de la part de Dieu, nous apportent un encouragement puissant, à nous qui avons tout laissé pour saisir l’espérance proposée. Elle est pour nous comme une ancre de l’âme, bien fermement fixée, qui pénètre au-delà du voile, là où est entré pour nous, en précurseur, Jésus, devenu grand prêtre pour l’éternité dans la ligne de Melkisédeq [Hébreux 6, 18-20].
+>Ainsi, deux actes irrévocables, dans lesquels il ne peut y avoir de mensonge de la part de Dieu, nous apportent un encouragement puissant, à nous qui avons tout laissé pour saisir l’espérance proposée. Elle est pour nous comme une ancre de l’âme, bien fermement fixée, qui pénètre au-delà du voile, là où est entré pour nous, en précurseur, Jésus, devenu grand prêtre pour l’éternité dans la ligne de Melkisédeq .
 
->Soyons sobres, revêtus de la cuirasse de la foi et de l’amour, avec le casque de l’espérance du salut [1 Thessaloniciens 5, 8].
+Elle est aussi une arme qui nous protège dans le combat du salut, qui nous procure la joie dans l’épreuve même [1 Thessaloniciens 5, 8][Romains 12, 12] :
 
->Soyez joyeux dans l’espérance, patients dans la détresse, persévérants dans la prière [Romains 12, 12]. 
+>Soyons sobres, revêtus de la cuirasse de la foi et de l’amour, avec le casque de l’espérance du salut.
 
-L’espérance s’exprime et se nourrit dans la prière, tout particulièrement dans celle du Pater, résumé de tout ce que l’espérance nous fait désirer [[Catéchisme, 1820](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Nous pouvons donc espérer la gloire du ciel promise par Dieu à ceux qui l’aiment (cf. Rm 8, 28-30) et font sa volonté (cf. Mt 7, 21). En toute circonstance, chacun doit espérer, avec la grâce de Dieu, et obtenir la joie du ciel, comme l’éternelle récompense de Dieu pour les bonnes oeuvres accomplies avec la grâce du Christ [[Catéchisme, 1821](https://www.vatican.va/archive/FRA0013/__P60.HTM)] :
+>Soyez joyeux dans l’espérance, patients dans la détresse, persévérants dans la prière. 
 
->Vous serez haïs de tous à cause de mon nom. Mais celui qui tiendra jusqu’à la fin, celui-là sera sauvé [Matthieu 10, 22].
+L’espérance s’exprime et se nourrit dans la prière, tout particulièrement dans celle du Pater, résumé de tout ce que l’espérance nous fait désirer [[Catéchisme, 1820](https://www.vatican.va/archive/FRA0013/__P60.HTM)]. Nous pouvons donc espérer la gloire du ciel promise par Dieu à ceux qui l’aiment (cf. Rm 8, 28-30) et font sa volonté (cf. Mt 7, 21). En toute circonstance, chacun doit espérer, avec la grâce de Dieu, et obtenir la joie du ciel [[Catéchisme, 1821](https://www.vatican.va/archive/FRA0013/__P60.HTM)], comme l’éternelle récompense de Dieu pour les bonnes oeuvres accomplies avec la grâce du Christ [Matthieu 10, 22][Ste. Thérèse de Jésus, excl. 15, 3]:
 
->Espère, ô mon âme, espère. Tu ignores le jour et l’heure. Veille soigneusement, tout passe avec rapidité, quoique ton impatience rende douteux ce qui est certain, et long un temps bien court. Songe que plus tu combattras, plus tu prouveras l’amour que tu portes à ton Dieu, et plus tu te réjouiras un jour avec ton Bien-Aimé, dans un bonheur et un ravissement qui ne pourront jamais finir (Ste. Thérèse de Jésus, excl. 15, 3).
+>Vous serez haïs de tous à cause de mon nom. Mais celui qui tiendra jusqu’à la fin, celui-là sera sauvé.
+
+>Espère, ô mon âme, espère. Tu ignores le jour et l’heure. Veille soigneusement, tout passe avec rapidité, quoique ton impatience rende douteux ce qui est certain, et long un temps bien court. Songe que plus tu combattras, plus tu prouveras l’amour que tu portes à ton Dieu, et plus tu te réjouiras un jour avec ton Bien-Aimé, dans un bonheur et un ravissement qui ne pourront jamais finir.
 
 L'espérance permet la paix et la maitrise de soi et est ainsi très liée à la prudence, la tempérance et la force.
 
