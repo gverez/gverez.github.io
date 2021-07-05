@@ -28,7 +28,10 @@ title: Jean Chrysostome
 
 7 stigmatisent l'égoïsme et la cruauté du mauvais riche 
 7-8 luxe et son gaspillage
+10 les pauvres sont responsables de leur pauvreté (paresse, insouciance) 
 11 Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement
+11 les riches sont heureux ici-bas, les pauvres seront heureux là-haut, ce qui fait un partout 
+12 accusent le mauvais riche (celui qui ne partage pas) d'être un voleur
 
 [[Retour à Charité/Argent](/pages/charite.html#argent)]
 
@@ -40,6 +43,10 @@ title: Jean Chrysostome
 
 2 arrogance
 3 Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement
+4 L'aumône, reine des vertus
+6.9.10 Une catégorie de pauvres est particulièrement pitoyable : il s'agit des mendiants lépreux, abandonnés de tous, exclus des cités, alors qu'ils sont nos frères 
+
+passim tous les hommes sont égaux devant le créateur
 
 [[Retour à Charité/Argent](/pages/charite.html#argent)]
 
@@ -59,8 +66,10 @@ title: Jean Chrysostome
 ## Homélie 34 sur 1 Corinthiens <a name="homelie-34"></a>
 *Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Christian Bouchet*
 
+4 l'interdit des mariages consanguin, selon lui, permet d'allier des familles à d'autres familles, d'ouvrir les solidarités vers l'extérieur en élargissant la parenté, et de découvrir l'enrichissement que procure l'altérité
 4 Les pauvres sont nécessaires aux riches car ils sont pour eux le moyen d'être sauvés par le partage
 5 les riches ne peuvent vivre sans le travail des pauvres
+6 la prodigalité de certains peut être à l'origine de leur pauvreté
 6-7 Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien 
 
 [[Retour à Charité/Argent](/pages/charite.html#argent)]
