@@ -136,10 +136,13 @@ La sophrosynè (en grec ancien σωφροσύνη / sophrosúnê), est ce qui pe
 
 >**andreia** : Etat d’une âme qui ne se laisse pas ébranler par la crainte ; hardiesse au combat ; science des choses relatives à la guerre ; fermeté de l’âme face à ce qui est effrayant et terrible ; audace au service de la tempérance ; intrépidité dans l’attente de la mort ; état d’une âme qui garde sa capacité de juger correctement dans les périls ; force qui fait contrepoids au péril ; force de persévérer dans la vertu ; calme de l’âme en présence de ce qui, suivant la droite raison, paraît devoir déclencher la terreur ou confiance ; capacité de ne pas se laisser aller à la lâcheté sous l’effet de la terreur que fait naître l’épreuve de la guerre ; état de fidélité constante à la loi. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
-Le courage ou la force est la vertu morale qui assure dans les difficultés la fermeté et la constance dans la poursuite du bien. Elle affermit la résolution de résister aux tentations et de surmonter les obstacles dans la vie morale. La vertu de force rend capable de vaincre la peur, même de la mort, d’affronter l’épreuve et les persécutions. Elle dispose à aller jusqu’au renoncement et au sacrifice de sa vie pour défendre une juste cause [[Catéchisme, 1808](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)].
-
-[Psaumes 118, 14] :
+Le courage ou la force est la vertu morale qui assure dans les difficultés la fermeté et la constance dans la poursuite du bien. Elle affermit la résolution de résister aux tentations et de surmonter les obstacles dans la vie morale [Psaumes 118, 14] :
 >Ma force et mon cri de guerre, c’est Lui ! Je lui dois la victoire !
 
-[Jean 16, 33] :
+La vertu de force rend capable de vaincre la peur, même de la mort, d’affronter l’épreuve et les persécutions [Jean 16, 33] :
 >Je vous ai dit cela pour qu’en moi vous ayez la paix. En ce monde vous êtes dans la détresse, mais prenez courage, j’ai vaincu le monde !
+
+Elle dispose à aller jusqu’au renoncement et au sacrifice de sa vie pour défendre une juste cause [[Catéchisme, 1808](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)].
+
+
+
