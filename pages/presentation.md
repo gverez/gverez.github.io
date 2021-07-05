@@ -35,7 +35,7 @@ La charité a pour fruits la joie, la paix et la miséricorde [[Catéchisme, 182
 
 ## Justice <a name="justice"></a>
 
->dikaiosunê (la justice) : Accord de l’âme avec elle-même, et bon ordre entre chacune des parties de l’âme et dans leur rapport mutuel ; état qui porte à accorder à chacun selon leur mérite ; état qui porte à préférer ce qui est juste dans chaque cas ; état qui porte l’homme qui le possède à préférer ce qui lui paraît juste ; état qui amène à obéir aux lois au cours de sa vie ; égalité sociale ; état qui dispose à obéir aux lois.  (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
+>**dikaiosunê** : Accord de l’âme avec elle-même, et bon ordre entre chacune des parties de l’âme et dans leur rapport mutuel ; état qui porte à accorder à chacun selon leur mérite ; état qui porte à préférer ce qui est juste dans chaque cas ; état qui porte l’homme qui le possède à préférer ce qui lui paraît juste ; état qui amène à obéir aux lois au cours de sa vie ; égalité sociale ; état qui dispose à obéir aux lois.  (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
 La justice est vraiment la fille de la charité. Elle est la vertu morale qui consiste dans la constante et ferme volonté de donner à Dieu et au prochain ce qui leur est dû [[Catéchisme, 1807](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)]. La justice envers Dieu est appelée "vertu de religion". Envers les hommes, elle dispose à respecter les droits de chacun et à établir dans les relations humaines l’harmonie qui promeut l’équité à l’égard des personnes et du bien commun. L’homme juste, souvent évoqué dans les Livres saints, se distingue par la droiture habituelle de ses pensées et la rectitude de sa conduite envers le prochain. La justice règle la sensibilité rationnelle.
 
@@ -102,7 +102,7 @@ L'espérance permet la paix et la maitrise de soi et est ainsi très liée à la
 
 ## Prudence <a name="prudence"></a>
 
->phronêsis (la prudence) : Capacité qui de soi-même produit le bonheur de l’homme ; science des biens et des maux ; disposition qui nous rend aptes à distinguer entre ce qu’il faut faire et ce qu’il faut éviter. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
+>**phronêsis** : Capacité qui de soi-même produit le bonheur de l’homme ; science des biens et des maux ; disposition qui nous rend aptes à distinguer entre ce qu’il faut faire et ce qu’il faut éviter. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
 La prudence est la "droite règle de l’action", écrit saint Thomas (s. th. 2-2, 47, 2) après Aristote. La prudence indique donc la conduite raisonnée et règle la sensibilité téméraire. Elle est la sagesse qui dispose la raison pratique à discerner, en toutes circonstances, le véritable bien et à choisir les justes moyens de l'accomplir. Elle ne se confond ni avec la timidité ou la peur, ni avec la duplicité ou la dissimulation. Elle est dite *auriga virtutum* : elle conduit les autres vertus en leur indiquant règle et mesure. C’est la prudence qui guide immédiatement le jugement de conscience. L’homme prudent décide et ordonne sa conduite suivant ce jugement. Grâce à cette vertu, nous appliquons sans erreur les principes moraux aux cas particuliers et nous surmontons les doutes sur le bien à accomplir et le mal à éviter [[Catéchisme, 1806](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)].
 
@@ -115,25 +115,31 @@ Proverbes 14, 15 :
 
 ## Tempérance <a name="temperance"></a>
 
->sôphrosunê (la tempérance) : Modération de l’âme envers les désirs et les plaisirs conformes à la nature ; harmonie et discipline de l’âme en ce qui concerne les plaisirs et les peines conformes à la nature ; accord de l’âme pour commander et obéir; indépendance d’action conforme à la nature ; le bon ordonnancement de l’âme sous l’égide de la raison ; habitude de l’âme à distinguer entre ce qui est convenable et ce qui est déplacé ; état qui amène celui qui le possède à être attentif et prudent à l’égard de ce qu’il faut faire. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
+>**sôphrosunê** : Modération de l’âme envers les désirs et les plaisirs conformes à la nature ; harmonie et discipline de l’âme en ce qui concerne les plaisirs et les peines conformes à la nature ; accord de l’âme pour commander et obéir; indépendance d’action conforme à la nature ; le bon ordonnancement de l’âme sous l’égide de la raison ; habitude de l’âme à distinguer entre ce qui est convenable et ce qui est déplacé ; état qui amène celui qui le possède à être attentif et prudent à l’égard de ce qu’il faut faire. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
 La sophrosynè (en grec ancien σωφροσύνη / sophrosúnê), est ce qui permet toute maîtrise de soi, toute sagesse, toute modération et donc désigne la tempérance. Platon explique dans *La République* que la sophrosynè contrôle le penchant pour la concupiscence. De même, Aristote, dans l’*Éthique à Nicomaque*, explique que la fonction de la sophrosynè consiste à modérer les plaisirs sensuels en accord avec les impératifs de la juste raison. Ariston de Chios, philosophe stoïcien, a défini la sophrosynè comme la "mesure de l’âme à l’égard des désirs et des plaisirs conformes à la nature". Ainsi, en régulant la sensibilité jouissive, la tempérance assure la maîtrise de la volonté sur les instincts et maintient les désirs dans les limites de l'honnêteté, procurant ainsi l'équilibre dans l'usage des biens [[Catéchisme, 1809](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)]
 
->Ne te laisse pas entraîner par ton instinct et ta force à suivre les passions de ton coeur [Siracide 5, 2].
+[Siracide 5, 2] :
+>Ne te laisse pas entraîner par ton instinct et ta force à suivre les passions de ton coeur.
 
->Ne te laisse pas entraîner par tes désirs, et refrène tes convoitises. Si tu t’accordes la satisfaction de tes désirs, cela fera de toi la risée de tes ennemis. Ne mets pas ta joie dans une vie de plaisir, et ne t’oblige pas à en faire les frais [Siracide 18, 30-32].
+[Siracide 18, 30-32] :
+>Ne te laisse pas entraîner par tes désirs, et refrène tes convoitises. Si tu t’accordes la satisfaction de tes désirs, cela fera de toi la risée de tes ennemis. Ne mets pas ta joie dans une vie de plaisir, et ne t’oblige pas à en faire les frais.
 
->Car elle s’est manifestée, la grâce de Dieu, source de salut pour tous les hommes. Elle nous enseigne à renoncer à l’impiété et aux désirs de ce monde, pour que nous vivions dans le temps présent avec réserve, justice et piété [Tite 2, 11-12].
+[Tite 2, 11-12] :
+>Car elle s’est manifestée, la grâce de Dieu, source de salut pour tous les hommes. Elle nous enseigne à renoncer à l’impiété et aux désirs de ce monde, pour que nous vivions dans le temps présent avec réserve, justice et piété .
 
->Il n’est pas possible de trouver un péché qui soit séparé du plaisir, que ce soit les passions engendrées par la colère ou par le désir [[Grégoire de Nysse](/pages/references/gregoiredenysse.html#genese-3-1-24)].
+[[Grégoire de Nysse](/pages/references/gregoiredenysse.html#genese-3-1-24)] :
+>Il n’est pas possible de trouver un péché qui soit séparé du plaisir, que ce soit les passions engendrées par la colère ou par le désir .
 
 
 ## Force <a name="force"></a>
 
->andreia (le courage) : Etat d’une âme qui ne se laisse pas ébranler par la crainte ; hardiesse au combat ; science des choses relatives à la guerre ; fermeté de l’âme face à ce qui est effrayant et terrible ; audace au service de la tempérance ; intrépidité dans l’attente de la mort ; état d’une âme qui garde sa capacité de juger correctement dans les périls ; force qui fait contrepoids au péril ; force de persévérer dans la vertu ; calme de l’âme en présence de ce qui, suivant la droite raison, paraît devoir déclencher la terreur ou confiance ; capacité de ne pas se laisser aller à la lâcheté sous l’effet de la terreur que fait naître l’épreuve de la guerre ; état de fidélité constante à la loi. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
+>**andreia** : Etat d’une âme qui ne se laisse pas ébranler par la crainte ; hardiesse au combat ; science des choses relatives à la guerre ; fermeté de l’âme face à ce qui est effrayant et terrible ; audace au service de la tempérance ; intrépidité dans l’attente de la mort ; état d’une âme qui garde sa capacité de juger correctement dans les périls ; force qui fait contrepoids au péril ; force de persévérer dans la vertu ; calme de l’âme en présence de ce qui, suivant la droite raison, paraît devoir déclencher la terreur ou confiance ; capacité de ne pas se laisser aller à la lâcheté sous l’effet de la terreur que fait naître l’épreuve de la guerre ; état de fidélité constante à la loi. (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).
 
-La force est la vertu morale qui assure dans les difficultés la fermeté et la constance dans la poursuite du bien. Elle affermit la résolution de résister aux tentations et de surmonter les obstacles dans la vie morale. La vertu de force rend capable de vaincre la peur, même de la mort, d’affronter l’épreuve et les persécutions. Elle dispose à aller jusqu’au renoncement et au sacrifice de sa vie pour défendre une juste cause [[Catéchisme, 1808](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)].
+Le courage ou la force est la vertu morale qui assure dans les difficultés la fermeté et la constance dans la poursuite du bien. Elle affermit la résolution de résister aux tentations et de surmonter les obstacles dans la vie morale. La vertu de force rend capable de vaincre la peur, même de la mort, d’affronter l’épreuve et les persécutions. Elle dispose à aller jusqu’au renoncement et au sacrifice de sa vie pour défendre une juste cause [[Catéchisme, 1808](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)].
 
->Ma force et mon cri de guerre, c’est Lui ! Je lui dois la victoire ! [Psaumes 118, 14].
+[Psaumes 118, 14] :
+>Ma force et mon cri de guerre, c’est Lui ! Je lui dois la victoire !
 
->Je vous ai dit cela pour qu’en moi vous ayez la paix. En ce monde vous êtes dans la détresse, mais prenez courage, j’ai vaincu le monde ! [Jean 16, 33].
+[Jean 16, 33] :
+>Je vous ai dit cela pour qu’en moi vous ayez la paix. En ce monde vous êtes dans la détresse, mais prenez courage, j’ai vaincu le monde !
