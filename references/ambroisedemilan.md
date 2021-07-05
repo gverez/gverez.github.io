@@ -63,3 +63,29 @@ Ambroise veut déjà introduire le thème de la création simultanée en Dieu de
 >Voici la femme qui est la mère de tous, voici la maison spirituelle, voici la cité qui vit éternellement, car elle ne sait pas mourir. C’est celle-ci, en effet, qui est la cité de Jérusalem, qui apparaît maintenant sur la terre, mais qui est ravie au-dessus d’Elie. Elie, en effet, fut unique: il a été élevé au-dessus d’Enoch, dont la mort n’est pas attestée, en effet, il fut ravi [au ciel], afin que la malice ne puisse altérer son cœur (Sagesse 4, 11). Elle [l’Eglise, Jérusalem céleste], elle est aimée par le Christ comme une épouse glorieuse, sainte, immaculée, sans ride (Éphésiens 5, 27). Combien mieux que tout le corps soit pris [au ciel], plutôt qu’un seul fut pris? Celle-ci est l’espérance de l’Eglise: qu’elle soit ravie, certainement, prise et transférée au ciel. Voici qu’Elie fut ravi [au ciel] avec un char de feu, l’Eglise aussi sera ravie. Tu ne me crois pas? Crois, alors, [l’apôtre] Paul, dans lequel c’est le Christ qui parle (1 Thessaloniciens 4, 16): « nous serons ravis dans les nuées à la rencontre du Christ dans les airs, ainsi nous serons toujours avec le Seigneur. »
 >
 >En vérité, pour bâtir celle-ci [l’Eglise] beaucoup sont envoyés, les patriarches sont envoyés, les prophètes sont envoyés, l’archange Gabriel est envoyé, d’innombrables anges sont dirigés [à cette tâche] et la multitude de l’armée céleste loue Dieu puisque l’édification de cette cité approche. Beaucoup sont envoyés vers elle, mais le Christ seul la bâtit, mais en vérité il n’est pas seul car le Père est présent. Et s’il est seul à édifier, il n’est pas seul à s’approprier le mérite d’une telle construction. Il est écrit au sujet du temple qu’édifia Salomon et qui fut une image qui représente symboliquement l’Eglise [typus Ecclesiae], que ceux qui le portèrent sur les épaules étaient soixante-dix mille et quatre-vingt mille ceux qui en coupèrent les pierres et trois mille six cent les chefs d’ouvrage. Que viennent ces anges, que viennent les coupeurs de pierres, qu’ils coupent ce qui est le superflu de nos pierres, qu’ils polissent les aspérités. Qu’ils viennent ceux qui portent sur leurs épaules, ils est écrit, en effet: « Ils seront portés sur les épaules (Isaïe 49, 23).
+
+
+## La vigne de Naboth <a name="naboth"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : bénédictines de La Rochette*
+
+1 "Chaque jour Naboth est exécuté, chaque jour le pauvre est mis à mort" dit Ambroise qui évoque en particulier l'émigration forcée, l'exil dû à la misère
+2 souligne l'égalité de tous à l'origine
+2-3 insiste sur le caractère anti-naturel des inégalités économiques : "La terre a été établie pour l'usage commun de tous ... la nature nous met au jour nus et nous mourrons nus" 
+4 la richesse est insatiable
+4.8 le riche doit reconnaître qu'il est lui aussi un pauvre
+11 "Le monde a été créé pour tous et un petit nombre de riches accapare tout" 
+20 "Combien sont sacrifiés pour vous procurer ce qui vous réjouit ?"
+21 Les pauvres sont parfois contraints de vendre leurs enfants pour survivre
+27-32 le riche n'est jamais satisfait, toujours il lui manque quelque chose
+40 c'est Dieu qui crée les inégalités, les pauvres le sont parce qu'ils sont maudits
+62 le riche devient esclave de sa richesse
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+
+
+
+
+

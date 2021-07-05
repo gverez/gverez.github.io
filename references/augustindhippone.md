@@ -218,3 +218,50 @@ Augustin introduit ici le verbe foveo réchauffer en utilisant son nom d’actio
 >Je voudrais que les hommes considérassent attentivement en eux-mêmes ces trois choses, l’être, le connaître, et le vouloir. Je sais bien qu’elles sont très éloignées et très différentes de la sainte Trinité : mais je les propose seulement afin qu’ils s’exercent à les méditer, et qu’ils découvrent et reconnaissent la distance infinie de cette imparfaite copie avec son divin original. Qu’ils considèrent donc en eux l’être, le connaître, et le vouloir. Car je suis, je connais, et je veux. Je suis ce qui connaît et ce qui veut : je connais que je suis et que je veux ; et je veux être et connaître.
 >
 >Je voudrais qu’ils considérassent comme notre âme est inséparable de ces trois choses, et comme elles ne font toutes trois ensemble qu’une même âme, une même vie, et une même nature intelligente et raisonnable ; que cependant il ne laisse pas d’y avoir entre elles de la distinction, quoique cette distinction ne fasse pas qu’elles puissent jamais être séparées.
+
+
+
+
+
+## Sermon 14 : Riches et pauvres <a name="sermon-14"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Elise Gillon*
+
+5 ce qui compte, ce n'est pas l'état matériel mais l'humilité intérieure 
+9 le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre"
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+
+## Sermon 36 : Deux sortes de richesses <a name="sermon-36"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Elise Gillon*
+
+3 le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre"
+3-4.7-8.10 pauvreté et richesse ne renvoient pas principalement à des catégories sociales, mais à des dispositions du coeur
+5 ce n'est pas la richesse qui est mauvaise, mais l'attachement à la richesse 
+6.9 Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien 
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+
+## Sermon 41 : Fidélité dans la pauvreté <a name="sermon-41"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Elise Gillon*
+
+6 Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien 
+7 le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre"
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
+
+
+
+
+## Sermon 123 : Humilité du Christ <a name="sermon-123"></a>
+*Riches et pauvres dans l'Eglise ancienne, J.P. Migne, 2011. Traduction : Elise Gillon*
+
+passim le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre"
+5 prêter sans intérêt ou donner aux pauvres, c'est avoir Dieu lui-même pour débiteur 
+
+[[Retour à Charité/Argent](/pages/charite.html#argent)]
