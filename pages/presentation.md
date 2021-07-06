@@ -91,8 +91,10 @@ L'espérance permet la paix et la maitrise de soi et est ainsi très liée à la
 	1. [Origines du péché](/pages/esperance.html#peche-originel)
 	1. [Adam-Jésus et Eve-Eglise](/pages/esperance.html#adam-jesus)
 1. [Prière](/pages/esperance.html#priere)
+	1. [Définition et fonctionnement](/pages/esperance.html#priere-definition)
 	1. [Hésychasme](/pages/esperance.html#hesychasme)
 	1. [Dans les autres religions](/pages/esperance.html#priere-autrereligions)
+1. [Moyens d'élévation spirituelle](/pages/esperance.html#elevation-spirituelle)
 
 
 ## Prudence <a name="prudence"></a>

@@ -14,9 +14,10 @@ title: Espérance
 	1. [Origines du péché](#peche-originel)
 	1. [Adam-Jésus et Eve-Eglise](#adam-jesus)
 1. [Prière](#priere)
+	1. [Définition et fonctionnement](#priere-definition)
 	1. [Hésychasme](#hesychasme)
 	1. [Dans les autres religions](#priere-autrereligions)
-
+1. [Moyens d'élévation spirituelle](#elevation-spirituelle)
 
 ## Au Jardin d'Eden <a name="jardin-eden"></a>
 
@@ -42,7 +43,7 @@ La partie de la Genèse au Jardin d'Eden peut être vue de façon allégorique. 
 
 <img src="/images/priere.png">
 
-### Définition et fonctionnement
+### Définition et fonctionnement <a name="priere-definition"></a>
 
 La prière est un acte codifié ou non, collectif ou individuel, par lequel on s'adresse à Dieu ou à un être désigné comme médiateur de Dieu. C'est la source de notre dépassement [[Bonaventure de Bagnoregio](/references/bonaventuredebagnoregio.html#itineraire)] :
 
@@ -254,9 +255,9 @@ voir Gouillard dès p.21, Borella, Schuon, Chenique, Harvey
 Frithjof Schuon
 >Rappelons également le début de la première Epître aux Corinthiens, adressés « à tous ceux qui invoquent, en quelque lieu que ce soit, le Nom de Notre-Seigneur Jésus-Christ », et aussi, dans la première Epître aux Thessaloniciens, l’injonction de « prier sans arrêt », que saint Jean Damascène commente en ces termes : « Il faut apprendre à invoquer le Nom de Dieu plus qu’on ne respire, à tout moment, en tout lieu et pendant tout occupation. L’Apôtre dit : Priez sans arrêt ; c’est-à-dire, il enseigne qu’on doit se souvenir de Dieu à tout moment, en tout lieu et pendant toute occupation. » Dans ce commentaire de saint Jean Damascène, les mots « invoquer » et « se souvenir » apparaissent pour décrire ou illustrer une même idée ; or on sait que le mot arabe *dhikr* signifie à la fois « invocation » et « souvenir » ; dans le Bouddhisme également, « penser au Buddha » et « invoquer » le Buddha s’exprime par un seul mot (*buddhânusmriti* ; le *nienfo* chinois et le *nembutsu* japonais). D’autre part, il est digne d’être noté que les Hésychastes et les Derviches désignent l’invocation par le même mot : les Hésychastes appellent « travail » la récitation de la « prière de Jésus », tandis que les Derviches appellent « occupation » ou « affaire » (*shughl*) toute invocation. Ce n’est donc pas sans raison que les Hésychastes considèrent l’invocation du Nom de Jésus comme léguée par celui-ci aux Apôtres.
 
-## Moyens d'élévation spirituelle
+## Moyens d'élévation spirituelle <a name="elevation-spirituelle"></a>
 
-** ajouter image Jacob**
+<img src="/images/songe_jacob.png">
 
 Genèse 28:11-19
 
