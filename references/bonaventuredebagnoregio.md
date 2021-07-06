@@ -13,7 +13,7 @@ title: Bonaventure de Bagnoregio
 **v.1217-1274**, théologien, archevêque, cardinal, Docteur de l'Église, ministre général des Franciscains.
 
 
-## Itinéraire de l’esprit vers Dieu <a name="bonaventuredebagnoregio-itineraire"></a>
+## Itinéraire de l’esprit vers Dieu <a name="itineraire"></a>
 *Librairie Philosophique J. Vrin, 1978*
 
 ### 1. Sensibilité (sensualitas). La méditation sur le monde sensible
