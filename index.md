@@ -123,9 +123,9 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 
 Déjà intégrés, à lire par rapport à la prière :
 
-Macaire de Sceté
+OK Macaire de Sceté
 
-Syméon le Nouveau Théologien
+OK Syméon le Nouveau Théologien
 
 evagrelepontique
 
