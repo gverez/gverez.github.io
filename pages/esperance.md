@@ -86,7 +86,8 @@ La technique respiratoire n'est d'ailleurs pas indispensable. [Nicéphore le Sol
 
 Tout un ensemble de dispositions précèdent et enveloppent l'usage de la méthode :
 - L’**humilité** est le fondement de la prière [[Cathéchisme 2559](https://www.vatican.va/archive/FRA0013/__P8U.HTM)]. Elle en est la disposition pour recevoir gratuitement le don de la prière [Romains 8, 26] :
-	>L’Esprit aussi vient en aide à notre faiblesse, car nous ne savons pas prier comme il faut, mais l’Esprit lui-même intercède pour nous en gémissements inexprimables
+
+	>L’Esprit aussi vient en aide à notre faiblesse, car nous ne savons pas prier comme il faut, mais l’Esprit lui-même intercède pour nous en gémissements inexprimables.
 
 	Dans la philocalie [[Evagre le Pontique](/references/evagrelepontique.html#philocalie)] :
 	>Ne prie pas pour que tes volontés s’accomplissent : elles ne concordent pas nécessairement avec la volonté de Dieu.
@@ -95,24 +96,22 @@ Tout un ensemble de dispositions précèdent et enveloppent l'usage de la métho
 	>Dites seulement : "Seigneur, ne me donnez que ce que vous voulez ; faites, Seigneur, ce que vous voulez et de la manière qui vous plait !"
 
 - La **sobriété** est également requise. Dans la philocalie [[Pseudo-Syméon](/references/symeonlenouveautheologien.html#philocalie)] :
+
 	>La sobriété et la prière sont unies comme l’âme et le corps : l’un ne subsiste pas sans l’autre. Elles se combinent d’une double manière. D’abord la sobriété résiste au péché à la manière d’un éclaireur et d’une avant-garde ; puis vient la prière, qui extermine et anéantir incontinent les mauvaises pensées enchaînées par la surveillance, car l’attention n’en serait pas capable toute seule. La voilà la porte de la vie et de la mort, je veux dire l’attention et la prière : purifions la prière, par la sobriété nous nous améliorons ; la diminuons-nous et la souillons-nous par notre négligence, nous ne valons plus rien.
 	
-	[Hésychius le Sinaïte] :
+	[[Hésychios Hiéros](/references/hesychioshieros.html#philocalie)] :
 	>De combien de manières, à mon avis, la sobriété purifie l’esprit des pensées passionnées, je vais vous l’indiquer tout de suite… Une première forme de sobriété consiste à surveiller étroitement l’imagination et la suggestion, car Satan est incapable, sans l’imagination, de former des pensées pour les présenter à notre esprit et l’abuser par son mensonge. Une deuxième forme consiste à garder toujours son coeur dans un silence et une trêve profonde de toute chose et à prier. Une troisième consiste à appeler sans cesse Jésus au secours avec humilité. Une autre à garder sans interruption dans son âme le souvenir de la mort.
 
+Les Pères émettent également des mises en garde :
+- Les **habitudes** peuvent être néfaste à la prière si elles la conditionnent, et si elles attachent aux sensibilités. Dans la philocalie [[Pseudo-Macaire](/references/macairedescete.html#philocalie)] : 
 
+	>La prière ne doit commencer par aucune convention ni habitude.
 
-Les Pères émettent des mises en garde
+	[[Evagre le Pontique](/references/evagrelepontique.html#philocalie)] :
+	>Efforce-toi de prier non par habitude, mais avec sentiment.
 
-
-**HABITUDES**
-La prière ne doit commencer par aucune convention ni habitude [[Pseudo-Macaire](/references/macairedescete.html#philocalie)]
-
-Efforce-toi de prier non par habitude, mais avec sentiment [[Evagre le Pontique](/references/evagrelepontique.html#philocalie)]
-
-
-[[Nicétas Stéthatos](/references/nicetasstethatos.html#philocalie)]
-Il n’est pas de lieu ni de temps fixé pour célébrer le mystère de la prière. Si vous fixez à la prière des heures, des moments, des lieux, le temps qui reste sera perdu dans les occupations de la vanité.
+	[[Nicétas Stéthatos](/references/nicetasstethatos.html#philocalie)] :
+	>Il n’est pas de lieu ni de temps fixé pour célébrer le mystère de la prière. Si vous fixez à la prière des heures, des moments, des lieux, le temps qui reste sera perdu dans les occupations de la vanité.
 
 
 **REPRESENTATIONS / VISIONS / SUGGESTION **
