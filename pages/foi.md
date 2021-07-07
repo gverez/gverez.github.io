@@ -162,31 +162,29 @@ Guillemin affirme qu’il y a une réalité anthropologique dans le fait qu’au
 
 En partant du nihilisme, il a été possible d’entrevoir une possibilité dans le néant. Il s’agit de la possibilité que quelque chose existe et dépasse notre compréhension, et que ce quelque chose nous renvoie la notion de vérité. A cette idée, nous pouvons associer celle de cohérence, et donc d’ordre, et aussi un caractère d’intention. C’est ce que le chapitre précédent suggère du point de vue de certains philosophes, mais c’est aussi ce que peut laisser suggérer certains théoriciens de la physique moderne, notamment par la mécanique quantique.
 
-La révolution de la physique qui nous a amenés à une image quantique du monde était si radicale qu’elle ne force pas seulement à repenser la physique, mais aussi la métaphysique. La physique quantique peut impliquer que le monde est fondamentalement indéterministe, qu’il est fondamentalement indéterminé, que les causes ne sont pas toujours locales à leurs effets, qu’il peut y avoir bien plus que trois dimensions spatiales, que les ensembles ne sont pas simplement des sommes de leurs parties, que notre Univers n’est qu’un parmi tant d’autres, etc. La mécanique quantique est métaphysiquement révisionniste même si la forme que devraient prendre les révisions n’est pas claire. La raison pour laquelle il est si difficile de dire quelles sont les implications de la mécanique quantique pour la métaphysique est que les physiciens et les philosophes ont développé une variété de théories alternatives qui tentent toutes d’expliquer pourquoi les expériences quantiques se déroulent comme elles le font. Ces théories ne sont pas d’accord sur ce qui existe et sur les règles qui gouvernent les phénomènes.
+La révolution de la physique qui nous a amenés à une image quantique du monde était si radicale qu’elle ne force pas seulement à repenser la physique, mais aussi la métaphysique. La physique quantique peut impliquer que le monde est fondamentalement indéterministe, qu’il est fondamentalement indéterminé, que les causes ne sont pas toujours locales à leurs effets, qu’il peut y avoir bien plus que trois dimensions spatiales, que les ensembles ne sont pas simplement des sommes de leurs parties, que notre Univers n’est qu’un parmi tant d’autres, etc. La mécanique quantique est métaphysiquement révisionniste même si la forme que devraient prendre les révisions n’est pas claire. La raison pour laquelle il est si difficile de dire quelles sont les implications de la mécanique quantique pour la métaphysique est que les physiciens et les philosophes ont développé une variété de théories alternatives qui tentent toutes d’expliquer pourquoi les expériences quantiques se déroulent comme elles le font. Ces théories ne sont pas d’accord sur ce qui existe et sur les règles qui gouvernent les phénomènes [David Mermin (1935-, physicien américain), *Quantum mechanics: fixing the shifty split* (2012)] :
 
-David Mermin (1935-, physicien américain)
-   Quantum mechanics: fixing the shifty split (2012)
-La théorie quantique est la théorie la plus utile et la plus puissante que les physiciens n’aient jamais conçue. Pourtant, aujourd’hui, près de 90 ans après sa formulation, le désaccord sur le sens de la théorie est plus fort que jamais. De nouvelles interprétations apparaissent chaque jour. Aucune ne disparaît.
+>La théorie quantique est la théorie la plus utile et la plus puissante que les physiciens n’aient jamais conçue. Pourtant, aujourd’hui, près de 90 ans après sa formulation, le désaccord sur le sens de la théorie est plus fort que jamais. De nouvelles interprétations apparaissent chaque jour. Aucune ne disparaît.
 
 Les interprétations sont essentiellement de deux types :
-    • Celles qui considèrent les probabilités quantiques des résultats de mesure comme déterminées par des propriétés intrinsèques, portée notamment par les célèbres physiciens :
-    •  Louis de Broglie (1892-1987), français, Prix Nobel 1929
-    •  Wolfgang Pauli (1900-1958), autrichien, Prix Nobel 1945
-    •  Erwin Schrödinger (1887-1961), autrichien, Prix Nobel 1933
-    •  Albert Einstein (1879-1955), allemand, Prix Nobel 1921
-    •  Max Planck (1858-1947), allemand, Prix Nobel 1918
-    •  David Bohm (1917-1992), américain
-    •  Hugh Everett (1930-1982), américain
-    •  John Bell (1928-1990), nord-irlandais
-    • Celles qui ne nient pas l’existence d’un monde objectif mais, selon elles, la théorie quantique ne traite pas directement des propriétés intrinsèques du système observé, mais de l’expérience qu’un observateur a du système observé. Peuvent-être considérés comme y adhérant les célèbres physiciens :
-    •  Niels Bohr (1885-1962), danois, Prix Nobel 1922
-    •  Werner Heisenberg (1901-1976), allemand, Prix Nobel 1932
-    •  Max Born (1882-1970), allemand, Prix Nobel 1954
-    •  Eugene Wigner (1902-1995), hongrois, Prix Nobel 1963
-    •  Richard Feynman (1918-1988), américain, Prix Nobel 1965
-    •  Paul Dirac (1902-1984), britannique, Prix Nobel 1933
-    •  Pascual Jordan (1902-1980), allemand
-    •  John Wheeler (1911-2008), américain
+- Celles qui considèrent les probabilités quantiques des résultats de mesure comme déterminées par des propriétés intrinsèques, portée notamment par les célèbres physiciens :
+	- Louis de Broglie (1892-1987), français, Prix Nobel 1929
+	- Wolfgang Pauli (1900-1958), autrichien, Prix Nobel 1945
+	- Erwin Schrödinger (1887-1961), autrichien, Prix Nobel 1933
+	- Albert Einstein (1879-1955), allemand, Prix Nobel 1921
+	- Max Planck (1858-1947), allemand, Prix Nobel 1918
+	- David Bohm (1917-1992), américain
+	- Hugh Everett (1930-1982), américain
+	- John Bell (1928-1990), nord-irlandais
+- Celles qui ne nient pas l’existence d’un monde objectif mais, selon elles, la théorie quantique ne traite pas directement des propriétés intrinsèques du système observé, mais de l’expérience qu’un observateur a du système observé. Peuvent-être considérés comme y adhérant les célèbres physiciens :
+	- Niels Bohr (1885-1962), danois, Prix Nobel 1922
+	- Werner Heisenberg (1901-1976), allemand, Prix Nobel 1932
+	- Max Born (1882-1970), allemand, Prix Nobel 1954
+	- Eugene Wigner (1902-1995), hongrois, Prix Nobel 1963
+	- Richard Feynman (1918-1988), américain, Prix Nobel 1965
+	- Paul Dirac (1902-1984), britannique, Prix Nobel 1933
+	- Pascual Jordan (1902-1980), allemand
+	- John Wheeler (1911-2008), américain
 
 Le lecteur doit être averti, il existe un véritable « mysticisme quantique ». En effet, les nombreuses interprétations des diverses théories de la mécanique quantique sont parfois reprises dans une tendance New Age visant à établir un ensemble de croyances métaphysiques venant soutenir le plus souvent une vision panthéiste de l’Univers (l’intégralité de l’Univers vue comme un Dieu immanent). Il convient dans le domaine scientifique de s’en tenir aux seuls faits démontrés ou démontrables mais le manque de connaissance avoué des théoriciens laisse la porte ouverte à d’autres interprétations pseudo-scientifiques, émises par des auteurs peu scrupuleux. Notamment, il suffisait que la notion d’observateur soit suggérée pour influer sur le résultat d’une expérience, par exemple dans l’expérience de pensée du chat par Schrödinger, pour que l’on prête à la notion de conscience de grandes responsabilités. En 1961, Wigner a suggéré qu’un observateur conscient joue un rôle fondamental dans la mécanique quantique. Son article servira d’inspiration pour les œuvres mystiques ultérieures d’autres auteurs, alors que les idées de Wigner étaient avant tout philosophiques et ne se voulaient pas empruntent de mysticisme. Un exemple d’un tel abus est la « théorie quantique » du conférencier New Age Deepak Chopra (1946-, indo-américain) qui affirme, en utilisant les interprétations des physiciens, que le vieillissement est causé par l’esprit. Pour ce détournement, Chopra a reçu l’Ig Nobel (parodie du prix Nobel) dans la catégorie physique pour « son interprétation unique de la physique quantique telle qu’elle s’applique à la vie, à la liberté et à la poursuite du bonheur économique ». Cependant, certains physiciens avaient également des opinions controversées et mal perçues. Il convient de noter que Schrödinger avait un intérêt tout au long de sa vie pour la philosophie Vedanta de l’hindouisme, ce qui a influencé ses spéculations sur la possibilité que la conscience individuelle ne soit qu’une manifestation d’une conscience unitaire imprégnant l’Univers. 
 
