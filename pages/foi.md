@@ -10,15 +10,21 @@ title: Foi
 
 **Table des matières**
 
+1. [Cheminement de la raison dans la foi](#cheminement)
+	1. [Incertitude](#incertitude)
+	1. [Possibilité](#possibilite)
+	1. [Connaissance scientifique](#connaissance-scientifique)
+	1. [Connaissance et attributs de Dieu](#connaissance-dieu)
 1. [Au commencement](#bereshit)
 	1. [Dieu, l'amour paternel](#dieu-pere)
 	1. [Le Verbe, la relation filiale et la vie](#verbe-fils)
 	1. [L'Esprit, l'amour maternel](#esprit-mere)
 
+## 1. Cheminement de la raison dans la foi <a name="cheminement"></a>
 
-## 1. La recherche du bonheur par la Vérité
+<img src="/images/cheminement_foi.png">
 
-### 1.1 Incertitude
+### 1.1 Incertitude <a name="incertitude"></a>
 
 Selon une définition encyclopédique, le bonheur peut se définir comme un état agréable, équilibré et durable (à la différence du plaisir généralement considéré limité et ponctuel) dans lequel un individu ressent plénitude et sérénité. Cet état est un état de conscience, un ressenti, et sa recherche, puisqu’il ne semble pas inné, suppose l’analyse de nos désirs et de nos considérations sur le bien. Cette quête subjective du bonheur peut-être intimement liée à une quête de certitudes, de ce que nous pouvons être sûrs de savoir. C’est en tout cas la pensée de certains philosophes antiques, dont le grec Pyrrhon d’Elis (IVe-IIIe AEC), fondateur du scepticisme [Victor Brochard (1848-1907, philosophe français), *Les Sceptiques grecs* (1887)] :
 
@@ -52,7 +58,7 @@ C’est vers un nihilisme constructif qu’emmène alors Nietzsche. Le nihilisme
 	
 Ainsi, si le nihilisme est une conséquence logique dans la recherche du bonheur par le fait de l’incertitude de nos connaissances, les deux approches présentées, antique comme moderne, morale ou amorale, ataraxique ou pleine de vitalité, présentent une ouverture, une possibilité dans le néant. Le nihilisme, même s’il s’installe légitimement par la raison appliquée aux sens, peut être dépassé. Son absence de sens donnant sens à la vie.
 
-### 1.2 Possibilité
+### 1.2 Possibilité <a name="possibilite"></a>
 
 En poursuivant cette recherche de vérité, il est nécessaire de cerner les limites qui s’imposent à nous dans le champ de la connaissance. Pour Epicure, toute connaissance provient de la sensation causée par les simulacres qui sont produits par les corps extérieurs. Ses connaissances sont donc empiriques. Blaise Pascal était fortement opposé au rationalisme de René Descartes (1596-1650, philosophe et physicien français) et affirmait que l’empirisme philosophique était également insuffisant pour déterminer des vérités majeures. Pascal parle de connaissance du cœur, instinctive et intuitive. Toutefois, il ne remet pas en cause l’accès à la vérité par la raison, à la différence des auteurs nihilistes précédant.
 
@@ -190,7 +196,9 @@ Vous connaissez la vieille objection de Feuerbach15, reprise par Marx16, qui dit
 
 
 
-​ Connaissance scientifique
+​### 1.3 Connaissance scientifique <a name="connaissance-scientifique"></a>
+
+
 En partant du nihilisme, il a été possible d’entrevoir une possibilité dans le néant. Il s’agit de la possibilité que quelque chose existe et dépasse notre compréhension, et que ce quelque chose nous renvoie la notion de vérité. A cette idée, nous pouvons associer celle de cohérence, et donc d’ordre, et aussi un caractère d’intention. C’est ce que le chapitre précédent suggère du point de vue de certains philosophes, mais c’est aussi ce que peut laisser suggérer certains théoriciens de la physique moderne, notamment par la mécanique quantique.
 La révolution de la physique qui nous a amenés à une image quantique du monde était si radicale qu’elle ne force pas seulement à repenser la physique, mais aussi la métaphysique. La physique quantique peut impliquer que le monde est fondamentalement indéterministe, qu’il est fondamentalement indéterminé, que les causes ne sont pas toujours locales à leurs effets, qu’il peut y avoir bien plus que trois dimensions spatiales, que les ensembles ne sont pas simplement des sommes de leurs parties, que notre Univers n’est qu’un parmi tant d’autres, etc. La mécanique quantique est métaphysiquement révisionniste même si la forme que devraient prendre les révisions n’est pas claire. La raison pour laquelle il est si difficile de dire quelles sont les implications de la mécanique quantique pour la métaphysique est que les physiciens et les philosophes ont développé une variété de théories alternatives qui tentent toutes d’expliquer pourquoi les expériences quantiques se déroulent comme elles le font. Ces théories ne sont pas d’accord sur ce qui existe et sur les règles qui gouvernent les phénomènes.
 
@@ -469,7 +477,9 @@ Chalmers s’est opposé à la conscience quantique. Il a plutôt discuté de la
 Basil Hiley (1935-, physicien anglais)
    Process and the implicate order (2005)
 On pourrait ensuite postuler qu’une sorte d’intentionnalité primitive est une propriété fondamentale de l’Univers, peut-être aussi fondamentale que les propriétés physiques plus habituelles telles que la masse, la charge et le spin (Fodor), une chose similaire a été proposé sur l’information par Chalmers.
-Existence, connaissance et attributs de Dieu
+
+### 1.4 Existence, connaissance et attributs de Dieu <a name="connaissance-dieu"></a>
+
 Un principe d’ordonnancement, des phénomènes non-locaux, une seule force fondamentale à la base de toutes les interactions, une seule « substance primordiale », une « création » de l’Univers, … Ces théories (du grec « contempler, observer, examiner »), pas toutes confirmées mais pour autant sérieusement étudiées, sont, malgré l’envie pour beaucoup d’une science dissociée de la religion, très liées à la notion de Dieu.
 
 Arthur Fine (1937-, philosophe américain des sciences)
