@@ -8,8 +8,6 @@ title: Foi
 
 # La foi <a name="foi"></a>
 
-**Table des matières**
-
 1. [Cheminement de la raison dans la foi](#cheminement)
 	1. [Incertitude](#incertitude)
 	1. [Possibilité](#possibilite)
