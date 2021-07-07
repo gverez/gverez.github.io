@@ -211,9 +211,14 @@ Les Pères émettent également des mises en garde :
 
 	>Quand tu t’attaches à la psalmodie solitaire, dis le Trisagion ["Saint Dieu, Saint Fort, Saint Immortel, aie pitié de nous"] la prière du Seigneur, l’esprit attentif au cœur. Si l’acédie te presse, dis encore deux ou trois psaumes, les tropaires pénitentiels, sans les chanter… Comme le conseille saint Basile, "il faut varier chaque jour les psaumes pour stimuler la résolution, pour que l’esprit ne se dégoûte pas de toujours répéter les mêmes psaumes et lui donner une certaine liberté, et sa résolution ne s’en trouvera que mieux".
 
-- La **sécheresse** est une autre difficulté, spécialement pour ceux qui veulent sincèrement prier. Elle fait partie de l’oraison où le coeur est sevré, sans goût pour les pensées, souvenirs et sentiments, même spirituels. C’est le moment de la foi pure qui se tient fidèlement avec Jésus dans l’agonie et au tombeau. "Le grain de blé, s’il meurt, porte beaucoup de fruit" (Jn 12, 24). Si la sécheresse est due au manque de racine, parce que la Parole est tombée sur du roc, le combat relève de la conversion (cf. Lc 8, 6. 13) [[Cathéchisme 2731](https://www.vatican.va/archive/FRA0013/__P9L.HTM)].
+- La **sécheresse** est une autre difficulté, spécialement pour ceux qui veulent sincèrement prier. Elle fait partie de l’oraison où le coeur est sevré, sans goût pour les pensées, souvenirs et sentiments, même spirituels. C’est le moment de la foi pure qui se tient fidèlement avec Jésus dans l’agonie et au tombeau. "Le grain de blé, s’il meurt, porte beaucoup de fruit" (Jn 12, 24). Si la sécheresse est due au manque de racine, parce que la Parole est tombée sur du roc, le combat relève de la conversion (cf. Lc 8, 6. 13) [[Cathéchisme 2731](https://www.vatican.va/archive/FRA0013/__P9L.HTM)]. Hors de la philocalie [[Thérèse d’Avila](/references/theresedavila.html#lechemindelaperfection)] :
 
+	>C’est en l’absence de la personne divine, ou lorsqu’elle veut nous faire ressentir son absence par une grande sécheresse ; nous trouvons alors beaucoup de douceur à voir l’image de celui que nous avons tant de raisons d’aimer. Partout où je tourne les yeux, je voudrais la voir.
 
+	[[Jean de la Croix](/references/jeandelacroix.html#monteeducarmel)] :
+	>Je trouve qu’il y a trois sortes de lieux par le moyen desquels Dieu a coutume de porter la volonté à la dévotion. [...] Si on recherche un attrait naturel ou le plaisir des sens, on ne trouvera que sécheresse et distraction pour l’esprit, car la satisfaction et la joie de l’esprit ne se trouvent que dans le recueillement intérieur.[...]
+	>
+	>Les signes que l’homme adonné à la spiritualité doit découvrir en soi pour abandonner la méditation discursive sont au nombre de trois. *Premier signe*. L’âme découvre qu’il lui est désormais impossible de méditer et de se servir de l’imagination ; elle n’y puise aucun goût comme précédemment. Elle trouve, au contraire, de la sécheresse dans ce qui auparavant captivait habituellement ses sens et lui procurait de la suavité.
 
 ### Dans les autres religions <a name="priere-autrereligions"></a>
 
