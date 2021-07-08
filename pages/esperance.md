@@ -101,6 +101,9 @@ Tout un ensemble de dispositions précèdent et enveloppent l'usage de la métho
 	
 	[[Hésychios Hiéros](/references/hesychioshieros.html#philocalie)] :
 	>De combien de manières, à mon avis, la sobriété purifie l’esprit des pensées passionnées, je vais vous l’indiquer tout de suite... Une première forme de sobriété consiste à surveiller étroitement l’imagination et la suggestion, car Satan est incapable, sans l’imagination, de former des pensées pour les présenter à notre esprit et l’abuser par son mensonge. Une deuxième forme consiste à garder toujours son coeur dans un silence et une trêve profonde de toute chose et à prier. Une troisième consiste à appeler sans cesse Jésus au secours avec humilité. Une autre à garder sans interruption dans son âme le souvenir de la mort.
+	
+	[[Grégoire Palamas](/references/gregoirepalamas.html#philocalie)] :
+	>Notre corps n’a rien de mauvais comme tel ; il est bon de sa nature ; il n’est de damnable que l’esprit charnel, le corps prostitué au péché. Le mal ne vient pas de la chair mais de ce qui l’habite. […] Nous nous insurgeons contre la loi du péché et l’expulsons du corps pour y introduire l’autorité de l’esprit. Grâce à cette autorité, nous fixons sa loi à chaque puissance de l’âme et aux membres du corps : à chacun son dû. Aux sens la nature et les limites de leur exercice : cette œuvre de la loi porte nom tempérance ; à la partie passionnée de l’âme, nous procurons l’habitus excellent : c’est la charité ; reste la partie raisonnable, que nous améliorons en rejetant tout ce qui s’oppose à l’ascension de l’esprit vers Dieu : cette partie de la loi s’appelle la sobriété. Celui qui a purifié son corps par la tempérance, qui, par la charité, a fait de son irascible et de son concupiscible des occasions de vertu, qui enfin présente à Dieu un esprit purifié par la prière, acquiert et voit en lui-même, la grâce promise aux cœurs purs
 
 Les Pères émettent également des mises en garde :
 - Les **habitudes** peuvent être néfaste à la prière si elles la conditionnent, et si elles attachent aux sensibilités. Dans la philocalie [[Pseudo-Macaire](/references/macairedescete.html#philocalie)] : 
@@ -312,6 +315,7 @@ L'interprétation chrétienne de ce passage se fonde principalement sur les mots
 
 ### La montée du Carmel, Jean de la Croix
 
+[Jean de la Croix](/references/jeandelacroix.html#monteeducarmel)
 >Nous pouvons pour trois motifs appeler nuit l’état par lequel passe l’âme pour arriver à l’union divine. Le premier vient du point de départ de l’âme, car elle doit priver peu à peu ses tendances du goût qu’elles éprouvaient dans toutes les choses du monde et le leur refuser ; or ce refus, cette absence de toutes jouissances, est comme une nuit pour toutes les tendances et les sens de l’homme. Le second motif vient du moyen que l’on emploie ou du chemin par lequel l’âme doit passer pour arriver à l’union. Ce moyen est la foi, qui, obscure elle aussi, est pour l’entendement comme une nuit. Le troisième vient du terme où l’âme tend, c’est-à-dire de Dieu : comme il est incompréhensible et infiniment parfait, on peut bien l’appeler une nuit obscure pour l’âme en cette vie.
 
 ### Lecture archétypale de la Bible

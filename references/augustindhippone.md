@@ -147,7 +147,7 @@ Augustin introduit ici le verbe foveo réchauffer en utilisant son nom d’actio
 
 
 
-## Confessions <a name="augustindhippone-confessions"></a>
+## Confessions <a name="confessions"></a>
 *Gallimard, 1993*
 
 ### Livre premier, l'enfance
