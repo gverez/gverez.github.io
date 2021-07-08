@@ -84,6 +84,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/hildegardedebingen.png">](/references/hildegardedebingen.html "Hildegarde de Bingen")
 [<img src="/images/francoisdassise.png">](/references/francoisdassise.html "François d’Assise")
 [<img src="/images/bonaventuredebagnoregio.png">](/references/bonaventuredebagnoregio.html "Bonaventure de Bagnoregio")
+[<img src="/images/thomasdaquin.png">](/references/thomasdaquin.html "Thomas d'Aquin")
 [<img src="/images/nopicture.png">](/references/nicephorelesolitaire.html "Nicéphore le Solitaire")
 [<img src="/images/theoleptedephiladelphie.png">](/references/theoleptedephiladelphie.html "Théolepte de Philadelphie")
 [<img src="/images/gregoirelesinaite.png">](/references/gregoirelesinaite.html "Grégoire le Sinaïte")
