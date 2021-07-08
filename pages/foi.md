@@ -78,7 +78,7 @@ L’épistémologie, qui est l’étude de la connaissance, étudie plus largeme
 [Noam Chomsky (1928-, linguiste américain), *Language and nature* (1995)] :
 >Quant à la question de la portée cognitive, si les humains font partie du monde naturel, et non des êtres surnaturels, alors l’intelligence humaine a sa portée et ses limites, déterminées par la conception initiale. On peut ainsi anticiper que certaines questions ne relèveront pas de leur portée cognitive, tout comme les rats sont incapables de sortir de labyrinthes aux propriétés numériques, faute de concepts appropriés. De telles questions, nous pourrions les appeler des « mystères pour les humains », tout comme certaines questions que nous soulevons et d’autres que nous ne savons pas comment formuler correctement ou pas du tout.
 
-[Werner Heisenberg (1901-1976, physicien allemand, Prix Nobel 1932), *Physics and philosophy* (1958)] :
+[Werner Heisenberg](/references/wernerheisenberg.html) (1901-1976, physicien allemand, Prix Nobel 1932), *Physics and philosophy* (1958)
 >Tous les concepts ou mots qui ont été formés dans le passé par l’interaction entre le monde et nous-mêmes ne sont pas vraiment définis de manière précise par rapport à leur signification ; c’est-à-dire que nous ne savons pas exactement dans quelle mesure ils nous aideront à trouver notre chemin dans le monde. Nous savons souvent qu’ils peuvent être appliqués à un large éventail d’expériences intérieures ou extérieures, mais nous ne connaissons pratiquement jamais précisément les limites de leur applicabilité. Cela est vrai même des concepts les plus simples et les plus généraux comme « existence » et « espace et temps ». Par conséquent, il ne sera jamais possible par la raison pure d’arriver à une vérité absolue.
 
 D’autres scientifiques se montrent plus arrêtés, niant tout ce qui semble être non-compréhensible par la raison. Le hasard est alors souvent invoqué comme loi naturelle et comme raison aux phénomènes inconnus.
@@ -225,7 +225,7 @@ Dans cette expérience, un faisceau de particules (comme des électrons) travers
 
 Si cette expérience est modifiée de sorte qu’une fente soit fermée, aucun diagramme d’interférence n’est observé. Ainsi, l’état des deux fentes affecte les résultats finaux. On peut également faire en sorte d’avoir un détecteur le moins invasif possible au niveau de l’une des fentes pour détecter par quelle fente la particule est passée. Toutefois, en faisant ainsi, le motif d’interférence disparaît également. L’interprétation de Copenhague (entre autres Bohr, Heisenberg, Jordan, Born) indique que les particules ne sont pas localisées dans l’espace tant qu’elles ne sont pas détectées, de sorte que s’il n’y a pas de détecteur sur les fentes, il n’y a aucune information à propos de la fente que la particule a traversée. Si une fente comporte un détecteur, la fonction d’onde [<small>La fonction d’onde est une description mathématique de l’état quantique d’un système quantique isolé. C’est « un nombre à chaque point de l’espace. La taille de la fonction d’onde donne la probabilité que la particule se trouve dans cette position. La vitesse à laquelle la fonction d’onde varie d’un point à l’autre donne la vitesse de la particule » (Hawking, *Brief answers to the big questions*, 2018)</small>] s’effondre en raison de cette détection.
 
-[Werner Heisenberg (1901-1976, physicien allemand, Prix Nobel 1932), *Physics and philosophy* (1958)] :
+[Werner Heisenberg](/references/wernerheisenberg.html) (1901-1976, physicien allemand, Prix Nobel 1932), *Physics and philosophy* (1958)
 >C’est le fait que la fonction d’onde ou, plus généralement, la fonction de probabilité change de manière discontinue lorsque l’observateur prend connaissance d’un résultat de mesure.
 
 Initialement dans une superposition de plusieurs états propres, la fonction d’onde se réduit à un seul état propre en raison de l’interaction avec le monde extérieur. C’est pour Bohm l’une des principales difficultés de l’interprétation courante de la physique quantique. Si l’effondrement était un phénomène physique fondamental, plutôt que simplement l’épiphénomène d’un autre processus, cela signifierait que la nature serait fondamentalement stochastique, c’est-à-dire non déterministe, une propriété indésirable pour une théorie. Ce problème est resté jusqu’à ce que la décohérence quantique soit entrée dans l’opinion dominante après sa reformulation dans les années 1980.
@@ -432,25 +432,22 @@ Chalmers s’est opposé à la conscience quantique. Il a plutôt discuté de la
 
 ### 1.4 Existence, connaissance et attributs de Dieu <a name="connaissance-dieu"></a>
 
-Un principe d’ordonnancement, des phénomènes non-locaux, une seule force fondamentale à la base de toutes les interactions, une seule « substance primordiale », une « création » de l’Univers, … Ces théories (du grec « contempler, observer, examiner »), pas toutes confirmées mais pour autant sérieusement étudiées, sont, malgré l’envie pour beaucoup d’une science dissociée de la religion, très liées à la notion de Dieu.
+Un principe d’ordonnancement, des phénomènes non-locaux (même si toutefois ce n'est pas une transmission de signaux qui est en jeu), une seule force fondamentale à la base de toutes les interactions, une seule « substance primordiale », une « création » de l’Univers, … Ces théories (du grec « contempler, observer, examiner »), pas toutes confirmées mais pour autant sérieusement étudiées, sont, malgré l’envie pour beaucoup d’une science dissociée de la religion, très liées à la conception de Dieu pour certains.
 
-Arthur Fine (1937-, philosophe américain des sciences)
-   On the interpretation of Bohmian mechanics (1996)
-Peut-être que la réalité consiste en un « X » global et unitaire qui organise les caractéristiques des particules partout et à chaque instant en accord avec un aspect d’onde changeant.
+[Arthur Fine](/references/arthurfine.html) (1937-, philosophe américain des sciences), *On the interpretation of Bohmian mechanics* (1996)
+>Peut-être que la réalité consiste en un « X » global et unitaire qui organise les caractéristiques des particules partout et à chaque instant en accord avec un aspect d’onde changeant.
 
-Werner Heisenberg (1901-1976, physicien allemand, Prix Nobel 1932)
-   Physics and philosophy (1958)
-Toutes les particules élémentaires sont faites de la même substance, que nous pouvons appeler énergie ou matière universelle; ce ne sont que des formes différentes dans lesquelles la matière peut apparaître.
+[Werner Heisenberg](/references/wernerheisenberg.html) (1901-1976, physicien allemand, Prix Nobel 1932), *Physics and philosophy* (1958)
+>Toutes les particules élémentaires sont faites de la même substance, que nous pouvons appeler énergie ou matière universelle; ce ne sont que des formes différentes dans lesquelles la matière peut apparaître.
 
-Le concept de Dieu possède des aspects religieux et métaphysiques très divers, ce qui rend particulièrement difficile sa définition. Certains auteurs estiment même que Dieu est si grand qu’il échappe à toute tentative de définition par des mots humains. C’est l’approche apopathique (la négation, ce que Dieu n’est pas), contraire de celle cataphatique (affirmation de ce que Dieu est).
+Le concept de Dieu possède des aspects religieux et métaphysiques très divers, ce qui rend particulièrement difficile sa définition. Certains auteurs estiment même que Dieu est si grand qu’il échappe à toute tentative de définition par des mots humains. C’est l’approche *apopathique* (la négation, ce que Dieu n’est pas), contraire de celle *cataphatique* (affirmation de ce que Dieu est).
 
-Jean Scot Erigène (800-876, clerc irlandais)
-   Periphyseon (866)
-Nous ne savons pas ce qu’est Dieu. Dieu lui-même ignore ce qu’il est parce qu’il n’est pas quelque chose. Littéralement Dieu n’est pas, parce qu’il transcende l’être.
+[Jean Scot Erigène]() (800-876, clerc irlandais), *Periphyseon* (866)
+>Nous ne savons pas ce qu’est Dieu. Dieu lui-même ignore ce qu’il est parce qu’il n’est pas quelque chose. Littéralement Dieu n’est pas, parce qu’il transcende l’être.
 
-Pseudo-Denys l’Aréopagite (V-VIe, moine syrien)
-   La théologie mystique (V-VIe)
-Là, dans la théologie affirmative, notre discours descendait du supérieur à l’inférieur puis il allait s’élargissant au fur et à mesure de sa descente; mais maintenant que nous remontons de l’inférieur jusqu’au Transcendant, notre discours se réduit à proportion de notre montée. Arrivés au terme nous serons totalement muets et entièrement unis à l’Indicible.
+[Pseudo-Denys l’Aréopagite]() (V-VIe, moine syrien), *La théologie mystique* (V-VIe)
+>Là, dans la théologie affirmative, notre discours descendait du supérieur à l’inférieur puis il allait s’élargissant au fur et à mesure de sa descente; mais maintenant que nous remontons de l’inférieur jusqu’au Transcendant, notre discours se réduit à proportion de notre montée. Arrivés au terme nous serons totalement muets et entièrement unis à l’Indicible.
+
 On retrouve dans cette approche la limite des connaissances humaines débattue par l’épistémologie. Heisenberg disait qu’« il ne sera jamais possible par la raison pure d’arriver à une vérité absolue ». Or, cette « absolue vérité » est une des définitions de Dieu. S’il semble que définir cette vérité nous soit impossible, certains raisonnements ont été proposés pour démontrer au moins son existence. A ce titre, les arguments ontologiques sont des arguments qui amènent à la conclusion que Dieu existe, à partir d’hypothèses qui sont censées dériver d’une source autre que l’observation du monde, soit souvent par la seule raison. Le premier argument de ce genre a été produit par saint Anselme.
 
 Saint Anselme de Cantorbéry (1033-1109, docteur de l’Église en 1720)
