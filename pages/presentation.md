@@ -48,11 +48,16 @@ La foi est la vertu théologale par laquelle nous croyons en Dieu et à tout ce 
 
 ## Thèmes
 
+1. [Cheminement de la raison dans la foi](/pages/foi.html#cheminement)
+	1. [Incertitude](/pages/foi.html#incertitude)
+	1. [Possibilité](/pages/foi.html#possibilite)
+	1. [Connaissance scientifique](/pages/foi.html#connaissance-scientifique)
+	1. [Connaissance et attributs de Dieu](/pages/foi.html#connaissance-dieu)
+	1. [Acquisition de la foi](/pages/foi.html#acquisition)
 1. [Au commencement](/pages/foi.html#bereshit)
 	1. [Dieu, l'amour paternel](/pages/foi.html#dieu-pere)
 	1. [Le Verbe, la relation filiale et la vie](/pages/foi.html#verbe-fils)
 	1. [L'Esprit, l'amour maternel](/pages/foi.html#esprit-mere)
-
 
 
 # Espérance <a name="esperance"></a>
