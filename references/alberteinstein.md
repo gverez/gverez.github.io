@@ -13,9 +13,10 @@ title: Albert Einstein
 **1879-1955**, physicien théoricien.
 
 [Science and religion](#science-and-religion)
-[Comment je vois le monde](#commment)
-[Can quantum-mechanical description of physical reality be considered complete ?](#epr)
 
+[Comment je vois le monde](#commment)
+
+[Can quantum-mechanical description of physical reality be considered complete ?](#epr)
 
 
 ## Science and religion <a name="science-and-religion"></a>
