@@ -113,6 +113,8 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/friedrichnietzsche.png">](/references/friedrichnietzsche.html "Friedrich Nietzsche")
 [<img src="/images/ambroisegardeil.png">](/references/ambroisegardeil.html "Ambroise Gardeil")
 [<img src="/images/johnmctaggart.png">](/references/johnmctaggart.html "John McTaggart")
+[<img src="/images/vassilykandinsky.png">](/references/vassilykandinsky.html "Vassily Kandinsky")
+[<img src="/images/georgeedwardmoore.png">](/references/georgeedwardmoore.html "George Edward Moore")
 [<img src="/images/reneguenon.png">](/references/reneguenon.html "René Guénon")
 [<img src="/images/alaindanielou.png">](/references/alaindanielou.html "Alain Daniélou")
 [<img src="/images/frithjofschuon.png">](/references/frithjofschuon.html "Frithjof Schuon")
