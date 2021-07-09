@@ -200,13 +200,13 @@ title: Carl Jung
 
 
 
-###Résumé [p. 144]
+### Résumé [p. 144]
 >I have been informed that many readers find it difficult to follow my argument. Acausality and the idea of synchronicity as such, and also the astrological experiment, seem to present especial difficulties to their understanding, and for this reason I should like to make a few additional remarks in order to sum up these three points.
 >
 >- ACAUSALITY. If natural law were an absolute truth, then of course there could not possibly be any processes that deviate from it. But since causality is a statistical truth, it holds good only on average and thus leaves room for exceptions which must somehow be experienceable, that is to say, real. I try to regard synchronistic events as acausal exceptions of this kind. They prove to be relatively independent of space and time; they relativize space and time in so far as space presents in principle no obstacle to their passage and the sequence of events in time is inverted, so that it looks as if an event which has not yet occurred were causing a perception in the present. But if space and time are relative, they causality too loses its validity, since the sequence of cause and effect is either relativized or abolished.
 >- SYNCHRONICITY. Despite my express warning I see that this concept has already been confused by the critics with synchronism. By synchronicity I mean the occurrence of a meaningful coincidence in time. It can take three forms:
->	-The coincidence of a certain psychic content with a corresponding objective process which is perceived to take place simultaneously.
->	-The coincidence of a subjective psychic state with a phantasm (dream or vision) which later turns out to be a more or less faithful reflection of a “synchronistic,” objective event that took place more or less simultaneously, but at a distance.
->	-The same, except that the event perceived takes place in the future and is represented in the present only by a phantasm that corresponds to it.
+>	- The coincidence of a certain psychic content with a corresponding objective process which is perceived to take place simultaneously.
+>	- The coincidence of a subjective psychic state with a phantasm (dream or vision) which later turns out to be a more or less faithful reflection of a “synchronistic,” objective event that took place more or less simultaneously, but at a distance.
+>	- The same, except that the event perceived takes place in the future and is represented in the present only by a phantasm that corresponds to it.
 >
 >Whereas in the first case an objective event coincides with a subjective content, the synchronicity in the other two cases can only be verified subsequently, though the synchronistic event as such is formed by the coincidence of a neutral psychic state with a phantasm (dream or vision).
