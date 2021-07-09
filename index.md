@@ -117,6 +117,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/georgeedwardmoore.png">](/references/georgeedwardmoore.html "George Edward Moore")
 [<img src="/images/carljung.png">](/references/carljung.html "Carl Jung")
 [<img src="/images/alberteinstein.png">](/references/alberteinstein.html "Albert Einstein")
+[<img src="/images/nielsbohr.png">](/references/nielsbohr.html "Niels Bohr")
 [<img src="/images/reneguenon.png">](/references/reneguenon.html "René Guénon")
 [<img src="/images/alaindanielou.png">](/references/alaindanielou.html "Alain Daniélou")
 [<img src="/images/frithjofschuon.png">](/references/frithjofschuon.html "Frithjof Schuon")
