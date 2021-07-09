@@ -8,13 +8,9 @@ title: Présentation
 
 **Table des matières**
 
-- [Charité](#charite)
-	- [Justice](#justice)
-- [Foi](#foi)
-- [Espérance](#esperance)
-	- [Prudence](#prudence)
-	- [Tempérance](#temperance)
-	- [Force](#force)
+- [La charité](#charite) (et par delà, la [justice](#justice))
+- [La foi](#foi)
+- [L'espérance](#esperance) (et par delà, la [prudence](#prudence), la [tempérance](#temperance) et la [force](#force))
 
 # Charité <a name="charite"></a>
 

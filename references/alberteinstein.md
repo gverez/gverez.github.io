@@ -14,7 +14,7 @@ title: Albert Einstein
 
 [Science and religion](#science-and-religion)
 
-[Comment je vois le monde](#commment)
+[Comment je vois le monde](#comment)
 
 [Can quantum-mechanical description of physical reality be considered complete ?](#epr)
 
