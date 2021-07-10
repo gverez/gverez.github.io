@@ -225,7 +225,7 @@ title: Basil Hiley
 
 ### Review of the development of the formalism [p. 6]
 
-Thus equation (3) can be regarded as a generalised expression for the conservation of energy provided we regard Q as a new form of potential energy which is negligible in the classical world and is apparent only in quantum systems. This energy has traditionally been called the quantum potential energy. It should not be thought as the source of some mysterious new force to be put into the Newtonian equations of motion. Rather it appears as a necessary consequence of the symplectic symmetry. […]
+>Thus equation (3) can be regarded as a generalised expression for the conservation of energy provided we regard Q as a new form of potential energy which is negligible in the classical world and is apparent only in quantum systems. This energy has traditionally been called the quantum potential energy. It should not be thought as the source of some mysterious new force to be put into the Newtonian equations of motion. Rather it appears as a necessary consequence of the symplectic symmetry. […]
 >
 >Let me emphasise that what we have done above is very straightforward. Equation (3) is a direct result of the Schrödinger equation. Nothing mathematically new has been added. What we then do is to look at the extra term Q and ask “What is the physical reason that Q appears and what could it possibly represent?” Is this not a standard procedure in physics?
 
