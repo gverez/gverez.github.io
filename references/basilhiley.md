@@ -12,8 +12,11 @@ title: Basil Hiley
 
 **1935-**, physicien britannique.
 
+[Process and the implicate order: their relevance to quantum theory and mind](#process)
 
-## Process and the implicate order: their relevance to quantum theory and mind. <a name="arkhe"></a>
+[From the Heisenberg picture to Bohm: a new perspective on active information and its relation to Shannon information](#information)
+
+## Process and the implicate order: their relevance to quantum theory and mind <a name="process"></a>
 *2005*
 
 ### Introduction [p. 1]
@@ -207,183 +210,75 @@ title: Basil Hiley
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-From the Heisenberg picture to Bohm: a new perspective on active information and its relation to Shannon information.
-
-Proc. Conf. Quantum Theory : reconsideration of foundations, ed. A. Khrennikov, pp. 141-162, Växjö University Press, 2002.
-
-
-
-Introduction
-p. 3
-
-In order to provide some more background to my discussion, I would like to start from a more general perspective. Once we accept the Born probability postulate, and I have no reason to doubt its validity, the wave function must be interpreted in terms of possibilities or, better still, in terms of potentialities. Now it is well known that Heisenberg (1959a) favoured the use of potentialities. What is well less known is that Bohm (1951) also proposed that the wave function should be thought of in terms of potentialities. Bohm argued that the potentialities were latent in the particle and that they could only be brought out more fully through interaction with a classical measuring apparatus.
-
-This of course is essentially the conventional view, so why did Bohm bother to make alternative proposals? It was the complete absence of any account of the actual that troubled him. In the quantum formalism nothing seemed to happen unless and until there was an interaction with a measuring apparatus. There was no actualisation until some form of instrument was triggered. Surely something triggered the instrument? Why was the measuring instrument so different? Isn’t it just another collection of physical processes governed by the same laws of physics? What the Bohm approach seemed to offer was a way of providing an account of an actual process underpinning the observational results. The nature of this actual process is not clear, but surely searching for an actual underlying process is not pandering to classical prejudice? Indeed the driving force behind the present search for a generalised quantum mechanics for gravity is a search for an ontology (see for example Hartle 1992).
-
-There is a second feature in Zeh’s (1998) criticism that I find curious. There have been frequent arguments that because the 'trajectories' appearing in the Bohm approach are ‘unobservable’ they are meaningless. Yet in quantum mechanics the wave function is ‘unobservable’ but I never hear anybody calling it meaningless. The wave function, according to Bohr, is simply a term in an algorithm from which the probable outcome of any given experiment can be calculated. As such it does not say anything about how a particle leaving a source arrives at the detecting instrument. In Miller and Wheeler (1983) a quantum process is likened it to a ‘smoky dragon’.
-
-What the Bohm trajectory does is to provide an explanation of how an ensemble of individual particles could travel and arrive at the detecting instrument so as to account for the observed probability distribution. Do we need this kind of information? I, in common with many others certainly do. It helps to provide an understand the kind of underlying process that could produce the observed probability distributions without Alice-type stories. Do the particles actually travel along such paths? I don’t know but in the absence any information to the contrary I am quite happy to imagine they do. As is well known we cannot ‘see’ the particles travelling along a trajectory, hence Zeh’s criticism. But equally can we claim that it does not travel along a trajectory? I feel that it is better to adopt a position that understands the particle to travel along such a trajectory, unless it leads to some contradiction, than to confess that one has no idea how particles get from A to B. But for me there is a more fundamental question, do localized classical-type particles actually exist at the quantum level or is the quantum behaviour a pointer to subtler forms of motion that have more to do with process than with particles/fields in motion in space-time? Because of space limitations I will not comment on this suggestion further. More details can be found in Brown and Hiley (2000) and Hiley (2001).
-
-
-
-
-
-Review of the development of the formalism
-p. 6
-
-Thus equation (3) can be regarded as a generalised expression for the conservation of energy provided we regard Q as a new form of potential energy which is negligible in the classical world and is apparent only in quantum systems. This energy has traditionally been called the quantum potential energy. It should not be thought as the source of some mysterious new force to be put into the Newtonian equations of motion. Rather it appears as a necessary consequence of the symplectic symmetry.
-
-[…]
-
-Let me emphasise that what we have done above is very straightforward. Equation (3) is a direct result of the Schrödinger equation. Nothing mathematically new has been added. What we then do is to look at the extra term Q and ask “What is the physical reason that Q appears and what could it possibly represent?” Is this not a standard procedure in physics?
-
-
-
-
-
-
-
-The DGZ approach
-p. 7
-
-
-
-To see the source of the differences let me now briefly outline the assumptions made by Dürr et al (1993). Their approach also assumes the validity of the Schrödinger equation and the Born probability postulate. Rather than examining the contents of the Schrödinger in term of its real and imaginary parts, they argue that we need to add one new idea, namely, that the movement of an individual particle is described by the so called ‘guidance condition’.
-
-[…]
-
-
-
-Of course at one level there is no difference between these two points of view and it could be argued that I am merely quibbling over a small difference. After all both approaches use equation (5) to calculate the trajectories and both interpret the trajectories in exactly the same way, namely, that they provided a way of discussing the actual evolution of individuals in a fundamental statistical theory. But Bohm felt that in order to get a better understand of this behaviour we must go beyond the mechanistic picture. He did not feel the need to regard equation (5) as a new fundamental equation as it emerged from the real part of the Schrödinger equation (3) itself. Not only does it provide the form of equation (5), but it also provides us with the canonical relation […] as well as providing a new form of energy Q which only acts in the quantum domain. This quantum potential energy must be taken seriously. Indeed without it energy would not be conserved and without understanding this energy the form of the trajectories are just another quantum mystery.
-
-All of this is in contrast to DGZ. They feel the quantum potential is somehow artificial and should be avoided. In some sense they are implicitly following on from Heisenberg (1958) who argued that the approach needed “some strange quantum potentials introduced ad hoc by Bohm”. There is no elaboration as to why he thought it was ad hoc and I continue to find it difficult to understand how a term that arises naturally from a basic equation called ad hoc?
-
-DGZ continue, “From our perspective the artificiality suggested by the quantum potential is the price one pays if one insists on casting a highly non-classical theory into a classical mold (sic)” (Dürr et al 1996). And again Goldstein (1998) writes “In particular, Bohm’s invocation of the “quantum potential” made his theory seem artificial and obscured its essential structure.”
-
-This last sentence indicates a particularly strong position. As seen from the above it is not necessary to “invoke” the quantum potential. It emerges from the mathematics as a term in equation (3) and we simply give it a name. Then all we do is to respond to our curiosity and explore consequence of this additional energy. Surely it is normal practice in physics to attempt to attach physical meanings to terms that arise naturally in fundamental equations.
-
-DGZ are happy to embrace the imaginary part of the Schrödinger equation given in the form of equation (2) and give it meaning as an expression of the conservation of probability, as we do. But when it comes to the real part of the same equation, it is dismissed because it seems ‘artificial’. To make such a comment implies that one has some idea of how quantum particles should behave, and when the trajectories do not fit this preconceived framework, it is dismissed as ‘artificial’ and ‘obscure’. The fact that it has apparently such a bizarre behaviour is no reason for ignoring it.
-
-DGZ are not alone in rejecting features of the approach that seem too strange. Others like Scully (1998) and Aharonov and Vaidman (1996) have used similar dismissive arguments, this time against the trajectories themselves. The trajectories are called ‘surreal’ apparently because the trajectories do not conform to what we would expect from classical grounds. We have shown in detail that their criticisms cannot be sustained (Hiley, Callaghan and Maroney 2001), but we must stress again the appearance of apparently ‘bizarre’ behaviour is no reason for ignoring or even dismissing it. Quantum phenomena are ‘bizarre’ when compared with our intuitive ideas based on classical theories. I personally would be very surprised if the trajectories and the quantum potential did have classical properties. Quantum theory is a “highly non-classical theory” and we should expect surprises, and we should use all available approaches to explore in exactly what ways the behaviour is non-classical.
-
-Does taking the quantum potential lead to significantly different ways of looking at quantum phenomena? I think it does. By focusing on the quantum potential we saw the significance of quantum entanglement in an entirely new way, namely its striking implication for quantum non-locality (see Bohm and Hiley 1975). The importance of this was also recognised by Bell (1987) and led him to think about the problem, which eventually led him to derive his famous inequalities. The role of the quantum potential in all this was brought out particularly clearly in the calculations of Dewdney, Holland and Kyprianidis (1987) for the case of two coupled spin-half systems in an entangled state. Their work showed how the dramatic appearance of the non-local was mediated by the quantum potential. Normally such calculations explaining an experimental result would be greeted as an indication of the success of the theory but in this case, for reasons that I fail to understand, they are regarded as meaningless.
-
-For some it is the appearance of non-locality that appears to further weaken the appeal of the approach in spite of experimentally confirmed violations of the Bell inequality. It is sometimes regarded as the Achilles heel of the theory. However for me, it is not its weakness but its strength. It offers a detailed explanation of the Einstein-Podolsky-Rosen paradox rather than leaving it all rather vague and mysterious. It is an explanation that enabled me to make much more sense of Bohr’s answer to EPR puzzle (Hiley 1995).
-
-To summarise this section then, let me emphasise that the differences between the advocates of Bohmian mechanics and our own approach is not about the need to have an account of the actual, but about what form this account should take. Clearly such a choice is largely decided by what each group regards as an acceptable physical explanation. There is no dispute about the form of the equations.
-
-
-
-The quantum potential and information
-p. 16
-
-In classical physics a potential is a force field generated by an outside agency and describes the potential evolution of the particle starting from a given position. As particles in different positions experience different effects we can think of the potential as being revealed through the movements of an ensemble of particles.
-
-How do we think about the quantum potential? It describes a field of energy so can it be regarded as producing a force on the particle? There are some problems with this view. Firstly, as we have already remarked above, the quantum potential has no external source so that there is nothing for the particle to ‘push against’. The energy is internal so clearly there is something more subtle involved. Here it is more like the role the gravitational field plays in general relativity where the gravitational energy curves space-time itself.
-
-Secondly, the quantum potential does not arise directly from the Hamiltonian and therefore does not appear explicitly in the algebraic equations (8) and (9). The quantum potential only appears when we project equation (9) into a particular representation space. This is even more like gravitation where the ‘force’ appears only when we project the geodesics into a Euclidean space. It is only in this space that we see the deflected trajectories revealing the presence of the gravitational force.
-
-[…]
-
-The potential is no longer proportional to the amplitude of a ‘wave’ as one would expect from classical physics. Because of this the potential gives rise to effects that are totally different from those expected from a classical wave. In the classical case the force produced by a wave is directly proportional to its amplitude as any swimmer will know from direct experience.
-
-[…]
-
-The quantum potential can produce strong long-range effects that do not necessarily fall off with distance. These are the typical properties of entangled wave functions. Thus even though the wave function spreads out, the effect of the quantum potential need not necessarily decrease. This is of course just the type of behaviour required for an explanation of the EPR paradox.
-
-If we examine the expression of the quantum potential in, say, the two-slit experiment, we find that it depends on the width of the slits, their distance apart and the momentum of the particle. In other words it contains information about the overall experimental arrangement. Of course this is not mathematically at all surprising because the wave function is a solution of the Schrödinger equation, which must necessarily reflect the boundary conditions.
-
-But we want to suggest that we can think of the process in terms of a local particle being fed this information locally through the information contained in the potential field as the particle evolves along its path.
-
-But how are we to understand these puzzling features physically? Because there is nothing to push against we should not regard the quantum potential as giving rise to an efficient cause, (‘pushing and pulling’) but it should be regarded more in the spirit of providing an example of Aristotle’s formative cause. That is the quantum potential gives new form to the evolution of the trajectories, in a way that is very reminiscent of the morphogenetic fields proposed by Waddington (1956) and Thom (1975) in biology. The form is provided from within but it is, of course, shaped by the environment. Thus the quantum potential reflects the experimental conditions. Close one slit and the quantum potential changes and the subsequent evolution of the particle is different. There seems to be a kind of ‘self-organisation’ involved.
-
-Now self-organisation requires the notion of information to be active. In the case of a biological system, this information is clearly provided by the environment, soil conditions, lack of moisture etc. In a quantum system I want to suggest that the information is provided by the experimental conditions, its environment. But this information is not passive. It is active and causes the internal energy to be redistributed between the kinetic and potential (Q) parts. Thus the quantum process is literally ‘formed from within’. Notice I am not using the notion of information in its usual sense but following its meaning in a literal sense. As Miller (1987) points out, the etymological origins of the word ‘information’ stresses the active role of information. […]So when I use the word information here, I do not mean information for me, the experimenter, but the activity taking place in the system itself. In other words information is playing an objective and active role in all quantum processes.
-
-This notion fits in very nicely in with Bohr’s original answer to the EPR paradox (Bohr 1935). Bohr argued that we should not regard the coupling between entangled pairs as arising from a mechanical force. Rather he talks of “an influence on the very conditions which define the possible types of prediction regarding the future development of the system”. Bohr felt this was a key point because he italicised the phrase in his original paper and repeated it word for word in his Discussions with Einstein (Bohr 1949). In a mechanical explanation all ‘influences’ must be mechanical, but our proposals suggest a more ‘organic’ picture where information that is playing a dynamic and objective role, namely, it is active. Thus once again rather than contradicting Bohr, I argue that the Bohm interpretation actually offers some clarification of his position!
-
-
-
-Active information and Shannon information
-p. 18
-
-
-
-Firstly it is important to emphasise once again that our concept of information is not ‘information for us’ but objective information for the particle. It was very evident from the papers presented at this meeting that the word ‘information’ was being used in the sense of ‘information for us’. Here I see my task as attempting to relate these two very different notions.
-
-[…]
-
-Turning to consider this entropy increase in terms of Shannon information, we see that the information capacity of our system has increased. To see this in a particular example consider the case where the original particle with its spin along the x-axis is fired into the Stern-Gerlach magnet aligned along the z-axis. This produces two possible output states so that we have we have created two qubits. The Bohm approach would claim that the two bits of information have their physical origins in the activity in one of the two possible quantum potentials. One becomes active when the particle is in channel I, while the other becomes active when the particle is in channel II. This is information for the particle and therefore measures some form of objective information.
-
-[…]
-
-The current outlook is to look at the two quantum states and to argue that the information is for us because we do not know which of the two spin states a particular particle is in. In other words this information is about information for us. We should notice that this is not an either/or situation. ‘Information for us’ must be carried by some physical process and quantum processes provide a novel way of carrying active information with, as we have seen in this workshop, some fascinating consequences. But if we are to look at physics in terms of information as Wheeler (1991) has speculated then I feel we should be talking about objective information not subjective information.
+## From the Heisenberg picture to Bohm: a new perspective on active information and its relation to Shannon information. <a name="information"></a>
+*Proc. Conf. Quantum Theory : reconsideration of foundations, ed. A. Khrennikov, pp. 141-162, Växjö University Press, 2002.*
+
+### Introduction [p. 3]
+
+>In order to provide some more background to my discussion, I would like to start from a more general perspective. Once we accept the Born probability postulate, and I have no reason to doubt its validity, the wave function must be interpreted in terms of possibilities or, better still, in terms of potentialities. Now it is well known that Heisenberg (1959a) favoured the use of potentialities. What is well less known is that Bohm (1951) also proposed that the wave function should be thought of in terms of potentialities. Bohm argued that the potentialities were latent in the particle and that they could only be brought out more fully through interaction with a classical measuring apparatus.
+>
+>This of course is essentially the conventional view, so why did Bohm bother to make alternative proposals? It was the complete absence of any account of the actual that troubled him. In the quantum formalism nothing seemed to happen unless and until there was an interaction with a measuring apparatus. There was no actualisation until some form of instrument was triggered. Surely something triggered the instrument? Why was the measuring instrument so different? Isn’t it just another collection of physical processes governed by the same laws of physics? What the Bohm approach seemed to offer was a way of providing an account of an actual process underpinning the observational results. The nature of this actual process is not clear, but surely searching for an actual underlying process is not pandering to classical prejudice? Indeed the driving force behind the present search for a generalised quantum mechanics for gravity is a search for an ontology (see for example Hartle 1992).
+>
+>There is a second feature in Zeh’s (1998) criticism that I find curious. There have been frequent arguments that because the 'trajectories' appearing in the Bohm approach are ‘unobservable’ they are meaningless. Yet in quantum mechanics the wave function is ‘unobservable’ but I never hear anybody calling it meaningless. The wave function, according to Bohr, is simply a term in an algorithm from which the probable outcome of any given experiment can be calculated. As such it does not say anything about how a particle leaving a source arrives at the detecting instrument. In Miller and Wheeler (1983) a quantum process is likened it to a ‘smoky dragon’.
+>
+>What the Bohm trajectory does is to provide an explanation of how an ensemble of individual particles could travel and arrive at the detecting instrument so as to account for the observed probability distribution. Do we need this kind of information? I, in common with many others certainly do. It helps to provide an understand the kind of underlying process that could produce the observed probability distributions without Alice-type stories. Do the particles actually travel along such paths? I don’t know but in the absence any information to the contrary I am quite happy to imagine they do. As is well known we cannot ‘see’ the particles travelling along a trajectory, hence Zeh’s criticism. But equally can we claim that it does not travel along a trajectory? I feel that it is better to adopt a position that understands the particle to travel along such a trajectory, unless it leads to some contradiction, than to confess that one has no idea how particles get from A to B. But for me there is a more fundamental question, do localized classical-type particles actually exist at the quantum level or is the quantum behaviour a pointer to subtler forms of motion that have more to do with process than with particles/fields in motion in space-time? Because of space limitations I will not comment on this suggestion further. More details can be found in Brown and Hiley (2000) and Hiley (2001).
+
+### Review of the development of the formalism [p. 6]
+
+Thus equation (3) can be regarded as a generalised expression for the conservation of energy provided we regard Q as a new form of potential energy which is negligible in the classical world and is apparent only in quantum systems. This energy has traditionally been called the quantum potential energy. It should not be thought as the source of some mysterious new force to be put into the Newtonian equations of motion. Rather it appears as a necessary consequence of the symplectic symmetry. […]
+>
+>Let me emphasise that what we have done above is very straightforward. Equation (3) is a direct result of the Schrödinger equation. Nothing mathematically new has been added. What we then do is to look at the extra term Q and ask “What is the physical reason that Q appears and what could it possibly represent?” Is this not a standard procedure in physics?
+
+
+### The DGZ approach [p. 7]
+
+>To see the source of the differences let me now briefly outline the assumptions made by Dürr et al (1993). Their approach also assumes the validity of the Schrödinger equation and the Born probability postulate. Rather than examining the contents of the Schrödinger in term of its real and imaginary parts, they argue that we need to add one new idea, namely, that the movement of an individual particle is described by the so called ‘guidance condition’. […]
+>
+>Of course at one level there is no difference between these two points of view and it could be argued that I am merely quibbling over a small difference. After all both approaches use equation (5) to calculate the trajectories and both interpret the trajectories in exactly the same way, namely, that they provided a way of discussing the actual evolution of individuals in a fundamental statistical theory. But Bohm felt that in order to get a better understand of this behaviour we must go beyond the mechanistic picture. He did not feel the need to regard equation (5) as a new fundamental equation as it emerged from the real part of the Schrödinger equation (3) itself. Not only does it provide the form of equation (5), but it also provides us with the canonical relation […] as well as providing a new form of energy Q which only acts in the quantum domain. This quantum potential energy must be taken seriously. Indeed without it energy would not be conserved and without understanding this energy the form of the trajectories are just another quantum mystery.
+>
+>All of this is in contrast to DGZ. They feel the quantum potential is somehow artificial and should be avoided. In some sense they are implicitly following on from Heisenberg (1958) who argued that the approach needed “some strange quantum potentials introduced ad hoc by Bohm”. There is no elaboration as to why he thought it was ad hoc and I continue to find it difficult to understand how a term that arises naturally from a basic equation called ad hoc?
+>
+>DGZ continue, “From our perspective the artificiality suggested by the quantum potential is the price one pays if one insists on casting a highly non-classical theory into a classical mold (sic)” (Dürr et al 1996). And again Goldstein (1998) writes “In particular, Bohm’s invocation of the “quantum potential” made his theory seem artificial and obscured its essential structure.”
+>
+>This last sentence indicates a particularly strong position. As seen from the above it is not necessary to “invoke” the quantum potential. It emerges from the mathematics as a term in equation (3) and we simply give it a name. Then all we do is to respond to our curiosity and explore consequence of this additional energy. Surely it is normal practice in physics to attempt to attach physical meanings to terms that arise naturally in fundamental equations.
+>
+>DGZ are happy to embrace the imaginary part of the Schrödinger equation given in the form of equation (2) and give it meaning as an expression of the conservation of probability, as we do. But when it comes to the real part of the same equation, it is dismissed because it seems ‘artificial’. To make such a comment implies that one has some idea of how quantum particles should behave, and when the trajectories do not fit this preconceived framework, it is dismissed as ‘artificial’ and ‘obscure’. The fact that it has apparently such a bizarre behaviour is no reason for ignoring it.
+>
+>DGZ are not alone in rejecting features of the approach that seem too strange. Others like Scully (1998) and Aharonov and Vaidman (1996) have used similar dismissive arguments, this time against the trajectories themselves. The trajectories are called ‘surreal’ apparently because the trajectories do not conform to what we would expect from classical grounds. We have shown in detail that their criticisms cannot be sustained (Hiley, Callaghan and Maroney 2001), but we must stress again the appearance of apparently ‘bizarre’ behaviour is no reason for ignoring or even dismissing it. Quantum phenomena are ‘bizarre’ when compared with our intuitive ideas based on classical theories. I personally would be very surprised if the trajectories and the quantum potential did have classical properties. Quantum theory is a “highly non-classical theory” and we should expect surprises, and we should use all available approaches to explore in exactly what ways the behaviour is non-classical.
+>
+>Does taking the quantum potential lead to significantly different ways of looking at quantum phenomena? I think it does. By focusing on the quantum potential we saw the significance of quantum entanglement in an entirely new way, namely its striking implication for quantum non-locality (see Bohm and Hiley 1975). The importance of this was also recognised by Bell (1987) and led him to think about the problem, which eventually led him to derive his famous inequalities. The role of the quantum potential in all this was brought out particularly clearly in the calculations of Dewdney, Holland and Kyprianidis (1987) for the case of two coupled spin-half systems in an entangled state. Their work showed how the dramatic appearance of the non-local was mediated by the quantum potential. Normally such calculations explaining an experimental result would be greeted as an indication of the success of the theory but in this case, for reasons that I fail to understand, they are regarded as meaningless.
+>
+>For some it is the appearance of non-locality that appears to further weaken the appeal of the approach in spite of experimentally confirmed violations of the Bell inequality. It is sometimes regarded as the Achilles heel of the theory. However for me, it is not its weakness but its strength. It offers a detailed explanation of the Einstein-Podolsky-Rosen paradox rather than leaving it all rather vague and mysterious. It is an explanation that enabled me to make much more sense of Bohr’s answer to EPR puzzle (Hiley 1995).
+>
+>To summarise this section then, let me emphasise that the differences between the advocates of Bohmian mechanics and our own approach is not about the need to have an account of the actual, but about what form this account should take. Clearly such a choice is largely decided by what each group regards as an acceptable physical explanation. There is no dispute about the form of the equations.
+
+
+### The quantum potential and information [p. 16]
+
+>In classical physics a potential is a force field generated by an outside agency and describes the potential evolution of the particle starting from a given position. As particles in different positions experience different effects we can think of the potential as being revealed through the movements of an ensemble of particles.
+>
+>How do we think about the quantum potential? It describes a field of energy so can it be regarded as producing a force on the particle? There are some problems with this view. Firstly, as we have already remarked above, the quantum potential has no external source so that there is nothing for the particle to ‘push against’. The energy is internal so clearly there is something more subtle involved. Here it is more like the role the gravitational field plays in general relativity where the gravitational energy curves space-time itself.
+>
+>Secondly, the quantum potential does not arise directly from the Hamiltonian and therefore does not appear explicitly in the algebraic equations (8) and (9). The quantum potential only appears when we project equation (9) into a particular representation space. This is even more like gravitation where the ‘force’ appears only when we project the geodesics into a Euclidean space. It is only in this space that we see the deflected trajectories revealing the presence of the gravitational force. […]
+>
+>The potential is no longer proportional to the amplitude of a ‘wave’ as one would expect from classical physics. Because of this the potential gives rise to effects that are totally different from those expected from a classical wave. In the classical case the force produced by a wave is directly proportional to its amplitude as any swimmer will know from direct experience. […]
+>
+>The quantum potential can produce strong long-range effects that do not necessarily fall off with distance. These are the typical properties of entangled wave functions. Thus even though the wave function spreads out, the effect of the quantum potential need not necessarily decrease. This is of course just the type of behaviour required for an explanation of the EPR paradox.
+>
+>If we examine the expression of the quantum potential in, say, the two-slit experiment, we find that it depends on the width of the slits, their distance apart and the momentum of the particle. In other words it contains information about the overall experimental arrangement. Of course this is not mathematically at all surprising because the wave function is a solution of the Schrödinger equation, which must necessarily reflect the boundary conditions.
+>
+>But we want to suggest that we can think of the process in terms of a local particle being fed this information locally through the information contained in the potential field as the particle evolves along its path.
+>
+>But how are we to understand these puzzling features physically? Because there is nothing to push against we should not regard the quantum potential as giving rise to an efficient cause, (‘pushing and pulling’) but it should be regarded more in the spirit of providing an example of Aristotle’s formative cause. That is the quantum potential gives new form to the evolution of the trajectories, in a way that is very reminiscent of the morphogenetic fields proposed by Waddington (1956) and Thom (1975) in biology. The form is provided from within but it is, of course, shaped by the environment. Thus the quantum potential reflects the experimental conditions. Close one slit and the quantum potential changes and the subsequent evolution of the particle is different. There seems to be a kind of ‘self-organisation’ involved.
+>
+>Now self-organisation requires the notion of information to be active. In the case of a biological system, this information is clearly provided by the environment, soil conditions, lack of moisture etc. In a quantum system I want to suggest that the information is provided by the experimental conditions, its environment. But this information is not passive. It is active and causes the internal energy to be redistributed between the kinetic and potential (Q) parts. Thus the quantum process is literally ‘formed from within’. Notice I am not using the notion of information in its usual sense but following its meaning in a literal sense. As Miller (1987) points out, the etymological origins of the word ‘information’ stresses the active role of information. […]So when I use the word information here, I do not mean information for me, the experimenter, but the activity taking place in the system itself. In other words information is playing an objective and active role in all quantum processes.
+>
+>This notion fits in very nicely in with Bohr’s original answer to the EPR paradox (Bohr 1935). Bohr argued that we should not regard the coupling between entangled pairs as arising from a mechanical force. Rather he talks of “an influence on the very conditions which define the possible types of prediction regarding the future development of the system”. Bohr felt this was a key point because he italicised the phrase in his original paper and repeated it word for word in his Discussions with Einstein (Bohr 1949). In a mechanical explanation all ‘influences’ must be mechanical, but our proposals suggest a more ‘organic’ picture where information that is playing a dynamic and objective role, namely, it is active. Thus once again rather than contradicting Bohr, I argue that the Bohm interpretation actually offers some clarification of his position!
+
+### Active information and Shannon information [p. 18]
+
+>Firstly it is important to emphasise once again that our concept of information is not ‘information for us’ but objective information for the particle. It was very evident from the papers presented at this meeting that the word ‘information’ was being used in the sense of ‘information for us’. Here I see my task as attempting to relate these two very different notions. […]
+>
+>Turning to consider this entropy increase in terms of Shannon information, we see that the information capacity of our system has increased. To see this in a particular example consider the case where the original particle with its spin along the x-axis is fired into the Stern-Gerlach magnet aligned along the z-axis. This produces two possible output states so that we have we have created two qubits. The Bohm approach would claim that the two bits of information have their physical origins in the activity in one of the two possible quantum potentials. One becomes active when the particle is in channel I, while the other becomes active when the particle is in channel II. This is information for the particle and therefore measures some form of objective information. […]
+>
+>The current outlook is to look at the two quantum states and to argue that the information is for us because we do not know which of the two spin states a particular particle is in. In other words this information is about information for us. We should notice that this is not an either/or situation. ‘Information for us’ must be carried by some physical process and quantum processes provide a novel way of carrying active information with, as we have seen in this workshop, some fascinating consequences. But if we are to look at physics in terms of information as Wheeler (1991) has speculated then I feel we should be talking about objective information not subjective information.
