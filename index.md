@@ -128,6 +128,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/maxblack.png">](/references/maxblack.html "Max Black")
 [<img src="/images/jeangouillard.png">](/references/jeangouillard.html "Jean Gouillard")
 [<img src="/images/johnwheeler.png">](/references/johnwheeler.html "John Wheeler")
+[<img src="/images/davidbohm.png">](/references/davidbohm.html "David Bohm")
 [<img src="/images/nopicture.png">](/references/henrydumery.html "Henry Duméry")
 [<img src="/images/robertmisrahi.png">](/references/robertmisrahi.html "Robert Misrahi")
 [<img src="/images/francoischenique.png">](/references/francoischenique.html "François Chenique")
