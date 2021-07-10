@@ -43,7 +43,7 @@ title: John Stewart Bell
 
 ### Von Neumann [p. 2]
 
-Consider now the proof of von Neumann that dispersion free states, and so hidden variables, are impossible. […]
+>Consider now the proof of von Neumann that dispersion free states, and so hidden variables, are impossible. […]
 >
 >But this explanation of the nonadditivity of allowed values also establishes the nontriviality of the additivity of expectation values. The latter is a quite peculiar property of quantum mechanical states, not to be expected a priori. There is no reason to demand it individually of the hypothetical dispersion free states, whose function it is to reproduce the measurable peculiarities of quantum mechanics when averaged over. […]
 >
@@ -51,7 +51,7 @@ Consider now the proof of von Neumann that dispersion free states, and so hidden
 
 ### Jauch and Piron [p. 3]
 
-A new version of the argument has been given by Jauch and Piron. Like von Neumann they are interested in generalized forms of quantum mechanics and do not assume the usual connection of quantum mechanical expectation values with state vectors and operators. We assume the latter and shorten the argument, for we are concerned here only with possible interpretations of ordinary quantum mechanics. […]
+>A new version of the argument has been given by Jauch and Piron. Like von Neumann they are interested in generalized forms of quantum mechanics and do not assume the usual connection of quantum mechanical expectation values with state vectors and operators. We assume the latter and shorten the argument, for we are concerned here only with possible interpretations of ordinary quantum mechanics. […]
 >
 >So there can be no dispersion free states.
 >
@@ -60,7 +60,7 @@ A new version of the argument has been given by Jauch and Piron. Like von Neuman
 
 ### Gleason [p. 4]
 
-The remarkable mathematical work of Gleason was not explicitly addressed to the hidden variable problem. It was directed to reducing the axiomatic basis of quantum mechanics. However, as it apparently enables von Neumann’s result to be obtained without objectionable assumptions about noncommuting operators, we must clearly consider it. The relevant corollary of Gleason’s work is that, if the dimensionality of the state space is greater than two, the additivity requirement for expectation values of commuting operators cannot be met by dispersion free states. This will now be proved, and then its significance discussed. It should be stressed that Gleason obtained more than this, by a lengthier argument, but this is all that is essential here. […]
+>The remarkable mathematical work of Gleason was not explicitly addressed to the hidden variable problem. It was directed to reducing the axiomatic basis of quantum mechanics. However, as it apparently enables von Neumann’s result to be obtained without objectionable assumptions about noncommuting operators, we must clearly consider it. The relevant corollary of Gleason’s work is that, if the dimensionality of the state space is greater than two, the additivity requirement for expectation values of commuting operators cannot be met by dispersion free states. This will now be proved, and then its significance discussed. It should be stressed that Gleason obtained more than this, by a lengthier argument, but this is all that is essential here. […]
 >
 >Therefore, there are no dispersion free states.
 >
@@ -131,7 +131,7 @@ Everett was motivated by the notion of a quantum theory of gravitation and cosmo
 
 ### Bertlmann’s socks and the nature of reality [p. 139]
 
-The philosopher in the street, who has not suffered a course in quantum mechanics, is quite unimpressed by Einstein-Podolsky-Rosen correlations. He can point to many examples of similar correlations in everyday life. The case of Bertlmann’s socks is often cited. Dr. Bertlmann likes to wear two socks of different colours. Which colour he will have on a given foot on a given day is quite unpredictable. But when you see that the first sock is pink you can be already sure that the second sock will not be pink. Observation of the first, and experience of Bertlmann, gives immediate information about the second. There is no accounting for tastes, but apart from that there is no mystery here. And is not the EPR business just the same? […]
+>The philosopher in the street, who has not suffered a course in quantum mechanics, is quite unimpressed by Einstein-Podolsky-Rosen correlations. He can point to many examples of similar correlations in everyday life. The case of Bertlmann’s socks is often cited. Dr. Bertlmann likes to wear two socks of different colours. Which colour he will have on a given foot on a given day is quite unpredictable. But when you see that the first sock is pink you can be already sure that the second sock will not be pink. Observation of the first, and experience of Bertlmann, gives immediate information about the second. There is no accounting for tastes, but apart from that there is no mystery here. And is not the EPR business just the same? […]
 >
 >Making a virtue of necessity, and influenced by positivistic and instrumentalist philosophies, many came to hold not only that it is difficult to find a coherent picture but that it is wrong to look for one – if not actually immoral then certainly unprofessional. Going further still, some asserted that atomic and subatomic particles do not have any definite properties in advance of observation. There is nothing, that is to say, in the particles approaching the magnet, to distinguish those subsequently deflected up from those subsequently deflected down. Indeed even the particles are not really there.
 >
