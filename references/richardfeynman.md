@@ -20,7 +20,7 @@ title: Richard Feynman
 
 #### 1-1, electrical forces
 
-There is such a force: the electrical force. And all matter is a mixture of positive protons and negative electrons which are attracting and repelling with this great force. So perfect is the balance, however, that when you stand near someone else you don’t feel any force at all. If there were even a little bit of unbalance you would know it. If you were standing at arm’s length from someone and each of you had one percent more electrons than protons, the repelling force would be incredible. How great? […] The repulsion would be enough to lift a “weight” equal to that of the entire earth! […]
+>There is such a force: the electrical force. And all matter is a mixture of positive protons and negative electrons which are attracting and repelling with this great force. So perfect is the balance, however, that when you stand near someone else you don’t feel any force at all. If there were even a little bit of unbalance you would know it. If you were standing at arm’s length from someone and each of you had one percent more electrons than protons, the repelling force would be incredible. How great? […] The repulsion would be enough to lift a “weight” equal to that of the entire earth! […]
 >
 >The force that holds the atoms together, and the chemical forces that hold molecules together, are really electrical forces acting in regions where the balance of charge is not perfect, or where the distances are very small.
 >
