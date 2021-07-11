@@ -153,6 +153,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/davidmiller.png">](/references/davidmiller.html "David Miller")
 [<img src="/images/arthurreber.png">](/references/arthurreber.html "Arthur Reber")
 [<img src="/images/brandoncarter.png">](/references/brandoncarter.html "Brandon Carter")
+[<img src="/images/stephenhawking.png">](/references/stephenhawking.html "Stephen Hawking")
 [<img src="/images/mariehelenecongourdeau.png">](/references/mariehelenecongourdeau.html "Marie-Hélène Congourdeau")
 [<img src="/images/danielmaurin.png">](/references/danielmaurin.html "Daniel Maurin")
 [<img src="/images/alaindelibera.png">](/references/alaindelibera.html "Alain de Libera")
