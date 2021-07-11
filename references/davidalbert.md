@@ -59,7 +59,7 @@ title: David Albert
 
 ### The many minds view [p. 10]
 
-The fundamental idea of the many worlds interpretation is that all physical processes whatsoever are governed by the Schrödinger equation. […]
+>The fundamental idea of the many worlds interpretation is that all physical processes whatsoever are governed by the Schrödinger equation. […]
 >
 >As we saw, the main difficulty that must be overcome to implement the fundamental idea is that this idea entails that macroscopic measuring devices and indeed observers themselves can be in superpositions. What we want is an “interpretation” which explains how it is that we always “see” (mistakenly so, if the many worlds interpretation is correct) macroscopic objects as not being in superpositions and never experience ourselves as in superpositions. The heart of the problem is that the way we conceive of mental states, beliefs, memories, etc., it simply makes no sense to speak of such states or of a mind as being in a superposition. When we introspect following an x-spin measurement we never, as apparently predicted by the theory, find ourselves in a superposition of thinking that spin is up and thinking that spin is down. If introspection is to be trusted, and it seems part of our very concept of mental states that it is trustworthy at least to this extent, then we are never in such superpositions. […]
 >
