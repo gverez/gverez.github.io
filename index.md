@@ -171,6 +171,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/jeremygunawardena.png">](/references/jeremygunawardena.html "Jeremy Gunawardena")
 [<img src="/images/timmaudlin.png">](/references/timmaudlin.html "Tim Maudlin")
 [<img src="/images/paavopylkkanen.png">](/references/paavopylkkanen.html "Paavo Pylkkänen")
+[<img src="/images/robincollins.png">](/references/robincollins.html "Robin Collins")
 [<img src="/images/giovannipolito.png">](/references/giovannipolito.html "Giovanni Polito")
 
 
