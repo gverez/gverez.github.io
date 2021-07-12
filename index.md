@@ -52,7 +52,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 
 
 ## Thèmes
-[<img src="/images/spiritualite.png">](/pages/spiritualite.html) [<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html) [<img src="/images/planbible.png">](/pages/planbible.html)
+[<img src="/images/spiritualite.png">](/pages/spiritualite.html) [<img src="/images/histoireduchristianisme.png">](/pages/histoireduchristianisme.html) [<img src="/images/planbible.png">](/pages/planbible.html) [<img src="/images/ontologie.png">](/pages/ontologie.html)
 
 
 # Extraits de textes
@@ -172,6 +172,7 @@ De plus, saint Paul rappelle que les vertus théologales ne sont pas toutes troi
 [<img src="/images/timmaudlin.png">](/references/timmaudlin.html "Tim Maudlin")
 [<img src="/images/paavopylkkanen.png">](/references/paavopylkkanen.html "Paavo Pylkkänen")
 [<img src="/images/robincollins.png">](/references/robincollins.html "Robin Collins")
+[<img src="/images/briangreene.png">](/references/briangreene.html "Brian Greene")
 [<img src="/images/giovannipolito.png">](/references/giovannipolito.html "Giovanni Polito")
 
 
