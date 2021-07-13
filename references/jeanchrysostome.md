@@ -13,6 +13,17 @@ title: Jean Chrysostome
 **v.345-407**, prêtre à Antioche puis évêque de Constantinople, docteur de l'Église.
 
 
+[Commentaire sur Jean 6, 60-69](#jean-6-60-69)
+
+[Homélie 1 sur Lazare](#homelie-1)
+
+[Homélie 2 sur la parole de David](#homelie-2)
+
+[Homélie 63 sur Matthieu](#homelie-63)
+
+[Homélie 34 sur 1 Corinthiens](#homelie-34)
+
+
 ## Commentaire sur Jean 6, 60-69 <a name="jean-6-60-69"></a>
 *Homélies sur l'évangile de Matthieu, n°82 ; PG 58, 743 (trad. Orval rev.)*
 
