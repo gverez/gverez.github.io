@@ -33,6 +33,13 @@ La charité a pour fruits la joie, la paix et la miséricorde [[Catéchisme, 182
 
 La justice est vraiment la fille de la charité. Elle est la vertu morale qui consiste dans la constante et ferme volonté de donner à Dieu et au prochain ce qui leur est dû [[Catéchisme, 1807](https://www.vatican.va/archive/FRA0013/__P5Z.HTM)]. La justice envers Dieu est appelée "vertu de religion". Envers les hommes, elle dispose à respecter les droits de chacun et à établir dans les relations humaines l’harmonie qui promeut l’équité à l’égard des personnes et du bien commun. L’homme juste, souvent évoqué dans les Livres saints, se distingue par la droiture habituelle de ses pensées et la rectitude de sa conduite envers le prochain. La justice règle la sensibilité rationnelle.
 
+La charité présuppose et transcende la justice 
+[[Doctrine Sociale 206](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_fr.html)], cette dernière devant trouver son complément dans la charité. Si la justice est "de soi propre à *arbitrer* entre les hommes pour répartir entre eux de manière juste les biens matériels, l'amour au contraire, et seulement lui (et donc aussi cet amour bienveillant que nous appelons "miséricorde"), est capable de rendre l'homme à lui-même". Les rapports humains ne peuvent pas être uniquement réglés par la mesure de la justice: "L'expérience du passé et de notre temps démontre que la justice ne suffit pas à elle seule, et même qu'elle peut conduire à sa propre négation et à sa propre ruine [...]. L'expérience de l'histoire a conduit à formuler l'axiome: *summum ius, summa iniuria*". De fait, la justice "dans toute la sphère des rapports entre hommes, doit subir pour ainsi dire une 'refonte' importante de la part de l'amour qui est — comme le proclame saint Paul — 'patient' et 'bienveillant', ou, en d'autres termes, qui porte en soi les caractéristiques de l'amour miséricordieux, si essentielles pour l'Évangile et pour le christianisme" [Jean-Paul II, Encycl. Dives in misericordia, 14: AAS 72 (1980) 1216, 1224, 1223].
+
+
+
+
+
 
 # Foi <a name="foi"></a>
 

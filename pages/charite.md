@@ -10,73 +10,219 @@ title: Charité
 
 <img src="/images/bon_samaritain.png">
 
+https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
 
-aide du prochain, pas que financière
+91. Les gens peuvent développer certaines attitudes qu’ils présentent comme des valeurs morales : force, sobriété, assiduité et autres vertus. Mais, pour bien orienter les actes correspondant aux différentes vertus morales, il faut aussi se demander dans quelle mesure ils créent un dynamisme d’ouverture et d’union avec les autres. Ce dynamisme, c’est la charité que Dieu répand. Autrement, nous ne cultiverions peut-être que l’apparence de vertus, incapables de construire la vie en commun. C’est pourquoi saint Thomas d’Aquin – citant Augustin – affirmait que la tempérance d’une personne avare est loin d’être vertueuse.[69] Saint Bonaventure, en d’autres termes, expliquait que les autres vertus, sans la charité, n’accomplissent pas strictement les commandements « comme Dieu les entend ».[70]
 
-aide du prochain, pas que financière
+92. La teneur spirituelle d’une vie humaine est caractérisée par l’amour qui est somme toute « le critère pour la décision définitive concernant la valeur ou la non-valeur d’une vie humaine ».[71] Cependant, il y a des croyants qui pensent que leur grandeur réside dans l’imposition de leurs idéologies aux autres, ou dans la défense violente de la vérité ou encore dans de grandes manifestations de force. Nous, croyants, nous devons tous le reconnaître : l’amour passe en premier, ce qui ne doit jamais être mis en danger, c’est l’amour ; le plus grand danger, c’est de ne pas aimer (cf. 1 Co 13, 1-13).
 
-aide du prochain, pas que financière
+93. Afin de clarifier en quoi consiste l’expérience de l’amour que Dieu rend possible par sa grâce, saint Thomas d’Aquin la définissait comme un mouvement qui amène à concentrer l’attention sur l’autre « en l’identifiant avec soi-même ».[72] L’attention affective, qui est portée à l’autre, conduit à rechercher son bien gratuitement. Tout cela fait partie d’une appréciation, d’une valorisation, qui est finalement ce qu’exprime le mot ‘‘charité’’ : l’être aimé m’est ‘‘cher’’, c’est-à-dire qu’« il est estimé d’un grand prix ».[73] Et « c’est de l’amour qu’on a pour une personne que dépend le don qu’on lui fait ».[74]
 
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-aide du prochain, pas que financière
-
-egalité de tous, l'emmigré, et d'autres thèmes certainement dans "riches et pauvres"
+94. L’amour implique donc plus qu’une série d’actions bénéfiques. Les actions jaillissent d’une union qui fait tendre de plus en plus vers l’autre, le considérant précieux, digne, agréable et beau, au-delà des apparences physiques ou morales. L’amour de l’autre pour lui-même nous amène à rechercher le meilleur pour sa vie. Ce n’est qu’en cultivant ce genre de relations que nous rendrons possibles une amitié sociale inclusive et une fraternité ouverte à tous.
 
 
-**La charité**
-Jn 13, 34
-Jn 13, 1
-Jn 15, 9
-Jn 15, 12
-Jn 15, 9-10
-Mt 22, 40
-Rm 13, 8-10
-Mt 5, 44
-Lc 10, 27-37
-Mc 9, 37
-Mt 25, 40.45
-1 Co 13, 4-7
-1 Co 13, 1-4
-1 Co 13, 13
-Col 3, 14
-1 Jn 4, 19
-1 P 4, 8
-
-**La justice**
-Lv 19, 15
-Col 4, 1
+112. Nous n’aurons de cesse de le dire, le désir et la recherche du bien d’autrui et de l’humanité tout entière impliquent également la recherche d’une maturation des personnes et des sociétés dans les différentes valeurs morales qui conduisent à un développement humain intégral. Dans le Nouveau Testament, un fruit du Saint-Esprit (cf. Ga 5, 22) est désigné par le terme grec agazosúne. Il indique l’attachement au bien, la recherche du bien. Mieux encore, c’est la quête de ce qui est excellent, du meilleur pour les autres : leur maturation, leur croissance dans une vie saine, la promotion des valeurs et pas seulement le bien-être matériel. Il y a une expression latine analogue : bene-volentia, qui indique le fait de vouloir le bien de l’autre. C’est un désir fort du bien, un penchant vers tout ce qui est bon et excellent, qui pousse à remplir la vie des autres de choses belles, sublimes et édifiantes.
 
 
-## L'argent dans l'Eglise ancienne <a name="argent"></a>
+
+
+
+## 1. Relation avec Dieu
+
+20 Toute expérience religieuse authentique, dans toutes les traditions culturelles, conduit à une intuition du Mystère qui, bien souvent, parvient à saisir quelques traits du visage de Dieu. Il apparaît, d'un côté, comme l'origine de ce qui est, présence qui garantit aux hommes, organisés en société, les conditions de base de la vie, en mettant à la disposition de celle-ci les biens qui lui sont nécessaires; d'un autre côté, en revanche, il apparaît comme la mesure de ce qui doit être, comme présence qui interpelle l'action humaine — tant au niveau personnel qu'au niveau social — sur l'usage de ces mêmes biens dans le rapport avec les autres hommes. Dans chaque expérience religieuse se révèlent donc importantes, à la fois la dimension du don et de la gratuité, implicite dans l'expérience que la personne humaine fait de son existence avec les autres dans le monde, et les répercussions de cette dimension sur la conscience de l'homme, qui se sent interpellé à gérer de façon responsable et conviviale le don qu'il a reçu.
+
+4 En se découvrant aimé de Dieu, l'homme comprend sa dignité transcendante, il apprend à ne pas se contenter de soi et à rencontrer l'autre dans un tissu de relations toujours plus authentiquement humaines. Des hommes rendus nouveaux grâce à l'amour de Dieu sont en mesure de changer les règles et la qualité des relations, ainsi que les structures sociales: ce sont des personnes capables d'apporter la paix là où sont les conflits, de construire et de cultiver des rapports fraternels là où se trouve la haine, de chercher la justice là où domine l'exploitation de l'homme par l'homme. Seul l'amour est capable de transformer de façon radicale les rapports que les êtres humains entretiennent entre eux. Inséré dans cette perspective, tout homme de bonne volonté peut entrevoir les vastes horizons de la justice et du développement humain dans la vérité et dans le bien.
+
+6 L'amour chrétien pousse à dénoncer, à proposer et à s'engager en vue de projets culturels et sociaux, vers une action effective qui incite tous ceux qui ont sincèrement à cœur le sort de l'homme à offrir leur contribution. L'humanité comprend toujours plus clairement qu'elle est liée par un unique destin qui requiert une prise commune de responsabilité, inspirée par un humanisme intégral et solidaire: elle voit que cette unité de destin est souvent conditionnée et même imposée par la technique et par l'économie et ressent le besoin d'une plus grande prise de conscience morale, qui oriente le cheminement commun. Stupéfaits par les multiples innovations technologiques, les hommes de notre temps désirent fortement faire tendre le progrès au véritable bien de l'humanité d'aujourd'hui et de demain.
+
+22 La gratuité de l'œuvre divine, historiquement efficace, s'accompagne constamment de l'engagement de l'Alliance proposé par Dieu et assumé par Israël. Sur le mont Sinaï, l'initiative de Dieu se concrétise par l'Alliance avec son peuple, auquel il donne le Décalogue des commandements révélés par le Seigneur (cf. Ex 19-24). Les « dix paroles » (Ex 34, 28; cf. Dt 4, 13; 10, 4) expriment « les implications de l'appartenance à Dieu instituée par l'Alliance. L'existence morale est réponse à l'initiative aimante du Seigneur. Elle est reconnaissance, hommage à Dieu et culte d'action de grâce. Elle est coopération au dessein que Dieu poursuit dans l'histoire ». Les dix commandements, qui constituent un extraordinaire chemin de vie et indiquent les conditions les plus sûres pour une existence libérée de l'esclavage du péché, contiennent une expression privilégiée de la loi naturelle. Ils « enseignent en même temps la véritable humanité de l'homme. Ils mettent en lumière les devoirs essentiels et donc, indirectement, les droits fondamentaux, inhérents à la nature de la personne humaine ». Ils caractérisent la morale humaine universelle. Rappelés notamment par Jésus au jeune homme riche de l'Évangile (cf. Mt 19, 18), les dix commandements « constituent les règles premières de toute vie sociale ».
+
+
+25 Les préceptes de l'année sabbatique (célébrée tous les sept ans) et de l'année jubilaire (tous les cinquante ans) constituent une doctrine sociale « in nuce ». En plus du repos des champs, ces loi prescrivent la remise des dettes et une libération générale des personnes et des biens: chacun peut rentrer dans sa famille d'origine et reprendre possession de son patrimoine. Ainsi, les principes de la justice et de la solidarité sociale sont inspirés par la gratuité de l'événement du salut réalisé par Dieu, qu'ils n'ont pas seulement une valeur de correctif d'une pratique dominée par des intérêts et des objectifs égoïstes, mais qu'ils doivent plutôt devenir, en tant que « prophetia futuri », la référence normative à laquelle chaque génération en Israël doit se conformer si elle veut être fidèle à son Dieu. Ces principes deviennent le creuset de la prédication prophétique qui vise à les faire intérioriser. L'Esprit de Dieu, insufflé dans le cœur de l'homme — annonce les Prophètes — y fera s'enraciner les mêmes sentiments de justice et de miséricorde qui habitent le cœur du Seigneur (cf. Jr 31, 33 et Ez 36, 26-27). Alors la volonté de Dieu, exprimée dans le Décalogue donné sur le Sinaï, pourra s'enraciner de façon créative au plus intime de l'homme. De ce processus d'intériorisation dérivent une plus grande profondeur et un plus grand réalisme de l'action sociale, en rendant possible l'universalisation progressive de l'attitude de justice et de solidarité que le peuple de l'Alliance est appelé à assumer envers tous les hommes, de chaque peuple et nation.
+
+
+26 Affirmer que Dieu est créateur ne signifie pas seulement exprimer une conviction théorique, mais aussi saisir l'horizon originel de l'action gratuite et miséricordieuse du Seigneur en faveur de l'homme. De fait, il donne librement l'être et la vie à tout ce qui existe. L'homme et la femme, créés à son image et à sa ressemblance (cf. Gn 1, 26-27), sont par conséquent appelés à être le signe visible et l'instrument efficace de la gratuité divine dans le jardin où Dieu les a placés pour cultiver et conserver les biens de la création.
+
+
+32 En contemplant la gratuité et la surabondance du don divin du Fils par le Père, que Jésus a enseigné et dont il a rendu témoignage en donnant sa vie pour nous, l'Apôtre Jean en saisit le sens profond et la conséquence la plus logique: « Bien-aimés, si Dieu nous a ainsi aimés, nous devons, nous aussi, nous aimer les uns les autres. Dieu, personne ne l'a jamais contemplé. Si nous nous aimons les uns les autres, Dieu demeure en nous, en nous son amour est accompli » (1 Jn 4, 11-12). La réciprocité de l'amour est requise par le commandement que Jésus qualifie de nouveau et dont il dit qu'il est sien: « Comme je vous ai aimés, aimez-vous les uns les autres » (Jn 13, 34)
+
+
+
+34 L'Amour trinitaire est l'origine et fin de la personne humaine. Être une personne à l'image et à la ressemblance de Dieu implique aussi le fait d'exister en relation, en rapport avec l'autre "moi", car Dieu lui-même, un et trine, est communion du Père, du Fils et de l'Esprit Saint. Quand Jésus prie le Père pour que “tous soient un..., comme nous nous sommes un” (Jn 17, 21-22), il ouvre des perspectives inaccessibles à la raison et il nous suggère qu'il y a une certaine ressemblance entre l'union des personnes divines et celle des fils de Dieu dans la vérité et dans l'amour. Cette ressemblance montre bien que l'homme, seule créature sur terre que Dieu a voulue pour elle-même, ne peut pleinement se trouver que par le don désintéressé de lui-même. Chaque personne est créée par Dieu, aimée et sauvée en Jésus-Christ et elle se réalise en tissant de multiples relations d'amour, de justice et de solidarité avec les autres personnes, tout en agissant dans le monde de multiples façons. L'agir humain, quand il tend à promouvoir la dignité et la vocation intégrale de la personne, la qualité de ses conditions d'existence, la rencontre et la solidarité entre les peuples et les nations, est conforme au dessein de Dieu, qui ne manque jamais de manifester son amour et sa Providence envers ses enfants.
+
+149 Faite à l'image et à la ressemblance de Dieu (cf. Gn 1, 26) et constituée dans l'univers visible pour vivre en société (cf. Gn 2, 20.23) et pour dominer la terre (cf. Gn 1, 26.28-30), la personne humaine est donc, dès le commencement, appelée à la vie sociale: « Dieu n'a pas créé l'homme comme un “être solitaire”, mais il l'a voulu comme un “être social”. La vie sociale n'est donc pas extérieure à l'homme: il ne peut croître et réaliser sa vocation qu'en relation avec les autres ».
+
+
+
+## 2. Envers autrui
+
+
+### 2.1 Egale dignité de toutes les personnes
+
+144 « Dieu ne fait pas acception des personnes » (Ac 10, 34; cf. Rm 2, 11; Ga 2, 6; Ep 6, 9), car tous les hommes ont la même dignité de créature à son image et à sa ressemblance. L'Incarnation du Fils de Dieu manifeste l'égalité de toutes les personnes quant à leur dignité: « Il n'y a ni Juif ni Grec, il n'y a ni esclave ni homme libre, il n'y a ni homme ni femme; car tous vous ne faites qu'un dans le Christ Jésus » (Ga 3,28; cf. Rm 10, 12; 1 Co 12, 13; Col 3, 11). Étant donné que sur le visage de tout homme resplendit quelque chose de la gloire de Dieu, la dignité de chaque homme devant Dieu constitue le fondement de la dignité de l'homme devant les autres hommes. En outre, c'est aussi le fondement ultime de l'égalité et de la fraternité radicales entre les hommes, indépendamment de leur race, nation, sexe, origine, culture et classe.
+
+145 Seule la reconnaissance de la dignité humaine peut rendre possible la croissance commune et personnelle de tous (cf. Jc 2, 1-9). Pour favoriser une telle croissance, il est particulièrement nécessaire de soutenir les plus petits, d'assurer effectivement des conditions d'égalité entre l'homme et la femme, et de garantir une égalité objective entre les diverses classes sociales devant la loi
+
+
+Fratelli Tutti 118
+>Le monde existe pour tous, car nous tous, en tant qu’êtres humains, nous naissons sur cette terre avec la même dignité. Les différences de couleur, de religion, de capacités, de lieu de naissance, de lieu de résidence, et tant d’autres différences, ne peuvent pas être priorisées ou utilisées pour justifier les privilèges de certains sur les droits de tous. Par conséquent, en tant que communauté, nous sommes appelés à veiller à ce que chaque personne vive dans la dignité et ait des opportunités appropriées pour son développement intégral.
+
+
+### 2.2 Le bien commun
+
+164  De la dignité, de l'unité et de l'égalité de toutes les personnes découle avant tout le principe du bien commun, auquel tout aspect de la vie sociale doit se référer pour trouver une plénitude de sens. Par bien commun on entend: « cet ensemble de conditions sociales qui permettent, tant aux groupes qu'à chacun de leurs membres, d'atteindre leur perfection d'une façon plus totale et plus aisée ». Le bien commun ne consiste pas dans la simple somme des biens particuliers de chaque sujet du corps social. Étant à tous et à chacun, il est et demeure commun, car indivisible et parce qu'il n'est possible qu'ensemble de l'atteindre, de l'accroître et de le conserver, notamment en vue de l'avenir. Comme l'agir moral de l'individu se réalise en faisant le bien, de même l'agir social parvient à sa plénitude en accomplissant le bien commun. De fait, le bien commun peut être compris comme la dimension sociale et communautaire du bien moral.
+
+Il y a une responsabilté de tous à l'égard du bien commun :
+
+166 Les exigences du bien commun dérivent des conditions sociales de chaque époque et sont étroitement liées au respect et à la promotion intégrale de la personne et de ses droits fondamentaux. Ces exigences concernent avant tout l'engagement pour la paix, l'organisation des pouvoirs de l'État, un ordre juridique solide, la sauvegarde de l'environnement, la prestation des services essentiels aux personnes, et dont certains sont en même temps des droits de l'homme: alimentation, logement, travail, éducation et accès à la culture, transport, santé, libre circulation des informations et tutelle de la liberté religieuse. Il ne faut pas oublier l'apport que chaque nation est en devoir de fournir pour une véritable coopération internationale, en vue du bien commun de l'humanité tout entière, y compris pour les générations à venir.
+
+Le bien commun découle des inclinations les plus élevées de l'homme, mais c'est un bien difficile à atteindre, car il requiert la capacité de réaliser le bien des autres comme si c'était le sien et de le rechercher constamment. Tous ont aussi le droit de bénéficier des conditions de vie sociale qui résultent de la recherche du bien commun. L'enseignement de Pie XI demeure très actuel: « Il importe donc d'attribuer à chacun ce qui lui revient et de ramener aux exigences du bien commun ou aux normes de la justice sociale la distribution des ressources de ce monde, dont le flagrant contraste entre une poignée de riches et une multitude d'indigents atteste de nos jours, aux yeux de l'homme de cœur, les graves dérèglements »
+[Encycl. Quadragesimo anno: AAS 23 (1931) 197.]
+
+La responsabilité de poursuivre le bien commun revient non seulement aux individus, mais aussi à l'État, car le bien commun est la raison d'être de l'autorité politique. Pour garantir le bien commun, le gouvernement de chaque pays a pour tâche spécifique d'harmoniser avec justice les divers intérêts sectoriels. Toutefois, une vision purement historique et matérialiste finirait par transformer le bien commun en simple bien-être socio-économique, privé de toute finalisation transcendante, c'est-à-dire de sa raison d'être la plus profonde. Le bien commun de la société n'est pas une fin en soi; il n'a de valeur qu'en référence à la poursuite des fins dernières de la personne et au bien commun universel de la création tout entière. Dieu est la fin dernière de ses créatures et en aucun cas on ne peut priver le bien commun de sa dimension transcendante, qui dépasse mais aussi achève la dimension historique.
+
+### 2.3 Principe de subsidiarité
+
+186 L'exigence de protéger et de promouvoir les expressions originelles de la socialité est soulignée par l'Église dans l'encyclique « Quadragesimo Anno», dans laquelle le principe de subsidiarité est indiqué comme un principe très important de la « philosophie sociale »:
+
+>[Pie XI, Encycl. Quadragesimo anno: AAS 23 (1931) 203] De même qu'on ne peut enlever aux particuliers, pour les transférer à la communauté, les attributions dont ils sont capables de s'acquitter de leur seule initiative et par leurs propres moyens, ainsi ce serait commettre une injustice, en même temps que troubler d'une manière très dommageable l'ordre social, que de retirer aux groupements d'ordre inférieur, pour les confier à une collectivité plus vaste et d'un rang plus élevé, les fonctions qu'ils sont en mesure de remplir eux-mêmes. L'objet naturel de toute intervention en matière sociale est d'aider les membres du corps social, et non pas de les détruire ni de les absorber.
+
+Sur la base de ce principe, toutes les sociétés d'ordre supérieur doivent se mettre en attitude d'aide (« subsidium ») — donc de soutien, de promotion, de développement — par rapport aux sociétés d'ordre mineur. De la sorte, les corps sociaux intermédiaires peuvent remplir de manière appropriée les fonctions qui leur reviennent, sans devoir les céder injustement à d'autres groupes sociaux de niveau supérieur, lesquels finiraient par les absorber et les remplacer et, à la fin, leur nieraient leur dignité et leur espace vital. À la subsidiarité comprise dans un sens positif, comme aide économique, institutionnelle, législative offerte aux entités sociales plus petites, correspond une série d'implications dans un sens négatif, qui imposent à l'État de s'abstenir de tout ce qui restreindrait, de fait, l'espace vital des cellules mineures et essentielles de la société. Leur initiative, leur liberté et leur responsabilité ne doivent pas être supplantées.
+
+187 Le principe de subsidiarité protège les personnes des abus des instances sociales supérieures et incite ces dernières à aider les individus et les corps intermédiaires à développer leurs fonctions. Ce principe s'impose parce que toute personne, toute famille et tout corps intermédiaire ont quelque chose d'original à offrir à la communauté.
+
+189 La conséquence caractéristique de la subsidiarité est la participation,402 qui s'exprime, essentiellement, en une série d'activités à travers lesquelles le citoyen, comme individu ou en association avec d'autres, directement ou au moyen de ses représentants, contribue à la vie culturelle, économique, sociale et politique de la communauté civile à laquelle il appartient.403 La participation est un devoir que tous doivent consciemment exercer, d'une manière responsable et en vue du bien commun.
+
+
+### 2.4 Principe de solidarité
+
+193 Les nouvelles relations d'interdépendance entre les hommes et les peuples qui sont, de fait, des formes de solidarité, doivent se transformer en relations tendant à une véritable solidarité éthico-sociale, qui est l'exigence morale inhérente à toutes les relations humaines. La solidarité se présente donc sous deux aspects complémentaires: celui de principe social et celui de vertu morale. La solidarité doit être saisie avant tout dans sa valeur de principe social ordonnateur des institutions, en vertu duquel les « structures de péché » qui dominent les rapports entre les personnes et les peuples doivent être dépassées et transformées en structures de solidarité, à travers l'élaboration ou la modification opportune de lois, de règles du marché ou la création d'institutions. La solidarité est également une véritable vertu morale, et non pas "un sentiment de compassion vague ou d'attendrissement superficiel pour les maux subis par tant de personnes proches ou lointaines. Au contraire, c'est la détermination ferme et persévérante de travailler pour le bien commun; c'est-à-dire pour le bien de tous et de chacun parce que tous nous sommes vraiment responsables de tous ». La solidarité s'élève au rang de vertu sociale fondamentale parce qu'elle se situe dans la dimension de la justice, vertu orientée par excellence au bien commun et dans l'engagement à « se dépenser pour le bien du prochain en étant prêt, au sens évangélique du terme, à “se perdre” pour l'autre au lieu de l'exploiter, et à “le servir” au lieu de l'opprimer à son propre profit (cf. Mt 10, 40-42; 20, 25; Mc 10, 42-45; Lc 22, 25-27) ».
+
+196 Jésus fait resplendir devant les yeux de tous les hommes le lien entre solidarité et charité, en en éclairant toute la signification: 
+
+>[Jean-Paul II, Encycl. Sollicitudo rei socialis, 40: AAS 80 (1988) 569] À la lumière de la foi, la solidarité tend à se dépasser elle-même, à prendre les dimensions spécifiquement chrétiennes de la gratuité totale, du pardon et de la réconciliation. Alors le prochain n'est pas seulement un être humain avec ses droits et son égalité fondamentale à l'égard de tous, mais il devient l'image vivante de Dieu le Père, rachetée par le sang du Christ et objet de l'action constante de l'Esprit Saint. Il doit donc être aimé, même s'il est un ennemi, de l'amour dont l'aime le Seigneur, et l'on doit être prêt au sacrifice pour lui, même au sacrifice suprême: “Donner sa vie pour ses frères” (cf. 1 Jn 3, 16).
+
+
+
+
+
+
+Fratelli Tutti 115
+>En ces moments où tout semble se diluer et perdre consistance, il convient de recourir à la solidité tirant sa source de la conscience que nous avons d’être responsables de la fragilité des autres dans notre quête d’un destin commun. La solidarité se manifeste concrètement dans le service qui peut prendre des formes très différentes de s’occuper des autres. Servir, c’est en grande partie, prendre soin de la fragilité. Servir signifie prendre soin des membres fragiles de nos familles, de notre société, de notre peuple. Dans cette tâche, chacun est capable de laisser de côté, ses aspirations, ses envies, ses désirs de toute puissance, en voyant concrètement les plus fragiles. [...] Le service vise toujours le visage du frère, il touche sa chair, il sent sa proximité et même dans certains cas la "souffre" et cherche la promotion du frère. Voilà pourquoi, le service n’est jamais idéologique, puisqu’il ne sert pas des idées, mais des personnes.
+
+
+
+
+### 2.5 Immigration
+
+Doctrine Sociale
+
+297 L'immigration peut être une ressource, plutôt qu'un obstacle au développement. Dans le monde actuel où s'aggrave le déséquilibre entre pays riches et pays pauvres et où le développement des communications réduit rapidement les distances, les migrations de personnes en quête de meilleures conditions de vie augmentent. Ces personnes proviennent des régions les moins favorisées de la terre: leur arrivée dans les pays développés est souvent perçue comme une menace pour les niveaux élevés de bien- être atteints grâce à des décennies de croissance économique. Toutefois, les immigrés, dans la majorité des cas, répondent à une demande de travail qui, sans cela, resterait insatisfaite, dans des secteurs et des territoires où la main d'œuvre locale est insuffisante ou n'est pas disposée à effectuer ce travail.
+
+298 Les institutions des pays d'accueil doivent veiller soigneusement à ce que ne se répande pas la tentation d'exploiter la main d'œuvre étrangère, en la privant des droits garantis aux travailleurs nationaux, qui doivent être assurés à tous sans discriminations. La réglementation des flux migratoires selon des critères d'équité et d'équilibre 643 est une des conditions indispensables pour obtenir que les insertions adviennent avec les garanties requises par la dignité de la personne humaine. Les immigrés doivent être accueillis en tant que personnes et aidés, avec leurs familles, à s'intégrer dans la vie sociale.644 Dans cette perspective, le droit au regroupement familial doit être respecté et favorisé.645 En même temps, autant que possible, toutes les conditions permettant des possibilités accrues de travail dans les zones d'origine doivent être encouragées.646
+
+
+Fratelli Tutti
+
+« Et voici qu’un légiste se leva, et dit à Jésus pour l’éprouver : ‘‘Maître, que dois-je faire pour avoir en héritage la vie éternelle ?’’ Il lui dit : ‘‘Dans la Loi, qu'y-a-t-il d’écrit ? Comment lis-tu ?’’ Celui-ci répondit: ‘‘Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta force et de tout ton esprit; et ton prochain comme toi-même’’ ‘‘Tu as bien répondu, lui dit Jésus ; fais cela et tu vivras’’. Mais lui, voulant se justifier, dit à Jésus : ‘‘Et qui est mon prochain ?’’ Jésus reprit : ‘‘Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu de brigands qui, après l’avoir dépouillé et roué de coups, s’en allèrent, le laissant à demi mort. Un prêtre vint à descendre par ce chemin-là ; il le vit et passa outre. Pareillement un lévite, survenant en ce lieu, le vit et passa outre. Mais un Samaritain, qui était en voyage, arriva près de lui, le vit et fut pris de pitié. Il s’approcha, banda ses plaies, y versant de l'huile et du vin, puis le chargea sur sa propre monture, le mena à l’hôtellerie et prit soin de lui. Le lendemain, il tira deux deniers et les donna à l'hôtelier, en disant : Prends soin de lui, et ce que tu auras dépensé en plus, je te le rembourserai, moi, à mon retour. Lequel de ces trois, à ton avis, s'est montré le prochain de l'homme tombé aux mains des brigands ?’’ Il dit : ‘‘Celui-là qui a exercé la miséricorde envers lui.’’ Et Jésus lui dit : ‘‘Va, et toi aussi, fais de même.’’ (Lc 10, 25-37).
+
+
+57. Cette parabole illustre un arrière-plan de plusieurs siècles. Peu de temps après la narration de la création du monde et de l’être humain, la Bible présente le défi des relations entre nous. Caïn tue son frère Abel, et la question de Dieu résonne : « Où est [Abel], ton frère ? » (Gn 4, 9). La réponse est la même que celle que nous donnons souvent : « Suis-je le gardien de mon frère ? » (ibid.). En posant cette question, Dieu met en cause tous les genres de déterminisme ou de fatalisme qui cherchent à justifier l’indifférence comme la seule réponse possible. Il nous dote, au contraire, de la faculté de créer une culture différente qui nous permet de surmonter les inimitiés et de prendre soin les uns des autres.
+
+58. Le livre de Job se réfère au fait d’avoir un même Créateur comme fondement de la défense de certains droits communs : « Ne les a-t-il pas créés comme moi dans le ventre ? Un même Dieu nous forma dans le sein » (Jb 31,15). Des siècles plus tard, saint Irénée l’exprimera par l’image de la mélodie : « Celui […] qui aime la vérité ne doit pas se laisser abuser par l’intervalle existant entre les différents sons ni soupçonner l’existence de plusieurs Artistes ou Auteurs, dont l’un aurait disposé les sons aigus, un autre, les sons graves, un autre encore, les sons intermédiaires ».[54]
+
+59. Dans les traditions juives, le commandement d’aimer et de prendre soin de l’autre semblait se limiter aux relations entre les membres d’une même nation. Le précepte ancien « tu aimeras ton prochain comme toi-même » (Lv 19, 18) était généralement censé se rapporter à des concitoyens. Cependant, surtout dans le judaïsme qui s’est développé hors de la terre d’Israël, les frontières se sont élargies. L’invitation à ne pas faire aux autres ce que tu ne veux pas qu’ils te fassent est apparue (cf. Tb 4, 15). Le sage Hillel (Ier siècle av. J.-C.) disait à ce sujet : « Voilà la loi et les prophètes ! Tout le reste n’est que commentaire ».[55] Le désir d’imiter les attitudes divines a conduit à surmonter cette tendance à se limiter aux plus proches : « La pitié de l’homme est pour son prochain, mais la pitié du Seigneur est pour toute chair » (Si 18, 13).
+
+60. Dans le Nouveau Testament, le précepte d’Hillel est exprimé positivement : « Tout ce que vous voulez que les hommes fassent pour vous, faites-le vous-mêmes pour eux : voilà la Loi et les Prophètes » (Mt 7, 12). Cet appel est universel ; il vise à inclure tous les hommes uniquement en raison de la condition humaine de chacun, car le Très-Haut, le Père qui est aux cieux, « fait lever son soleil sur les méchants et sur les bons » (Mt 5, 45). En conséquence, il est demandé : « Montrez-vous compatissants, comme votre Père est compatissant » (Lc 6, 36).
+
+61. Il y a une raison pour élargir le cœur de manière à ne pas exclure l’étranger, raison qu’on peut déjà trouver dans les textes les plus anciens de la Bible. Cela est dû au souvenir constant qu’entretient le peuple juif d’avoir vécu comme étranger en Égypte :
+
+« Tu ne molesteras pas l’étranger ni ne l’opprimeras car vous-mêmes avez été étrangers dans le pays d’Egypte » (Ex 22, 20).
+
+« Tu n’opprimeras pas l’étranger. Vous savez ce qu’éprouve l’étranger, car vous-mêmes avez été étrangers au pays d’Egypte » (Ex 23, 9).
+
+« Si un étranger réside avec vous dans votre pays, vous ne le molesterez pas. L’étranger qui réside avec vous sera pour vous comme un compatriote et tu l’aimeras comme toi-même, car vous avez été étrangers au pays d’Egypte » (Lv 19, 33-34).
+
+« Lorsque tu vendangeras ta vigne, tu n’iras rien y grappiller ensuite. Ce qui restera sera pour l’étranger, l’orphelin et la veuve. Et tu te souviendras que tu as été en servitude au pays d’Egypte » (Dt 24, 21-22).
+
+Dans le Nouveau Testament, l’appel à l’amour fraternel retentit avec force :
+
+« Car une seule formule contient toute la Loi en sa plénitude : Tu aimeras ton prochain comme toi-même » (Ga 5, 14).
+
+« Celui qui aime son frère demeure dans la lumière et il n’y a en lui aucune occasion de chute. Mais celui qui hait son frère est dans les ténèbres » (1 Jn 2, 10-11).
+
+« Nous savons, nous, que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui qui n’aime pas demeure dans la mort » (1 Jn 3, 14).
+
+« Celui qui n’aime pas son frère, qu’il voit, ne saurait aimer le Dieu qu’il ne voit pas » (1 Jn 4, 20).
+
+62. Même cette proposition d’amour pouvait être mal comprise. Ce n’est pas pour rien que, face à la tentation des premières communautés chrétiennes de créer des groupes fermés et isolés, saint Paul exhortait ses disciples à vivre l’amour entre eux « et envers tous » (1 Th 3, 12), et que, dans la communauté de Jean, il était demandé de bien accueillir les frères « bien que ce soient des étrangers » (3 Jn 5). Ce contexte aide à comprendre la valeur de la parabole du bon Samaritain : il importe peu à l’amour que le frère blessé soit d’ici ou de là-bas. En effet, c’est l’« amour qui brise les chaînes qui nous isolent et qui nous séparent en jetant des ponts ; un amour qui nous permet de construire une grande famille où nous pouvons tous nous sentir chez nous. […] Un amour qui a saveur de compassion et de dignité ».[56]
+
+
+
+84. Enfin, je me souviens que, dans un autre passage de l’Évangile, Jésus dit : « J’étais un étranger et vous m’avez accueilli » (Mt 25, 35). Jésus pouvait prononcer ces mots parce qu’il avait un cœur ouvert faisant siens les drames des autres. Saint Paul exhortait : « Réjouissez-vous avec qui est dans la joie, pleurez avec qui pleure » (Rm 12, 15). Lorsque le cœur adopte cette attitude, il est capable de s’identifier à l’autre, peu importe où il est né ou d’où il vient. En entrant dans cette dynamique, il fait finalement l’expérience que les autres sont « sa propre chair » (Is 58, 7).
+
+85. Pour les chrétiens, les paroles de Jésus ont encore une autre dimension transcendante. Elles impliquent qu’il faut reconnaître le Christ lui-même dans chaque frère abandonné ou exclu (cf. Mt 25, 40.45). En réalité, la foi fonde la reconnaissance de l’autre sur des motivations inouïes, car celui qui croit peut parvenir à reconnaître que Dieu aime chaque être humain d’un amour infini et qu’« il lui confère ainsi une dignité infinie ».[61] À cela s’ajoute le fait que nous croyons que le Christ a versé son sang pour tous et pour chacun, raison pour laquelle personne ne se trouve hors de son amour universel. Et si nous allons à la source ultime, c’est-à-dire la vie intime de Dieu, nous voyons une communauté de trois Personnes, origine et modèle parfait de toute vie commune. Sur ce point, il y a des développements théologiques de grande portée. La théologie continue de s’enrichir grâce à la réflexion sur cette grande vérité.
+
+86. Parfois, je m’étonne que, malgré de telles motivations, il ait fallu si longtemps à l’Église pour condamner avec force l’esclavage et les diverses formes de violence. Aujourd’hui, avec le développement de la spiritualité et de la théologie, nous n’avons plus d’excuses. Cependant, il s’en trouve encore qui semblent se sentir encouragés, ou du moins autorisés, par leur foi à défendre diverses formes de nationalismes, fondés sur le repli sur soi et violents, des attitudes xénophobes, le mépris, voire les mauvais traitements à l’égard de ceux qui sont différents. La foi, de par l’humanisme qu’elle renferme, doit garder un vif sens critique face à ces tendances et aider à réagir rapidement quand elles commencent à s’infiltrer.
+
+
+
+## 3. Rapport aux biens matériels
 
 <img src="/images/denier_cesar.png">
 
-### Références
+
+
+### 3.1 Destination universelle des biens
+
+171 Parmi les multiples implications du bien commun, le principe de la destination universelle des biens revêt une importance immédiate: « Dieu a destiné la terre et tout ce qu'elle contient à l'usage de tous les hommes et de tous les peuples, en sorte que les biens de la création doivent équitablement affluer entre les mains de tous, selon la règle de la justice, inséparable de la charité » [Concile Œcuménique Vatican II, Const. past. Gaudium et spes, 69: AAS 58 (1966) 1090]. Ce principe se base sur le fait que « la première origine de tout bien est l'acte de Dieu lui-même qui a créé la terre et l'homme, et qui a donné la terre à l'homme pour qu'il la maîtrise par son travail et jouisse de ses fruits (cf. Gn 1, 28-29). Dieu a donné la terre à tout le genre humain pour qu'elle fasse vivre tous ses membres, sans exclure ni privilégier personne. C'est là l'origine de la destination universelle des biens de la terre. En raison de sa fécondité même et de ses possibilités de satisfaire les besoins de l'homme, la terre est le premier don de Dieu pour la subsistance humaine ». En effet, la personne ne peut pas se passer des biens matériels qui répondent à ses besoins primaires et constituent les conditions de base de son existence; ces biens lui sont absolument indispensables pour se nourrir et croître, pour communiquer, pour s'associer et pour pouvoir réaliser les plus hautes finalités auxquelles elle est appelée.
+
+172 Le principe de la destination universelle des biens de la terre est à la base du droit universel à l'usage des biens. Chaque homme doit avoir la possibilité de jouir du bien-être nécessaire à son plein développement: le principe de l'usage commun des biens est le « premier principe de tout l'ordre éthico-social » et « principe caractéristique de la doctrine sociale chrétienne ». C'est la raison pour laquelle l'Église a estimé nécessaire d'en préciser la nature et les caractéristiques. Il s'agit avant tout d'un droit naturel, inscrit dans la nature de l'homme, et non pas simplement d'un droit positif, lié à la contingence historique; en outre, ce droit est « originaire ». Il est inhérent à l'individu, à chaque personne, et il est prioritaire par rapport à toute intervention humaine sur les biens, à tout ordre juridique de ceux-ci, à toute méthode et tout système économiques et sociaux: « Tous les autres droits, quels qu'ils soient, y compris ceux de propriété et de libre commerce, y sont subordonnés [à la destination universelle des biens]: ils n'en doivent donc pas entraver, mais bien au contraire faciliter la réalisation, et c'est un devoir social grave et urgent de les ramener à leur finalité première » [Paul VI, Encycl. Populorum progressio, 22: AAS 59 (1967) 268].
+
+173 La mise en œuvre concrète du principe de la destination universelle des biens, selon les différents contextes culturels et sociaux, implique une définition précise des modes, des limites et des objets. Destination et usage universel ne signifient pas que tout soit à la disposition de chacun ou de tous, ni même que la même chose serve ou appartienne à chacun ou à tous. S'il est vrai que tous naissent avec le droit à l'usage des biens, il est tout aussi vrai que, pour en assurer un exercice équitable et ordonné, des interventions réglementées sont nécessaires, fruits d'accords nationaux et internationaux, ainsi qu'un ordre juridique qui détermine et spécifie cet exercice.
+
+174 Le principe de la destination universelle des biens invite à cultiver une vision de l'économie inspirée des valeurs morales qui permettent de ne jamais perdre de vue ni l'origine, ni la finalité de ces biens, de façon à réaliser un monde juste et solidaire, où la formation de la richesse puisse revêtir une fonction positive. En effet, la richesse présente cette valeur dans la multiplicité des formes qui peuvent l'exprimer comme résultat d'un processus productif d'élaboration technique et économique des ressources disponibles, naturelles et dérivées, conduit par l'imagination, par la capacité de programmation, par le travail des hommes, et employé comme moyen utile pour promouvoir le bien-être des hommes et des peuples et pour s'opposer à leur exclusion et à leur exploitation.
+
+### 3.2 Propriété privée
+
+176 Par le travail, l'homme, utilisant son intelligence, parvient à dominer la terre et à en faire sa digne demeure: « Il s'approprie ainsi une partie de la terre, celle qu'il s'est acquise par son travail. C'est là l'origine de la propriété individuelle ». La propriété privée et les autres formes de possession privée des biens « assurent à chacun une zone indispensable d'autonomie personnelle et familiale; il faut les regarder comme un prolongement de la liberté humaine. Enfin, en stimulant l'exercice de la responsabilité, ils constituent l'une des conditions des libertés civiles ». La propriété privée est un élément essentiel d'une politique économique authentiquement sociale et démocratique et la garantie d'un ordre social juste. La doctrine sociale exige que la propriété des biens soit équitablement accessible à tous, de sorte que tous en deviennent, au moins dans une certaine mesure, propriétaires, sans pour autant qu'ils puissent les « posséder confusément». 
+
+
+177 La tradition chrétienne n'a jamais reconnu le droit à la propriété privée comme absolu ni intouchable: « Au contraire, elle l'a toujours entendu dans le contexte plus vaste du droit commun de tous à utiliser les biens de la création entière: le droit à la propriété privée est subordonné à celui de l'usage commun, à la destination universelle des biens » [Jean-Paul II, Encycl. Laborem exercens, 14: AAS 73 (1981) 613]. Le principe de la destination universelle des biens affirme à la fois la seigneurie pleine et entière de Dieu sur toute réalité et l'exigence que les biens de la création demeurent finalisés et destinés au développement de tout l'homme et de l'humanité tout entière. Ce principe ne s'oppose pas au droit de propriété,374 mais indique la nécessité de le réglementer.
+
+178 L'enseignement social de l'Église exhorte à reconnaître la fonction sociale de toute forme de possession privée, avec une référence claire aux exigences incontournables du bien commun. L'homme « ne doit jamais tenir les choses qu'il possède légitimement comme n'appartenant qu'à lui, mais les regarder aussi comme communes: en ce sens qu'elles puissent profiter non seulement à lui, mais aussi aux autres » [Concile Œcuménique Vatican II, Const. past. Gaudium et spes, 69: AAS 58 (1966) 1090]. La destination universelle des biens comporte, pour leur usage, des obligations de la part de leurs propriétaires légitimes. L'individu ne peut pas agir sans tenir compte des effets de l'usage de ses ressources, mais il doit agir de façon à poursuivre aussi, au-delà de son avantage personnel et familial, le bien commun. Il s'ensuit un devoir de la part des propriétaires de ne pas laisser improductifs les biens possédés, mais de les destiner à l'activité productive, notamment en les confiant à ceux qui ont le désir et les capacités de les faire fructifier.
+
+179 Les nouvelles connaissances techniques et scientifiques doivent être mises au service des besoins primordiaux de l'homme, afin que le patrimoine commun de l'humanité puisse progressivement s'accroître. La pleine mise en pratique du principe de la destination universelle des biens requiert par conséquent des actions au niveau international et des initiatives programmées par tous les pays: « Il faut rompre les barrières et les monopoles qui maintiennent de nombreux peuples en marge du développement, assurer à tous les individus et à toutes les nations les conditions élémentaires qui permettent de participer au développement » [Jean-Paul II, Encycl. Centesimus annus, 35: AAS 83 (1991) 837].
+
+180 La propriété individuelle n'est pas la seule forme légitime de possession. L'ancienne forme de propriété communautaire revêt également une importance particulière; bien que présente aussi dans les pays économiquement avancés, elle caractérise particulièrement la structure sociale de nombreux peuples indigènes. C'est une forme de propriété qui a une incidence si profonde sur la vie économique, culturelle et politique de ces peuples qu'elle constitue un élément fondamental de leur survie et de leur bien-être.
+
+181 Une série d'avantages objectifs dérive de la propriété pour le sujet propriétaire, qu'il s'agisse d'un individu ou d'une communauté: conditions de vie meilleure, sécurité pour l'avenir, plus vastes opportunités de choix. Par ailleurs, une série de promesses illusoires et tentatrices peut aussi provenir de la propriété. L'homme ou la société qui arrivent au point de lui attribuer un rôle absolu finissent par faire l'expérience de l'esclavage le plus radical. Aucune possession, en effet, ne peut être considérée comme indifférente à cause de l'influence qu'elle a aussi bien sur les individus que sur les institutions: le propriétaire imprudent qui idolâtre ses biens (cf. Mt 6, 24; 19, 21-26; Lc 16, 13) vient à en être possédé et asservi plus que jamais. Ce n'est qu'en reconnaissant leur dépendance vis-à-vis du Dieu Créateur et en les finalisant par conséquent au bien commun qu'il est possible de conférer aux biens matériels la fonction d'instruments utiles à la croissance des hommes et des peuples.
+
+
+
+
+
+Fratelli Tutti 120
+>Tous les autres droits concernant les biens nécessaires à l’épanouissement intégral des personnes, y compris celui de la propriété privée et tout autre droit « n’en doivent donc pas entraver, mais bien au contraire faciliter la réalisation », comme l’affirmait saint Paul VI. Le droit à la propriété privée ne peut être considéré que comme un droit naturel secondaire et dérivé du principe de la destination universelle des biens créés ; et cela comporte des conséquences très concrètes qui doivent se refléter sur le fonctionnement de la société. Mais il arrive souvent que les droits secondaires se superposent aux droits prioritaires et originaires en les privant de toute portée pratique.
+
+
+
+
+### 3.3 Option préférentielle pour les pauvres
+
+
+182 Le principe de la destination universelle des biens requiert d'accorder une sollicitude particulière aux pauvres, à ceux qui se trouvent dans des situations de marginalité et, en tout cas, aux personnes dont les conditions de vie entravent une croissance appropriée. À ce propos il faut réaffirmer, dans toute sa force, l'option préférentielle pour les pauvres: « C'est là une option, ou une forme spéciale de priorité dans la pratique de la charité chrétienne dont témoigne toute la tradition de l'Église. Elle concerne la vie de chaque chrétien, en tant qu'il imite la vie du Christ, mais elle s'applique également à nos responsabilités sociales et donc à notre façon de vivre, aux décisions que nous avons à prendre de manière cohérente au sujet de la propriété et de l'usage des biens. Mais aujourd'hui, étant donné la dimension mondiale qu'a prise la question sociale, cet amour préférentiel, de même que les décisions qu'il nous inspire, ne peut pas ne pas embrasser les multitudes immenses des affamés, des mendiants, des sans-abri, des personnes sans assistance médicale et, par-dessus tout, sans espérance d'un avenir meilleur » [Jean-Paul II, Encycl. Sollicitudo rei socialis, 42: AAS 80 (1988) 572-573].
+
+183 La misère humaine est le signe évident de la condition de faiblesse de l'homme et de son besoin de salut.386 Le Christ Sauveur a eu pitié d'elle, lui qui s'est identifié à ceux qu'il appelait les « plus petits de mes frères » (Mt 25, 40.45): « C'est à ce qu'ils auront fait pour les pauvres que Jésus-Christ reconnaîtra ses élus. Lorsque “la bonne nouvelle est annoncée aux pauvres” (Mt 11, 5), c'est le signe de la présence du Christ ». Jésus dit: « Les pauvres, en effet, vous les aurez toujours avec vous, mais moi, vous ne m'aurez pas toujours » (Mt 26, 11; cf. Mc 14, 7; Jn 12, 8), non pas pour opposer au service des pauvres l'attention qui lui est accordée. Si, d'une part, le réalisme chrétien apprécie les efforts louables faits pour vaincre la pauvreté, de l'autre il met en garde contre les positions idéologiques et contre les messianismes qui alimentent l'illusion d'éliminer totalement de ce monde le problème de la pauvreté. Cela n'adviendra qu'au retour du Christ, quand il sera de nouveau avec nous pour toujours. Entre-temps, les pauvres nous sont confiés et c'est sur cette responsabilité que nous serons jugés à la fin (cf. Mt 25, 31-46): « Notre Seigneur nous avertit que nous serons séparés de lui si nous omettons de rencontrer les besoins graves des pauvres et des petits qui sont ses frères ».
+
+184 S'inspirant du précepte évangélique « Vous avez reçu gratuitement, donnez gratuitement » (Mt 10, 8), l'Église enseigne à secourir le prochain selon ses divers besoins et accomplit largement dans la communauté humaine d'innombrables œuvres de miséricorde corporelles et spirituelles: « Parmi ces gestes, l'aumône faite aux pauvres est un des principaux témoignages de la charité fraternelle: elle est aussi une pratique de justice qui plaît à Dieu »,391 même si la pratique de la charité ne se réduit pas à l'aumône, mais implique l'attention à la dimension sociale et politique du problème de la pauvreté. L'enseignement de l'Église revient constamment sur le rapport entre charité et justice: « Quand nous donnons aux pauvres les choses indispensables, nous ne faisons pas pour eux des dons personnels, mais nous leur rendons ce qui est à eux. Plus qu'accomplir un acte de charité, nous accomplissons un devoir de justice » [Saint Grégoire le Grand, Regula pastoralis, 3, 21: PL 77, 87]. Les Pères conciliaires recommandent fortement d'accomplir ce devoir « de peur que l'on n'offre comme don de la charité ce qui est déjà dû en justice ». L'amour pour les pauvres est certainement « incompatible avec l'amour immodéré des richesses ou leur usage égoïste » (cf. Jc 5, 1-6).
+
+
+### 3.4 L'argent dans l'Eglise ancienne
+
+Les biens, même légitimement possédés, conservent toujours une destination universelle; toute forme d'accumulation indue est immorale, car en plein contraste avec la destination universelle assignée par le Dieu Créateur à tous les biens [[Doctrine Sociale 328](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_fr.html)]. De fait, le salut chrétien est une libération intégrale de l'homme, libération par rapport au besoin, mais aussi par rapport à la possession en soi: « Car la racine de tous les maux, c'est l'amour de l'argent. Pour s'y être livrés, certains se sont égarés loin de la foi » (1 Tm 6, 10). Les Pères de l'Église insistent sur la nécessité de la conversion et de la transformation des consciences des croyants, plus que sur les exigences de changement des structures sociales et politiques de leur époque, en pressant ceux qui s'adonnent à une activité économique et possèdent des biens de se considérer comme des administrateurs de ce que Dieu leur a confié. Les richesses remplissent leur fonction de service à l'homme quand elles sont destinées à produire des bénéfices pour les autres et pour la société [[Doctrine Sociale 329](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_fr.html)]
+
+#### 3.4.1 Références
 
 - [Ambroise de Milan](/references/ambroisedemilan.html#naboth) évoque [L'histoire de Naboth, mis à mort pour qu'Achab puisse s'emparer de sa vigne, 1 Rois 21, 1-4](/pages/ancientestament.html#1rois-21-1-4) :
 >Naboth d’Izréel avait une vigne à Izréel ; elle était à côté du palais d’Akhab, roi de Samarie. Akhab parla à Naboth : "Cède-moi ta vigne pour qu’elle me serve de jardin potager, car elle est juste à côté de ma maison ; et je te donnerai à sa place une vigne meilleure. Mais si cela te convient, je puis te donner son prix en argent." Naboth dit à Akhab : "Que le Seigneur m’ait en abomination si je te cède l’héritage de mes pères." Akhab rentra chez lui sombre et contrarié à cause de ce que lui avait dit Naboth d’Izréel : "Je ne te céderai pas l’héritage de mes pères." Il se coucha sur son lit, tourna son visage contre le mur, et ne voulut pas manger.
@@ -108,48 +254,48 @@ Toutefois, la plupart des textes de l'Ecriture sur lesquels s'appuie la réflexi
 >A l’intérieur, il y a des crimes ; brutalité et tromperie ne quittent pas ses rues.
 
 
-### 1. Les riches
+#### 3.4.2 Les riches
 
-#### 1.1 Le mauvais riche
+##### Le mauvais riche
 
 La figure du riche est majoritairement négative. Les Pères stigmatisent l'égoïsme et la cruauté du mauvais riche ([[Basile de Césarée 6, 4-5](/references/basiledecesaree.html#homelie-6)] ; [[Jean Chrysostome 1, 7](/references/jeanchrysostome.html#homelie-1)]), son luxe et son gaspillage ([[Basile de Césarée 7, 4](/references/basiledecesaree.html#homelie-7)] ; [[Grégoire de Nysse 1, 16-17](/references/gregoiredenysse.html#bienfaisance)] ; [[Jean Chrysostome 1, 7-8](/references/jeanchrysostome.html#homelie-1)]), son arrogance [[Jean Chrysostome 2, 2](/references/jeanchrysostome.html#homelie-2)]. Or la richesse est trompeuse ([[Basile de Césarée 7, 7](/references/basiledecesaree.html#homelie-7)] : l'or n'est qu'un caillou, et la richesse ne dispense ni de la maladie ni de la mort). Elle crée plus de soucis que de bonheur à ceux qui lui sont attachés [[Basile de Césarée 6, 2](/references/basiledecesaree.html#homelie-6)] car le riche n'est jamais satisfait, toujours il lui manque quelque chose ([[Basile de Césarée 7, 5](/references/basiledecesaree.html#homelie-7)] ; [[Jean Chrysostome 63, 3-4](/references/jeanchrysostome.html#homelie-63)] ; [[Ambroise de Milan 27-32](/references/ambroisedemilan.html#naboth)]). Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement : [[Basile de Césarée 6, 5-6](/references/basiledecesaree.html#homelie-6)] ; [[Grégoire de Nazianze 18](/references/gregoiredenazianze.html#amour-pauvres)] ; [[Grégoire de Nysse 1, 10](/references/gregoiredenysse.html#bienfaisance)] ; [[Jean Chrysostome 1, 11](/references/jeanchrysostome.html#homelie-1)][[Jean Chrysostome 2, 3](/references/jeanchrysostome.html#homelie-2)].
 
-#### 1.2 Le bon riche
+##### Le bon riche
 
 Mais la richesse n'est pas forcément mauvaise. Bien utilisée, elle contribue au salut du riche. Certes, il est plus difficile à un riche d'être sauvé, comme le dit Jésus par l'image du chameau et du chas de l'aiguille (Lc 18, 25) : [[Clément d'Alexandrie 2](/references/clementdalexandrie.html#quel-riche)]. Mais le riche ne doit pas désespérer : ce n'est pas la richesse qui est mauvaise, mais l'attachement à la richesse [[Clément d'Alexandrie 11-13](/references/clementdalexandrie.html#quel-riche)] ; [[Augustin d'Hippone 36, 5](/references/augustindhippone.html#sermon-36)]) et surtout le refus du partage [[Basile de Césarée 6, 8](/references/basiledecesaree.html#homelie-6)]. Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien ([[Clément d'Alexandrie 14](/references/clementdalexandrie.html#quel-riche)] ; [[Jean Chrysostome 34, 6-7](/references/jeanchrysostome.html#homelie-34)] ; [[Augustin d'Hippone 36, 6.9](/references/augustindhippone.html#sermon-36)] ; [[Augustin d'Hippone 41, 6](/references/augustindhippone.html#sermon-41)]).
 
-#### 1.3 Les riches ont besoin des pauvres
+##### Les riches ont besoin des pauvres
 
 Les pauvres sont nécessaires aux riches car ils sont pour eux le moyen d'être sauvés par le partage [[Jean Chrysostome 34, 4](/references/jeanchrysostome.html#homelie-34)]. De plus, si les pauvres peuvent se passer des riches, les riches ne peuvent vivre sans le travail des pauvres [[Jean Chrysostome 34, 5](/references/jeanchrysostome.html#homelie-34)]. En fait, le riche doit reconnaître qu'il est lui aussi un pauvre [[Ambroise de Milan 4.8](/references/ambroisedemilan.html#naboth)].
 
-### 2. Les pauvres
+#### 3.4.3 Les pauvres
 
-#### 2.1 Les exclus
+##### Les exclus
 
 Du fait de la dureté de coeur des riches, la pauvreté prend souvent la forme de la misère. Les pauvres sont parfois contraints de vendre leurs enfants pour survivre : [[Basile de Césarée 6, 4](/references/basiledecesaree.html#homelie-6)] ; [[Ambroise de Milan 21](/references/ambroisedemilan.html#naboth)]. Une catégorie de pauvres est particulièrement pitoyable : il s'agit des mendiants lépreux, abandonnés de tous, exclus des cités, alors qu'ils sont nos frères : [Grégoire de Nazianze 9](/references/gregoiredenazianze.html#amour-pauvres)] ; [[Grégoire de Nysse 2, 4-16](/references/gregoiredenysse.html#mesure)] ; [[Jean Chrysostome 1, 6.9.10](/references/jeanchrysostome.html#homelie-1)]
 
-#### 2.2 Le mauvais pauvre
+##### Le mauvais pauvre
 
 Mais si tous les pauvres sont à secourir, on ne doit pas les idéaliser : certians pauvres sont aussi mauvais que des riches : ainsi, le pauvre envieux ne vaut pas mieux que le riche, car ce qui compte, ce n'est pas l'état matériel mais l'humilité intérieure : [[Augustin d'Hippone 14, 5](/references/augustindhippone.html#sermon-14)].
 
-#### 2.3 Vraie richesse et vraie pauvreté sont intérieures
+##### Vraie richesse et vraie pauvreté sont intérieures
 
 Pour Augustin en effet, pauvreté et richesse ne renvoient pas principalement à des catégories sociales, mais à des dispositions du coeur : [[Augustin d'Hippone 36, 3-4.7-8.10](/references/augustindhippone.html#sermon-36)]. En définitive, le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre" (2 Co 8, 9) : [[Augustin d'Hippone 36, 3](/references/augustindhippone.html#sermon-36)][[Augustin d'Hippone 14, 9](/references/augustindhippone.html#sermon-14)][[Augustin d'Hippone 41, 7](/references/augustindhippone.html#sermon-41)][[Augustin d'Hippone 123 passim](/references/augustindhippone.html#sermon-123)]
 
 
-### 3. Eloge de la charité
+#### 3.4.4 Eloge de la charité
 
 Tous ces textes sont de vibrants plaidoyers en faveur de la charité et du partage. En faisant le bien, l'homme imite Dieu ([[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)]; [[Grégoire de Nysse 1, 11-13](/references/gregoiredenysse.html#bienfaisance)]). Il faut venir en aide aux pauvres, non par de belles paroles mais de façon concrète ([[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)] ; [[Grégoire de Nysse 2, 10](/references/gregoiredenysse.html#mesure)]) : nous devons devenir "la bête de somme du Christ en nous liant avec les courroies de la charité"). L'aumône, reine des vertus [[Jean Chrysostome 2, 4](/references/jeanchrysostome.html#homelie-2)] efface les péchés [[Grégoire de Nazianze 36-40](/references/gregoiredenazianze.html#amour-pauvres)]. Le jeûne qui plait à Dieu, c'est l'amour des pauvres [[Grégoire de Nysse 1, 2-6](/references/gregoiredenysse.html#bienfaisance)], ces pauvres qui sont le Christ [[Grégoire de Nysse 1, 9](/references/gregoiredenysse.html#bienfaisance)]. Ainsi, que chacun prenne soin de ses voisins [[Grégoire de Nysse 1, 7](/references/gregoiredenysse.html#bienfaisance)] et utilise son argent pour se faire des amis et des intercesseurs auprès de Dieu ([[Clément d'Alexandrie 35](/references/clementdalexandrie.html#quel-riche)] ; [[Grégoire de Nysse 2, 16](/references/gregoiredenysse.html#mesure)]; "faites vous des amis avec l'argent trompeur").
 
-### 4. Dénonciation de l'usure
+#### 3.4.5 Dénonciation de l'usure
 
 Un thème revient souvent dans ces textes, reflet d'une réalité sociale de l'époque mais aussi de toujours : l'endettement des débiteurs du fait de la rapacité des créanciers. Alors que l'Evangile ne contient pas de condamnation du prêt à intérêt (cf. la parabole des talents : Mt 25, 13-27), les Pères grecs ont largement condamné cette pratique à cause des abus qu'elle entraine quand l'intérêt devient excessif (on parle alors d'usure). Curieusement, c'est pourtant en Occident que cette condamnation sera surtout reprise durant le Moyen Age. Grégoire de Nysse consacre toute une homélie à combattre "ceux qui pratiquent l'usure" [[Grégoire de Nysse 3](/references/gregoiredenysse.html#contre-usure)]. [Basile de Césarée 2, 1](/references/basiledecesaree.html#homelie-2) fournit le dossier scripturaire emprunté à l'Ancien Testament.
 
-#### 4.1 Le créancier
+##### Le créancier
 
 Basile et Grégoire de Nysse nous donnent des descriptions saisissantes de la cruauté des créanciers sans coeur ([Basile de Césarée 2, 1](/references/basiledecesaree.html#homelie-2) ; [[Grégoire de Nysse 3, 5](/references/gregoiredenysse.html#contre-usure)]). Grégoire dénonce l'hypocrisie du créancier qui se donne des airs de philanthrope parce qu'ils prête son argent aux pauvres, alors qu'il ne cherche que son profit [[Grégoire de Nysse 3, 3-4.8](/references/gregoiredenysse.html#contre-usure)]. Mais c'est un mauvais calcul, car le créancier, qui n'est pas sûr d'être remboursé, est rempli d'angoisses : c'est le cas en particulier pour celui qui pratique le prêt maritime ([[Grégoire de Nysse 3, 6](/references/gregoiredenysse.html#contre-usure)] : on remarquera que Grégoire ne fait pas ici la distinction entre l'emprunt destiné à financer une entreprise économique, qui ne concerne pas forcément les pauvres, et l'emprunt du misérable pour sa survie). De toutes façons, pour le créancier non plus, l'argent ne fait pas le bonheur car il ne l'emportera pas au paradis [[Grégoire de Nysse 3, 10-11](/references/gregoiredenysse.html#contre-usure)].
 
-#### 4.2 Le débiteur
+##### Le débiteur
 
 Le portrait du débiteur est plus nuancé que celui du créancier. Il existe en effet plusieurs sortes de débiteurs :
 - le débiteur insouciant qui emprunte pour maintenir un train de vie au dessus de ses moyens [[Basile de Césarée 2, 2](/references/basiledecesaree.html#homelie-2)] et à qui Basile déclare qu'il vaut mieux travailler qu'emprunter [[Basile de Césarée 2, 4](/references/basiledecesaree.html#homelie-2)].
@@ -157,27 +303,27 @@ Le portrait du débiteur est plus nuancé que celui du créancier. Il existe en 
 
 Pour ces deux sortes de débiteurs, les dettes sont un fléau [[Basile de Césarée 2, passion](/references/basiledecesaree.html#homelie-2)].
 
-#### 4.3 Considérations générales sur le prêt à intérêt
+##### Considérations générales sur le prêt à intérêt
 
 Basile et Grégoire de Nysse sont apparemment les seuls à utiliser un argument emprunté à Aristote (Politique, I, 1258b), et qui sera repris par Thomas d'Aquin : la stérilité naturelle de l'or qui est un simple caillou, contrairement à la graine que plante un agriculteur ([[Basile de Césarée 2, 3](/references/basiledecesaree.html#homelie-2)] ; [[Grégoire de Nysse 3, 7](/references/gregoiredenysse.html#contre-usure)]). Cet argument est fondé sur des considérations étymologiques, explicites chez Basile : l'intérêt se dit en grec *tokos*, qui veut dire "rejeton". Il est contre-nature de faire porter des rejetons à ce qui est stérile par nature. Enfin, le prêt à intérêt est un mauvais calcul. Le seul prêt vraiment profitable est le prêt sans intérêt, voire le don, car prêter sans intérêt ou donner aux pauvres, c'est avoir Dieu lui-même pour débiteur ([[Basile de Césarée 2, 5](/references/basiledecesaree.html#homelie-2)] ; [[Augustin d'Hippone 123, 5](/references/augustindhippone.html#sermon-123)]).
 
-### 5. Réflexions à résonnance moderne
+#### 3.4.6 Réflexions à résonnance moderne
 
 Ce dossier apparaît très actuel dans notre monde où la misère et les inégalités resurgissent tragiquement. On relèvera ainsi dans l'argumentation de ces auteurs des IIIe-Ve siècles des réflexions qui n'ont rien perdu de leur actualité.
 
-#### 5.1 Abondance des pauvres
+##### Abondance des pauvres
 
 Les pauvres sont omniprésents. Grégoiré de Nysse énumère la cohorte des "gens nus et sans abri, prisonniers, étrangers, déplacés" [[Grégoire de Nysse 1, 5](/references/gregoiredenysse.html#bienfaisance)]. Le meurtre de Naboth par Achab, du pauvre par le riche qui convoite son pauvre avoir, est quotidien : "Chaque jour Naboth est exécuté, chaque jour le pauvre est mis à mort" dit Ambroise qui évoque en particulier l'émigration forcée, l'exil dû à la misère [[Ambroise de Milan 1](/references/ambroisedemilan.html#naboth)]. Le luxe des riches contraste avec la misère des pauvres [[Grégoire de Nazianze 16](/references/gregoiredenazianze.html#amour-pauvres)].
 
-#### 5.2 L'inégalité n'est pas naturelle
+##### L'inégalité n'est pas naturelle
 
 Tout appartient à Dieu car tout vient de lui [[Grégoire de Nazianze 22-23](/references/gregoiredenazianze.html#amour-pauvres)], si bien que tous les hommes sont égaux devant le créateur [[Jean Chrysostome 2, passim](/references/jeanchrysostome.html#homelie-2)]. La condition originelle de l'homme, tel qu'il est sorti des mains du créateur, est l'égalité. Grégoire de Nazianze rappelle que "pauvreté et richesse, condition libre et condition servile ... sont arrivées plus tard dans la race des hommes ... elles ont déferlé sur nous comme des épidémies amenées par le péché dont elles étaient les inventions. ... (Il faut) considérer l'égalité primitive" [[Grégoire de Nazianze 25-2-6](/references/gregoiredenazianze.html#amour-pauvres)]. Ambroise, lui aussi, souligne l'égalité de tous à l'origine [[Ambroise de Milan 2](/references/ambroisedemilan.html#naboth)].
 
-#### 5.3 Les riches accpararent les biens communs
+##### Les riches accpararent les biens communs
 
 Nous ne sommes que les gérants des biens de cette terre, non leurs propriétaires [[Grégoire de Nazianze 24](/references/gregoiredenazianze.html#amour-pauvres)]. Mais certains se sont appropriés les biens communs à tous, et c'est là l'origine de la richesse et de la pauvreté. Basile dénonce avec vigueur ceux qui revendiquent la propriété de ces biens : "Les biens communs sur lesquels ils ont mis la main les premiers, ils considèrent qu'ils y ont droit personnellement, parce qu'ils sont les premiers occupants". Or ces biens "ont été préparés pour l'usage de tous. ... Si chacun ne se réservait que ce qui satisfait ses nécessités, et laissait le surplus aux indigents, personne ne serait riche, personne ne serait pauvre. ... à l'affamé le pain que tu gardes. A l'homme nu, le manteau que tu conserves dans tes coffres..." [[Basile de Césarée 6, 7](/references/basiledecesaree.html#homelie-6)]. Jean Chrysostome à son tour dénonce en termes forts l'accaparement des richesses par une minorité : "C'est par des vols, par des pillages de tombeaux, par des supercheries et par d'autres procédés analogues que l'on amasser généralement de grandes fortunes" ; mais il souligne aussi que la prodigalité de certains peut être à l'origine de leur pauvreté [[Jean Chrysostome 34, 6](/references/jeanchrysostome.html#homelie-34)]. Enfin, Ambroise lui aussi insiste sur le caractère anti-naturel des inégalités économiques : "La terre a été établie pour l'usage commun de tous ... la nature nous met au jour nus et nous mourrons nus" [[Ambroise de Milan 2-3](/references/ambroisedemilan.html#naboth)] ; "Le monde a été créé pour tous et un petit nombre de riches accapare tout" [[Ambroise de Milan 11](/references/ambroisedemilan.html#naboth)]. Sans aller jusqu'à cette dénonciation radiale (qui préfigure les socialistes utopiques du XIXe siècle et le cri de Proudhon : "la propriété, c'est le vol"), certains de nos textes accusent le mauvais riche (celui qui ne partage pas) d'être un voleur ([[Basile de Césarée 6, 7](/references/basiledecesaree.html#homelie-6)] ; [[Jean Chrysostome 1, 12](/references/jeanchrysostome.html#homelie-1)]). En définitive, la richesse est la cause de tous les maux : haine, guerres, jalousies, vols, piraterie [[Basile de Césarée 7, 7](/references/basiledecesaree.html#homelie-7)].
 
-#### 5.4 Dénonciation de quelques sophismes
+##### Dénonciation de quelques sophismes
 
 Certains riches, pour se disculper de ne pas venir en aide aux pauvres, avancent des prétextes que les Pères réfutent vigoureusement : 
 - c'est Dieu qui crée les inégalités, les pauvres le sont parce qu'ils sont maudits ([[Grégoire de Nazianze 29-31](/references/gregoiredenazianze.html#amour-pauvres)] ; [[Ambroise de Milan 40](/references/ambroisedemilan.html#naboth)]).
@@ -185,18 +331,107 @@ Certains riches, pour se disculper de ne pas venir en aide aux pauvres, avancent
 - je ne suis pas si riche que cela ; à quoi Grégoire de Nysse répond : donne en fonction de ce que tu as [[Grégoire de Nysse 1, 8](/references/gregoiredenysse.html#bienfaisance)].
 - les riches sont heureux ici-bas, les pauvres seront heureux là-haut, ce qui fait un partout : [[Jean Chrysostome 1, 11](/references/jeanchrysostome.html#homelie-1)].
 
-#### 5.5 Tous les pauvres sont dignes d'être secourus
+##### Tous les pauvres sont dignes d'être secourus
 
 Contre ces sophismes, les Pères grecs insistent sur la dignité de tous les pauvres et leur droit au partage des richesses. Il ne faut pas juger sur l'apparence ni choisir quels pauvres doivent être aidés [[Clément d'Alexandrie 33-35](/references/clementdalexandrie.html#quel-riche)]. Il faut aimer tous les pauvres et tous les malheureux quelle que soit leur souffrance [[Grégoire de Nazianze 6](/references/gregoiredenazianze.html#amour-pauvres)]. De toutes façons, les pauvres sont nos frères [[Grégoire de Nazianze 14-15](/references/gregoiredenazianze.html#amour-pauvres)].
 
-#### 5.6 La richesse est un piège
+##### La richesse est un piège
 
 Le diable fait croire que le superflu est nécessaire et qu'il faut faire des réserves "au cas où", souci qui annonce les assurances modernes mais sert surtout de prétexte pour ne pas donner aux pauvres : [[Basile de Césarée 7, 2-3](/references/basiledecesaree.html#homelie-7)]. En fait, la richesse est insatiable [[Ambroise de Milan 4](/references/ambroisedemilan.html#naboth)] et le riche devient esclave de sa richesse [[Ambroise de Milan 62](/references/ambroisedemilan.html#naboth)].
 
-#### 5.7 Exclusion et exploitation
+##### Exclusion et exploitation
 
 Le plus grand drame du pauvre n'est pas de manquer de tout mais d'être exclu de la société des hommes : le sort des lépreux devient ainsi emblématique de toute exclusion [[Grégoire de Nazianze 10-15](/references/gregoiredenazianze.html#amour-pauvres)]. Certains pauvres ne sont pas exlus, mais leur intégration dans la société se fait sous le mode de l'exploitation : "Combien sont sacrifiés pour vous procurer ce qui vous réjouit ?" [[Ambroise de Milan 20](/references/ambroisedemilan.html#naboth)].
 
-#### 5.8 Eloge de la diversité
+##### Eloge de la diversité
 
 On trouve enfin sous la plume de Jean Chrysostome un appel à l'ouverture sur les autres qui se transforme en un éloge inattendu de la diversité et du métissage : l'interdit des mariages consanguin, selon lui, permet d'allier des familles à d'autres familles, d'ouvrir les solidarités vers l'extérieur en élargissant la parenté, et de découvrir l'enrichissement que procure l'altérité [[Jean Chrysostome 34, 4](/references/jeanchrysostome.html#homelie-34)].
+
+
+
+
+
+### 3.5 Epargne et consommation
+
+358 Les consommateurs, qui disposent très souvent de vastes marges de pouvoir d'achat, bien au-delà du seuil de subsistance, peuvent beaucoup influer sur la réalité économique par leurs libres choix entre consommation et épargne. La possibilité d'influencer les choix du système économique se trouve en effet entre les mains de ceux qui doivent décider de la destination de leurs ressources financières. Aujourd'hui plus que par le passé, il est possible d'évaluer les options disponibles, non seulement sur la base du rendement prévu ou de leur degré de risque, mais aussi en exprimant un jugement de valeur sur les projets d'investissement que ces ressources iront financer, conscients que « le choix d'investir en un lieu plutôt que dans un autre, dans un secteur de production plutôt qu'en un autre, est toujours un choix moral et culturel ».
+
+359 L'utilisation du pouvoir d'achat doit s'exercer dans le contexte des exigences morales de la justice et de la solidarité et de responsabilités sociales précises: il ne faut pas oublier le « devoir de la charité », c'est- à-dire le « devoir de donner de son “superflu” et aussi parfois de son “nécessaire” pour subvenir à la vie du pauvre ». Cette responsabilité confère aux consommateurs la possibilité d'orienter, grâce à une plus grande circulation des informations, le comportement des producteurs, à travers la décision — individuelle ou collective — de préférer les produits de certaines entreprises à d'autres, en tenant compte non seulement des prix et de la qualité des produits, mais aussi de l'existence de conditions de travail correctes dans les entreprises, ainsi que du degré de protection assuré au milieu naturel environnant.
+
+360 Le phénomène de la société de consommation maintient une orientation persistante vers l'« avoir » plutôt que vers l'« être ». Il empêche de « distinguer correctement les formes nouvelles et les plus élevées de satisfaction des besoins humains et les besoins nouveaux induits qui empêchent la personnalité de parvenir à sa maturité ». Pour lutter contre ce phénomène, il est nécessaire de s'employer à construire « un style de vie dans lequel les éléments qui déterminent les choix de consommation, d'épargne et d'investissement soient la recherche du vrai, du beau et du bon, ainsi que la communion avec les autres hommes pour une croissance commune ». Il est indéniable que les influences du contexte social sur les styles de vie sont importantes: voilà pourquoi le défi culturel que pose aujourd'hui la société de consommation doit être affronté avec plus de détermination, surtout si l'on considère les générations futures qui risquent de devoir vivre dans un milieu naturel saccagé par les excès et les désordres de la société de consommation.
+
+
+
+## 4. Rapport à la Nature
+
+
+255 L'Ancien Testament présente Dieu comme le Créateur tout-puissant (cf. Gn 2, 2; Jb 38, 41; Ps 104; Ps 147), qui modèle l'homme à son image, l'invite à travailler la terre (cf. Gn 2, 5-6) et à garder le jardin d'Éden où il l'a placé (cf. Gn 2, 15). Au premier couple humain, Dieu confie la tâche de soumettre la terre et de dominer sur tout être vivant (cf. Gn 1, 28). La domination de l'homme sur les autres êtres vivants ne doit cependant pas être despotique et insensée; au contraire, il doit « cultiver et garder » (cf. Gn 2, 15) les biens créés par Dieu: biens que l'homme n'a pas créés, mais reçus comme un don précieux placé par le Créateur sous sa responsabilité. Cultiver la terre signifie ne pas l'abandonner à elle-même; exercer une domination sur elle, cela veut dire en prendre soin, comme un roi sage prend soin de son peuple et un berger de son troupeau.
+
+
+256 Le travail appartient à la condition originelle de l'homme et précède sa chute; il n'est donc ni une punition ni une malédiction. Il devient fatigue et peine à cause du péché d'Adam et Ève, qui brisent leur rapport de confiance et d'harmonie avec Dieu (cf. Gn 3, 6-8). L'interdiction de manger « de l'arbre de la connaissance du bien et du mal » (Gn 2, 17) rappelle à l'homme qu'il a tout reçu en don et qu'il continue à être une créature et non pas le Créateur. Le péché d'Adam et Ève fut précisément provoqué par cette tentation: « Vous serez comme des dieux » (Gn 3, 5). Ils voulurent la domination absolue sur toutes les choses, sans se soumettre à la volonté du Créateur. Depuis lors, le sol se fait avare, ingrat, sournoisement hostile (cf. Gn 4, 12); ce n'est qu'à la sueur de son front qu'il sera possible d'en tirer la nourriture (cf. Gn 3, 17.19). Cependant, en dépit du péché des premiers parents, le dessein du Créateur, le sens de ses créatures et, parmi elles, de l'homme, appelé à cultiver et à garder la création, demeurent inaltérés.
+
+451 La foi d'Israël vit dans le temps et dans l'espace de ce monde, perçu non pas comme un milieu hostile ou comme un mal dont il faut se libérer, mais plutôt comme le don même de Dieu, le lieu et le projet qu'il confie à la conduite responsable et au travail de l'homme. La nature, œuvre de l'action créatrice divine, n'est pas une concurrente dangereuse. Dieu, qui a fait toutes choses, pour chacune d'elle « vit que cela était bon » (Gn 1, 4.10.12.18. 21.25). Au sommet de sa création, comme quelque chose de « très bon » (Gn 1, 31), le Créateur place l'homme. Seuls l'homme et la femme, parmi toutes les créatures, ont été voulus par Dieu « à son image » (Gn 1, 27): c'est à eux que le Seigneur confie la responsabilité de toute la création, la tâche de prendre soin de son harmonie et de son développement (cf. Gn 1, 26-30). Le lien spécial du couple humain avec Dieu explique sa position privilégiée dans l'ordre de la création.
+
+
+La tendance à l'exploitation inconsidérée des ressources de la création est le résultat d'un long processus historique et culturel:
+
+>[Jean-Paul II, Discours aux participants à un Congrès sur environnement et santé (24 mars 1997)] L'époque moderne a enregistré une capacité croissante de l'homme à intervenir pour transformer. L'aspect de conquête et d'exploitation des ressources est devenu prédominant et envahissant, et il est même parvenu aujourd'hui à menacer la capacité hospitalière de l'environnement: l'environnement comme “ressource” risque de menacer l'environnement comme “maison”. À cause des puissants moyens de transformation offerts par la civilisation technologique, il semble parfois que l'équilibre homme- environnement ait atteint un seuil critique.
+
+462 La nature apparaît comme un instrument aux mains de l'homme, une réalité qu'il doit constamment manipuler, en particulier par le biais de la technologie. À partir du présupposé, qui s'est révélé erroné, qu'il existe une quantité illimitée d'énergie et de ressources à utiliser, que leur régénération est possible dans l'immédiat et que les effets négatifs des manipulations de l'ordre naturel peuvent être facilement absorbés, une conception réductrice s'est répandue, qui lit le monde naturel en termes mécanistes et le développement en termes de consommation; la primauté attribuée au faire et à l'avoir plutôt qu'à l'être entraîne de graves formes d'aliénation humaine. Une telle attitude ne dérive pas de la recherche scientifique et technologique, mais d'une idéologie scientiste et technocratique qui tend à la conditionner. La science et la technique, avec leur progrès, n'éliminent pas le besoin de transcendance et ne sont pas en soi la cause de la sécularisation exaspérée qui conduit au nihilisme; en allant de l'avant, elles suscitent des questions sur leur sens et font grandir la nécessité de respecter la dimension transcendante de la personne humaine et de la création elle-même.
+
+463 Une conception correcte de l'environnement ne peut pas, d'une part, réduire de manière utilitariste la nature à un simple objet de manipulation et d'exploitation, et elle ne doit pas, d'autre part, l'absolutiser et la faire prévaloir sur la personne humaine au plan de la dignité. Dans ce dernier cas, on en arrive à diviniser la nature ou la terre, comme on peut facilement le constater dans certains mouvements écologiques qui demandent de donner à leurs conceptions un aspect institutionnel internationalement garanti. Le Magistère a motivé son opposition à une conception de l'environnement s'inspirant de l'écocentrisme et du biocentrisme, car celle-ci « se propose d'éliminer la différence ontologique et axiologique entre l'homme et les autres êtres vivants, en considérant la biosphère comme une unité biotique de valeur indifférenciée. On en vient ainsi à éliminer la responsabilité supérieure de l'homme en faveur d'une considération égalitariste de la “dignité” de tous les êtres vivants ».
+
+464 Une vision de l'homme et des choses sans aucune référence à la transcendance a conduit à réfuter le concept de création et à attribuer à l'homme et à la nature une existence complètement autonome. Le lien qui unit le monde à Dieu a ainsi été brisé: cette rupture a fini par déraciner aussi l'homme de la terre et, plus fondamentalement, en a appauvri l'identité même. L'être humain en est ainsi venu à se considérer comme étranger au milieu environnemental dans lequel il vit. La conséquence qui en découle est bien claire:
+
+>[Jean-Paul II, Discours aux participants à un Congrès sur environnement et santé (24 mars 1997)] C'est le rapport que l'homme a avec Dieu qui détermine le rapport de l'homme avec ses semblables et avec son environnement. Voilà pourquoi la culture chrétienne a toujours reconnu dans les créatures qui entourent l'homme autant de dons de Dieu à cultiver et à garder avec un sens de gratitude envers le Créateur. En particulier, les spiritualités bénédictine et franciscaine ont témoigné de cette sorte de parenté de l'homme avec toute la création, en alimentant en lui une attitude de respect envers chaque réalité du monde environnant.
+
+465 Le Magistère souligne la responsabilité qui incombe à l'homme de préserver un environnement intègre et sain pour tous:
+
+>[Jean-Paul II, Discours aux participants à un Congrès sur environnement et santé (24 mars 1997)] Si l'humanité d'aujourd'hui parvient à conjuguer les nouvelles capacités scientifiques avec une forte dimension éthique, elle sera certainement en mesure de promouvoir l'environnement comme maison et comme ressource en faveur de l'homme et de tous les hommes, et elle sera capable d'éliminer les facteurs de pollution, d'assurer des conditions d'hygiène et de santé adéquates pour de petits groupes comme pour de vastes établissements humains. La technologie qui pollue peut aussi dépolluer, la production qui accumule peut distribuer équitablement, à condition que prévale l'éthique du respect pour la vie et la dignité de l'homme, pour les droits des générations humaines présentes et de celles à venir.
+
+
+
+473 La vision chrétienne de la création comporte un jugement positif sur la licéité des interventions de l'homme sur la nature, y compris aussi sur les autres êtres vivants, et, en même temps, un fort rappel au sens des responsabilités.1002 En effet, la nature n'est pas une réalité sacrée ou divine, soustraite à l'action humaine. Elle est plutôt un don offert par le Créateur à la communauté humaine, don confié à l'intelligence et à la responsabilité morale de l'homme. Voilà pourquoi il n'accomplit pas un acte illicite quand, respectant l'ordre, la beauté et l'utilité des différents êtres vivants et de leur fonction dans l'écosystème, il intervient en modifiant certaines de leurs caractéristiques et propriétés. Les interventions de l'homme sont blâmables quand elles nuisent aux êtres vivants ou au milieu naturel, alors qu'elles sont louables quand elles se traduisent par leur amélioration. La licéité de l'emploi des techniques biologiques et biogénétiques n'épuise pas toute la problématique éthique: comme pour tout comportement humain, il est nécessaire d'évaluer soigneusement leur réelle utilité ainsi que leurs conséquences possibles, en termes de risques également. Dans le cadre des interventions techniques et scientifiques, qui ont une forte et large incidence sur les organismes vivants, et considérant la possibilité de répercussions importantes à long terme, il n'est pas licite d'agir avec légèreté et de façon irresponsable.
+
+
+
+
+
+
+
+
+
+
+## Citations
+
+
+
+« Se trouve-t-il chez toi un pauvre, d'entre tes frères...? Tu n'endurciras pas ton cœur ni ne fermeras ta main à ton frère pauvre, mais tu lui ouvriras ta main et tu lui prêteras ce qui lui manque » (Dt 15, 7-8)
+
+« Si un étranger réside avec vous dans votre pays, vous ne le molesterez pas. L'étranger qui réside avec vous sera pour vous comme un compatriote et tu l'aimeras comme toi-même, car vous avez été étrangers au pays d'Égypte. Je suis le Seigneur votre Dieu » (Lv 19, 33-34)
+
+
+**La charité**
+Jn 13, 34
+Jn 13, 1
+Jn 15, 9
+Jn 15, 12
+Jn 15, 9-10
+Mt 22, 40
+Rm 13, 8-10
+Mt 5, 44
+Lc 10, 27-37
+Mc 9, 37
+Mt 25, 40.45
+1 Co 13, 4-7
+1 Co 13, 1-4
+1 Co 13, 13
+Col 3, 14
+1 Jn 4, 19
+1 P 4, 8
+
+**La justice**
+Lv 19, 15
+Col 4, 1
+
+
+« Tous vous êtes des frères » (Mt 23, 8).
