@@ -78,8 +78,7 @@ Ontology is concerned with questions regarding what entities exist or may be sai
 
 ### Ancient philosophy <a name="p22"></a>
 
-ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE 
-
+<img src="/images/philosophers_1.png">
 
 I will divide this section into two groups. This first batch of thinkers are concerned about the concept of emptiness and vacuity. For Parmenides (VIth BCE, Greek), what can be spoken or thought of must be. On the contrary, Gorgias (Vth BCE, Greek) opposites this view by using an argument to absurdity to prove that nothing exists. In fact, in his ironic refutation, Gorgias shows that true objectivity is impossible since the human mind can never be separated from its possessor. Less radical nihilistic (nihil: indefinite nothing) considerations can be found in other traditions, such as some Buddhists doctrines. Kamalasila (VIIIth CE, Indian) for example talks about emptiness, explaining that all things are empty of intrinsic existence and nature. In the Tao tradition, emptiness has some form of meaning as can be seen in the texts of Laozi (VIth or IVth BCE, Chinese) and Zhuang Zhou (IVth BCE, Chinese). In the newborn Christian world, Basilides (IInd CE, Egyptian) exposes theological ontological thoughts.
 
@@ -189,7 +188,7 @@ Saint Anselm, Proslogion (1078).
 
 ### Modern philosophy <a name="p23"></a>
 
-ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE ADD THE PICTURE 
+<img src="/images/philosophers_2.png"> 
 
 Baruch Spinoza (1632-1677, Dutch), popularized pantheism (reality is identical with divinity; all-things compose an all-encompassing, transcendent god) in the Western culture. Yet, it is not clear that this is the proper way to look at his conception of God. Still, for Spinoza, God and Nature are essentially the same thing. For Robert Misrahi (1926-, French), “there is neither immortality nor the mystery of the afterlife, nor metempsychosis, nor backworld” in the Ethics. Yet something of the human mind is eternal. Misrahi concludes that the Ethics are not concerned with arbitrariness but solipsism. In general, pantheism is the view that rejects the transcendence of God and as such, Spinoza’s ideas sparkled the pantheism controversy, a German debate on this subject that started with Friedrich Jacobi (1743-1819, German). The later, close to the following views of Blaise Pascal (1623-1662, French), accused Spinoza of atheism but got himself accused of irrationalism. Johann Goethe (1749-1832, German) said “Spinoza does not demonstrate the existence of God; it is existence which is God”. Spinoza had a major impact on philosophy. Georg Hegel (1770-1831, German) said that “Spinoza is the crucial moment of modern philosophy: either Spinozism or there will be no philosophy”. Einstein shared Spinoza’s pantheistic idea of God which is (usually) not a personal God.
 
@@ -304,7 +303,7 @@ Pauli attempted to ground theoretical physics in positivism (empiricism). He the
 
 ### In natural science <a name="p25"></a>
 
-ADD PICTURE ADD PICTURE ADD PICTURE AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<img src="/images/philosophers_3.png">
 
 Einstein describes the basis of natural science as “believing in an outside world independent of the subject who perceives it”. He acknowledges that only the speculative way can help to understand the world since “the perceptions of the senses offer only indirect results on this external world or on physical reality”. As a result “our conceptions of physical reality only offer momentary solutions”. This can be seen through any history of natural science such as Newton’s theory corrected by Maxwell’s theory and then by quantum theory. 
 Johannes Kepler (1571–1630, German) is one of the most significant representatives of the Scientific Revolution of the 16th century. He was a Platonist for giving priority to the role of geometry in the structure of the world and an Aristotelian for accentuating the role of experience and causality in epistemology. He wanted to investigate the innermost structure of the cosmos.
@@ -343,9 +342,7 @@ As David Mermin (1935-, American physicist) pointed out in 2012, “quantum theo
 	- “About knowledge” interpretations view the quantum state as an observer’s knowledge about the results of future experiments.
 	- “About belief” interpretations view the quantum state as an agent’s expectations about the results of future actions. This category only concerns quantum Bayesianism (QBism) and won’t be discussed.
 
-ADD TABLE/PICTURE
-ADD pICTURE
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<img src="/images/philosophers_4.png">
 
 Maudlin, Space-time in the quantum world (1996).
 >Realism in philosophy of science is generally contrasted with instrumentalism or empiricism, which views assert that one can have no grounds to believe that the unobservable ontology of a theory is accurate. In this sense, theories are neither realistic nor non-realistic, only interpretations of (or better: attitudes towards) theories.
@@ -782,6 +779,8 @@ The double-slit experiment is a demonstration that light and matter can display 
 According to Richard Feynman, the two-slit experiment for electrons is “a phenomenon which is impossible, absolutely impossible, to explain in any classical way, and which has in it the heart of quantum mechanics. In reality it contains the only mystery”. This experiment “has been designed to contain all of the mystery of quantum mechanics, to put you up against the paradoxes and mysteries and peculiarities of nature one hundred per cent”. As to the question, “How does it really work? What machinery is actually producing this thing? Nobody knows any machinery. Nobody can give you a deeper explanation of this phenomenon than I have given; that is, a description of it”.
 
 In this experiment, a beam of particles (such as electrons) travels through a barrier that has two slits. If one puts a detector screen on the side beyond the barrier, the pattern of detected particles shows interference fringes characteristic of waves arriving at the screen from two sources (the two slits); however, the interference pattern is made up of individual dots corresponding to particles that had arrived on the screen. The system seems to exhibit the behaviour of both waves (interference patterns) and particles (dots on the screen).
+
+<img src="/images/double_slit.png">
 
 If we modify this experiment so that one slit is closed, no interference pattern is observed. Thus, the state of both slits affects the final results. We can also arrange to have a minimally invasive detector at one of the slits to detect which slit the particle went through. When we do that, the interference pattern disappears. The Copenhagen interpretation states that the particles are not localized in space until they are detected, so that, if there is no detector on the slits, there is no information about which slit the particle has passed through. If one slit has a detector on it, then the wavefunction collapses due to that detection. This dramatic effect of observation can be understood as, in fact, a simple consequence of Bohmian mechanics. To see this, one must consider the meaning of determining the slit through which the particle passes. This must involve interaction with another system that the Bohmian mechanical analysis must include.
 
