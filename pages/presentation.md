@@ -27,6 +27,23 @@ La pratique de la vie morale animée par la charité donne au chrétien la liber
 La charité a pour fruits la joie, la paix et la miséricorde [[Catéchisme, 1829](https://www.vatican.va/archive/FRA0013/__P60.HTM)]; elle exige la bienfaisance et la correction fraternelle ; elle est bienveillance ; elle suscite la réciprocité, demeure désintéressée et libérale ; elle est amitié et communion [S. Augustin, ep. Jo. 10, 4]:
 >L’achèvement de toutes nos œuvres, c’est la dilection. Là est la fin ; c’est pour l’obtenir que nous courons, c’est vers elle que nous courons ; une fois arrivés, c’est en elle que nous nous reposerons.
 
+## Thèmes
+
+1. [Relation avec Dieu](/pages/charite.html#relation-dieu)
+1. [Envers autrui](/pages/charite.html#envers-autrui)
+	1. [Egale dignité de toutes les personnes](/pages/charite.html#egale-dignite)
+	1. [Le bien commun](/pages/charite.html#bien-commun)
+	1. [Principe de subsidiarité](/pages/charite.html#subsidiarite)
+	1. [Principe de solidarité](/pages/charite.html#solidarite)
+	1. [Immigration](/pages/charite.html#immigration)
+1. [Rapport aux biens matériels](/pages/charite.html#biens-materiels)
+	1. [Destination universelle des biens](/pages/charite.html#destination-universelle)
+	1. [Propriété privée](/pages/charite.html#propriete-privee)
+	1. [Option préférentielle pour les pauvres](/pages/charite.html#option-preferentielle)
+	1. [L'argent dans l'Eglise ancienne](/pages/charite.html#argent)
+	1. [Epargne et consommation](/pages/charite.html#epargne)
+1. [Rapport à la Nature](/pages/charite.html#rapport-nature)
+
 ## Justice <a name="justice"></a>
 
 >**dikaiosunê** : Accord de l’âme avec elle-même, et bon ordre entre chacune des parties de l’âme et dans leur rapport mutuel ; état qui porte à accorder à chacun selon leur mérite ; état qui porte à préférer ce qui est juste dans chaque cas ; état qui porte l’homme qui le possède à préférer ce qui lui paraît juste ; état qui amène à obéir aux lois au cours de sa vie ; égalité sociale ; état qui dispose à obéir aux lois.  (*Les Définitions, Ve-IVe BCE*, Pseudo-Platon, possiblement Speusippe, successeur de Platon à l'Académie).

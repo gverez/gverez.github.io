@@ -8,13 +8,24 @@ title: Charité
 
 # La charité <a name="charite"></a>
 
-<img src="/images/bon_samaritain.png">
+1. [Relation avec Dieu](#relation-dieu)
+1. [Envers autrui](#envers-autrui)
+	1. [Egale dignité de toutes les personnes](#egale-dignite)
+	1. [Le bien commun](#bien-commun)
+	1. [Principe de subsidiarité](#subsidiarite)
+	1. [Principe de solidarité](#solidarite)
+	1. [Immigration](#immigration)
+1. [Rapport aux biens matériels](#biens-materiels)
+	1. [Destination universelle des biens](#destination-universelle)
+	1. [Propriété privée](#propriete-privee)
+	1. [Option préférentielle pour les pauvres](#option-preferentielle)
+	1. [L'argent dans l'Eglise ancienne](#argent)
+	1. [Epargne et consommation](#epargne)
+1. [Rapport à la Nature](#rapport-nature)
 
-Dans sa récente encylique Fratelli Tutti signée en 2020, le pape François explore l'importance primordiale de la charité dans nos vie, et ce que cela implique dans nos relations à autrui.
+## 1. Relation avec Dieu <a name="relation-dieu"></a>
 
->Les gens peuvent développer certaines attitudes qu’ils présentent comme des valeurs morales: force, sobriété, assiduité et autres vertus. Mais, pour bien orienter les actes correspondant aux différentes vertus morales, il faut aussi se demander dans quelle mesure ils créent un dynamisme d’ouverture et d’union avec les autres. Ce dynamisme, c’est la charité que Dieu répand. Autrement, nous ne cultiverions peut-être que l’apparence de vertus, incapables de construire la vie en commun. C’est pourquoi saint Thomas d’Aquin – citant Augustin – affirmait que la tempérance d’une personne avare est loin d’être vertueuse. Saint Bonaventure, en d’autres termes, expliquait que les autres vertus, sans la charité, n’accomplissent pas strictement les commandements "comme Dieu les entend". La teneur spirituelle d’une vie humaine est caractérisée par l’amour qui est somme toute "le critère pour la décision définitive concernant la valeur ou la non-valeur d’une vie humaine". Cependant, il y a des croyants qui pensent que leur grandeur réside dans l’imposition de leurs idéologies aux autres, ou dans la défense violente de la vérité ou encore dans de grandes manifestations de force. Nous, croyants, nous devons tous le reconnaître: l’amour passe en premier, ce qui ne doit jamais être mis en danger, c’est l’amour ; le plus grand danger, c’est de ne pas aimer (cf. 1 Co 13, 1-13). Afin de clarifier en quoi consiste l’expérience de l’amour que Dieu rend possible par sa grâce, saint Thomas d’Aquin la définissait comme un mouvement qui amène à concentrer l’attention sur l’autre "en l’identifiant avec soi-même". L’attention affective, qui est portée à l’autre, conduit à rechercher son bien gratuitement. Tout cela fait partie d’une appréciation, d’une valorisation, qui est finalement ce qu’exprime le mot "charité": l’être aimé m’est "cher", c’est-à-dire qu’"il est estimé d’un grand prix". Et "c’est de l’amour qu’on a pour une personne que dépend le don qu’on lui fait". L’amour implique donc plus qu’une série d’actions bénéfiques. Les actions jaillissent d’une union qui fait tendre de plus en plus vers l’autre, le considérant précieux, digne, agréable et beau, au-delà des apparences physiques ou morales. L’amour de l’autre pour lui-même nous amène à rechercher le meilleur pour sa vie. Ce n’est qu’en cultivant ce genre de relations que nous rendrons possibles une amitié sociale inclusive et une fraternité ouverte à tous. [...] Nous n’aurons de cesse de le dire, le désir et la recherche du bien d’autrui et de l’humanité tout entière impliquent également la recherche d’une maturation des personnes et des sociétés dans les différentes valeurs morales qui conduisent à un développement humain intégral. Dans le Nouveau Testament, un fruit du Saint-Esprit (cf. Ga 5, 22) est désigné par le terme grec *agazosúne*. Il indique l’attachement au bien, la recherche du bien. Mieux encore, c’est la quête de ce qui est excellent, du meilleur pour les autres: leur maturation, leur croissance dans une vie saine, la promotion des valeurs et pas seulement le bien-être matériel. Il y a une expression latine analogue: bene-volentia, qui indique le fait de vouloir le bien de l’autre. C’est un désir fort du bien, un penchant vers tout ce qui est bon et excellent, qui pousse à remplir la vie des autres de choses belles, sublimes et édifiantes [[Pape François, Fratelli Tutti 91-94 ; 112](https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)].
-
-## 1. Relation avec Dieu
+<img src="/images/angelus.png">
 
 20 Toute expérience religieuse authentique, dans toutes les traditions culturelles, conduit à une intuition du Mystère qui, bien souvent, parvient à saisir quelques traits du visage de Dieu. Il apparaît, d'un côté, comme l'origine de ce qui est, présence qui garantit aux hommes, organisés en société, les conditions de base de la vie, en mettant à la disposition de celle-ci les biens qui lui sont nécessaires; d'un autre côté, en revanche, il apparaît comme la mesure de ce qui doit être, comme présence qui interpelle l'action humaine — tant au niveau personnel qu'au niveau social — sur l'usage de ces mêmes biens dans le rapport avec les autres hommes. Dans chaque expérience religieuse se révèlent donc importantes, à la fois la dimension du don et de la gratuité, implicite dans l'expérience que la personne humaine fait de son existence avec les autres dans le monde, et les répercussions de cette dimension sur la conscience de l'homme, qui se sent interpellé à gérer de façon responsable et conviviale le don qu'il a reçu.
 
@@ -40,11 +51,18 @@ Dans sa récente encylique Fratelli Tutti signée en 2020, le pape François exp
 149 Faite à l'image et à la ressemblance de Dieu (cf. Gn 1, 26) et constituée dans l'univers visible pour vivre en société (cf. Gn 2, 20.23) et pour dominer la terre (cf. Gn 1, 26.28-30), la personne humaine est donc, dès le commencement, appelée à la vie sociale: "Dieu n'a pas créé l'homme comme un “être solitaire”, mais il l'a voulu comme un “être social”. La vie sociale n'est donc pas extérieure à l'homme: il ne peut croître et réaliser sa vocation qu'en relation avec les autres".
 
 
+## 2. Envers autrui <a name="envers-autrui"></a>
 
-## 2. Envers autrui
+<img src="/images/bon_samaritain.png">
+
+Dans sa récente encylique intitulée *Fratelli Tutti*, signée en 2020, le pape François explore l'importance primordiale de la charité dans nos vies, et ce que cela implique dans nos relations à autrui.
+
+>Les gens peuvent développer certaines attitudes qu’ils présentent comme des valeurs morales: force, sobriété, assiduité et autres vertus. Mais, pour bien orienter les actes correspondant aux différentes vertus morales, il faut aussi se demander dans quelle mesure ils créent un dynamisme d’ouverture et d’union avec les autres. Ce dynamisme, c’est la charité que Dieu répand. Autrement, nous ne cultiverions peut-être que l’apparence de vertus, incapables de construire la vie en commun. C’est pourquoi saint Thomas d’Aquin – citant Augustin – affirmait que la tempérance d’une personne avare est loin d’être vertueuse. Saint Bonaventure, en d’autres termes, expliquait que les autres vertus, sans la charité, n’accomplissent pas strictement les commandements "comme Dieu les entend". La teneur spirituelle d’une vie humaine est caractérisée par l’amour qui est somme toute "le critère pour la décision définitive concernant la valeur ou la non-valeur d’une vie humaine". Cependant, il y a des croyants qui pensent que leur grandeur réside dans l’imposition de leurs idéologies aux autres, ou dans la défense violente de la vérité ou encore dans de grandes manifestations de force. Nous, croyants, nous devons tous le reconnaître: l’amour passe en premier, ce qui ne doit jamais être mis en danger, c’est l’amour ; le plus grand danger, c’est de ne pas aimer (cf. 1 Co 13, 1-13). Afin de clarifier en quoi consiste l’expérience de l’amour que Dieu rend possible par sa grâce, saint Thomas d’Aquin la définissait comme un mouvement qui amène à concentrer l’attention sur l’autre "en l’identifiant avec soi-même". L’attention affective, qui est portée à l’autre, conduit à rechercher son bien gratuitement. Tout cela fait partie d’une appréciation, d’une valorisation, qui est finalement ce qu’exprime le mot "charité": l’être aimé m’est "cher", c’est-à-dire qu’"il est estimé d’un grand prix". Et "c’est de l’amour qu’on a pour une personne que dépend le don qu’on lui fait". L’amour implique donc plus qu’une série d’actions bénéfiques. Les actions jaillissent d’une union qui fait tendre de plus en plus vers l’autre, le considérant précieux, digne, agréable et beau, au-delà des apparences physiques ou morales. L’amour de l’autre pour lui-même nous amène à rechercher le meilleur pour sa vie. Ce n’est qu’en cultivant ce genre de relations que nous rendrons possibles une amitié sociale inclusive et une fraternité ouverte à tous. [...] Nous n’aurons de cesse de le dire, le désir et la recherche du bien d’autrui et de l’humanité tout entière impliquent également la recherche d’une maturation des personnes et des sociétés dans les différentes valeurs morales qui conduisent à un développement humain intégral. Dans le Nouveau Testament, un fruit du Saint-Esprit (cf. Ga 5, 22) est désigné par le terme grec *agazosúne*. Il indique l’attachement au bien, la recherche du bien. Mieux encore, c’est la quête de ce qui est excellent, du meilleur pour les autres: leur maturation, leur croissance dans une vie saine, la promotion des valeurs et pas seulement le bien-être matériel. Il y a une expression latine analogue: bene-volentia, qui indique le fait de vouloir le bien de l’autre. C’est un désir fort du bien, un penchant vers tout ce qui est bon et excellent, qui pousse à remplir la vie des autres de choses belles, sublimes et édifiantes [[Pape François, Fratelli Tutti 91-94 ; 112](https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)].
 
 
-### 2.1 Egale dignité de toutes les personnes
+
+
+### 2.1 Egale dignité de toutes les personnes <a name="egale-dignite"></a>
 
 144 "Dieu ne fait pas acception des personnes" (Ac 10, 34; cf. Rm 2, 11; Ga 2, 6; Ep 6, 9), car tous les hommes ont la même dignité de créature à son image et à sa ressemblance. L'Incarnation du Fils de Dieu manifeste l'égalité de toutes les personnes quant à leur dignité: "Il n'y a ni Juif ni Grec, il n'y a ni esclave ni homme libre, il n'y a ni homme ni femme; car tous vous ne faites qu'un dans le Christ Jésus" (Ga 3,28; cf. Rm 10, 12; 1 Co 12, 13; Col 3, 11). Étant donné que sur le visage de tout homme resplendit quelque chose de la gloire de Dieu, la dignité de chaque homme devant Dieu constitue le fondement de la dignité de l'homme devant les autres hommes. En outre, c'est aussi le fondement ultime de l'égalité et de la fraternité radicales entre les hommes, indépendamment de leur race, nation, sexe, origine, culture et classe.
 
@@ -55,7 +73,9 @@ Fratelli Tutti 118
 >Le monde existe pour tous, car nous tous, en tant qu’êtres humains, nous naissons sur cette terre avec la même dignité. Les différences de couleur, de religion, de capacités, de lieu de naissance, de lieu de résidence, et tant d’autres différences, ne peuvent pas être priorisées ou utilisées pour justifier les privilèges de certains sur les droits de tous. Par conséquent, en tant que communauté, nous sommes appelés à veiller à ce que chaque personne vive dans la dignité et ait des opportunités appropriées pour son développement intégral.
 
 
-### 2.2 Le bien commun
+
+
+### 2.2 Le bien commun <a name="bien-commun"></a>
 
 164  De la dignité, de l'unité et de l'égalité de toutes les personnes découle avant tout le principe du bien commun, auquel tout aspect de la vie sociale doit se référer pour trouver une plénitude de sens. Par bien commun on entend: "cet ensemble de conditions sociales qui permettent, tant aux groupes qu'à chacun de leurs membres, d'atteindre leur perfection d'une façon plus totale et plus aisée". Le bien commun ne consiste pas dans la simple somme des biens particuliers de chaque sujet du corps social. Étant à tous et à chacun, il est et demeure commun, car indivisible et parce qu'il n'est possible qu'ensemble de l'atteindre, de l'accroître et de le conserver, notamment en vue de l'avenir. Comme l'agir moral de l'individu se réalise en faisant le bien, de même l'agir social parvient à sa plénitude en accomplissant le bien commun. De fait, le bien commun peut être compris comme la dimension sociale et communautaire du bien moral.
 
@@ -68,7 +88,11 @@ Le bien commun découle des inclinations les plus élevées de l'homme, mais c'e
 
 La responsabilité de poursuivre le bien commun revient non seulement aux individus, mais aussi à l'État, car le bien commun est la raison d'être de l'autorité politique. Pour garantir le bien commun, le gouvernement de chaque pays a pour tâche spécifique d'harmoniser avec justice les divers intérêts sectoriels. Toutefois, une vision purement historique et matérialiste finirait par transformer le bien commun en simple bien-être socio-économique, privé de toute finalisation transcendante, c'est-à-dire de sa raison d'être la plus profonde. Le bien commun de la société n'est pas une fin en soi; il n'a de valeur qu'en référence à la poursuite des fins dernières de la personne et au bien commun universel de la création tout entière. Dieu est la fin dernière de ses créatures et en aucun cas on ne peut priver le bien commun de sa dimension transcendante, qui dépasse mais aussi achève la dimension historique.
 
-### 2.3 Principe de subsidiarité
+
+
+
+
+### 2.3 Principe de subsidiarité <a name="subsidiarite"></a>
 
 186 L'exigence de protéger et de promouvoir les expressions originelles de la socialité est soulignée par l'Église dans l'encyclique "Quadragesimo Anno», dans laquelle le principe de subsidiarité est indiqué comme un principe très important de la "philosophie sociale":
 
@@ -81,7 +105,8 @@ Sur la base de ce principe, toutes les sociétés d'ordre supérieur doivent se 
 189 La conséquence caractéristique de la subsidiarité est la participation,402 qui s'exprime, essentiellement, en une série d'activités à travers lesquelles le citoyen, comme individu ou en association avec d'autres, directement ou au moyen de ses représentants, contribue à la vie culturelle, économique, sociale et politique de la communauté civile à laquelle il appartient.403 La participation est un devoir que tous doivent consciemment exercer, d'une manière responsable et en vue du bien commun.
 
 
-### 2.4 Principe de solidarité
+
+### 2.4 Principe de solidarité <a name="solidarite"></a>
 
 193 Les nouvelles relations d'interdépendance entre les hommes et les peuples qui sont, de fait, des formes de solidarité, doivent se transformer en relations tendant à une véritable solidarité éthico-sociale, qui est l'exigence morale inhérente à toutes les relations humaines. La solidarité se présente donc sous deux aspects complémentaires: celui de principe social et celui de vertu morale. La solidarité doit être saisie avant tout dans sa valeur de principe social ordonnateur des institutions, en vertu duquel les "structures de péché" qui dominent les rapports entre les personnes et les peuples doivent être dépassées et transformées en structures de solidarité, à travers l'élaboration ou la modification opportune de lois, de règles du marché ou la création d'institutions. La solidarité est également une véritable vertu morale, et non pas "un sentiment de compassion vague ou d'attendrissement superficiel pour les maux subis par tant de personnes proches ou lointaines. Au contraire, c'est la détermination ferme et persévérante de travailler pour le bien commun; c'est-à-dire pour le bien de tous et de chacun parce que tous nous sommes vraiment responsables de tous". La solidarité s'élève au rang de vertu sociale fondamentale parce qu'elle se situe dans la dimension de la justice, vertu orientée par excellence au bien commun et dans l'engagement à "se dépenser pour le bien du prochain en étant prêt, au sens évangélique du terme, à “se perdre” pour l'autre au lieu de l'exploiter, et à “le servir” au lieu de l'opprimer à son propre profit (cf. Mt 10, 40-42; 20, 25; Mc 10, 42-45; Lc 22, 25-27)".
 
@@ -100,7 +125,9 @@ Fratelli Tutti 115
 
 
 
-### 2.5 Immigration
+
+
+### 2.5 Immigration <a name="immigration"></a>
 
 Doctrine Sociale
 
@@ -154,13 +181,12 @@ Dans le Nouveau Testament, l’appel à l’amour fraternel retentit avec force:
 
 
 
-## 3. Rapport aux biens matériels
+## 3. Rapport aux biens matériels <a name="biens-materiels"></a>
 
 <img src="/images/denier_cesar.png">
 
 
-
-### 3.1 Destination universelle des biens
+### 3.1 Destination universelle des biens <a name="destination-universelle"></a>
 
 171 Parmi les multiples implications du bien commun, le principe de la destination universelle des biens revêt une importance immédiate: "Dieu a destiné la terre et tout ce qu'elle contient à l'usage de tous les hommes et de tous les peuples, en sorte que les biens de la création doivent équitablement affluer entre les mains de tous, selon la règle de la justice, inséparable de la charité" [Concile Œcuménique Vatican II, Const. past. Gaudium et spes, 69: AAS 58 (1966) 1090]. Ce principe se base sur le fait que "la première origine de tout bien est l'acte de Dieu lui-même qui a créé la terre et l'homme, et qui a donné la terre à l'homme pour qu'il la maîtrise par son travail et jouisse de ses fruits (cf. Gn 1, 28-29). Dieu a donné la terre à tout le genre humain pour qu'elle fasse vivre tous ses membres, sans exclure ni privilégier personne. C'est là l'origine de la destination universelle des biens de la terre. En raison de sa fécondité même et de ses possibilités de satisfaire les besoins de l'homme, la terre est le premier don de Dieu pour la subsistance humaine". En effet, la personne ne peut pas se passer des biens matériels qui répondent à ses besoins primaires et constituent les conditions de base de son existence; ces biens lui sont absolument indispensables pour se nourrir et croître, pour communiquer, pour s'associer et pour pouvoir réaliser les plus hautes finalités auxquelles elle est appelée.
 
@@ -170,7 +196,9 @@ Dans le Nouveau Testament, l’appel à l’amour fraternel retentit avec force:
 
 174 Le principe de la destination universelle des biens invite à cultiver une vision de l'économie inspirée des valeurs morales qui permettent de ne jamais perdre de vue ni l'origine, ni la finalité de ces biens, de façon à réaliser un monde juste et solidaire, où la formation de la richesse puisse revêtir une fonction positive. En effet, la richesse présente cette valeur dans la multiplicité des formes qui peuvent l'exprimer comme résultat d'un processus productif d'élaboration technique et économique des ressources disponibles, naturelles et dérivées, conduit par l'imagination, par la capacité de programmation, par le travail des hommes, et employé comme moyen utile pour promouvoir le bien-être des hommes et des peuples et pour s'opposer à leur exclusion et à leur exploitation.
 
-### 3.2 Propriété privée
+
+
+### 3.2 Propriété privée <a name="propriete-privee"></a>
 
 176 Par le travail, l'homme, utilisant son intelligence, parvient à dominer la terre et à en faire sa digne demeure: "Il s'approprie ainsi une partie de la terre, celle qu'il s'est acquise par son travail. C'est là l'origine de la propriété individuelle". La propriété privée et les autres formes de possession privée des biens "assurent à chacun une zone indispensable d'autonomie personnelle et familiale; il faut les regarder comme un prolongement de la liberté humaine. Enfin, en stimulant l'exercice de la responsabilité, ils constituent l'une des conditions des libertés civiles". La propriété privée est un élément essentiel d'une politique économique authentiquement sociale et démocratique et la garantie d'un ordre social juste. La doctrine sociale exige que la propriété des biens soit équitablement accessible à tous, de sorte que tous en deviennent, au moins dans une certaine mesure, propriétaires, sans pour autant qu'ils puissent les "posséder confusément». 
 
@@ -195,7 +223,7 @@ Fratelli Tutti 120
 
 
 
-### 3.3 Option préférentielle pour les pauvres
+### 3.3 Option préférentielle pour les pauvres <a name="option-preferentielle"></a>
 
 
 182 Le principe de la destination universelle des biens requiert d'accorder une sollicitude particulière aux pauvres, à ceux qui se trouvent dans des situations de marginalité et, en tout cas, aux personnes dont les conditions de vie entravent une croissance appropriée. À ce propos il faut réaffirmer, dans toute sa force, l'option préférentielle pour les pauvres: "C'est là une option, ou une forme spéciale de priorité dans la pratique de la charité chrétienne dont témoigne toute la tradition de l'Église. Elle concerne la vie de chaque chrétien, en tant qu'il imite la vie du Christ, mais elle s'applique également à nos responsabilités sociales et donc à notre façon de vivre, aux décisions que nous avons à prendre de manière cohérente au sujet de la propriété et de l'usage des biens. Mais aujourd'hui, étant donné la dimension mondiale qu'a prise la question sociale, cet amour préférentiel, de même que les décisions qu'il nous inspire, ne peut pas ne pas embrasser les multitudes immenses des affamés, des mendiants, des sans-abri, des personnes sans assistance médicale et, par-dessus tout, sans espérance d'un avenir meilleur" [Jean-Paul II, Encycl. Sollicitudo rei socialis, 42: AAS 80 (1988) 572-573].
@@ -205,7 +233,7 @@ Fratelli Tutti 120
 184 S'inspirant du précepte évangélique "Vous avez reçu gratuitement, donnez gratuitement" (Mt 10, 8), l'Église enseigne à secourir le prochain selon ses divers besoins et accomplit largement dans la communauté humaine d'innombrables œuvres de miséricorde corporelles et spirituelles: "Parmi ces gestes, l'aumône faite aux pauvres est un des principaux témoignages de la charité fraternelle: elle est aussi une pratique de justice qui plaît à Dieu",391 même si la pratique de la charité ne se réduit pas à l'aumône, mais implique l'attention à la dimension sociale et politique du problème de la pauvreté. L'enseignement de l'Église revient constamment sur le rapport entre charité et justice: "Quand nous donnons aux pauvres les choses indispensables, nous ne faisons pas pour eux des dons personnels, mais nous leur rendons ce qui est à eux. Plus qu'accomplir un acte de charité, nous accomplissons un devoir de justice" [Saint Grégoire le Grand, Regula pastoralis, 3, 21: PL 77, 87]. Les Pères conciliaires recommandent fortement d'accomplir ce devoir "de peur que l'on n'offre comme don de la charité ce qui est déjà dû en justice". L'amour pour les pauvres est certainement "incompatible avec l'amour immodéré des richesses ou leur usage égoïste" (cf. Jc 5, 1-6).
 
 
-### 3.4 L'argent dans l'Eglise ancienne
+### 3.4 L'argent dans l'Eglise ancienne <a name="argent"></a>
 
 Les biens, même légitimement possédés, conservent toujours une destination universelle; toute forme d'accumulation indue est immorale, car en plein contraste avec la destination universelle assignée par le Dieu Créateur à tous les biens [[Doctrine Sociale 328](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_fr.html)]. De fait, le salut chrétien est une libération intégrale de l'homme, libération par rapport au besoin, mais aussi par rapport à la possession en soi: "Car la racine de tous les maux, c'est l'amour de l'argent. Pour s'y être livrés, certains se sont égarés loin de la foi" (1 Tm 6, 10). Les Pères de l'Église insistent sur la nécessité de la conversion et de la transformation des consciences des croyants, plus que sur les exigences de changement des structures sociales et politiques de leur époque, en pressant ceux qui s'adonnent à une activité économique et possèdent des biens de se considérer comme des administrateurs de ce que Dieu leur a confié. Les richesses remplissent leur fonction de service à l'homme quand elles sont destinées à produire des bénéfices pour les autres et pour la société [[Doctrine Sociale 329](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_fr.html)]
 
@@ -306,7 +334,7 @@ Les pauvres sont omniprésents. Grégoiré de Nysse énumère la cohorte des "ge
 
 Tout appartient à Dieu car tout vient de lui [[Grégoire de Nazianze 22-23](/references/gregoiredenazianze.html#amour-pauvres)], si bien que tous les hommes sont égaux devant le créateur [[Jean Chrysostome 2, passim](/references/jeanchrysostome.html#homelie-2)]. La condition originelle de l'homme, tel qu'il est sorti des mains du créateur, est l'égalité. Grégoire de Nazianze rappelle que "pauvreté et richesse, condition libre et condition servile ... sont arrivées plus tard dans la race des hommes ... elles ont déferlé sur nous comme des épidémies amenées par le péché dont elles étaient les inventions. ... (Il faut) considérer l'égalité primitive" [[Grégoire de Nazianze 25-2-6](/references/gregoiredenazianze.html#amour-pauvres)]. Ambroise, lui aussi, souligne l'égalité de tous à l'origine [[Ambroise de Milan 2](/references/ambroisedemilan.html#naboth)].
 
-##### Les riches accpararent les biens communs
+##### Les riches accaparent les biens communs
 
 Nous ne sommes que les gérants des biens de cette terre, non leurs propriétaires [[Grégoire de Nazianze 24](/references/gregoiredenazianze.html#amour-pauvres)]. Mais certains se sont appropriés les biens communs à tous, et c'est là l'origine de la richesse et de la pauvreté. Basile dénonce avec vigueur ceux qui revendiquent la propriété de ces biens: "Les biens communs sur lesquels ils ont mis la main les premiers, ils considèrent qu'ils y ont droit personnellement, parce qu'ils sont les premiers occupants". Or ces biens "ont été préparés pour l'usage de tous. ... Si chacun ne se réservait que ce qui satisfait ses nécessités, et laissait le surplus aux indigents, personne ne serait riche, personne ne serait pauvre. ... à l'affamé le pain que tu gardes. A l'homme nu, le manteau que tu conserves dans tes coffres..." [[Basile de Césarée 6, 7](/references/basiledecesaree.html#homelie-6)]. Jean Chrysostome à son tour dénonce en termes forts l'accaparement des richesses par une minorité: "C'est par des vols, par des pillages de tombeaux, par des supercheries et par d'autres procédés analogues que l'on amasser généralement de grandes fortunes" ; mais il souligne aussi que la prodigalité de certains peut être à l'origine de leur pauvreté [[Jean Chrysostome 34, 6](/references/jeanchrysostome.html#homelie-34)]. Enfin, Ambroise lui aussi insiste sur le caractère anti-naturel des inégalités économiques: "La terre a été établie pour l'usage commun de tous ... la nature nous met au jour nus et nous mourrons nus" [[Ambroise de Milan 2-3](/references/ambroisedemilan.html#naboth)] ; "Le monde a été créé pour tous et un petit nombre de riches accapare tout" [[Ambroise de Milan 11](/references/ambroisedemilan.html#naboth)]. Sans aller jusqu'à cette dénonciation radiale (qui préfigure les socialistes utopiques du XIXe siècle et le cri de Proudhon: "la propriété, c'est le vol"), certains de nos textes accusent le mauvais riche (celui qui ne partage pas) d'être un voleur ([[Basile de Césarée 6, 7](/references/basiledecesaree.html#homelie-6)] ; [[Jean Chrysostome 1, 12](/references/jeanchrysostome.html#homelie-1)]). En définitive, la richesse est la cause de tous les maux: haine, guerres, jalousies, vols, piraterie [[Basile de Césarée 7, 7](/references/basiledecesaree.html#homelie-7)].
 
@@ -336,9 +364,7 @@ On trouve enfin sous la plume de Jean Chrysostome un appel à l'ouverture sur le
 
 
 
-
-
-### 3.5 Epargne et consommation
+### 3.5 Epargne et consommation <a name="epargne"></a>
 
 358 Les consommateurs, qui disposent très souvent de vastes marges de pouvoir d'achat, bien au-delà du seuil de subsistance, peuvent beaucoup influer sur la réalité économique par leurs libres choix entre consommation et épargne. La possibilité d'influencer les choix du système économique se trouve en effet entre les mains de ceux qui doivent décider de la destination de leurs ressources financières. Aujourd'hui plus que par le passé, il est possible d'évaluer les options disponibles, non seulement sur la base du rendement prévu ou de leur degré de risque, mais aussi en exprimant un jugement de valeur sur les projets d'investissement que ces ressources iront financer, conscients que "le choix d'investir en un lieu plutôt que dans un autre, dans un secteur de production plutôt qu'en un autre, est toujours un choix moral et culturel".
 
@@ -348,8 +374,9 @@ On trouve enfin sous la plume de Jean Chrysostome un appel à l'ouverture sur le
 
 
 
-## 4. Rapport à la Nature
+## 4. Rapport à la Nature <a name="rapport-nature"></a>
 
+<img src="/images/peche_originel.png">
 
 255 L'Ancien Testament présente Dieu comme le Créateur tout-puissant (cf. Gn 2, 2; Jb 38, 41; Ps 104; Ps 147), qui modèle l'homme à son image, l'invite à travailler la terre (cf. Gn 2, 5-6) et à garder le jardin d'Éden où il l'a placé (cf. Gn 2, 15). Au premier couple humain, Dieu confie la tâche de soumettre la terre et de dominer sur tout être vivant (cf. Gn 1, 28). La domination de l'homme sur les autres êtres vivants ne doit cependant pas être despotique et insensée; au contraire, il doit "cultiver et garder" (cf. Gn 2, 15) les biens créés par Dieu: biens que l'homme n'a pas créés, mais reçus comme un don précieux placé par le Créateur sous sa responsabilité. Cultiver la terre signifie ne pas l'abandonner à elle-même; exercer une domination sur elle, cela veut dire en prendre soin, comme un roi sage prend soin de son peuple et un berger de son troupeau.
 
