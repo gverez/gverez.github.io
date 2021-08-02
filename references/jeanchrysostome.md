@@ -142,23 +142,10 @@ title: Jean Chrysostome
 
 **Du bon usage des biens**
 
->6\. Mais j’en reviens maintenant dans mon homélie à notre question première. Si le riche ne nous est pas utile, pourquoi le devient-on ? Que répondre ? 
+>6\. Mais j’en reviens maintenant dans mon homélie à notre question première. Si le riche ne nous est pas utile, pourquoi le devient-on ? Que répondre ? Que sont inutiles ceux qui s’enrichissent eux-mêmes de cette manière, contrairement à ceux qui tiennent leurs richesses de Dieu et qui, eux, sont parfaitement utiles. Découvre-le à partir de leurs actes. Abraham avait acquis ses biens pour les étrangers et tous les indigents. Lorsque trois hommes, à ce qu’il croyait, se présentèrent, il tua un veau et pétrit trois mesures de farine ; et songe à la générosité et à l’empressement avec lesquels, assis à sa porte à l’heure de midi, il dépensait ses biens pour tous ; et, en plus de son argent, il mettait sa personne à contribution, et cela malgré son âge si avancé ; il était le port des étrangers et des nécessiteux (cf. Gn 18, 1-8) ; il ne possédait rien en propre, pas même son fils : sur l’ordre de Dieu, il le livrait lui aussi (cf. Gn 22, 1-19) ; et, avec son fils, il se livrait lui-même et toute sa maisonnée, au moment où il s’empressa de délivrer son neveu (cf. Gn 14, 12-16). Il agissait ainsi non pas pour les richesses, lmais uniquement par philanthropie. Ainsi, lorsque ceux qu’il avait sauvés voulurent lui remettre les dépouilles, il refusa tout, jusqu’à un fil et une courroie de sandale (cf. Gn 14, 23).
+>
+>7\. Tel était aussi le bienheureux Job, qui disait : « Ma porte était ouverte à tout venant (Jb 32, 32). J’étais l’oeil des aveugles, le pied des boiteux ; j’étais le père des infirmes (Jb 29, 15-16) ; aucun étranger ne restait à ma porte ; s’ils étaient dans le besoin, les infirmes n’étaient pas déçus dans leur attente, et je n’en ai pas laissé sortir un seul de chez moi le vendre vide ». Je ne veux pas tout énumérer ici, mais il passait son temps à faire beaucoup plus encore, dépensant tout son bien pour les indigents. Veux-tu considérer au contraire ceux qui ne tirent pas leurs richesses de Dieu, afin de savoir comment ils les utilisent ? Vois le riche de Lazare, celui qui ne lui laissait même pas les miettes ; vois Achab, celui qui est allé jusqu’à voler la vigne (cf. 1 R 21) ; vois Géhazi (cf. 2 R 5, 20), vois tous ceux de ce genre. Les hommes qui ont acquis leurs richesses en toute justice pour les avoir reçues de Dieu les dépensent selon les commandements de Dieu ; mais ceux qui, en les acquérant, ont offensé Dieu, en font tout autant en les dépensant : ils laissent leur fortune auprès de prostituées et de parasites ou bien ils l’enterrent ou la mettent sous clé, sans rien dépenser pour un mendiant. - Pourquoi alors, dira-t-on, Dieu laisse-t-il de tels hommes être riches ? Parce qu’il est patient, parce qu’il veut nous amener à la repentance, parce qu’il a préparé la géhenne, parce qu’il a fixé le jour où il allait juger le monde. S’il châtiait tout de suite les mauvais riches, Zachée n’aurait eu aucun délai qui lui permît de se repentir et, pour cela, de rendre le quadruple de ce qu’il avait volé et d’y ajouter la moitié de ses propres biens (cf. Lc 19, 1-10) ; Matthieu n’aurait pas pu se convertir et devenir apôtre, s’il avait été ravi avant le moment voulu (cf. Lc 5, 27-32) : et beaucoup d’autres ainsi. Si Dieu attend, c’est pour les appeler tous à la repentance. S’ils ne le veulent pas, mais persistent dans leur conduite, ils entendront Paul qui déclare : « A cause de leur dureté et de leur coeur impénitent, ils accumulent contre eux la colère au jour de la colère, de la révélation et du jugement équitable de Dieu » (Rm 2, 5). Pour éviter cette colère, enrichissons-nous de la richesse céleste et recherchons la pauvreté louable. Ainsi nous obtiendrons les biens à venir ; puissions-nous tous y accéder, par la grâce et la bonté de notre Seigneur Jésus Christ ; à lui, au Père et au saint Esprit, gloire, puissance, honneur, maintenant et toujours, et pour les siècles des siècles. Amen.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6-7 Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien 
 
 [[Retour à Charité/Argent](/pages/charite.html#argent)]
 
