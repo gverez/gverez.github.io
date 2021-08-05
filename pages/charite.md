@@ -418,6 +418,11 @@ La tendance à l'exploitation inconsidérée des ressources de la création est 
 ## Citations
 
 
+Toutes celles du livre Riches et Pauvre, donc relire les auteurs anciens de ce livre
++ France Quéré
++ Pape François
++ Ceux que j'ai cité dans mon "livre"
+
 
 "Se trouve-t-il chez toi un pauvre, d'entre tes frères...? Tu n'endurciras pas ton cœur ni ne fermeras ta main à ton frère pauvre, mais tu lui ouvriras ta main et tu lui prêteras ce qui lui manque" (Dt 15, 7-8)
 
