@@ -328,17 +328,17 @@ En fait, le riche doit reconnaître qu'il est lui aussi un pauvre:
 
 Du fait de la dureté de coeur des riches, la pauvreté prend souvent la forme de la misère. Les pauvres sont parfois contraints de vendre leurs enfants pour survivre:
 
-[[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 4](/references/basiledecesaree.html#homelie-6)].
+>L’éclat de l’or t’enchante, mais le gémissement que l’indigent élève sur tes pas te laisse indifférent. Comment te mettre sous les yeux la détresse du pauvre ? Le malheureux fouille toute sa maison, il voit bien qu’il n’a pas d’or et qu’il ne lui en viendra jamais. Ses meubles et ses vêtements, tout comme ceux des autres miséreux, ne valent au total que quelques oboles. Que faire ? Il reste ses enfants, sur qui il jette les yeux : s’il les mène au marché, il trouvera là de quoi retarder sa mort. Songe ici quel combat la contrainte de la faim livre au sentiment paternel. L’une le menace de la mort la plus lamentable, tandis que la nature le tire dans l’autre sens et l’engage à mourir avec ses enfants. Maintes fois il s’est mis en marche, maintes foi il s’est arrêté, à la fin il a succombé sous la contrainte de la nécessité et d’une détresse implacable. Quelles perplexités alors chez ce père ! « Lequel vendrai-je le premier ? Lequel le marchand de blé verra-t-il venir avec plaisir ? Me faut-il choisir le plus grand ? Non, je n’ose pas, il a ses droits d’aîné. Le plus jeune, alors ? Non, j’ai pitié de son jeune âge, incapable encore de comprendre son malheur. Celui-ci est tout le portrait de ses parents. Celui-là est si doué pour l’étude. Ah ! Quelles incertitudes ! Que devenir ? Sur lequel de ces enfants vais-je me jeter ? Quelle âme de bête sauvage faut-il que j’assume ? Comment oublier la nature ? Mais si je les garde tous, je les verrai tous consommés du même mal. Et si j’en sacrifie un, de quels yeux regarderai-je ceux qui me resteront, à qui je serai devenu suspect de traîtrise ? Comment pourrai-je demeurer dans ma maison quand j’aurai commencé à la vider de mes enfants ? Comment irai-je m’asseoir à ma table approvisionnée de pareille façon ? » Et, après mille pleurs, il part vendre le plus aimé des fils [[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 4](/references/basiledecesaree.html#homelie-6)].
 
-[[Ambroise de Milan, La vigne de Naboth, 21](/references/ambroisedemilan.html#naboth)]. 
+>J’ai vu personnellement un pauvre être emmené alors qu’il était astreint à payer ce qu’il ne possédait pas, être traîné en prison parce que le vin manquait à la table d’un notable, livrer ses fils à la vente pour pouvoir un moment différer l’exécution de la peine. Il s’est trouvé par chance quelqu’un pour l’aider dans cette nécessité. Ce pauvre revient à son logis avec les siens, pour y voir tous ses biens mis à sac, et plus rien à manger, il se désole de la faim de ses enfants, il déplore de ne pas les avoir plutôt vendus à quelqu’un qui pourrait les nourrir. Il revient à son projet, il prend la décision de les vendre. En lui pourtant s’affrontaient les torts causés par l’indigence et les séductions de la tendresse paternelle : la faim le pressait de toucher de l’argent, la nature de satisfaire à ses devoirs. Prêt à mourir avec ses fils plutôt qu’à se séparer d’eux, souvent il a fait un pas en avant, et souvent un en arrière. Mais la nécessité a triomphé de sa volonté, et la tendresse paternelle elle-même a cédé à la nécessité [[Ambroise de Milan, La vigne de Naboth, 21](/references/ambroisedemilan.html#naboth)]. 
 
 Une catégorie de pauvres est particulièrement pitoyable, il s'agit des mendiants lépreux, abandonnés de tous, exclus des cités, alors qu'ils sont nos frères:
 
-[[Grégoire de Nazianze 9](/references/gregoiredenazianze.html#amour-pauvres)].
+>Certains ne souffrent que de pauvreté ; le temps, le travail, l’amitié, la famille, les revirements de fortune peuvent y remédier, mais chez les lépreux, ce malheur devient tout à fait tragique puisque leurs mutilations leur interdisent tout travail et les empêchent de subvenir à leurs besoins. Voilà pourquoi la peur de la maladie l’emporte toujours pour eux sur l’espérance de la guérison ; c’est pourquoi ils reçoivent peu de secours de cette espérance, qui est le seul remède des malheureux (cf. Jb 17, 15). A leur pauvreté, s’ajoute un deuxième mal : la plus atroce et la plus effroyable des maladies, celle que l’on évoque dans les malédictions. Autre sujet de larmes : la foule n’ose ni les approcher ni les regarder, mais les fuit comme des objets de dégoût et d’horreur. Cette aversion que leur attire le malheur leur inflige un tourment encore plus cruel que la maladie physique. Je ne puis songer sans pleurer à leur détresse et je sens mon coeur se briser à leur souvenir. Puissiez-vous partager mon émotion, afin que vos larmes aujourd’hui vous évitent d’autres larmes plus tard. Mais vous êtes bouleversés, j’en suis sûr, vous tous ici qui êtes amis du Christ et amis des pauvres, et qui tenez de Dieu une divine miséricorde. Et d’ailleurs n’êtes-vous pas, en personne, les témoins de leur détresse ? [[Grégoire de Nazianze, De l'amour des pauvres, 9](/references/gregoiredenazianze.html#amour-pauvres)].
 
-[[Grégoire de Nysse 2, 4-16](/references/gregoiredenysse.html#mesure)].
+>Et pourtant, le spectacle de cet homme tombé entre les mains des brigands était-il aussi impressionnant que le spectacle de ceux qu’a saisis cette maladie ? Tu vois un homme transformé en quadrupède par cette mauvaise maladie et qui a, au lieu de sabots ou d’ongles, des morceaux de bois dans les paumes, laissant une empreinte nouvelle sur les chemins des hommes : qui pourrait reconnaître à cette empreinte que c’est un homme qui a marqué son passage de traces semblables ? Un homme, à la stature droite, regardant vers le ciel, possédant des mains données par la nature pour servir à ses travaux, le voici courbé vers la terre, devenu un quadrupède et peu éloigné des bêtes, mugissant en un souffle coupé, rauque et rude qui ne sort qu’avec violence de ses entrailles ou plutôt, s’il faut oser le dire, plus misérable même que les bêtes : car, la plupart du temps, elles conservent jusqu’au bout le caractère de leur naissance et aucune d’entre elles ne passe à un autre caractère à cause de quelque malheur semblable à celui-ci. Pour cet homme, comme si sa nature avait été changée, il a une autre apparence et n’est pas l’être vivant habituel : ses mains prennent l’usage des pieds, ses genoux deviennent talons, tandis que les talons naturels et les chevilles ou bien disparaissent complétement, ou bien, comme des chaloupes attachées à l’extérieur, traînent au hasard, pendant comme ils peuvent. Donc, alors que tu vois l’homme dans de telles conditions, tu n’as pas de respect pour votre parenté ? Tu n’as pas pitié de qui est de même race mais tu es rebuté par le malheur et hais le suppliant, fuyant son approche comme l’attaque d’un fauve ? Il te faut pourtant considérer avec attention ceci : un ange te touche, toi, un homme, et, alors qu’il est incorporel et immatériel, il ne sera pas rebuté par qui est mêlé à la chair et au sang. Que dis-je, des anges ? Le Seigneur des anges en personne, le roi de la béatitude céleste, pour toi s’est fait homme et a revêtu cette petite chair malodorante et sordide avec l’âme qui est liée en elle, afin que tes maux, par son toucher, soient chassés et guéris. Et toi, alors que tu es le même, selon la nature, que le malade, tu fuis qui est de ta race. Que ne t’agrée pas, frère, non, que ne t’agrée pas le mauvais conseil. Sache qui tu es et à propos de qui tu délibères : un homme, à propos d’hommes, ne possédant rien de particulier en toi extérieur à la nature commune. Ne préjuge pas de l’avenir : en condamnant la maladie tant qu’elle se manifeste dans le corps d’un autre, tu mets en avant une condamnation sans borne de toute la nature ; et toi aussi, tu appartiens à cette nature d’une manière égale à tous les autres. Donc, que le discours porte comme sur une affaire commune [[Grégoire de Nysse, Sur "Dans la mesure où vous l'avez fait", 6](/references/gregoiredenysse.html#mesure)].
 
-[[Jean Chrysostome, Homélie 1 sur Lazare, 6.9.10](/references/jeanchrysostome.html#homelie-1)].
+>La plupart des gens ont pour habitude, en voyant des hommes toujours en proie à la faim, à la maladie et aux pires des malheurs, de ne pas avoir une bonne opinion d’eux mais de juger de leur vie  à partir de leur infortune, et d’imaginer une méchanceté en eux qui serait l’origine absolue de leur misère ; ils échangent, parmi bien d’autres, ce genre de propos – qu’ils tiennent sans réfléchir peut-être, mais qu’ils tiennent quand même : « Si cet homme était ami de Dieu, celui-ci ne l’aurait pas laissé s’affliger dans la pauvreté et les autres maux ». C’est ce qui arriva pour Job et pour Paul. On disait au premier : « On voudrait parler souvent avec toi quand tu souffres, mais qui supportera la violence de tes réponses ? Car si tu en as averti beaucoup, si, par des mots, tu as secouru les bras fatigués et relevé ceux qui défaillaient, et si tu as redonné courage à ceux qui fléchissaient, aujourd’hui la peine s’est abattue sur toi ; et tu t’es emporté. Ta crainte n’est pas sottise ? » (Jb 4, 2-5). Ce qui veut dire en quelque sorte : « Si tu avais bien agi, tu n’aurais pas souffert ce que tu as souffert. Mais tu paies pour tes fautes et tes péchés ». Voilà surtout ce qui rongeait le bienheureux Job. En ce qui concerne Paul, les barbares tenaient ce genre de discours ; lorsqu’ils aperçurent la vipère suspendue à sa main, il ne leur fit pas bonne impression du tout, mais ils le prirent pour l’un de ces individus capables des pires crimes, comme leurs paroles le prouvent : « Cet homme, dirent-ils, qui vient d’échapper à la mer, la justice ne l’a pas laissé vivre » (Ac 28, 4). Voilà qui ne manque pas de nous étonner singulièrement ! Les creux étaient si grands et les vagues si hautes ! Et pourtant son embarcation ne sombra pas ; [quant à Lazare], bien que couché dans une sorte de fournaise, il jouissait pourtant d’une espèce de rosée et se consacrait ainsi à la sagesse [[Jean Chrysostome, Homélie 1 sur Lazare, 10](/references/jeanchrysostome.html#homelie-1)].
 
 
 
@@ -346,7 +346,7 @@ Une catégorie de pauvres est particulièrement pitoyable, il s'agit des mendian
 
 Mais si tous les pauvres sont à secourir, on ne doit pas les idéaliser: certians pauvres sont aussi mauvais que des riches: ainsi, le pauvre envieux ne vaut pas mieux que le riche, car ce qui compte, ce n'est pas l'état matériel mais l'humilité intérieure:
 
-[[Augustin d'Hippone 14, 5](/references/augustindhippone.html#sermon-14)].
+>Vous voyez que, malgré l’abondance des pauvres, nous avons raison de chercher un pauvre : nous en cherchons un parmi la foule et nous avons peine à le trouver. Je tombe sur un pauvre et je cherche encore un pauvre. Toi, cependant, tends la main au pauvre que tu trouves : c’est avec le coeur que tu cherches celui que tu cherches. Toi, tu continues à dire : « Je suis pauvre comme Lazare » ; de l’autre côté, mon riche qui est humble ne dit pas : « Je suis riche comme Abraham. » Ainsi, toi, tu t’élèves, lui, il s’humilie. Pourquoi t’enfler au lieu de l’imiter ? « Moi, le pauvre, dit-il, je suis enlevé dans le sein d’Abraham. » Ne vois-tu pas que c’est un riche qui reçoit le pauvre ? Si tu déchaînes ton orgueil contre ceux qui ont de l’argent et que tu nies qu’ils aient part au royaume des cieux, alors que peut-être on trouve en eux une humilité qu’on ne trouve pas en toi, ne crains-tu pas qu’Abraham ne te dise après ta mort : « Eloigne-toi, car tu m’as outragé » ? [[Augustin d'Hippone, Sermon 14 : Riches et pauvres, 5](/references/augustindhippone.html#sermon-14)].
 
 
 
@@ -354,15 +354,15 @@ Mais si tous les pauvres sont à secourir, on ne doit pas les idéaliser: certia
 
 Pour Augustin en effet, pauvreté et richesse ne renvoient pas principalement à des catégories sociales, mais à des dispositions du coeur:
 
-[[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 3-4.7-8.10](/references/augustindhippone.html#sermon-36)].
+>Les vrais fidèles sont donc tous riches. Que personne ne se méprise : on est pauvre dans son réduit, riche dans sa conscience. A coup sûr, celui qui est riche dans sa conscience dort plus tranquille sur la terre que celui qui est riche d’or sur la pourpre. Il n’y est pas réveillé par une méchante inquiétude, surgie d’un coeur taraudé par le crime. Conserve dans ton coeur les richesses que t’a procurées la pauvreté de ton Seigneur. Ou, plutôt, emploie-le Lui-même comme gardien : pour que le don ne disparaisse pas du coeur, que le donateur le conserve lui-même. Les vrais fidèles sont donc tous riches, mais ce ne sont pas des riches de ce monde. De fait, ils ne sentent pas eux-mêmes leur richesse : ils la sentiront plus tard. La racine est vivante mais, à la saison hivernale, même l’arbre vert ressemble au sec. A la saison hivernale, c’est sûr, l’arbre desséché et l’arbre en pleine vigueur sont l’un et l’autre dépouillés de l’éclat de leurs feuilles, l’un est l’autre dépourvus de l’éclat de leurs fruits. L’été viendra et différenciera les arbres. La racine vivante produit des feuilles, elle débord de fruits : la racine sèche reste stérile en été comme en hiver. Aussi, prépare-t-on le grenier pour la récole du premier, tandis qu’on applique la hache au second pour le couper et le jeter au feu (cf. Mt 3, 10-12). Ainsi notre été est l’avènement du Christ : notre hiver, c’est quand le Christ reste caché, notre été, quand le Christ est manifesté. C’est pourquoi l’Apôtre adresse aux arbres bons et fidèles cette parole d’encouragement : « Vous êtes morts et votre vie est cachée en Dieu avec le Christ » (Col 3, 3) ; oui, morts, mais morts en apparence, vivants par la racine. Mais regarde la saison d’été qui vient, quand l’Apôtre poursuit et dit : « Mais quand le Christ, votre vie, apparaîtra, alors, vous aussi, vous apparaîtrez avec lui dans la gloire » (Col 3, 4). Voilà les riches, mais non les riches de ce monde. [[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 4](/references/augustindhippone.html#sermon-36)].
 
 En définitive, le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre" (2 Co 8, 9):
 
-[[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 3](/references/augustindhippone.html#sermon-36)].
+>« Ordonne donc, dit l’Apôtre, aux riches de ce monde » (1 Tm 6, 17). Il n’ajouterait pas : « de ce monde » s’il n’y avait aussi des riches qui ne sont pas de ce monde. Qui sont les riches qui ne sont pas de ce monde ? Ceux qui ont pour prince et pour chef celui dont il est écrit : « Il s’est fait pauvre pour nous, alors qu’il était riche » (2 Co 8, 9). - Mais à quoi bon, s’il est resté seul ? Vois ce qui suit : « afin que vous soyez enrichis par sa pauvreté » (2 Co 8, 9). Je pense que la pauvreté du Christ ne nous a pas apporté l’opulence, mais la justice. Mais lui, d’où vient sa pauvreté ? C’est qu’il s’est fait mortel. L’immortalité est donc la véritable richesse, car la véritable abondance est là où il n’y a pas d’indigence. Comme nous n’aurions pu devenir immortels si le Christ ne s’était fait mortel pour nous, il s’est donc fait pauvre alors qu’il était riche. Et l’Ecriture ne dit pas : « il s’est fait pauvre alors qu’il avait été riche », mais : « Il s’est fait pauvre alors qu’il était riche » (2 Co 8, 9), il a adopté la pauvreté sans perdre ses richesses : riche au-dedans, pauvre au-dehors ; sa divinité cachée vivant dans les richesses, son humanité visible dans la pauvreté. Vois ses richesses : « Au commencement était le Verbe et le Verbe était auprès de Dieu et le Verbe était Dieu. Lui était, au commencement, auprès de Dieu. Tout a été fait par lui » (Jn 1, 3). Quoi de plus riche que celui par qui tout a été fait ? Un riche peut avoir de l’or, il ne saurait en créer. Or, maintenant que ces richesses t’ont été signalées, vois sa pauvreté : « Et le Verbe s’est fait chair, et il a habité parmi nous » (Jn 1, 14). C’est cette pauvreté à lui qui nous a enrichis, car avec le sang qui a jailli de sa chair – parce que le Verbe s’est fait chair pour habiter parmi nous -, les hardes de nos péchés ont été déchirées (cf. Ps 29, 12). Grâce à ce précieux sang, nous avons rejeté les loques de l’iniquité pour revêtir la robe d’immortalité (cf. Lc 15, 22) [[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 3](/references/augustindhippone.html#sermon-36)].
 
-[[Augustin d'Hippone 14, 9](/references/augustindhippone.html#sermon-14)].
+>Pensons à sa pauvreté : même elle, pauvres de nous, nous pourrions peut-être ne pas la comprendre ! Il est conçu dans le ventre virginal d’une femme, il est enfermé dans les entrailles d’une mère. Quelle pauvreté ! Il naît dans un gîte étroit ; emmailloté dans des linges d’enfant, il est posé dans une mangeoire et devient la nourriture de pauvres bêtes ; puis le Seigneur du ciel et de la terre, le créateur des anges, l’artisan et l’auteur de l’univers visible et invisible tête, vagit, se nourrir, grandit, supporte la fragilité de son âge, efface sa majesté. Ensuite il est saisi, méprisé, flagellé, tourné en dérision, conspué, souffleté, couronné d’épines, suspendu au bois, transpercé d’une lance. Quelle pauvreté ! Voilà le chef des pauvres que je cherche : le vrai pauvre, nous l’avons trouvé, c’est le membre de ce pauvre ! [[Augustin d'Hippone, Sermon 14 : Riches et pauvres, 9](/references/augustindhippone.html#sermon-14)].
 
-[[Augustin d'Hippone, Sermon 41 : Fidélité dans la pauvreté, 7](/references/augustindhippone.html#sermon-41)].
+>Ton Seigneur aussi te le dit, ton Seigneur lui-même, lui qui s’est fait pauvre alors qu’il était riche (cf. 2 Co 8, 9) : il t’expliquera cette sentence de façon plus valable et moins contestable. Car peut-être, s’il s’agit du pauvre que tu as recueilli dans ta maison (cf. Is 58, 7), ton esprit doute-t-il parfois et hésite-t-il en se demandant si l’homme est sincère ou si c’est un imposteur, un simulateur, un hypocrite ; ton esprit balance à pratiquer la miséricorde parce que tu ne peux voir le coeur. Si tu ne peux le voir, pratique-la donc même avec le méchant, pour atteindre aussi le bon. Qui craint que ses semences ne tombent sur les chemins, dans les épines et dans les pierres (cf. Lc 8, 5-7), paresseux à semer l’hiver, aura faim durant l’été (cf. 2 Co 9, 6). Quoi qu’il en soit, ton Seigneur te le dit, lui dont tu ne mets pas la parole en doute si tu es chrétien : « Moi, je me suis fait pauvre à cause de toi, alors que j’étais riche » (cf. 2 Co 8, 9). Car « alors qu’il était dans la condition de Dieu (qu’y a-t-il de plus riche que cette condition ?), il n’a pas jugé bon de revendiquer le fait d’être égal à Dieu, mais il s’est anéanti lui-même en prenant la condition d’esclave (quoi de plus riche que la condition de Dieu ? Quoi de plus pauvre que la condition d’esclave?). Il s’est fait semblable aux hommes, a été reconnu comme homme à son comportement, s’est humilité lui-même, s’est fait obéissant jusqu’à la mort, et la mort de la croix » (Ph 2, 6-8). Ajoute encore : il a eu soif sur la croix, il a reçu à boire, non par compassion mais par affront, et la source de la vie a bu du vinaigre en mourant. Ne le rejette pas, ne le méprise pas, ne dis pas : - Mon Dieu s’est donc fait homme ? Mon Dieu a donc été tué, a donc été crucifié ? En effet. Oui, certainement, il a été crucifié. C’est sa pauvreté qui le recommande à toi. Il était loin de toi : il s’est rapproché de toi par la pauvreté. « Garde ta foi à ton prochain dans sa pauvreté » (Si 22, 28). Ici, c’est sûr, cette sentence n’admet aucune ambiguïté, aucune obscurité. Reçois le nom de « prochain » comme si c’était le nom du Christ, et reçois-le avec humilité. Car ton humilité s’accorde à son humilité. Ton humilité saisit sa grandeur. Reçois et comprends ton prochain avec humilité. En effet, « le Seigneur est proche de ceux qui ont le coeur brisé » (Ps 33, 19), si bien que tu peux dire dans ta prière : « Comme avec un prochain, comme avec un de nos frères je me plaisais avec lui » (Ps 34, 14). Change donc un seul mot, celui que le prophète a ajouté en nommant le prochain – car il fallait couvrir un peu le langage prophétique du voile du mystère, pour qu’on cherche avec plus de désir, pour qu’on trouve avec plus de plaisir – donc, là où il a nommé le Christ de cette manière prophétique, et vois cette sentence limpide courir, comme surgie de la source de la vérité, pour étancher ta soif : « Garde ta foi au Christ dans sa pauvreté, afin de jouir aussi de son bonheur ». Qu’est-ce que cela signifie : « Garde ta foi au Christ » ? Au sens où il s’est fait homme à cause de toi, au sens où il est né d’une vierge, au sens où il a reçu des outrages, où il a été flagellé, suspendu au bois, blessé par une lance, enseveli. Ne rejette pas cela, ne le considère pas comme incroyable : c’est ainsi que tu gardes ta foi à ton prochain (cf. Si 22, 28). Telle est en effet sa pauvreté. Mais que signifie : « Pour jouir aussi de son bonheur » (Si 22, 28) ? Ecoute, parce que c’est ce qu’il a voulu ; écoute, parce que c’est pour cela qu’il est venu à toi dans la pauvreté ; écoute la voix de celui qui est devenu pauvre à cause de toi, du Seigneur ton Dieu qui t’enrichit (cf. 2 Co 8, 9) ; vois comment tu jouiras de son bonheur si tu lui gardes ta foi dans sa pauvreté : « Père, dit-il, je veux que là où je suis, eux aussi soient avec moi » (Jn 17, 24) [[Augustin d'Hippone, Sermon 41 : Fidélité dans la pauvreté, 7](/references/augustindhippone.html#sermon-41)].
 
 
 
@@ -370,7 +370,7 @@ En définitive, le seul vrai pauvre est le Christ qui "de riche s'est fait pauvr
 
 Tous ces textes sont de vibrants plaidoyers en faveur de la charité et du partage. En faisant le bien, l'homme imite Dieu :
 
-[[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)].
+[[Grégoire de Nazianze, De l'amour des pauvres, 27](/references/gregoiredenazianze.html#amour-pauvres)].
 
 [[Grégoire de Nysse, De la bienfaisance, 11-13](/references/gregoiredenysse.html#bienfaisance)].
 
@@ -379,7 +379,7 @@ Il faut venir en aide aux pauvres, non par de belles paroles mais de façon conc
 
 [[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)].
 
-[[Grégoire de Nysse 2, 10](/references/gregoiredenysse.html#mesure)].
+[[Grégoire de Nysse, Sur "Dans la mesure où vous l'avez fait", 10](/references/gregoiredenysse.html#mesure)].
 
 L'aumône est la reine des vertus :
 
@@ -387,7 +387,7 @@ L'aumône est la reine des vertus :
 
 L'aumône efface les péchés : 
 
-[[Grégoire de Nazianze 36-40](/references/gregoiredenazianze.html#amour-pauvres)].
+[[Grégoire de Nazianze, De l'amour des pauvres, 36-40](/references/gregoiredenazianze.html#amour-pauvres)].
 
 Le jeûne qui plait à Dieu, c'est l'amour des pauvres :
 
@@ -405,7 +405,7 @@ Et que chacun utilise son argent pour se faire des amis et des intercesseurs aup
 
 [[Clément d'Alexandrie, Quel riche peut être sauvé ?, 35](/references/clementdalexandrie.html#quel-riche)].
 
-[[Grégoire de Nysse 2, 16](/references/gregoiredenysse.html#mesure)].
+[[Grégoire de Nysse, Sur "Dans la mesure où vous l'avez fait", 16](/references/gregoiredenysse.html#mesure)].
 
 
 #### 3.4.5 Dénonciation de l'usure
@@ -491,7 +491,7 @@ Le meurtre de Naboth par Achab, du pauvre par le riche qui convoite son pauvre a
 
 Le luxe des riches contraste avec la misère des pauvres :
 
-[[Grégoire de Nazianze 16](/references/gregoiredenazianze.html#amour-pauvres)].
+[[Grégoire de Nazianze, De l'amour des pauvres, 16](/references/gregoiredenazianze.html#amour-pauvres)].
 
 
 **L'inégalité n'est pas naturelle**
@@ -506,7 +506,7 @@ Si bien que tous les hommes sont égaux devant le créateur :
 
 La condition originelle de l'homme, tel qu'il est sorti des mains du créateur, est l'égalité. Grégoire de Nazianze rappelle que "pauvreté et richesse, condition libre et condition servile ... sont arrivées plus tard dans la race des hommes ... elles ont déferlé sur nous comme des épidémies amenées par le péché dont elles étaient les inventions. ... (Il faut) considérer l'égalité primitive" :
 
-[[Grégoire de Nazianze 25-2-6](/references/gregoiredenazianze.html#amour-pauvres)].
+[[Grégoire de Nazianze, De l'amour des pauvres, 25-2-6](/references/gregoiredenazianze.html#amour-pauvres)].
 
 Ambroise, lui aussi, souligne l'égalité de tous à l'origine :
 
@@ -517,7 +517,7 @@ Ambroise, lui aussi, souligne l'égalité de tous à l'origine :
 
 Nous ne sommes que les gérants des biens de cette terre, non leurs propriétaires :
 
-[[Grégoire de Nazianze 24](/references/gregoiredenazianze.html#amour-pauvres)].
+[[Grégoire de Nazianze, De l'amour des pauvres, 24](/references/gregoiredenazianze.html#amour-pauvres)].
 
 Mais certains se sont appropriés les biens communs à tous, et c'est là l'origine de la richesse et de la pauvreté. Basile dénonce avec vigueur ceux qui revendiquent la propriété de ces biens:
 
@@ -550,7 +550,7 @@ Certains riches, pour se disculper de ne pas venir en aide aux pauvres, avancent
 
 - c'est Dieu qui crée les inégalités, les pauvres le sont parce qu'ils sont maudits :
 
-[[Grégoire de Nazianze 29-31](/references/gregoiredenazianze.html#amour-pauvres)].
+[[Grégoire de Nazianze, De l'amour des pauvres, 29-31](/references/gregoiredenazianze.html#amour-pauvres)].
 
 [[Ambroise de Milan, La vigne de Naboth, 40](/references/ambroisedemilan.html#naboth)]).
 
@@ -577,7 +577,7 @@ Contre ces sophismes, les Pères grecs insistent sur la dignité de tous les pau
 
 Il faut aimer tous les pauvres et tous les malheureux quelle que soit leur souffrance : 
 
-[[Grégoire de Nazianze 6](/references/gregoiredenazianze.html#amour-pauvres)].
+[[Grégoire de Nazianze, De l'amour des pauvres, 6](/references/gregoiredenazianze.html#amour-pauvres)].
 
 De toutes façons, les pauvres sont nos frères : 
 
@@ -602,7 +602,7 @@ Le riche devient esclave de sa richesse :
 
 Le plus grand drame du pauvre n'est pas de manquer de tout mais d'être exclu de la société des hommes: le sort des lépreux devient ainsi emblématique de toute exclusion:
 
-[[Grégoire de Nazianze 10-15](/references/gregoiredenazianze.html#amour-pauvres)]. 
+[[Grégoire de Nazianze, De l'amour des pauvres, 10-15](/references/gregoiredenazianze.html#amour-pauvres)]. 
 
 Certains pauvres ne sont pas exlus, mais leur intégration dans la société se fait sous le mode de l'exploitation: "Combien sont sacrifiés pour vous procurer ce qui vous réjouit ?" 
 
