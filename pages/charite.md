@@ -278,90 +278,342 @@ Sa richesse ne sauvera pas le mauvais riche de la mort et du jugement:
 
 **Le bon riche**
 
-Mais la richesse n'est pas forcément mauvaise. Bien utilisée, elle contribue au salut du riche. Certes, il est plus difficile à un riche d'être sauvé, comme le dit Jésus par l'image du chameau et du chas de l'aiguille (Lc 18, 25): [[Clément d'Alexandrie 2](/references/clementdalexandrie.html#quel-riche)]. Mais le riche ne doit pas désespérer: ce n'est pas la richesse qui est mauvaise, mais l'attachement à la richesse [[Clément d'Alexandrie 11-13](/references/clementdalexandrie.html#quel-riche)] ; [[Augustin d'Hippone 36, 5](/references/augustindhippone.html#sermon-36)]) et surtout le refus du partage [[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 8](/references/basiledecesaree.html#homelie-6)]. Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien ([[Clément d'Alexandrie 14](/references/clementdalexandrie.html#quel-riche)] ; [[Jean Chrysostome 34, 6-7](/references/jeanchrysostome.html#homelie-34)] ; [[Augustin d'Hippone 36, 6.9](/references/augustindhippone.html#sermon-36)] ; [[Augustin d'Hippone 41, 6](/references/augustindhippone.html#sermon-41)]).
+Mais la richesse n'est pas forcément mauvaise. Bien utilisée, elle contribue au salut du riche. Certes, il est plus difficile à un riche d'être sauvé, comme le dit Jésus par l'image du chameau et du chas de l'aiguille (Lc 18, 25):
+
+>J'ai peur que la raison pour laquelle le salut semble plus difficile pour les riches que pour les pauvres ne soit pas simplement complexe. En effet, certains, écoutant spontanément et trop rapidement cette parole du sauveur : "Il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume des cieux" (Mc 10, 25), désespèrent d'obtenir la vie éternelle, s'abandonnent tout entiers au monde, se raccrochent à la vie d'ici-bas comme étant la seule qui leur soit laissée, et ils abandonnent la route, sans plus se mettre en peine de savoir quelles gens notre maître et didascale désigne sous le nom de riche ni comment "ce qui est impossible à l'homme est possible à Dieu" (Mc 10, 27). D'autres au contraire comprennent bien et de façon juste le sens de ces paroles, mais ne s'inquiètent guère des oeuvres à accomplir et négligent la préparation qui est nécessaire pour gagner ce qu'ils espèrent. Ce que je dis s'applique dans les deux cas aux riches qui sont instruits de la puissance du sauveur et de la lumière du salut. Quant à ceux qui n'ont pas été initiés à la vérité, je m'en inquiète peu [[Clément d'Alexandrie, Quel riche peut être sauvé ?, 2](/references/clementdalexandrie.html#quel-riche)].
+
+
+Mais le riche ne doit pas désespérer, ce n'est pas la richesse qui est mauvaise, mais l'attachement à la richesse :
+
+>Mais qu'est-ce qui l'a mis en fuite et l'a poussé à faire défection et à renoncer au maître, à sa prière, ses espoirs, sa vie, son long effort ? « Vends ce que tu possèdes » (Mt 19, 21). Qu’est-ce que cela veut dire ? Il ne nous ordonne pas, comme certains le comprennent trop vite, d’abandonner nos biens matériels et de nous écarter des richesses, mais de bannir de notre âme les préjugés sur les richesses, la passion pour elles, le désir excessif que nous en avons, l’inquiétude maladive à leur sujet, les soucis, les épines de l’existence qui étouffent le grain de la vie (cf. Mt 13, 22 et par.). Ce n’est pas une chose grande et pleine de zèle que de manquer inutilement de richesses quand ce n’est pas en vue de la vie. Sinon, ceux qui n’ont absolument rien, mais qui sont seuls et manquent du nécessaire, ceux qui traînent sur nos routes, sans rien savoir de Dieu ni de sa justice (cf. Rm 10 , 3), pour le seul motif de leur misère, de leur indigence et de leur dénuement absolu, seraient les plus heureux et les plus religieux des hommes et mériteraient seuls la vie éternelle. Ce n’est point non plus une grande innovation que de renoncer à la richesse et de la distribuer aux besogneux et aux indigents. Beaucoup l’ont fait avant la venue du saveur, les uns pour avoir le loisir de s’adonner à l’étude des lettres et à une philosophie morte, les autres pour le vain renom d’une gloire frivole : les Anaxagore, les Démocrite, les Cratès. Quel est donc ce précepte nouveau et propre à Dieu, qui seul donne la vie aux hommes et qui n’a pas sauvé les anciens ? Si le Fils de Dieu, la *nouvelle création* (cf. Col 1, 15 ; 2 Co 5, 17 : Ga 6, 15), annonce et enseigne une chose exceptionnelle, il n’ordonne pas ce qui est visible et que d’autres ont accompli, mais il signifie par là une chose plus grande, plus divine, plus parfaite : il veut que nous dénudions notre âme même et notre disposition intime des passions secrètes, que nous déracinions et jetions loin de nous ce qui est étranger à sa volonté. Tel est l’enseignement propre au fidèle, telle est la doctrine digne du sauveur. Les gens d’autrefois qui professaient le mépris des biens extérieurs renonçaient à leurs richesses et allaient les vendre, mais les passions de leur âme, je crois bien qu’elles s’exaspéraient. Ils devenaient insolents, fanfarons, vantards et méprisaient les autres hommes, croyant accomplir là des exploits qui dépassent les forces humaines. Comment le sauveur encouragerait-il ceux qui veulent vivre toujours à avoir des comportements aussi fâcheux et dangereux pour la vie qu’il leur promet ? Et ceci encore : on peut, après s’être débarrassé de ses possessions, n’en garder pas moins aussi vif le désir et l’appétit des richesses ; on peut avoir rejeté la jouissance de ses biens, et en même temps, parce qu’on manque de ces choses et qu’on désire ce qu’on a repoussé, se trouver doublement chagriné : par la perte du confort et par le regret d’y avoir renoncé. Et il est strictement impossible à qui manque du nécessaire de ne point voir se briser son courage et de ne pas se détourner des biens plus importants, quand il s’évertue par tous les moyens à trouver sa subsistance. Combien il est plus avantageux au contraire de posséder assez pour ne point souffrir du besoin et pour être en état de secourir les indigents ! Quelle société subsisterait chez les hommes, si nul ne possédait rien ? Ce précepte ne viendrait-il pas contredire clairement d’autres règles admirables du Seigneur ? « Faites-vous des amis avec l’argent de l’iniquité, afin que le jour où il disparaîtra, ceux-ci vous reçoivent dans les tentes éternelles » (Lc 16, 9). « Amassez-vous des trésors dans le ciel : là point de mite ni de ver qui consume, point de voleur qui perce et cambriole » (Mt 6, 20). Qui nourrirait le pauvre, qui désaltérerait l’assoiffé, qui couvrirait l’homme nu et abriterait le vagabond, choses qui valent *le feu et les ténèbres extérieures* à ceux qui les négligent (cf. Mt 25, 35-43), si chacun rivalisait avec tous pour devenir plus pauvre que ces pauvres ? Jésus lui-même est hébergé par Zachée, Lévi et Matthieu, quoiqu’ils soient de riches publicains (cf Lc 19, 5 ; Mc 2, 14 ; Lc 5, 27-29 ; Mt 9, 9s.). Il ne leur enjoint pas de se défaire de leurs biens, mais après avoir donné le juste usage et ôté l’usage injuste, il annonce : « Aujourd’hui le salut est arrivé pour cette maison » (Lc 9, 9). Ainsi il approuve l’usage des richesses, mais dans la mesure où par surcroît il prescrit la solidarité : désaltérer l’assoiffé, donner du pain à l’affamé, héberger le sans-abris, couvrir celui qui est nu. S’il est impossible de remplir ces devoirs quand on ne possède rien, et si le Seigneur ordonne réellement de se dépouiller de ses richesses, alors que fait-il d’autre que de nous demander en même temps de donner et de refuser, de nourrir et de ne pas nourrir, d’accueillir et de fermer la porte, de partager et de ne pas partager ? Quoi de plus absurde ? [[Clément d'Alexandrie, Quel riche peut être sauvé ?, 11-13](/references/clementdalexandrie.html#quel-riche)].
+
+>Cependant les riches du monde ne sont pas non plus méprisés : eux aussi, il les a rachetés par sa pauvreté, celui qui, « alors qu’il était riche, s’est fait pauvre pour nous afin de nous enrichir de sa pauvreté » (2 Co 8, 9). Car s’il lest avait méprisés, s’il avait refusé de les recevoir au nombre des siens, son apôtre n’aurait pas ordonné à Timothée, comme je le disais, de donner des ordres lui-même : « Ordonne aux riches de ce monde... » (1 Tm 6, 17). Parmi ceux qui sont riches de la foi, il y a des riches de ce monde ; ordonne-leur – car eux aussi sont devenus membres de ce Pauvre-, ordonne-leur – ce que tu redoutes pour eux dans les richesses - « de ne pas éprouver d’orgueil et de ne pas mettre leur espérance dans l’incertitude des richesses » (1 Tm 6, 17). Si le riche a de l’orgueil, c’est qu’il met son espérance dans l’incertitude des richesses. Car s’il considérait avec prudence les incertitudes des richesses il n’aurait jamais d’orgueil, mais toujours de la crainte ; plus il serait riche, plus il serait inquiet, même pour cette vie, et pas seulement pour l’autre. Beaucoup, en effet, ont connu une relative sécurité au milieu des troubles de ce siècle : des pauvres ! Mais beaucoup ont été poursuivis et saisis à cause de leurs richesses ! Beaucoup ont regetté d’avoir possédé ce qu’ils ne pouvaient posséder toujours ! Beaucoup se sont repentis de n’avoir pas suivi le conseil de leur Seigneur, qui a dit : « Ne vous enfouissez pas de trésors dans la terre, là où rongent le ver et la rouille et là où les voleurs creusent et dérobent, mais amassez-vous des trésors dans les cieux » (Mt 6, 19-20). Je ne vous parle pas de donner un pure perte, mais de placer ailleurs. Beaucoup en effet n’ont pas voulu faire cela et se sont repentis de n’avoir pas obéi : non seulement ils ont perdu tous leurs biens mais, à cause d’eux, ils se sont aussi perdus eux-mêmes [[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 5](/references/augustindhippone.html#sermon-36)].
+
+
+Et surtout le refus du partage :
+
+>Voilà de beaux sermons, dit l’avare, mais l’or est plus beau. On se croirait en train de discuter de la tempérance avec des débauchés : on dit du mal de leur maîtresse, et en leur ayant parlé d’elle, on attise le feu de leur passion. Comment pourrais-je mettre sous tes yeux les tourments du pauvre, afin que tu te rends compte sur quels gémissements tu amasses ton trésor ? Ah ! Comme elle te semblera valoir le prix, le jour du jugement, cette parole : « Venez, les bénis de mon Père, recevez en héritage le royaume qui vous a été préparé depuis la fondation du monde. Car j’ai eu faim et vous m’avez donné à manger, j’ai eu soif et vous m’avez donné à boire, j’étais nu et vous m’avez revêtu » (Mt 25, 34-36). Mais quels frissons, quelles sueurs froides, quelles ténèbres t’envahiront quand tu entendras cette condamnation : « Allez-vous-en loin de moi, maudits, dans les ténèbres du dehors préparées pour le diable et ses anges. Car j’ai eu faim et vous ne m’avez pas donné à manger, j’ai eu soif et vous ne m’avez pas donné à boire, j’étais nu et vous ne m’avez pas revêtu » (Mt 25, 41-43). Ces reproches ne s’adressent pas ici à la rapacité, c’est le refus du partage qui est condamné. Je t’ai dit ce qui me semblait conforme à tes intérêts. SI tu m’écoutes, ils sont parfaitement clairs, les biens que te réservent ces promesses. SI tu ne veux pas m’entendre, c’est une menace qui est écrite là. Je prie pour que tu évites d’en faire l’expérience, et que tu te rallies à un meilleur parti, en sorte que ta richesse apporte le prix de ta délivrance et que tu parviennes jusqu’aux biens célestes qui te sont préparés, par la grâce de Celui qui nous a tous appelés à son royaume, lui à qui sont la gloire et la puissance pour les siècles des siècles. Amen [[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 8](/references/basiledecesaree.html#homelie-6)].
+
+
+Le bon riche utilise sa richesse non pour lui-même mais pour faire le bien :
+
+>Il ne faut donc pas rejeter même les biens qui sont susceptibles d’aider notre prochain. La nature des possessions est d’être possédées, celle des biens est de répandre le bien, et Dieu a destiné ces derniers au bien des hommes. Ils sont placés là où ils sont comme un matériau et des outils dont on tire bon emploi si l’on sait les manier. Un outil, si l’on s’en sert avec adresse, est lui-même adroit, mais si tu es malhabile, il pâtit de ton ignorance, mais il n’en est pas la cause. Il en est de même pour cet outil qu’est la richesse : sais-tu en user justement ? Elle sert la justice. En fais-tu un usage injuste ? La voici de nouveau au service de l’injustice. La nature en a fait une servante, non une maîtresse. Il ne faut donc pas accuser ce qui n’est en soi ni bon ni mauvais, mais parfaitement innocent ; mais il faut accuser ce qui est capable d’utiliser bien ou mal ce qu’il possède, et qui en est responsable : l’esprit de l’homme, qui a en lui-même la faculté de juger librement et la liberté de disposer à sa guise des biens qui lui ont été confiés. Détruisons non pas no biens, mais plutôt les passions de l’âme qui ne permettent pas de faire le meilleur usage de ce qui nous appartient ; alors, une fois devenus honnêtes, nous serons capables de faire bon usage de notre fortune. Ainsi, le commandement de renoncer à tous nos biens et de vendre tout ce qui nous appartient, il faut le comprendre au sens de supprimer les passions de l’âme [[Clément d'Alexandrie, Quel riche peut être sauvé ?, 14](/references/clementdalexandrie.html#quel-riche)].
+
+>Mais j’en reviens maintenant dans mon homélie à notre question première. Si le riche ne nous est pas utile, pourquoi le devient-on ? Que répondre ? Que sont inutiles ceux qui s’enrichissent eux-mêmes de cette manière, contrairement à ceux qui tiennent leurs richesses de Dieu et qui, eux, sont parfaitement utiles. Découvre-le à partir de leurs actes. Abraham avait acquis ses biens pour les étrangers et tous les indigents. Lorsque trois hommes, à ce qu’il croyait, se présentèrent, il tua un veau et pétrit trois mesures de farine ; et songe à la générosité et à l’empressement avec lesquels, assis à sa porte à l’heure de midi, il dépensait ses biens pour tous ; et, en plus de son argent, il mettait sa personne à contribution, et cela malgré son âge si avancé ; il était le port des étrangers et des nécessiteux (cf. Gn 18, 1-8) ; il ne possédait rien en propre, pas même son fils : sur l’ordre de Dieu, il le livrait lui aussi (cf. Gn 22, 1-19) ; et, avec son fils, il se livrait lui-même et toute sa maisonnée, au moment où il s’empressa de délivrer son neveu (cf. Gn 14, 12-16). Il agissait ainsi non pas pour les richesses, lmais uniquement par philanthropie. Ainsi, lorsque ceux qu’il avait sauvés voulurent lui remettre les dépouilles, il refusa tout, jusqu’à un fil et une courroie de sandale (cf. Gn 14, 23). Tel était aussi le bienheureux Job, qui disait : « Ma porte était ouverte à tout venant (Jb 32, 32). J’étais l’oeil des aveugles, le pied des boiteux ; j’étais le père des infirmes (Jb 29, 15-16) ; aucun étranger ne restait à ma porte ; s’ils étaient dans le besoin, les infirmes n’étaient pas déçus dans leur attente, et je n’en ai pas laissé sortir un seul de chez moi le vendre vide ». Je ne veux pas tout énumérer ici, mais il passait son temps à faire beaucoup plus encore, dépensant tout son bien pour les indigents. Veux-tu considérer au contraire ceux qui ne tirent pas leurs richesses de Dieu, afin de savoir comment ils les utilisent ? Vois le riche de Lazare, celui qui ne lui laissait même pas les miettes ; vois Achab, celui qui est allé jusqu’à voler la vigne (cf. 1 R 21) ; vois Géhazi (cf. 2 R 5, 20), vois tous ceux de ce genre. Les hommes qui ont acquis leurs richesses en toute justice pour les avoir reçues de Dieu les dépensent selon les commandements de Dieu ; mais ceux qui, en les acquérant, ont offensé Dieu, en font tout autant en les dépensant : ils laissent leur fortune auprès de prostituées et de parasites ou bien ils l’enterrent ou la mettent sous clé, sans rien dépenser pour un mendiant. - Pourquoi alors, dira-t-on, Dieu laisse-t-il de tels hommes être riches ? Parce qu’il est patient, parce qu’il veut nous amener à la repentance, parce qu’il a préparé la géhenne, parce qu’il a fixé le jour où il allait juger le monde. S’il châtiait tout de suite les mauvais riches, Zachée n’aurait eu aucun délai qui lui permît de se repentir et, pour cela, de rendre le quadruple de ce qu’il avait volé et d’y ajouter la moitié de ses propres biens (cf. Lc 19, 1-10) ; Matthieu n’aurait pas pu se convertir et devenir apôtre, s’il avait été ravi avant le moment voulu (cf. Lc 5, 27-32) : et beaucoup d’autres ainsi. Si Dieu attend, c’est pour les appeler tous à la repentance. S’ils ne le veulent pas, mais persistent dans leur conduite, ils entendront Paul qui déclare : « A cause de leur dureté et de leur coeur impénitent, ils accumulent contre eux la colère au jour de la colère, de la révélation et du jugement équitable de Dieu » (Rm 2, 5). Pour éviter cette colère, enrichissons-nous de la richesse céleste et recherchons la pauvreté louable. Ainsi nous obtiendrons les biens à venir ; puissions-nous tous y accéder, par la grâce et la bonté de notre Seigneur Jésus Christ ; à lui, au Père et au saint Esprit, gloire, puissance, honneur, maintenant et toujours, et pour les siècles des siècles. Amen [[Jean Chrysostome, Homélie 34 sur [1 Corinthiens 13, 8], 6-7](/references/jeanchrysostome.html#homelie-34)].
+
+>Cependant, pour que les riches ne puissent pas dire qu’ils ne savent pas quoi faire de leurs richesses, l’Apôtre a averti Timothée de les diriger par ses conseils, sans se contenter de les lier par ses ordres. Après avoir dit : « et de ne pas mettre leur espérance dans l’incertitude des richesses », il a ajouté, afin qu’ils ne crussent pas que tout espoir était perdu : « mais dans le Dieu vivant qui nous procure en abondance toutes choses pour en jouir » (1 Tm 6, 17), les biens temporels pour en user, les biens éternels pour en jouir. Mais que faire de leurs richesses ? « Qu’ils soient riches en bonnes œuvres, dit-il, qu’ils donnent aisément » (1 Tm 6, 18) : que les richesses te servent à donner sans difficulté ; car le pauvre en a la volonté sans la possibilité : le riche en a la volonté et la possibilité. « Qu’ils donnent aisément, qu’ils partagent, qu’ils s’amassent comme trésor un fonds pour l’avenir, afin d’acquérir la vraie vie » (1 Tm 6, 19), car la vie actuelle est fausse. C’est parce qu’il était trompé par la fausseté de cette vie que l’homme vêtu de pourpre et de lin fin méprisait le pauvre couvert d’ulcères qui gisait devant sa porte. Mais lui, que venaient lécher les chiens, se préparait un trésor éternel dans le sein d’Abraham, non certes avec des ressources abondantes mais avec une volonté pieuse et excellente. Ce riche, en revanche, qui se croyait grand dans sa pourpre et son lin fin, mourut et fut enseveli. Et que trouva-t-il ? Une soif éternelle, des flammes qui ne s’éteignent pas. Le feu remplaça la pourpre et le lin. Sa tunique brûlait, et il ne pouvait s’en dépouiller ; au lieu de festins, la sécheresse et le désir d’une goutte d’eau tombant du doigt du pauvre, comme ce dernier avait désiré les miettes tombant de la table du riche. Mais l’indigence de celui-ci est passagère, le supplice de celui-là, permanent (cf. Lc 16, 19-31). Qu’ils fassent donc attention à cela, les riches de ce monde, et qu’ils ne s’enorgueillissent pas : « qu’ils donnent aisément, qu’ils partagent, qu’ils s’amassent comme trésor un fonds pour l’avenir », là où sont les vrais riches, pas les riches de ce monde, « afin d’acquérir la vraie vie » (1 Tm 6, 17-19). [[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 6](/references/augustindhippone.html#sermon-36)].
+
+>A ce qu’il me semble, mes frères, cette sentence est donc élucidée. Il faut à coup sûr que les chrétiens la comprennent chrétiennement ; ne gardons pas notre fois à notre prochain pauvre en espérant des richesses qui lui viendraient dans le temps et en conservant notre foi dans le but d’avoir la jouissance de ces biens avec lui. N’agissons pas ainsi, non, vraiment non. Comment, alors ? En suivant le précepte de notre Seigneur : « Faites-vous des amis avec le Mammon d’injustice, afin qu’ils vous reçoivent aussi eux-mêmes dans les habitations éternelles » (Lc 16, 9). Il y a ici en effet des pauvres qui n’ont pas d’habitations où vous recevoir eux-mêmes. Faites-vous-en des amis avec le Mammon d’injustice, c’est-à-dire avec les profits que l’injustice appelle profits. Car il y a des profits que la justice appelle profits : ceux-là sont dans les trésors de Dieu. Ne méprisez pas les pauvres qui n’ont pas de lieu où aller, qui n’ont pas de lieu où rentrer. Ils ont des habitations, et même éternelles. Ils ont un lieu où vous souhaiterez vainement être reçus, comme ce riche, si maintenant vous ne les recevez pas chez vous. Car « celui qui reçoit un juste en qualité de juste, percevra la récompense d’un juste ; celui qui reçoit un prophète en qualité de prophète, percevra la récompense d’un prophète ; et celui qui aura donné seulement un verre d’eau fraîche à l’un de ces tout petits qui sont miens, en sa qualité de disciple, amen, je vous le dis, il ne perdra pas sa récompense » (Mt 10, 41-42). Il garde à coup sûr sa foi à son prochain dans sa pauvreté, c’est pourquoi il jouira de son bonheur (cf. Si 22, 28) [[Augustin d'Hippone, Sermon 41 : Fidélité dans la pauvreté, 6](/references/augustindhippone.html#sermon-41)].
+
 
 **Les riches ont besoin des pauvres**
 
-Les pauvres sont nécessaires aux riches car ils sont pour eux le moyen d'être sauvés par le partage [[Jean Chrysostome 34, 4](/references/jeanchrysostome.html#homelie-34)]. De plus, si les pauvres peuvent se passer des riches, les riches ne peuvent vivre sans le travail des pauvres [[Jean Chrysostome 34, 5](/references/jeanchrysostome.html#homelie-34)]. En fait, le riche doit reconnaître qu'il est lui aussi un pauvre [[Ambroise de Milan 4.8](/references/ambroisedemilan.html#naboth)].
+Les pauvres sont nécessaires aux riches car ils sont pour eux le moyen d'être sauvés par le partage :
+
+>As-tu vu combien de liens de charité Dieu a tissés ? Il a fait de notre nature la base qui garantisse la concorde. Etre de la même substance contribue à cette harmonie en effet (tout être vivant aime son semblable), tout comme le fit que la femme soit née de l’homme, et que des deux naissent les enfants. D’où l’apparition de nombreux types de relations. Nous aimons ici un père, là un grand-père ; ici une mère, là une nourrice ; ici un fils, là un petit-fils et un arrière-petit-fils ; ici une fille, là une petite-fille ; ici un frère, là un neveu ; ici une sœur, là une nièce. A quoi bon énumérer tous les termes de parenté ? Il a imaginé aussi une autre source de relations ; en interdisant les mariages consanguins, il nous pousse vers des étrangers, qu’il attire également vers nous. Puisqu’ils ne pouvaient nous êtres proches par une parenté naturelle, il nous les a attachés par le mariage, rassemblant des maisons entières à travers une seule fiancée et unissant des familles entières à d’autres familles. Il dit : « N’épouse pas ta sœur, ni la sœur de ton père, ni une autre fille qui te soit ainsi apparentée » (cf. Lv 18, 9), et il fait valoir les autres degrés de parenté qui empêchent, de même, le mariage. Tu trouves suffisant, pour te lier à quelqu’un, d’être son frère ou d’avoir un autre lien de parenté ? Pourquoi réduis-tu le champ de la charité ? Pourquoi te priver si complètement d’une source d’amitié qui puisse te procurer de nouvelles relations si tu épouses une femme étrangère [à ta famille] et gagnes avec elle tout un cortège de parents, une mère, un père, des frères et leurs proches ? As-tu vu toutes les manières dont [Dieu] nous lie les uns aux autres ? Et pourtant il a encore fait en sorte de nous unir de la manière suivante, le besoin surtout créant l’amitié : il n’a pas tout laissé pousser partout, pour nous obliger de cette façon à entrer en relation les uns avec les autres. Et, s’il nous a conduits à avoir besoin les uns des autres, il a facilité encore les moyens de nous réunir ; dans le cas contraire, il aurait créé autour de cette démarche de nouvelles contrariétés et difficultés : si, quand on a besoin d’un médecin ou d’un charpentier ou d’un autre artisan, il fallait entreprendre un long voyage, tout serait perdu. C’est bien pourquoi il a établi des cités et réuni tous les hommes. Pour que nous puissions facilement nous déplacer dans des régions lointaines, il a étendu au beau milieu une mer et il nous a donné des vents rapides pour faciliter les traversées. Au début, il a même rassemblé tous les hommes en un même endroit, sans les séparer jusqu’au jour où, comblés de cette faveur – la concorde -, ils commencèrent à se mettre d’accord pour faire le mal ; par tous les moyens il nous a réunis, par la nature, par la parenté, par la langue et par le lieu de résidence. Et, aussi vrai qu’il n’a pas voulu nous voir chassés du paradis (car s’il l’avait voulu, il n’y aurait pas établi l’homme dès sa création, mais c’est bien la désobéissance de ce dernier qui en est la cause), il n’a pas souhaité non plus que nous parlions des langues différentes ; car il l’aurait fait dès le début ; en vérité, le monde tout entier ne formait qu’une seule bouche et tous parlaient la même langue (cf. Gn 11, 1). C’est pourquoi aussi, quand la terre a dû être détruite, il ne nous a pas faits d’une autre matière et il n’a pas rejeté l’homme juste ; mais il l’a placé au milieu des flots, comme une particule étincelante de terre d’où il ranimerait notre espèce à partir de ce bienheureux Noé (cf. Gn 9, 1). Au début, il a créé un seul pouvoir, le mari commandant à sa femme ; mais, quand notre espèce se fut abîmée dans un profond désordre, il en a établi d’autres, celui des rois, celui des magistrats ; cela par charité. En effet, comme le mal a le pouvoir de corrompre et de détruire notre espèce, il a installé dans les cités des sortes de médecins chargés de juger, afin de chasser cette forme de peste pour la charité qu’est le vice et de nous rassembler tous en un seul corps (cf. Col 3, 15). Et, pour voir régner largement la concorde non seulement dans les villes mais aussi dans chacune des maisons, en plus d’avoir gratifié l’homme du pouvoir et de l’autorité, d’avoir armé la femme du désir et d’avoir institué la procréation comme un donc qu’ils se partagent, il a inventé d’autres moyens de les amener à la charité : il n’a pas tout laissé à l’homme ni tout à la femme, mais il a procédé à une répartition entre eux, en confiant à elle la maison, à lui la vie publique ; à lui de nourrir – il travaille la terre ; à elle de confectionner des vêtements, car le métier à tisser et la quenouille sont affaire de femme, et c’est lui qui a donné à la femme l’art de tisser. Mais malheur à la cupidité, car elle fait disparaître cette distinction ! La mollesse pousse souvent les hommes à tisser et à manier navettes, trames et chaînes de tisserand. Et pourtant, là encore, brille la providence de l’économie divine. Nous avons encore tout à fait besoin de la femme pour d’autres activités nécessaires et il nous faut l’aide de plus petits que nous pour ce qui touche à notre subsistance ; si ce besoin est nécessaire, c’est parce que, même plus riche que tout le monde, on n’est pas pour autant dégagé de ce lien et de l’obligation d’avoir recours à un plus pauvre. Si les pauvres ont besoin des riches, cela est vrai aussi pour ces derniers, qui ont encore plus besoin des pauvres que ceux-là d’eux [[Jean Chrysostome, Homélie 34 sur [1 Corinthiens 13, 8], 4](/references/jeanchrysostome.html#homelie-34)].
+
+De plus, si les pauvres peuvent se passer des riches, les riches ne peuvent vivre sans le travail des pauvres :
+
+>Pour que tu comprennes mieux cette idée, imaginons, veux-tu, deux villes, l’une peuplée de riches seulement, l’autre de pauvres [<small>La pauvreté décrite ci-dessous est à distinguer de la misère. Il s’agit de la pauvreté qui vit du travail et non des rentes</small>] ; dans la ville des riches, aucun pauvre et, dans celle des pauvres, aucun riche ; opérons une distinction radicale entre elles et voyons laquelle pourra le mieux se suffire à elle-même. Si nous trouvons que celle des pauvres le peut, il sera évident que les riches auront davantage besoin d’eux. Dans la ville des gens aisés, il n’y aura pas d’artisan, pas d’architecte, pas de charpentier, pas de cordonnier, pas de boulanger, pas d’agriculteur, pas de métallurgiste, pas de corder ni aucun autre ouvrier de ce genre. Quel est celui qui, parmi les riches, choisirait de se diriger vers ces métiers, du moment que ceux-là mêmes qui les exercent, une fois enrichis, ne supportent plus ce travail fatigant ? Comment donc, selon nous, cette cité subsistera-t-elle ? – Avec leur argent, me dira-t-on, les riches achèteront aux pauvres. C’est donc qu’ils ne se suffiront pas à eux-mêmes, s’ils ont besoin de ceux-là. Et comment construiront-ils leurs maisons ? Avec de l’argent ? C’est naturellement impossible. Il est donc inévitable de faire appel à des artisans et d’oublier la règle que nous avions établie au début en définissant la population de la ville ; vous vous souvenez en effet de ce que nous disions : aucun pauvre à l’intérieur. Or voici que le besoin, malgré nous, les y a appelés et introduits. D’où il ressort qu’une ville sans pauvres est incapable de fonctionner [[Jean Chrysostome, Homélie 34 sur [1 Corinthiens 13, 8], 5](/references/jeanchrysostome.html#homelie-34)].
+
+En fait, le riche doit reconnaître qu'il est lui aussi un pauvre:
+
+>Mais qu’est-ce qui te fait penser que, durant ta vie, tu as tout en abondance ? O riche, tu ne sais pas combien tu es pauvre, combien tu passes pour indigent à tes propres yeux, toi qui te dis riche ! Plus tu possèdes et plus tu es en quête ; et quoi que tu aies acquis, tu crois pourtant manquer encore. Le gain attise le feu de l’avarice, loin de l’éteindre. La convoitise a comme des degrés : plus elle en gravit, plus elle a hâte de monter plus haut ; mais, de là, la chute sera accablante pour qui devra tomber. C’était pourtant de manière plus acceptable qu’au temps où il possédait moins cet homme-là recherchait, eu égard à ce qu’était son bien, des gains modérés ; mais les ajouts à son patrimoine ont ajouté un surplus à sa convoitise. Il ne veut pas déchoir dans ses vœux, être pauvre en ses désirs. Il unit ainsi deux comportements inacceptables : augmenter ses ambitieuses attentes de riche et garder une attitude de mendiant. C’est alors que l’Ecriture sainte nous enseigne combien est pitoyable son indigence et vile sa mendicité. [...] Ecoutons donc ses paroles : « Donne-moi », dit-il. Un indigent dit-il autre chose ? Celui qui mendie une aumône sur la place dit-il autre chose que « donne-moi », c’est-à-dire : donne-moi parce que j’ai besoin ; donne-moi parce que je ne puis avoir d’autre secours pour vivre ; donne-moi parce que je n’ai ni pain à manger, ni finances pour me procurer de la boisson, ni ressources pour des aliments, ni de quoi me payer des vêtements ; donne-moi parce que le Seigneur t’a donné de quoi remplir ton devoir de générosité et à moi, il n’a rien donné ; donne-moi parce qu’il est écrit : « Faites l’aumône » (Tb 4, 7 ; Si 7, 10 ; Lc 11, 41; Lc 12, 33) ? Que cela est indigne et bas ! Car on n’y trouve pas de sentiment d’humilité, mais le feu de la convoitise. Et dans cet abaissement même, que d’impudence ! « Donne-moi, dit-il, ta vigne ». Il reconnaître qu’elle ne lui appartient pas, pour la revendiquer indûment [[Ambroise de Milan, La vigne de Naboth, 4.8](/references/ambroisedemilan.html#naboth)].
+
+
 
 #### 3.4.3 Les pauvres
 
 **Les exclus**
 
-Du fait de la dureté de coeur des riches, la pauvreté prend souvent la forme de la misère. Les pauvres sont parfois contraints de vendre leurs enfants pour survivre: [[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 4](/references/basiledecesaree.html#homelie-6)] ; [[Ambroise de Milan 21](/references/ambroisedemilan.html#naboth)]. Une catégorie de pauvres est particulièrement pitoyable: il s'agit des mendiants lépreux, abandonnés de tous, exclus des cités, alors qu'ils sont nos frères: [Grégoire de Nazianze 9](/references/gregoiredenazianze.html#amour-pauvres)] ; [[Grégoire de Nysse 2, 4-16](/references/gregoiredenysse.html#mesure)] ; [[Jean Chrysostome, Homélie 1 sur Lazare, 6.9.10](/references/jeanchrysostome.html#homelie-1)]
+Du fait de la dureté de coeur des riches, la pauvreté prend souvent la forme de la misère. Les pauvres sont parfois contraints de vendre leurs enfants pour survivre:
+
+[[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 4](/references/basiledecesaree.html#homelie-6)].
+
+[[Ambroise de Milan, La vigne de Naboth, 21](/references/ambroisedemilan.html#naboth)]. 
+
+Une catégorie de pauvres est particulièrement pitoyable, il s'agit des mendiants lépreux, abandonnés de tous, exclus des cités, alors qu'ils sont nos frères:
+
+[[Grégoire de Nazianze 9](/references/gregoiredenazianze.html#amour-pauvres)].
+
+[[Grégoire de Nysse 2, 4-16](/references/gregoiredenysse.html#mesure)].
+
+[[Jean Chrysostome, Homélie 1 sur Lazare, 6.9.10](/references/jeanchrysostome.html#homelie-1)].
+
+
 
 **Le mauvais pauvre**
 
-Mais si tous les pauvres sont à secourir, on ne doit pas les idéaliser: certians pauvres sont aussi mauvais que des riches: ainsi, le pauvre envieux ne vaut pas mieux que le riche, car ce qui compte, ce n'est pas l'état matériel mais l'humilité intérieure: [[Augustin d'Hippone 14, 5](/references/augustindhippone.html#sermon-14)].
+Mais si tous les pauvres sont à secourir, on ne doit pas les idéaliser: certians pauvres sont aussi mauvais que des riches: ainsi, le pauvre envieux ne vaut pas mieux que le riche, car ce qui compte, ce n'est pas l'état matériel mais l'humilité intérieure:
+
+[[Augustin d'Hippone 14, 5](/references/augustindhippone.html#sermon-14)].
+
+
 
 **Vraie richesse et vraie pauvreté sont intérieures**
 
-Pour Augustin en effet, pauvreté et richesse ne renvoient pas principalement à des catégories sociales, mais à des dispositions du coeur: [[Augustin d'Hippone 36, 3-4.7-8.10](/references/augustindhippone.html#sermon-36)]. En définitive, le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre" (2 Co 8, 9): [[Augustin d'Hippone 36, 3](/references/augustindhippone.html#sermon-36)][[Augustin d'Hippone 14, 9](/references/augustindhippone.html#sermon-14)][[Augustin d'Hippone 41, 7](/references/augustindhippone.html#sermon-41)][[Augustin d'Hippone 123 passim](/references/augustindhippone.html#sermon-123)]
+Pour Augustin en effet, pauvreté et richesse ne renvoient pas principalement à des catégories sociales, mais à des dispositions du coeur:
+
+[[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 3-4.7-8.10](/references/augustindhippone.html#sermon-36)].
+
+En définitive, le seul vrai pauvre est le Christ qui "de riche s'est fait pauvre" (2 Co 8, 9):
+
+[[Augustin d'Hippone, Sermon 36 : Deux sortes de richesses, 3](/references/augustindhippone.html#sermon-36)].
+
+[[Augustin d'Hippone 14, 9](/references/augustindhippone.html#sermon-14)].
+
+[[Augustin d'Hippone, Sermon 41 : Fidélité dans la pauvreté, 7](/references/augustindhippone.html#sermon-41)].
+
 
 
 #### 3.4.4 Eloge de la charité
 
-Tous ces textes sont de vibrants plaidoyers en faveur de la charité et du partage. En faisant le bien, l'homme imite Dieu ([[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)]; [[Grégoire de Nysse, De la bienfaisance, 11-13](/references/gregoiredenysse.html#bienfaisance)]). Il faut venir en aide aux pauvres, non par de belles paroles mais de façon concrète ([[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)] ; [[Grégoire de Nysse 2, 10](/references/gregoiredenysse.html#mesure)]): nous devons devenir "la bête de somme du Christ en nous liant avec les courroies de la charité"). L'aumône, reine des vertus [[Jean Chrysostome, Homélie 2 sur la parole de David : Ne crains pas quand l'homme s'enrichit, 4](/references/jeanchrysostome.html#homelie-2)] efface les péchés [[Grégoire de Nazianze 36-40](/references/gregoiredenazianze.html#amour-pauvres)]. Le jeûne qui plait à Dieu, c'est l'amour des pauvres [[Grégoire de Nysse, De la bienfaisance, 2-6](/references/gregoiredenysse.html#bienfaisance)], ces pauvres qui sont le Christ [[Grégoire de Nysse, De la bienfaisance, 9](/references/gregoiredenysse.html#bienfaisance)]. Ainsi, que chacun prenne soin de ses voisins [[Grégoire de Nysse, De la bienfaisance, 7](/references/gregoiredenysse.html#bienfaisance)] et utilise son argent pour se faire des amis et des intercesseurs auprès de Dieu ([[Clément d'Alexandrie 35](/references/clementdalexandrie.html#quel-riche)] ; [[Grégoire de Nysse 2, 16](/references/gregoiredenysse.html#mesure)]; "faites vous des amis avec l'argent trompeur").
+Tous ces textes sont de vibrants plaidoyers en faveur de la charité et du partage. En faisant le bien, l'homme imite Dieu :
+
+[[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)].
+
+[[Grégoire de Nysse, De la bienfaisance, 11-13](/references/gregoiredenysse.html#bienfaisance)].
+
+
+Il faut venir en aide aux pauvres, non par de belles paroles mais de façon concrète :
+
+[[Grégoire de Nazianze 27](/references/gregoiredenazianze.html#amour-pauvres)].
+
+[[Grégoire de Nysse 2, 10](/references/gregoiredenysse.html#mesure)].
+
+L'aumône est la reine des vertus :
+
+[[Jean Chrysostome, Homélie 2 sur la parole de David : Ne crains pas quand l'homme s'enrichit, 4](/references/jeanchrysostome.html#homelie-2)].
+
+L'aumône efface les péchés : 
+
+[[Grégoire de Nazianze 36-40](/references/gregoiredenazianze.html#amour-pauvres)].
+
+Le jeûne qui plait à Dieu, c'est l'amour des pauvres :
+
+[[Grégoire de Nysse, De la bienfaisance, 2-6](/references/gregoiredenysse.html#bienfaisance)].
+
+Ces pauvres qui sont le Christ :
+
+[[Grégoire de Nysse, De la bienfaisance, 9](/references/gregoiredenysse.html#bienfaisance)].
+
+Ainsi, que chacun prenne soin de ses voisins :
+
+[[Grégoire de Nysse, De la bienfaisance, 7](/references/gregoiredenysse.html#bienfaisance)].
+
+Et que chacun utilise son argent pour se faire des amis et des intercesseurs auprès de Dieu :
+
+[[Clément d'Alexandrie, Quel riche peut être sauvé ?, 35](/references/clementdalexandrie.html#quel-riche)].
+
+[[Grégoire de Nysse 2, 16](/references/gregoiredenysse.html#mesure)].
+
 
 #### 3.4.5 Dénonciation de l'usure
 
-Un thème revient souvent dans ces textes, reflet d'une réalité sociale de l'époque mais aussi de toujours: l'endettement des débiteurs du fait de la rapacité des créanciers. Alors que l'Evangile ne contient pas de condamnation du prêt à intérêt (cf. la parabole des talents: Mt 25, 13-27), les Pères grecs ont largement condamné cette pratique à cause des abus qu'elle entraine quand l'intérêt devient excessif (on parle alors d'usure). Curieusement, c'est pourtant en Occident que cette condamnation sera surtout reprise durant le Moyen Age. Grégoire de Nysse consacre toute une homélie à combattre "ceux qui pratiquent l'usure" [[Grégoire de Nysse 3](/references/gregoiredenysse.html#contre-usure)]. [Basile de Césarée 2, 1](/references/basiledecesaree.html#homelie-2) fournit le dossier scripturaire emprunté à l'Ancien Testament.
+Un thème revient souvent dans ces textes, reflet d'une réalité sociale de l'époque mais aussi de toujours: l'endettement des débiteurs du fait de la rapacité des créanciers. Alors que l'Evangile ne contient pas de condamnation du prêt à intérêt (cf. la parabole des talents: Mt 25, 13-27), les Pères grecs ont largement condamné cette pratique à cause des abus qu'elle entraine quand l'intérêt devient excessif (on parle alors d'usure). Curieusement, c'est pourtant en Occident que cette condamnation sera surtout reprise durant le Moyen Age. Grégoire de Nysse consacre toute une homélie à combattre "ceux qui pratiquent l'usure" :
+
+[[Grégoire de Nysse 3](/references/gregoiredenysse.html#contre-usure)].
+
+Basile de Césarée fournit le dossier scripturaire emprunté à l'Ancien Testament :
+
+[[Basile de Césarée 2, 1](/references/basiledecesaree.html#homelie-2)].
+
 
 **Le créancier**
 
-Basile et Grégoire de Nysse nous donnent des descriptions saisissantes de la cruauté des créanciers sans coeur ([Basile de Césarée 2, 1](/references/basiledecesaree.html#homelie-2) ; [[Grégoire de Nysse 3, 5](/references/gregoiredenysse.html#contre-usure)]). Grégoire dénonce l'hypocrisie du créancier qui se donne des airs de philanthrope parce qu'ils prête son argent aux pauvres, alors qu'il ne cherche que son profit [[Grégoire de Nysse 3, 3-4.8](/references/gregoiredenysse.html#contre-usure)]. Mais c'est un mauvais calcul, car le créancier, qui n'est pas sûr d'être remboursé, est rempli d'angoisses: c'est le cas en particulier pour celui qui pratique le prêt maritime ([[Grégoire de Nysse 3, 6](/references/gregoiredenysse.html#contre-usure)]: on remarquera que Grégoire ne fait pas ici la distinction entre l'emprunt destiné à financer une entreprise économique, qui ne concerne pas forcément les pauvres, et l'emprunt du misérable pour sa survie). De toutes façons, pour le créancier non plus, l'argent ne fait pas le bonheur car il ne l'emportera pas au paradis [[Grégoire de Nysse 3, 10-11](/references/gregoiredenysse.html#contre-usure)].
+Basile et Grégoire de Nysse nous donnent des descriptions saisissantes de la cruauté des créanciers sans coeur:
+
+[[Basile de Césarée 2, 1](/references/basiledecesaree.html#homelie-2)].
+
+[[Grégoire de Nysse 3, 5](/references/gregoiredenysse.html#contre-usure)].
+
+Grégoire dénonce l'hypocrisie du créancier qui se donne des airs de philanthrope parce qu'ils prête son argent aux pauvres, alors qu'il ne cherche que son profit:
+
+[[Grégoire de Nysse 3, 3-4.8](/references/gregoiredenysse.html#contre-usure)].
+
+Mais c'est un mauvais calcul, car le créancier, qui n'est pas sûr d'être remboursé, est rempli d'angoisses. C'est le cas en particulier pour celui qui pratique le prêt maritime:
+
+[[Grégoire de Nysse 3, 6](/references/gregoiredenysse.html#contre-usure)].
+
+On remarquera que Grégoire ne fait pas ici la distinction entre l'emprunt destiné à financer une entreprise économique, qui ne concerne pas forcément les pauvres, et l'emprunt du misérable pour sa survie). De toutes façons, pour le créancier non plus, l'argent ne fait pas le bonheur car il ne l'emportera pas au paradis :
+
+[[Grégoire de Nysse 3, 10-11](/references/gregoiredenysse.html#contre-usure)].
+
 
 **Le débiteur**
 
 Le portrait du débiteur est plus nuancé que celui du créancier. Il existe en effet plusieurs sortes de débiteurs:
-- le débiteur insouciant qui emprunte pour maintenir un train de vie au dessus de ses moyens [[Basile de Césarée 2, 2](/references/basiledecesaree.html#homelie-2)] et à qui Basile déclare qu'il vaut mieux travailler qu'emprunter [[Basile de Césarée 2, 4](/references/basiledecesaree.html#homelie-2)].
-- le débiteur misérable qui emprunte pour survivre et nourrir ses enfants [[Grégoire de Nysse 3, 4-5](/references/gregoiredenysse.html#contre-usure)].
 
-Pour ces deux sortes de débiteurs, les dettes sont un fléau [[Basile de Césarée 2, passion](/references/basiledecesaree.html#homelie-2)].
+- le débiteur insouciant qui emprunte pour maintenir un train de vie au dessus de ses moyens et à qui Basile déclare qu'il vaut mieux travailler qu'emprunter :
+
+[[Basile de Césarée 2, 2](/references/basiledecesaree.html#homelie-2)].
+
+[[Basile de Césarée 2, 4](/references/basiledecesaree.html#homelie-2)].
+
+- le débiteur misérable qui emprunte pour survivre et nourrir ses enfants :
+
+[[Grégoire de Nysse 3, 4-5](/references/gregoiredenysse.html#contre-usure)].
+
+Pour ces deux sortes de débiteurs, les dettes sont un fléau :
+
+[[Basile de Césarée 2, passion](/references/basiledecesaree.html#homelie-2)].
+
 
 **Considérations générales sur le prêt à intérêt**
 
-Basile et Grégoire de Nysse sont apparemment les seuls à utiliser un argument emprunté à Aristote (Politique, I, 1258b), et qui sera repris par Thomas d'Aquin: la stérilité naturelle de l'or qui est un simple caillou, contrairement à la graine que plante un agriculteur ([[Basile de Césarée 2, 3](/references/basiledecesaree.html#homelie-2)] ; [[Grégoire de Nysse 3, 7](/references/gregoiredenysse.html#contre-usure)]). Cet argument est fondé sur des considérations étymologiques, explicites chez Basile: l'intérêt se dit en grec *tokos*, qui veut dire "rejeton". Il est contre-nature de faire porter des rejetons à ce qui est stérile par nature. Enfin, le prêt à intérêt est un mauvais calcul. Le seul prêt vraiment profitable est le prêt sans intérêt, voire le don, car prêter sans intérêt ou donner aux pauvres, c'est avoir Dieu lui-même pour débiteur ([[Basile de Césarée 2, 5](/references/basiledecesaree.html#homelie-2)] ; [[Augustin d'Hippone 123, 5](/references/augustindhippone.html#sermon-123)]).
+Basile et Grégoire de Nysse sont apparemment les seuls à utiliser un argument emprunté à Aristote (Politique, I, 1258b), et qui sera repris par Thomas d'Aquin: la stérilité naturelle de l'or qui est un simple caillou, contrairement à la graine que plante un agriculteur :
+
+[[Basile de Césarée 2, 3](/references/basiledecesaree.html#homelie-2)].
+
+[[Grégoire de Nysse 3, 7](/references/gregoiredenysse.html#contre-usure)].
+
+Cet argument est fondé sur des considérations étymologiques, explicites chez Basile: l'intérêt se dit en grec *tokos*, qui veut dire "rejeton". Il est contre-nature de faire porter des rejetons à ce qui est stérile par nature. Enfin, le prêt à intérêt est un mauvais calcul. Le seul prêt vraiment profitable est le prêt sans intérêt, voire le don, car prêter sans intérêt ou donner aux pauvres, c'est avoir Dieu lui-même pour débiteur :
+
+[[Basile de Césarée 2, 5](/references/basiledecesaree.html#homelie-2)].
+
+[[Augustin d'Hippone 123, 5](/references/augustindhippone.html#sermon-123)].
+
 
 #### 3.4.6 Réflexions à résonnance moderne
 
 Ce dossier apparaît très actuel dans notre monde où la misère et les inégalités resurgissent tragiquement. On relèvera ainsi dans l'argumentation de ces auteurs des IIIe-Ve siècles des réflexions qui n'ont rien perdu de leur actualité.
 
+
 **Abondance des pauvres**
 
-Les pauvres sont omniprésents. Grégoiré de Nysse énumère la cohorte des "gens nus et sans abri, prisonniers, étrangers, déplacés" [[Grégoire de Nysse, De la bienfaisance, 5](/references/gregoiredenysse.html#bienfaisance)]. Le meurtre de Naboth par Achab, du pauvre par le riche qui convoite son pauvre avoir, est quotidien: "Chaque jour Naboth est exécuté, chaque jour le pauvre est mis à mort" dit Ambroise qui évoque en particulier l'émigration forcée, l'exil dû à la misère [[Ambroise de Milan 1](/references/ambroisedemilan.html#naboth)]. Le luxe des riches contraste avec la misère des pauvres [[Grégoire de Nazianze 16](/references/gregoiredenazianze.html#amour-pauvres)].
+Les pauvres sont omniprésents. Grégoiré de Nysse énumère la cohorte des "gens nus et sans abri, prisonniers, étrangers, déplacés" :
+
+[[Grégoire de Nysse, De la bienfaisance, 5](/references/gregoiredenysse.html#bienfaisance)].
+
+Le meurtre de Naboth par Achab, du pauvre par le riche qui convoite son pauvre avoir, est quotidien: "Chaque jour Naboth est exécuté, chaque jour le pauvre est mis à mort" dit Ambroise qui évoque en particulier l'émigration forcée, l'exil dû à la misère :
+
+[[Ambroise de Milan, La vigne de Naboth, 1](/references/ambroisedemilan.html#naboth)].
+
+Le luxe des riches contraste avec la misère des pauvres :
+
+[[Grégoire de Nazianze 16](/references/gregoiredenazianze.html#amour-pauvres)].
+
 
 **L'inégalité n'est pas naturelle**
 
-Tout appartient à Dieu car tout vient de lui [[Grégoire de Nazianze 22-23](/references/gregoiredenazianze.html#amour-pauvres)], si bien que tous les hommes sont égaux devant le créateur [[Jean Chrysostome, Homélie 2 sur la parole de David : Ne crains pas quand l'homme s'enrichit, passim](/references/jeanchrysostome.html#homelie-2)]. La condition originelle de l'homme, tel qu'il est sorti des mains du créateur, est l'égalité. Grégoire de Nazianze rappelle que "pauvreté et richesse, condition libre et condition servile ... sont arrivées plus tard dans la race des hommes ... elles ont déferlé sur nous comme des épidémies amenées par le péché dont elles étaient les inventions. ... (Il faut) considérer l'égalité primitive" [[Grégoire de Nazianze 25-2-6](/references/gregoiredenazianze.html#amour-pauvres)]. Ambroise, lui aussi, souligne l'égalité de tous à l'origine [[Ambroise de Milan 2](/references/ambroisedemilan.html#naboth)].
+Tout appartient à Dieu car tout vient de lui :
+
+[[Grégoire de Nazianze 22-23](/references/gregoiredenazianze.html#amour-pauvres)].
+
+Si bien que tous les hommes sont égaux devant le créateur :
+
+[[Jean Chrysostome, Homélie 2 sur la parole de David : Ne crains pas quand l'homme s'enrichit, passim](/references/jeanchrysostome.html#homelie-2)].
+
+La condition originelle de l'homme, tel qu'il est sorti des mains du créateur, est l'égalité. Grégoire de Nazianze rappelle que "pauvreté et richesse, condition libre et condition servile ... sont arrivées plus tard dans la race des hommes ... elles ont déferlé sur nous comme des épidémies amenées par le péché dont elles étaient les inventions. ... (Il faut) considérer l'égalité primitive" :
+
+[[Grégoire de Nazianze 25-2-6](/references/gregoiredenazianze.html#amour-pauvres)].
+
+Ambroise, lui aussi, souligne l'égalité de tous à l'origine :
+
+[[Ambroise de Milan, La vigne de Naboth, 2](/references/ambroisedemilan.html#naboth)].
+
 
 **Les riches accaparent les biens communs**
 
-Nous ne sommes que les gérants des biens de cette terre, non leurs propriétaires [[Grégoire de Nazianze 24](/references/gregoiredenazianze.html#amour-pauvres)]. Mais certains se sont appropriés les biens communs à tous, et c'est là l'origine de la richesse et de la pauvreté. Basile dénonce avec vigueur ceux qui revendiquent la propriété de ces biens: "Les biens communs sur lesquels ils ont mis la main les premiers, ils considèrent qu'ils y ont droit personnellement, parce qu'ils sont les premiers occupants". Or ces biens "ont été préparés pour l'usage de tous. ... Si chacun ne se réservait que ce qui satisfait ses nécessités, et laissait le surplus aux indigents, personne ne serait riche, personne ne serait pauvre. ... à l'affamé le pain que tu gardes. A l'homme nu, le manteau que tu conserves dans tes coffres..." [[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 7](/references/basiledecesaree.html#homelie-6)]. Jean Chrysostome à son tour dénonce en termes forts l'accaparement des richesses par une minorité: "C'est par des vols, par des pillages de tombeaux, par des supercheries et par d'autres procédés analogues que l'on amasser généralement de grandes fortunes" ; mais il souligne aussi que la prodigalité de certains peut être à l'origine de leur pauvreté [[Jean Chrysostome 34, 6](/references/jeanchrysostome.html#homelie-34)]. Enfin, Ambroise lui aussi insiste sur le caractère anti-naturel des inégalités économiques: "La terre a été établie pour l'usage commun de tous ... la nature nous met au jour nus et nous mourrons nus" [[Ambroise de Milan 2-3](/references/ambroisedemilan.html#naboth)] ; "Le monde a été créé pour tous et un petit nombre de riches accapare tout" [[Ambroise de Milan 11](/references/ambroisedemilan.html#naboth)]. Sans aller jusqu'à cette dénonciation radiale (qui préfigure les socialistes utopiques du XIXe siècle et le cri de Proudhon: "la propriété, c'est le vol"), certains de nos textes accusent le mauvais riche (celui qui ne partage pas) d'être un voleur ([[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 7](/references/basiledecesaree.html#homelie-6)] ; [[Jean Chrysostome, Homélie 1 sur Lazare, 12](/references/jeanchrysostome.html#homelie-1)]). En définitive, la richesse est la cause de tous les maux: haine, guerres, jalousies, vols, piraterie [[Basile de Césarée, Homélie 7 sur ceux qui vivent dans la richesse, 7](/references/basiledecesaree.html#homelie-7)].
+Nous ne sommes que les gérants des biens de cette terre, non leurs propriétaires :
+
+[[Grégoire de Nazianze 24](/references/gregoiredenazianze.html#amour-pauvres)].
+
+Mais certains se sont appropriés les biens communs à tous, et c'est là l'origine de la richesse et de la pauvreté. Basile dénonce avec vigueur ceux qui revendiquent la propriété de ces biens:
+
+[[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 7](/references/basiledecesaree.html#homelie-6)].
+
+Jean Chrysostome à son tour dénonce en termes forts l'accaparement des richesses par une minorité, mais il souligne aussi que la prodigalité de certains peut être à l'origine de leur pauvreté :
+
+[[Jean Chrysostome, Homélie 34 sur [1 Corinthiens 13, 8], 6](/references/jeanchrysostome.html#homelie-34)]. 
+
+Enfin, Ambroise lui aussi insiste sur le caractère anti-naturel des inégalités économiques:
+
+[[Ambroise de Milan, La vigne de Naboth, 2-3](/references/ambroisedemilan.html#naboth)].
+
+[[Ambroise de Milan, La vigne de Naboth, 11](/references/ambroisedemilan.html#naboth)]. 
+
+Sans aller jusqu'à cette dénonciation radiale (qui préfigure les socialistes utopiques du XIXe siècle et le cri de Proudhon: "la propriété, c'est le vol"), certains de nos textes accusent le mauvais riche (celui qui ne partage pas) d'être un voleur : 
+
+[[Basile de Césarée, Homélie 6 sur l'accumulation des biens, 7](/references/basiledecesaree.html#homelie-6)].
+
+[[Jean Chrysostome, Homélie 1 sur Lazare, 12](/references/jeanchrysostome.html#homelie-1)]).
+
+En définitive, la richesse est la cause de tous les maux ; haine, guerres, jalousies, vols, piraterie :
+
+[[Basile de Césarée, Homélie 7 sur ceux qui vivent dans la richesse, 7](/references/basiledecesaree.html#homelie-7)].
+
 
 **Dénonciation de quelques sophismes**
 
 Certains riches, pour se disculper de ne pas venir en aide aux pauvres, avancent des prétextes que les Pères réfutent vigoureusement: 
-- c'est Dieu qui crée les inégalités, les pauvres le sont parce qu'ils sont maudits ([[Grégoire de Nazianze 29-31](/references/gregoiredenazianze.html#amour-pauvres)] ; [[Ambroise de Milan 40](/references/ambroisedemilan.html#naboth)]).
-- les pauvres sont responsables de leur pauvreté (paresse, insouciance): [[Jean Chrysostome, Homélie 1 sur Lazare, 10](/references/jeanchrysostome.html#homelie-1)].
-- je ne suis pas si riche que cela ; à quoi Grégoire de Nysse répond: donne en fonction de ce que tu as [[Grégoire de Nysse, De la bienfaisance, 8](/references/gregoiredenysse.html#bienfaisance)].
-- les riches sont heureux ici-bas, les pauvres seront heureux là-haut, ce qui fait un partout: [[Jean Chrysostome, Homélie 1 sur Lazare, 11](/references/jeanchrysostome.html#homelie-1)].
+
+- c'est Dieu qui crée les inégalités, les pauvres le sont parce qu'ils sont maudits :
+
+[[Grégoire de Nazianze 29-31](/references/gregoiredenazianze.html#amour-pauvres)].
+
+[[Ambroise de Milan, La vigne de Naboth, 40](/references/ambroisedemilan.html#naboth)]).
+
+
+- les pauvres sont responsables de leur pauvreté (paresse, insouciance):
+
+[[Jean Chrysostome, Homélie 1 sur Lazare, 10](/references/jeanchrysostome.html#homelie-1)].
+
+
+- je ne suis pas si riche que cela ; à quoi Grégoire de Nysse répond: donne en fonction de ce que tu as :
+
+[[Grégoire de Nysse, De la bienfaisance, 8](/references/gregoiredenysse.html#bienfaisance)].
+
+- les riches sont heureux ici-bas, les pauvres seront heureux là-haut, ce qui fait un partout:
+
+[[Jean Chrysostome, Homélie 1 sur Lazare, 11](/references/jeanchrysostome.html#homelie-1)].
+
 
 **Tous les pauvres sont dignes d'être secourus**
 
-Contre ces sophismes, les Pères grecs insistent sur la dignité de tous les pauvres et leur droit au partage des richesses. Il ne faut pas juger sur l'apparence ni choisir quels pauvres doivent être aidés [[Clément d'Alexandrie 33-35](/references/clementdalexandrie.html#quel-riche)]. Il faut aimer tous les pauvres et tous les malheureux quelle que soit leur souffrance [[Grégoire de Nazianze 6](/references/gregoiredenazianze.html#amour-pauvres)]. De toutes façons, les pauvres sont nos frères [[Grégoire de Nazianze 14-15](/references/gregoiredenazianze.html#amour-pauvres)].
+Contre ces sophismes, les Pères grecs insistent sur la dignité de tous les pauvres et leur droit au partage des richesses. Il ne faut pas juger sur l'apparence ni choisir quels pauvres doivent être aidés :
+
+[[Clément d'Alexandrie, Quel riche peut être sauvé ?, 33-35](/references/clementdalexandrie.html#quel-riche)].
+
+Il faut aimer tous les pauvres et tous les malheureux quelle que soit leur souffrance : 
+
+[[Grégoire de Nazianze 6](/references/gregoiredenazianze.html#amour-pauvres)].
+
+De toutes façons, les pauvres sont nos frères : 
+
+[[Grégoire de Nazianze 14-15](/references/gregoiredenazianze.html#amour-pauvres)].
+
 
 **La richesse est un piège**
 
-Le diable fait croire que le superflu est nécessaire et qu'il faut faire des réserves "au cas où", souci qui annonce les assurances modernes mais sert surtout de prétexte pour ne pas donner aux pauvres: [[Basile de Césarée, Homélie 7 sur ceux qui vivent dans la richesse, 2-3](/references/basiledecesaree.html#homelie-7)]. En fait, la richesse est insatiable [[Ambroise de Milan 4](/references/ambroisedemilan.html#naboth)] et le riche devient esclave de sa richesse [[Ambroise de Milan 62](/references/ambroisedemilan.html#naboth)].
+Le diable fait croire que le superflu est nécessaire et qu'il faut faire des réserves "au cas où", souci qui annonce les assurances modernes mais sert surtout de prétexte pour ne pas donner aux pauvres: 
+
+[[Basile de Césarée, Homélie 7 sur ceux qui vivent dans la richesse, 2-3](/references/basiledecesaree.html#homelie-7)].
+
+En fait, la richesse est insatiable :
+
+[[Ambroise de Milan, La vigne de Naboth, 4](/references/ambroisedemilan.html#naboth)].
+
+Le riche devient esclave de sa richesse :
+
+[[Ambroise de Milan, La vigne de Naboth, 62](/references/ambroisedemilan.html#naboth)].
 
 **Exclusion et exploitation**
 
-Le plus grand drame du pauvre n'est pas de manquer de tout mais d'être exclu de la société des hommes: le sort des lépreux devient ainsi emblématique de toute exclusion [[Grégoire de Nazianze 10-15](/references/gregoiredenazianze.html#amour-pauvres)]. Certains pauvres ne sont pas exlus, mais leur intégration dans la société se fait sous le mode de l'exploitation: "Combien sont sacrifiés pour vous procurer ce qui vous réjouit ?" [[Ambroise de Milan 20](/references/ambroisedemilan.html#naboth)].
+Le plus grand drame du pauvre n'est pas de manquer de tout mais d'être exclu de la société des hommes: le sort des lépreux devient ainsi emblématique de toute exclusion:
+
+[[Grégoire de Nazianze 10-15](/references/gregoiredenazianze.html#amour-pauvres)]. 
+
+Certains pauvres ne sont pas exlus, mais leur intégration dans la société se fait sous le mode de l'exploitation: "Combien sont sacrifiés pour vous procurer ce qui vous réjouit ?" 
+
+[[Ambroise de Milan, La vigne de Naboth, 20](/references/ambroisedemilan.html#naboth)].
+
 
 **Eloge de la diversité**
 
-On trouve enfin sous la plume de Jean Chrysostome un appel à l'ouverture sur les autres qui se transforme en un éloge inattendu de la diversité et du métissage: l'interdit des mariages consanguin, selon lui, permet d'allier des familles à d'autres familles, d'ouvrir les solidarités vers l'extérieur en élargissant la parenté, et de découvrir l'enrichissement que procure l'altérité [[Jean Chrysostome 34, 4](/references/jeanchrysostome.html#homelie-34)].
+On trouve enfin sous la plume de Jean Chrysostome un appel à l'ouverture sur les autres qui se transforme en un éloge inattendu de la diversité et du métissage: l'interdit des mariages consanguin, selon lui, permet d'allier des familles à d'autres familles, d'ouvrir les solidarités vers l'extérieur en élargissant la parenté, et de découvrir l'enrichissement que procure l'altérité :
+
+[[Jean Chrysostome, Homélie 34 sur [1 Corinthiens 13, 8], 4](/references/jeanchrysostome.html#homelie-34)].
 
 
 
