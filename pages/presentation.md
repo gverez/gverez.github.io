@@ -41,6 +41,7 @@ La charité a pour fruits la joie, la paix et la miséricorde [[Catéchisme, 182
 	1. [Propriété privée](/pages/charite.html#propriete-privee)
 	1. [Option préférentielle pour les pauvres](/pages/charite.html#option-preferentielle)
 	1. [L'argent dans l'Eglise ancienne](/pages/charite.html#argent)
+	1. [L'aumône dans l'Eglise ancienne](/pages/charite.html#aumone)
 	1. [Epargne et consommation](/pages/charite.html#epargne)
 1. [Rapport à la Nature](/pages/charite.html#rapport-nature)
 
